@@ -1,0 +1,6407 @@
+Caaobi:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Cabaas:
+  gender_flag: 2
+  lang:
+  - so
+Cabdille:
+  gender_flag: 2
+  lang:
+  - so
+Caburn:
+  gender_flag: 2
+  lang:
+  - en
+Cacistus:
+  gender_flag: 2
+  lang:
+  - la
+Cade:
+  gender_flag: 2
+  lang:
+  - en
+Caden:
+  gender_flag: 7
+  lang:
+  - en
+Cadence:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Cadhla:
+  gender_flag: 1
+  is_equivalent_to:
+  - Kyla
+  lang:
+  - ga
+Cadiye:
+  gender_flag: 1
+  lang:
+  - wa
+Cadlos:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - ceb
+Cadmo:
+  gender_flag: 2
+  lang:
+  - it
+Cadoc:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - br
+Cadîye:
+  gender_flag: 1
+  lang:
+  - wa
+Cael:
+  gender_flag: 2
+  lang:
+  - en
+Caesar:
+  gender_flag: 2
+  lang:
+  - sv
+  origin:
+  - la
+Caetano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cajetan
+  lang:
+  - gl
+  - pt
+  origin:
+  - la
+Cafer:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Cahyadi:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Cahyo:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Caide:
+  gender_flag: 2
+  lang:
+  - en
+Caiden:
+  gender_flag: 2
+  lang:
+  - en
+Cailean:
+  gender_flag: 2
+  lang:
+  - gd
+  origin:
+  - sga
+Caillou:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - fr
+Cain:
+  gender_flag: 2
+  lang:
+  - en
+Caino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cain
+  lang:
+  - it
+Cainus:
+  gender_flag: 2
+  is_a_variant_of:
+  - Cain
+  lang:
+  - la
+  origin:
+  - he
+Caio:
+  gender_flag: 2
+  lang:
+  - it
+  - pt
+Cairistìona:
+  gender_flag: 1
+  is_equivalent_to:
+  - Christina
+  lang:
+  - gd
+Cait:
+  gender_flag: 1
+  is_short_for:
+  - Caitlin
+  lang:
+  - en
+Caitlin:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - en
+  - gd
+  origin:
+  - ga
+  - grc
+Caitlind:
+  gender_flag: 1
+  is_a_variant_of:
+  - Caitlin
+  lang:
+  - en
+Caitlyn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Caitlín:
+  gender_flag: 1
+  is_short_for:
+  - Caitríona
+  lang:
+  - ga
+  origin:
+  - grc
+Caitrìona:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - gd
+Caitríona:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - ga
+  origin:
+  - grc
+Caity:
+  gender_flag: 1
+  is_short_for:
+  - Caitlin
+  lang:
+  - en
+Cajetan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Cal:
+  gender_flag: 3
+  lang:
+  - en
+Caleb:
+  gender_flag: 2
+  lang:
+  - en
+Calebe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Caleb
+  lang:
+  - pt
+Cali:
+  gender_flag: 2
+  lang:
+  - so
+Calidorus:
+  gender_flag: 2
+  lang:
+  - la
+Calimero:
+  gender_flag: 2
+  lang:
+  - it
+Calista:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Calistrat:
+  gender_flag: 2
+  lang:
+  - ro
+Calixte:
+  gender_flag: 7
+  lang:
+  - fr
+Calixthe:
+  gender_flag: 1
+  lang:
+  - fr
+Calixto:
+  gender_flag: 2
+  lang:
+  - es
+  - tl
+  origin:
+  - es
+  - grc
+Callan:
+  gender_flag: 2
+  lang:
+  - en
+Calle:
+  gender_flag: 2
+  is_short_for:
+  - Carl
+  lang:
+  - sv
+Callen:
+  gender_flag: 2
+  lang:
+  - en
+Callicles:
+  gender_flag: 2
+  lang:
+  - la
+Callidamates:
+  gender_flag: 2
+  lang:
+  - la
+Callie:
+  gender_flag: 1
+  lang:
+  - en
+Calliope:
+  gender_flag: 3
+  lang:
+  - ceb
+  - en
+  - it
+  origin:
+  - en
+  - grc
+Callipho:
+  gender_flag: 2
+  lang:
+  - la
+Callista:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - it
+Callum:
+  gender_flag: 2
+  lang:
+  - en
+Calogero:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - grc
+Caloy:
+  gender_flag: 2
+  lang:
+  - ceb
+Calum:
+  gender_flag: 2
+  lang:
+  - en
+  - gd
+  origin:
+  - la
+Calvijn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Calvin
+  lang:
+  - nl
+Calvin:
+  gender_flag: 2
+  lang:
+  - en
+Cam:
+  gender_flag: 2
+  is_short_for:
+  - Cameron
+  lang:
+  - en
+Camad:
+  gender_flag: 2
+  lang:
+  - aa
+Camal:
+  gender_flag: 2
+  lang:
+  - az
+Camden:
+  gender_flag: 2
+  lang:
+  - en
+Camdyn:
+  gender_flag: 2
+  lang:
+  - en
+Camelia:
+  gender_flag: 1
+  lang:
+  - ro
+Cameron:
+  gender_flag: 7
+  lang:
+  - en
+Camila:
+  gender_flag: 1
+  is_equivalent_to:
+  - Camilla
+  - Camille
+  lang:
+  - es
+  - oc
+  - pt
+  origin:
+  - la
+Camile:
+  gender_flag: 7
+  lang:
+  - oc
+  - wa
+Camilla:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  - it
+  - 'no'
+  - sv
+  origin:
+  - la
+Camille:
+  gender_flag: 7
+  lang:
+  - ceb
+  - en
+  - fr
+  origin:
+  - en
+  - fr
+  - la
+Camillo:
+  gender_flag: 2
+  lang:
+  - it
+Camilo:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - la
+Cammie:
+  gender_flag: 7
+  is_short_for:
+  - Cameron
+  - Camilla
+  lang:
+  - en
+Cammilla:
+  gender_flag: 1
+  is_a_variant_of:
+  - Camilla
+  lang:
+  - it
+Cammy:
+  gender_flag: 7
+  lang:
+  - en
+Camp:
+  gender_flag: 2
+  is_short_for:
+  - Campbell
+  lang:
+  - en
+Campbell:
+  gender_flag: 7
+  lang:
+  - en
+Camren:
+  gender_flag: 2
+  lang:
+  - en
+Camron:
+  gender_flag: 2
+  lang:
+  - en
+Camryn:
+  gender_flag: 7
+  is_a_variant_of:
+  - Cameron
+  lang:
+  - en
+Camucha:
+  gender_flag: 1
+  is_short_for:
+  - Carmen
+  lang:
+  - es
+Can:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - fa
+Canaan:
+  gender_flag: 2
+  lang:
+  - en
+Canan:
+  gender_flag: 3
+  lang:
+  - tr
+Canberk:
+  gender_flag: 2
+  lang:
+  - tr
+Candace:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Candan:
+  gender_flag: 3
+  lang:
+  - tr
+Candela:
+  gender_flag: 1
+  lang:
+  - es
+Candelaria:
+  gender_flag: 1
+  lang:
+  - tl
+  origin:
+  - es
+Candi:
+  gender_flag: 1
+  is_short_for:
+  - Candace
+  lang:
+  - en
+Candice:
+  gender_flag: 1
+  is_a_variant_of:
+  - Candace
+  lang:
+  - en
+  origin:
+  - grc
+Candido:
+  gender_flag: 2
+  lang:
+  - it
+Candidus:
+  gender_flag: 2
+  lang:
+  - la
+Candra:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Candy:
+  gender_flag: 1
+  lang:
+  - en
+Canela:
+  gender_flag: 1
+  lang:
+  - es
+Caner:
+  gender_flag: 2
+  lang:
+  - tr
+Cano:
+  gender_flag: 2
+  lang:
+  - kmr
+Canol:
+  gender_flag: 2
+  lang:
+  - tr
+Canola:
+  gender_flag: 1
+  lang:
+  - en
+Canute:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Canuto:
+  gender_flag: 2
+  is_equivalent_to:
+  - Canute
+  - Knut
+  lang:
+  - es
+  - it
+  - pt
+Canziano:
+  gender_flag: 2
+  lang:
+  - it
+Canzio:
+  gender_flag: 2
+  lang:
+  - it
+Cao:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Caobi:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Caoilinn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Caoimhe:
+  gender_flag: 1
+  is_equivalent_to:
+  - Keavy
+  lang:
+  - ga
+  - gd
+  origin:
+  - sga
+Caoimhín:
+  gender_flag: 2
+  is_equivalent_to:
+  - Kevin
+  lang:
+  - ga
+  origin:
+  - sga
+Caolán:
+  gender_flag: 2
+  lang:
+  - ga
+  origin:
+  - sga
+Caozperht:
+  gender_flag: 2
+  lang:
+  - goh
+Capistrano:
+  gender_flag: 2
+  lang:
+  - ceb
+Cappadox:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Capucine:
+  gender_flag: 1
+  lang:
+  - fr
+Cara:
+  gender_flag: 1
+  lang:
+  - en
+Caradoc:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - br
+Caramca:
+  gender_flag: 2
+  lang:
+  - waw
+Cardi:
+  gender_flag: 1
+  lang:
+  - en
+Cardo:
+  gender_flag: 2
+  is_short_for:
+  - Ricardo
+  lang:
+  - ceb
+Caren:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  origin:
+  - grc
+Carey:
+  gender_flag: 7
+  is_a_variant_of:
+  - Cary
+  lang:
+  - en
+Caria:
+  gender_flag: 1
+  lang:
+  - ceb
+Carias:
+  gender_flag: 2
+  lang:
+  - ceb
+Cariclea:
+  gender_flag: 1
+  is_equivalent_to:
+  - Chariclea
+  lang:
+  - it
+Caridad:
+  gender_flag: 1
+  is_equivalent_to:
+  - Charity
+  lang:
+  - es
+Carin:
+  gender_flag: 1
+  lang:
+  - fr
+  - sv
+Carina:
+  gender_flag: 1
+  is_a_variant_of:
+  - Karina
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - fr
+  - 'no'
+  - sv
+  origin:
+  - la
+Carine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Karine
+  lang:
+  - fr
+Cario:
+  gender_flag: 2
+  lang:
+  - la
+Carissa:
+  gender_flag: 1
+  lang:
+  - en
+Carita:
+  gender_flag: 1
+  lang:
+  - sv
+Carito:
+  gender_flag: 1
+  is_short_for:
+  - Carolina
+  lang:
+  - es
+Carl:
+  gender_flag: 2
+  is_a_variant_of:
+  - Karl
+  is_equivalent_to:
+  - Charles
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - 'no'
+  - sv
+  origin:
+  - de
+  - en
+  - gem
+Carla:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - fr
+  - it
+  - pt
+Carlee:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Carleigh:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Carlene:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Carles:
+  gender_flag: 2
+  is_equivalent_to:
+  - Charles
+  lang:
+  - ca
+  - fro
+Carleton:
+  gender_flag: 2
+  lang:
+  - en
+Carley:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Carli:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Carlie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Carline:
+  gender_flag: 1
+  is_a_variant_of:
+  - Caroline
+  lang:
+  - en
+Carlito:
+  gender_flag: 2
+  is_equivalent_to:
+  - Charlie
+  is_short_for:
+  - Carlos
+  lang:
+  - es
+Carlo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Charles
+  lang:
+  - en
+  - it
+  origin:
+  - it
+Carlos:
+  gender_flag: 2
+  is_equivalent_to:
+  - Carl
+  - Charles
+  - Karl
+  lang:
+  - ceb
+  - en
+  - es
+  - pt
+  - tl
+  origin:
+  - es
+  - pt
+Carlota:
+  gender_flag: 1
+  is_equivalent_to:
+  - Charlotte
+  lang:
+  - ceb
+  - es
+  - pt
+  origin:
+  - es
+Carlotta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Charlotte
+  lang:
+  - it
+Carls:
+  gender_flag: 1
+  lang:
+  - en
+Carluccio:
+  gender_flag: 2
+  is_a_variant_of:
+  - Carlo
+  lang:
+  - it
+Carluxo:
+  gender_flag: 2
+  is_short_for:
+  - Carlos
+  lang:
+  - pt
+Carly:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Carlyle:
+  gender_flag: 2
+  lang:
+  - en
+Carme:
+  gender_flag: 1
+  is_equivalent_to:
+  - Carmen
+  lang:
+  - ca
+Carmel:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Carmela:
+  gender_flag: 1
+  is_equivalent_to:
+  - Carmel
+  is_short_for:
+  - Carme
+  - Carmen
+  lang:
+  - es
+  - gl
+  - it
+Carmelita:
+  gender_flag: 1
+  lang:
+  - ceb
+Carmelo:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+Carmen:
+  gender_flag: 7
+  lang:
+  - ceb
+  - de
+  - en
+  - es
+  - fr
+  - nl
+  - ro
+  origin:
+  - es
+  - it
+Carmencho:
+  gender_flag: 1
+  is_short_for:
+  - Carmen
+  lang:
+  - es
+Carmenchu:
+  gender_flag: 1
+  is_short_for:
+  - Carmen
+  lang:
+  - es
+Carmencita:
+  gender_flag: 1
+  is_short_for:
+  - Carmen
+  lang:
+  - es
+Carmenza:
+  gender_flag: 1
+  is_short_for:
+  - Carmen
+  lang:
+  - es
+Carmetta:
+  gender_flag: 1
+  lang:
+  - en
+Carmina:
+  gender_flag: 1
+  is_short_for:
+  - Carmen
+  lang:
+  - es
+Carmine:
+  gender_flag: 2
+  lang:
+  - en
+  - it
+  origin:
+  - it
+Carmiña:
+  gender_flag: 1
+  is_short_for:
+  - Carme
+  - Carmen
+  lang:
+  - es
+  - gl
+Carmucha:
+  gender_flag: 1
+  is_short_for:
+  - Carmen
+  lang:
+  - es
+Carney:
+  gender_flag: 7
+  lang:
+  - en
+Caro:
+  gender_flag: 1
+  is_short_for:
+  - Carolane
+  - Carole
+  - Carolina
+  - Caroline
+  lang:
+  - en
+  - es
+  - fr
+Carol:
+  gender_flag: 7
+  is_equivalent_to:
+  - Charles
+  lang:
+  - ceb
+  - en
+  - ro
+  origin:
+  - en
+  - gem
+  - la
+Carola:
+  gender_flag: 1
+  lang:
+  - de
+  - it
+  - sv
+Carolane:
+  gender_flag: 1
+  lang:
+  - fr
+Carolanne:
+  gender_flag: 1
+  lang:
+  - fr
+Carole:
+  gender_flag: 1
+  is_equivalent_to:
+  - Carol
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Carole-Anne:
+  gender_flag: 1
+  lang:
+  - fr
+Carolin:
+  gender_flag: 1
+  is_a_variant_of:
+  - Caroline
+  - Karolina
+  lang:
+  - de
+  - sv
+Carolina:
+  gender_flag: 1
+  is_a_variant_of:
+  - Karolina
+  is_equivalent_to:
+  - Caroline
+  lang:
+  - ca
+  - en
+  - es
+  - it
+  - pt
+  - sv
+  origin:
+  - la
+Caroline:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fr
+  - nl
+  - 'no'
+  - sv
+Carolus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - gem
+Carolyn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Carolène:
+  gender_flag: 1
+  is_equivalent_to:
+  - Caroline
+  lang:
+  - nrf
+Carrie:
+  gender_flag: 1
+  is_short_for:
+  - Caroline
+  lang:
+  - en
+Carrol:
+  gender_flag: 7
+  is_a_variant_of:
+  - Carol
+  lang:
+  - en
+  origin:
+  - gem
+Carroll:
+  gender_flag: 7
+  is_a_variant_of:
+  - Carol
+  lang:
+  - en
+  origin:
+  - gem
+Carson:
+  gender_flag: 7
+  lang:
+  - en
+Carsten:
+  gender_flag: 2
+  is_a_variant_of:
+  - Karsten
+  lang:
+  - da
+  - de
+Carter:
+  gender_flag: 2
+  lang:
+  - en
+Carthach:
+  gender_flag: 2
+  lang:
+  - ga
+Carwyn:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Cary:
+  gender_flag: 7
+  lang:
+  - en
+Caryn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Carys:
+  gender_flag: 1
+  lang:
+  - cy
+  - en
+  origin:
+  - cy
+Casandra:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cassandra
+  lang:
+  - es
+Casemiro:
+  gender_flag: 2
+  lang:
+  - pt
+Casen:
+  gender_flag: 2
+  lang:
+  - en
+Casey:
+  gender_flag: 7
+  lang:
+  - en
+Cash:
+  gender_flag: 2
+  lang:
+  - en
+Casimir:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - pl
+Casimiro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Casimir
+  lang:
+  - es
+  - it
+  - pt
+  origin:
+  - pl
+Casimirus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Casimir
+  lang:
+  - la
+  origin:
+  - pl
+Casina:
+  gender_flag: 1
+  lang:
+  - la
+Cason:
+  gender_flag: 7
+  lang:
+  - en
+Caspar:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  origin:
+  - peo
+Casper:
+  gender_flag: 2
+  is_a_variant_of:
+  - Caspar
+  - Kasper
+  lang:
+  - da
+  - en
+  - 'no'
+  - sv
+  origin:
+  - peo
+Cass:
+  gender_flag: 3
+  is_short_for:
+  - Cassandra
+  - Cassius
+  lang:
+  - en
+Cassander:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Cassandra:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  origin:
+  - grc
+Cassian:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Cassidy:
+  gender_flag: 7
+  lang:
+  - en
+Cassie:
+  gender_flag: 1
+  lang:
+  - en
+Cassio:
+  gender_flag: 2
+  lang:
+  - it
+Cassius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Casteale:
+  gender_flag: 2
+  lang:
+  - yol
+Castiel:
+  gender_flag: 2
+  lang:
+  - en
+Cat:
+  gender_flag: 1
+  is_short_for:
+  - Caitlin
+  - Catherine
+  lang:
+  - en
+Cat'let:
+  gender_flag: 1
+  is_short_for:
+  - Cat'linne
+  lang:
+  - nrf
+Cat'linne:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - nrf
+Cataldo:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - ga
+Cataleya:
+  gender_flag: 1
+  lang:
+  - es
+Catalina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - ceb
+  - en
+  - es
+  origin:
+  - es
+Catalino:
+  gender_flag: 2
+  lang:
+  - ceb
+Catarina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - de
+  - gl
+  - oc
+  - pt
+  - sv
+Catarinon:
+  gender_flag: 1
+  is_short_for:
+  - Catarina
+  lang:
+  - oc
+Cate:
+  gender_flag: 3
+  is_short_for:
+  - Catherine
+  lang:
+  - aa
+  - en
+Cater:
+  gender_flag: 2
+  lang:
+  - ang
+Caterina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - ca
+  - it
+Cath:
+  gender_flag: 1
+  is_short_for:
+  - Catherine
+  lang:
+  - en
+Cath'rinne:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - nrf
+Cathain:
+  gender_flag: 7
+  lang:
+  - en
+Cathal:
+  gender_flag: 2
+  is_equivalent_to:
+  - Charles
+  lang:
+  - en
+  - ga
+  origin:
+  - ga
+  - sga
+Cathaoir:
+  gender_flag: 2
+  lang:
+  - ga
+Catharijne:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - nl
+Catharina:
+  gender_flag: 1
+  lang:
+  - de
+  - sv
+Catharine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Catherine
+  lang:
+  - en
+  origin:
+  - grc
+Cathell:
+  gender_flag: 1
+  lang:
+  - br
+Catherine:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - fr
+  origin:
+  - grc
+Catheryn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Cathi:
+  gender_flag: 1
+  lang:
+  - en
+Cathie:
+  gender_flag: 1
+  lang:
+  - en
+Cathleen:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Cathrin:
+  gender_flag: 1
+  is_a_variant_of:
+  - Katrin
+  lang:
+  - de
+Cathrine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Katrine
+  lang:
+  - da
+  - 'no'
+Cathryn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Catherine
+  lang:
+  - en
+  origin:
+  - grc
+Cathrène:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - nrf
+Cathy:
+  gender_flag: 1
+  is_short_for:
+  - Catherine
+  lang:
+  - en
+Catie:
+  gender_flag: 1
+  is_short_for:
+  - Caitlin
+  - Catherine
+  lang:
+  - en
+Catin:
+  gender_flag: 1
+  is_short_for:
+  - Catarina
+  lang:
+  - oc
+Catisson:
+  gender_flag: 1
+  is_short_for:
+  - Catarina
+  lang:
+  - oc
+Cato:
+  gender_flag: 2
+  lang:
+  - en
+  - 'no'
+  origin:
+  - la
+Caton:
+  gender_flag: 3
+  is_short_for:
+  - Catarina
+  lang:
+  - fr
+  - oc
+  origin:
+  - la
+Catone:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Catreeney:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - gv
+  origin:
+  - grc
+Catrene:
+  gender_flag: 1
+  lang:
+  - wa
+Catrin:
+  gender_flag: 1
+  is_a_variant_of:
+  - Katrin
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - cy
+  - de
+Catrina:
+  gender_flag: 1
+  is_a_variant_of:
+  - Catalina
+  - Catherine
+  lang:
+  - en
+  - es
+Catriona:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gd
+Catrìona:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - gd
+Catuxa:
+  gender_flag: 1
+  is_short_for:
+  - Catarina
+  lang:
+  - gl
+Caty:
+  gender_flag: 1
+  lang:
+  - en
+Cauana:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Cauane:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Caubi:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Cauby:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Caudillo:
+  gender_flag: 2
+  lang:
+  - ceb
+Caut:
+  gender_flag: 1
+  is_equivalent_to:
+  - Kate
+  lang:
+  - yol
+Cauã:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Cauê:
+  gender_flag: 2
+  lang:
+  - pt
+Cavid:
+  gender_flag: 2
+  lang:
+  - az
+Cayden:
+  gender_flag: 2
+  lang:
+  - en
+Cayetana:
+  gender_flag: 1
+  lang:
+  - es
+Cayetano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cajetan
+  lang:
+  - es
+Caylee:
+  gender_flag: 1
+  lang:
+  - en
+Cayson:
+  gender_flag: 2
+  lang:
+  - en
+Caz:
+  gender_flag: 1
+  is_short_for:
+  - Carol
+  lang:
+  - en
+Caíque:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Ceallach:
+  gender_flag: 2
+  lang:
+  - ga
+Ceana:
+  gender_flag: 1
+  lang:
+  - ga
+  - gd
+Ceanag:
+  gender_flag: 1
+  lang:
+  - gd
+Ceanaidh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Kenny
+  is_short_for:
+  - Coinneach
+  lang:
+  - gd
+Cebrail:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gabriel
+  lang:
+  - tr
+  origin:
+  - he
+Cecco:
+  gender_flag: 2
+  is_short_for:
+  - Francesco
+  lang:
+  - it
+Cece:
+  gender_flag: 1
+  is_short_for:
+  - Cecilia
+  lang:
+  - en
+Cecelia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Cecilia
+  lang:
+  - en
+  origin:
+  - la
+Cecie:
+  gender_flag: 1
+  lang:
+  - en
+Cecil:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Cecile:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cecilia
+  lang:
+  - ceb
+  - en
+  - fro
+  origin:
+  - la
+Cecili:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cecil
+  lang:
+  - ca
+Cecilia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Cäcilia
+  lang:
+  - de
+  - en
+  - es
+  - it
+  - sv
+  origin:
+  - la
+Cecilie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Cäcilie
+  is_equivalent_to:
+  - Cecilia
+  lang:
+  - da
+  - de
+  - 'no'
+Cecilio:
+  gender_flag: 2
+  lang:
+  - es
+Cecilka:
+  gender_flag: 1
+  is_short_for:
+  - Cecílie
+  lang:
+  - cs
+Cecily:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Cecilía:
+  gender_flag: 1
+  lang:
+  - is
+Cecylia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cecilia
+  lang:
+  - pl
+  origin:
+  - la
+Cecília:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cecilia
+  lang:
+  - ca
+  - hu
+  - oc
+  - pt
+  - sk
+Cecílie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cecilia
+  lang:
+  - cs
+Cecílio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cecil
+  lang:
+  - pt
+  origin:
+  - la
+Cedric:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - cy
+  - en
+Cedrica:
+  gender_flag: 1
+  lang:
+  - en
+CeeCee:
+  gender_flag: 1
+  is_short_for:
+  - Cecilia
+  lang:
+  - en
+Ceecee:
+  gender_flag: 1
+  is_short_for:
+  - Cecilia
+  lang:
+  - en
+Cefanja:
+  gender_flag: 2
+  lang:
+  - lv
+Cefri: {}
+Cefriano:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - es
+Ceibhfhionn:
+  gender_flag: 1
+  lang:
+  - en
+Ceit:
+  gender_flag: 1
+  is_equivalent_to:
+  - Kate
+  lang:
+  - gd
+  origin:
+  - grc
+Ceiteag:
+  gender_flag: 1
+  is_equivalent_to:
+  - Katie
+  lang:
+  - gd
+  origin:
+  - grc
+Ceitidh:
+  gender_flag: 1
+  is_equivalent_to:
+  - Katie
+  lang:
+  - gd
+  origin:
+  - grc
+Celal:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Celedonio:
+  gender_flag: 2
+  lang:
+  - ceb
+Celena:
+  gender_flag: 1
+  lang:
+  - en
+Celesta:
+  gender_flag: 1
+  lang:
+  - en
+Celeste:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - fr
+  - la
+Celestina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Celestine
+  lang:
+  - it
+  - oc
+Celestine:
+  gender_flag: 6
+  lang:
+  - en
+Celestyn:
+  gender_flag: 2
+  lang:
+  - pl
+Celestyna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Celestine
+  lang:
+  - pl
+Celia:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - it
+  origin:
+  - la
+Celina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Celine
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - it
+  - 'no'
+  - oc
+  - pl
+  origin:
+  - fr
+  - la
+Celine:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - 'no'
+  - wa
+  origin:
+  - la
+Celinå:
+  gender_flag: 1
+  lang:
+  - wa
+Cellach:
+  gender_flag: 2
+  lang:
+  - sga
+Celso:
+  gender_flag: 2
+  lang:
+  - ceb
+  - it
+  origin:
+  - la
+Celyn:
+  gender_flag: 1
+  is_equivalent_to:
+  - Holly
+  lang:
+  - cy
+Cem:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - fa
+Cemal:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Cemil:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Cenk:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - fa
+Cennet:
+  gender_flag: 1
+  lang:
+  - tr
+Cenrice:
+  gender_flag: 2
+  lang:
+  - ang
+Centwine:
+  gender_flag: 2
+  lang:
+  - ang
+Ceolbeald:
+  gender_flag: 2
+  lang:
+  - ang
+Ceolberht:
+  gender_flag: 2
+  lang:
+  - ang
+Ceolmund:
+  gender_flag: 2
+  lang:
+  - ang
+Ceolræd:
+  gender_flag: 2
+  lang:
+  - ang
+Ceolwulf:
+  gender_flag: 2
+  lang:
+  - ang
+Cephas:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - arc
+Cerbone:
+  gender_flag: 2
+  lang:
+  - it
+Cerdic:
+  gender_flag: 2
+  lang:
+  - ang
+Ceren:
+  gender_flag: 1
+  lang:
+  - tr
+Ceri:
+  gender_flag: 7
+  lang:
+  - cy
+  - en
+  origin:
+  - cy
+Ceridwen:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cy
+Cerio:
+  gender_flag: 2
+  lang:
+  - ceb
+Cerise:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Cerys:
+  gender_flag: 1
+  is_a_variant_of:
+  - Carys
+  lang:
+  - cy
+  - en
+  origin:
+  - cy
+Cesar:
+  gender_flag: 2
+  lang:
+  - en
+  - sv
+  origin:
+  - es
+  - la
+Cesc:
+  gender_flag: 2
+  is_short_for:
+  - Francesc
+  lang:
+  - ca
+Cesco:
+  gender_flag: 2
+  is_short_for:
+  - Francesco
+  lang:
+  - it
+Cevat:
+  gender_flag: 2
+  lang:
+  - tr
+Cevdet:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Cevher:
+  gender_flag: 3
+  lang:
+  - tr
+  origin:
+  - ar
+Ceyhan:
+  gender_flag: 7
+  lang:
+  - tr
+Ceyhun:
+  gender_flag: 3
+  lang:
+  - tr
+Ceylan:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - otk
+Ceylon:
+  gender_flag: 2
+  lang:
+  - en
+Ceyms: {}
+Cezar:
+  gender_flag: 2
+  lang:
+  - ro
+  origin:
+  - la
+Cezarene:
+  gender_flag: 1
+  lang:
+  - wa
+Cezarine:
+  gender_flag: 1
+  lang:
+  - wa
+Cezary:
+  gender_flag: 2
+  lang:
+  - pl
+Cezmi:
+  gender_flag: 2
+  lang:
+  - tr
+Chabela:
+  gender_flag: 1
+  is_short_for:
+  - Isabel
+  lang:
+  - es
+Chace:
+  gender_flag: 2
+  lang:
+  - en
+Chacha:
+  gender_flag: 1
+  lang:
+  - ceb
+Chachi:
+  gender_flag: 2
+  lang:
+  - en
+Chad:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - ang
+  - en
+Chaddy:
+  gender_flag: 2
+  is_short_for:
+  - Chad
+  lang:
+  - en
+Chadwick:
+  gender_flag: 2
+  lang:
+  - en
+Chagatai:
+  gender_flag: 2
+  lang:
+  - en
+Chaim:
+  gender_flag: 2
+  lang:
+  - en
+Chairles:
+  gender_flag: 2
+  is_equivalent_to:
+  - Charles
+  lang:
+  - sco
+Chak:
+  gender_flag: 1
+  lang:
+  - ceb
+Chakradhar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Chalinus:
+  gender_flag: 2
+  lang:
+  - la
+Chalmers:
+  gender_flag: 2
+  lang:
+  - en
+Cham:
+  gender_flag: 2
+  lang:
+  - fr
+  - la
+  origin:
+  - he
+Chamoa:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - la
+Chamus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - he
+Chanak:
+  gender_flag: 2
+  lang:
+  - ceb
+Chance:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - en
+Chancy:
+  gender_flag: 2
+  lang:
+  - en
+Chanda:
+  gender_flag: 1
+  lang:
+  - ceb
+Chandler:
+  gender_flag: 7
+  lang:
+  - en
+Chandra:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - sa
+Chandrika:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Chanel:
+  gender_flag: 1
+  lang:
+  - en
+Chaney:
+  gender_flag: 1
+  lang:
+  - en
+Chanie:
+  gender_flag: 1
+  lang:
+  - en
+Channing:
+  gender_flag: 7
+  lang:
+  - en
+Chano:
+  gender_flag: 2
+  lang:
+  - es
+Chantal:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Chantaya:
+  gender_flag: 1
+  lang:
+  - en
+Chantel:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+Chantelle:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+Chanti:
+  gender_flag: 2
+  lang:
+  - en
+Chaoba:
+  gender_flag: 2
+  lang:
+  - en
+Chaobi:
+  gender_flag: 1
+  lang:
+  - en
+Chariclea:
+  gender_flag: 1
+  lang:
+  - en
+Chariclée:
+  gender_flag: 1
+  is_equivalent_to:
+  - Chariclea
+  lang:
+  - fr
+Charie:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - grc
+Charing:
+  gender_flag: 1
+  lang:
+  - ceb
+Charinus:
+  gender_flag: 2
+  lang:
+  - la
+Charisma:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+  - grc
+Charissa:
+  gender_flag: 1
+  lang:
+  - en
+Charito:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - es
+Charity:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Charla:
+  gender_flag: 1
+  lang:
+  - en
+Charlee:
+  gender_flag: 1
+  lang:
+  - en
+Charleen:
+  gender_flag: 1
+  lang:
+  - en
+Charleigh:
+  gender_flag: 1
+  lang:
+  - en
+Charlene:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Charles:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - fr
+  - nrf
+  - pt
+  - sv
+  origin:
+  - en
+  - fr
+  - gem
+Charley:
+  gender_flag: 7
+  lang:
+  - en
+Charli:
+  gender_flag: 1
+  lang:
+  - en
+Charlie:
+  gender_flag: 7
+  is_short_for:
+  - Charles
+  - Charlotte
+  lang:
+  - ceb
+  - en
+  - sv
+  origin:
+  - en
+Charline:
+  gender_flag: 1
+  is_equivalent_to:
+  - Charlene
+  lang:
+  - en
+  - fr
+Charlize:
+  gender_flag: 1
+  lang:
+  - af
+Charlon:
+  gender_flag: 2
+  lang:
+  - fro
+Charlot:
+  gender_flag: 2
+  lang:
+  - nrf
+Charlott:
+  gender_flag: 1
+  lang:
+  - sv
+Charlotta:
+  gender_flag: 1
+  lang:
+  - sv
+Charlotte:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lieselotte
+  - Liselotte
+  - Lotte
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fr
+  - 'no'
+  - sv
+  origin:
+  - fr
+Charlottie:
+  gender_flag: 1
+  lang:
+  - en
+Charlyne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Charlene
+  lang:
+  - en
+Charlène:
+  gender_flag: 1
+  lang:
+  - fr
+Charmaine:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Charmian:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Charmides:
+  gender_flag: 2
+  lang:
+  - la
+Charmyne:
+  gender_flag: 1
+  lang:
+  - en
+Charo:
+  gender_flag: 1
+  is_short_for:
+  - Rosario
+  lang:
+  - es
+Chartreuse:
+  gender_flag: 1
+  lang:
+  - en
+Charu:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - sa
+Charvi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Chas:
+  gender_flag: 2
+  is_short_for:
+  - Charles
+  lang:
+  - en
+Chas.:
+  gender_flag: 2
+  lang:
+  - en
+Chase:
+  gender_flag: 7
+  lang:
+  - en
+Chaslyn:
+  gender_flag: 1
+  lang:
+  - en
+Chason:
+  gender_flag: 2
+  lang:
+  - en
+Chastity:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Chatrin:
+  gender_flag: 1
+  lang:
+  - 'no'
+Chatrine:
+  gender_flag: 1
+  lang:
+  - 'no'
+Chauncey:
+  gender_flag: 2
+  lang:
+  - en
+Chavany:
+  gender_flag: 2
+  lang:
+  - en
+Chavena:
+  gender_flag: 1
+  is_short_for:
+  - Isabel
+  lang:
+  - es
+Chavisa:
+  gender_flag: 1
+  lang:
+  - en
+Chaxiraxi:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - gnc
+Chaya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Chayo:
+  gender_flag: 1
+  is_short_for:
+  - Rosario
+  lang:
+  - es
+Chaz:
+  gender_flag: 7
+  is_short_for:
+  - Charles
+  - Charlotte
+  lang:
+  - en
+Chazza:
+  gender_flag: 3
+  is_short_for:
+  - Charles
+  - Charlotte
+  lang:
+  - en
+Chebo:
+  gender_flag: 2
+  is_short_for:
+  - Eusebio
+  lang:
+  - es
+Checco:
+  gender_flag: 2
+  is_short_for:
+  - Francesco
+  lang:
+  - it
+Cheche:
+  gender_flag: 1
+  lang:
+  - ceb
+Checo:
+  gender_flag: 2
+  is_short_for:
+  - Sergio
+  lang:
+  - es
+Chedeng:
+  gender_flag: 1
+  is_short_for:
+  - Mercedes
+  lang:
+  - tl
+Chelo:
+  gender_flag: 1
+  is_short_for:
+  - Consuelo
+  lang:
+  - es
+Chels:
+  gender_flag: 1
+  is_short_for:
+  - Chelsea
+  lang:
+  - en
+Chelsea:
+  gender_flag: 1
+  lang:
+  - en
+Chelsey:
+  gender_flag: 1
+  is_a_variant_of:
+  - Chelsea
+  lang:
+  - en
+Chelsia:
+  gender_flag: 1
+  lang:
+  - en
+Chelsy:
+  gender_flag: 1
+  lang:
+  - en
+Chely:
+  gender_flag: 1
+  lang:
+  - en
+Chema:
+  gender_flag: 2
+  is_short_for:
+  - José María
+  lang:
+  - es
+Chente:
+  gender_flag: 2
+  is_short_for:
+  - Vicente
+  lang:
+  - es
+Cheo:
+  gender_flag: 2
+  lang:
+  - es
+Chepa:
+  gender_flag: 1
+  is_short_for:
+  - Josefa
+  lang:
+  - es
+Cher:
+  gender_flag: 1
+  lang:
+  - en
+Cheri:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Cherie:
+  gender_flag: 1
+  lang:
+  - en
+Cherilyn:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+Cherine:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fa
+Cherish:
+  gender_flag: 1
+  lang:
+  - en
+Cherry:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Cherubino:
+  gender_flag: 2
+  lang:
+  - it
+Cheryl:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Chesley:
+  gender_flag: 2
+  lang:
+  - en
+Chesney:
+  gender_flag: 2
+  lang:
+  - en
+Chester:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - enm
+  origin:
+  - en
+Chesús:
+  gender_flag: 2
+  lang:
+  - an
+  origin:
+  - he
+Chet:
+  gender_flag: 2
+  is_short_for:
+  - Chester
+  lang:
+  - en
+Chevone:
+  gender_flag: 3
+  is_a_variant_of:
+  - Siobhan
+  lang:
+  - en
+Chey:
+  gender_flag: 1
+  is_short_for:
+  - Cheyenne
+  lang:
+  - en
+Cheyanne:
+  gender_flag: 1
+  lang:
+  - en
+Cheyenne:
+  gender_flag: 7
+  lang:
+  - en
+Cheyna:
+  gender_flag: 1
+  lang:
+  - en
+Cheyne:
+  gender_flag: 2
+  lang:
+  - en
+Chi:
+  gender_flag: 3
+  lang:
+  - en
+  - vi
+  origin:
+  - zh
+Chiaffredo:
+  gender_flag: 2
+  lang:
+  - it
+Chiara:
+  gender_flag: 1
+  is_equivalent_to:
+  - Claire
+  - Clara
+  lang:
+  - de
+  - it
+Chic:
+  gender_flag: 2
+  is_short_for:
+  - Charles
+  lang:
+  - en
+Chica:
+  gender_flag: 1
+  is_short_for:
+  - Francisca
+  lang:
+  - pt
+Chicca:
+  gender_flag: 1
+  is_short_for:
+  - Federica
+  - Francesca
+  lang:
+  - it
+Chicco:
+  gender_flag: 2
+  is_short_for:
+  - Francesco
+  lang:
+  - it
+Chicha:
+  gender_flag: 1
+  is_short_for:
+  - Francisca
+  lang:
+  - es
+Chichay:
+  gender_flag: 1
+  is_short_for:
+  - Francisca
+  lang:
+  - tl
+Chico:
+  gender_flag: 2
+  is_short_for:
+  - Francisco
+  lang:
+  - en
+  - pt
+  origin:
+  - pt
+Chieko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Chihiro:
+  gender_flag: 7
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Chika:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Chikako:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Childebert:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hilbert
+  lang:
+  - en
+  origin:
+  - frk
+Childeric:
+  gender_flag: 2
+  lang:
+  - en
+Chilone:
+  gender_flag: 2
+  lang:
+  - it
+Chilperic:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Chimâne:
+  gender_flag: 1
+  lang:
+  - nrf
+China:
+  gender_flag: 1
+  lang:
+  - en
+Chinatsu:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Chinchin:
+  gender_flag: 1
+  lang:
+  - ceb
+Chinh:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Chiniqua:
+  gender_flag: 1
+  lang:
+  - en
+Chinot:
+  gender_flag: 2
+  lang:
+  - nrf
+Chinote:
+  gender_flag: 1
+  lang:
+  - nrf
+Chinyelu:
+  gender_flag: 1
+  lang:
+  - en
+Chip:
+  gender_flag: 2
+  lang:
+  - en
+Chique:
+  gender_flag: 1
+  lang:
+  - ceb
+Chirag:
+  gender_flag: 2
+  lang:
+  - en
+Chiron:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Chisa:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Chito:
+  gender_flag: 2
+  lang:
+  - ceb
+Chitãozinho:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Chiyo:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Chiyoko:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Chloe:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - grc
+Chlothar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - frk
+Chloé:
+  gender_flag: 1
+  is_equivalent_to:
+  - Chloe
+  lang:
+  - fr
+Chochana:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - ar
+  - he
+Choco:
+  gender_flag: 1
+  lang:
+  - es
+Chona:
+  gender_flag: 1
+  lang:
+  - ceb
+Chorche:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - an
+  origin:
+  - grc
+Chouchanik:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - hy
+Choying: {}
+Chramn:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - frk
+Chresten:
+  gender_flag: 2
+  is_a_variant_of:
+  - Christian
+  lang:
+  - da
+Chrille:
+  gender_flag: 2
+  is_short_for:
+  - Christian
+  lang:
+  - da
+Chris:
+  gender_flag: 3
+  lang:
+  - da
+  - en
+  - nl
+  - 'no'
+  origin:
+  - en
+Chrislyn:
+  gender_flag: 1
+  lang:
+  - ceb
+Chrissie:
+  gender_flag: 1
+  is_short_for:
+  - Christina
+  - Christine
+  lang:
+  - en
+Chrisso:
+  gender_flag: 2
+  is_short_for:
+  - Chris
+  - Christopher
+  lang:
+  - en
+Chrissy:
+  gender_flag: 1
+  is_short_for:
+  - Christina
+  - Christine
+  lang:
+  - en
+Christ:
+  gender_flag: 3
+  is_short_for:
+  - Christa
+  - Christoph
+  lang:
+  - gmw-ecg
+Christa:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - nl
+  origin:
+  - grc
+Christabel:
+  gender_flag: 1
+  lang:
+  - en
+Christabella:
+  gender_flag: 1
+  lang:
+  - en
+Christel:
+  gender_flag: 3
+  lang:
+  - da
+  - de
+  - is
+  - sv
+Christelle:
+  gender_flag: 1
+  is_a_variant_of:
+  - Christine
+  lang:
+  - fr
+Christen:
+  gender_flag: 2
+  is_a_variant_of:
+  - Christian
+  lang:
+  - da
+Christene:
+  gender_flag: 1
+  lang:
+  - en
+Christer:
+  gender_flag: 2
+  lang:
+  - 'no'
+  - sv
+Christiaan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christian
+  lang:
+  - nl
+Christian:
+  gender_flag: 3
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fr
+  - fro
+  - 'no'
+  - sv
+Christiana:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Christiane:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kristiane
+  is_equivalent_to:
+  - Christiana
+  lang:
+  - da
+  - de
+  - fr
+Christianne:
+  gender_flag: 1
+  lang:
+  - en
+Christie:
+  gender_flag: 7
+  is_short_for:
+  - Christine
+  - Christopher
+  lang:
+  - en
+Christien:
+  gender_flag: 1
+  is_short_for:
+  - Christine
+  lang:
+  - gmw-ecg
+Christin:
+  gender_flag: 1
+  lang:
+  - 'no'
+  - sv
+Christina:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - grc
+Christine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kristina
+  - Kristine
+  is_equivalent_to:
+  - Christina
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fr
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - en
+  - fr
+  - grc
+Christof:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - de
+Christoffel:
+  gender_flag: 2
+  lang:
+  - nl
+Christoffer:
+  gender_flag: 2
+  is_a_variant_of:
+  - Kristoffer
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - da
+  - 'no'
+  - sv
+Christoph:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - de
+Christophe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - fr
+Christopher:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fr
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - en
+  - grc
+Christophorus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - de
+  - la
+  origin:
+  - grc
+Christy:
+  gender_flag: 3
+  is_short_for:
+  - Christina
+  - Christopher
+  lang:
+  - en
+Christyn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Christine
+  lang:
+  - en
+  origin:
+  - la
+Chrysalus:
+  gender_flag: 2
+  lang:
+  - la
+Chrysides:
+  gender_flag: 2
+  lang:
+  - la
+Chrystal:
+  gender_flag: 1
+  lang:
+  - en
+Chrystia:
+  gender_flag: 1
+  lang:
+  - en
+Chuan:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - an
+Chubi:
+  gender_flag: 2
+  lang:
+  - en
+Chuchay:
+  gender_flag: 1
+  is_short_for:
+  - Jesusa
+  lang:
+  - tl
+Chucho:
+  gender_flag: 2
+  is_short_for:
+  - Jesús
+  lang:
+  - es
+Chuck:
+  gender_flag: 2
+  lang:
+  - en
+Chuckie:
+  gender_flag: 2
+  is_short_for:
+  - Chuck
+  lang:
+  - en
+Chucky:
+  gender_flag: 2
+  is_short_for:
+  - Chuck
+  lang:
+  - en
+Chung:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Chuny:
+  gender_flag: 1
+  lang:
+  - en
+Chus:
+  gender_flag: 3
+  is_short_for:
+  - Jesús
+  - María Jesús
+  lang:
+  - es
+Chuy:
+  gender_flag: 2
+  is_short_for:
+  - Jesús
+  lang:
+  - es
+Chyna:
+  gender_flag: 1
+  lang:
+  - en
+Chyà:
+  gender_flag: 2
+  lang:
+  - bkm
+Châu:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Chérif:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Chío:
+  gender_flag: 1
+  lang:
+  - es
+Ciacco:
+  gender_flag: 2
+  lang:
+  - it
+Cian:
+  gender_flag: 2
+  lang:
+  - ga
+  origin:
+  - sga
+Cianfa:
+  gender_flag: 2
+  lang:
+  - it
+Ciara:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Ciaran:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ga
+Ciarán:
+  gender_flag: 2
+  lang:
+  - ga
+  origin:
+  - sga
+Cibele:
+  gender_flag: 1
+  lang:
+  - pt
+Ciccio:
+  gender_flag: 2
+  is_short_for:
+  - Francesco
+  lang:
+  - it
+Cicely:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Cicile:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cecilia
+  lang:
+  - wa
+Cida:
+  gender_flag: 1
+  is_short_for:
+  - Aparecida
+  lang:
+  - pt
+Ciera:
+  gender_flag: 1
+  lang:
+  - en
+Cierra:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Cihan:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - fa
+Cihat:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Cilestino:
+  gender_flag: 2
+  lang:
+  - it
+Cilka:
+  gender_flag: 1
+  is_short_for:
+  - Cíla
+  lang:
+  - cs
+  - sl
+Cilla:
+  gender_flag: 1
+  lang:
+  - en
+Cillian:
+  gender_flag: 2
+  lang:
+  - ga
+  - gsw
+  origin:
+  - la
+Cina:
+  gender_flag: 1
+  lang:
+  - ceb
+Cincinnato:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Cincinnatus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Cinderella:
+  gender_flag: 1
+  lang:
+  - en
+Cindi:
+  gender_flag: 1
+  is_short_for:
+  - Cynthia
+  lang:
+  - en
+Cindy:
+  gender_flag: 1
+  is_short_for:
+  - Cynthia
+  lang:
+  - ceb
+  - en
+Cino:
+  gender_flag: 2
+  lang:
+  - it
+Cinzia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cynthia
+  lang:
+  - it
+Cináed:
+  gender_flag: 2
+  lang:
+  - gd
+  - sga
+  origin:
+  - xpi
+Ciorstaidh:
+  gender_flag: 1
+  lang:
+  - gd
+  origin:
+  - grc
+Ciorstan:
+  gender_flag: 1
+  lang:
+  - gd
+  origin:
+  - grc
+Cipriano:
+  gender_flag: 2
+  lang:
+  - es
+  - pt
+Cir:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cyrus
+  lang:
+  - ca
+Ciriaco:
+  gender_flag: 2
+  lang:
+  - ceb
+  - it
+  origin:
+  - grc
+Cirillo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cyril
+  lang:
+  - it
+Cirilo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cyril
+  lang:
+  - es
+  - pt
+Ciro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cyrus
+  lang:
+  - es
+  - it
+  - pt
+  origin:
+  - peo
+Cissy:
+  gender_flag: 1
+  lang:
+  - en
+Cita:
+  gender_flag: 1
+  lang:
+  - ceb
+Citlali:
+  gender_flag: 1
+  lang:
+  - es
+Citrio:
+  gender_flag: 2
+  lang:
+  - la
+Citro:
+  gender_flag: 2
+  lang:
+  - la
+Citêye:
+  gender_flag: 1
+  is_equivalent_to:
+  - Felicity
+  lang:
+  - wa
+Civita:
+  gender_flag: 1
+  lang:
+  - it
+Ciwan:
+  gender_flag: 2
+  lang:
+  - kmr
+Ciye:
+  gender_flag: 1
+  lang:
+  - wa
+Claes:
+  gender_flag: 2
+  lang:
+  - sv
+Clair:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - fr
+Claira:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Claire:
+  gender_flag: 7
+  is_a_variant_of:
+  - Clare
+  is_equivalent_to:
+  - Clara
+  lang:
+  - en
+  - fr
+  - wa
+  origin:
+  - fr
+Clancy:
+  gender_flag: 2
+  lang:
+  - en
+Clara:
+  gender_flag: 1
+  is_a_variant_of:
+  - Chiara
+  - Klara
+  is_equivalent_to:
+  - Claire
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - fr
+  - it
+  - pt
+  - sv
+  origin:
+  - la
+Clarabel:
+  gender_flag: 1
+  is_a_variant_of:
+  - Claribel
+  lang:
+  - en
+  origin:
+  - la
+Clarabella:
+  gender_flag: 1
+  lang:
+  - it
+Clarabelle:
+  gender_flag: 1
+  lang:
+  - en
+Clarah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Clare:
+  gender_flag: 7
+  is_equivalent_to:
+  - Clara
+  lang:
+  - en
+  - gv
+  origin:
+  - la
+Clarence:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Claribel:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Clarice:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+Clarinda:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Clarisa:
+  gender_flag: 1
+  is_a_variant_of:
+  - Clara
+  is_equivalent_to:
+  - Clarice
+  - Clarissa
+  lang:
+  - es
+Clarissa:
+  gender_flag: 1
+  lang:
+  - en
+  - id
+  - it
+  - la
+  origin:
+  - it
+  - la
+Clarisse:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Clark:
+  gender_flag: 2
+  lang:
+  - en
+Claro:
+  gender_flag: 2
+  lang:
+  - es
+  - tl
+  origin:
+  - es
+Clary:
+  gender_flag: 1
+  lang:
+  - sv
+Clas:
+  gender_flag: 2
+  lang:
+  - sv
+Claud:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Claude:
+  gender_flag: 7
+  is_a_variant_of:
+  - Claudia
+  - Claudie
+  - Claudine
+  is_equivalent_to:
+  - Claudia
+  is_short_for:
+  - Claudette
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+Claudette:
+  gender_flag: 1
+  lang:
+  - fr
+Claudia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Claudie
+  lang:
+  - de
+  - en
+  - es
+  - fr
+  - it
+  - nl
+Claudie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Claudia
+  lang:
+  - fr
+  origin:
+  - la
+Claudile:
+  gender_flag: 1
+  lang:
+  - nrf
+Claudine:
+  gender_flag: 1
+  lang:
+  - fr
+Claudio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Claude
+  lang:
+  - ceb
+  - es
+  - it
+  - tl
+  origin:
+  - es
+  - la
+Claudiu:
+  gender_flag: 2
+  lang:
+  - ro
+  origin:
+  - la
+Claudius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Claus:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  origin:
+  - grc
+Clay:
+  gender_flag: 2
+  is_short_for:
+  - Clayton
+  lang:
+  - en
+Clayton:
+  gender_flag: 2
+  lang:
+  - en
+Cleanthes:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+  - la
+Cleareta:
+  gender_flag: 2
+  lang:
+  - la
+Cleitus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Clelia:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  origin:
+  - la
+Clelio:
+  gender_flag: 2
+  lang:
+  - it
+Clem:
+  gender_flag: 7
+  is_short_for:
+  - Clement
+  - Clementine
+  lang:
+  - en
+Clemence:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Clemens:
+  gender_flag: 2
+  is_equivalent_to:
+  - Clement
+  lang:
+  - de
+  - en
+Clement:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Clemente:
+  gender_flag: 2
+  is_equivalent_to:
+  - Clement
+  lang:
+  - es
+  - it
+  - pt
+  - tl
+  origin:
+  - es
+  - la
+Clementina:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  origin:
+  - la
+Clementine:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Clemenza:
+  gender_flag: 1
+  is_equivalent_to:
+  - Clemence
+  lang:
+  - it
+Clemint:
+  gender_flag: 2
+  is_equivalent_to:
+  - Clement
+  lang:
+  - wa
+Clemmie:
+  gender_flag: 1
+  lang:
+  - en
+Clemmy:
+  gender_flag: 1
+  lang:
+  - en
+Cleo:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - grc
+Cleomachus:
+  gender_flag: 2
+  lang:
+  - la
+Cleon:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Cleopa:
+  gender_flag: 2
+  lang:
+  - ro
+Cleopater:
+  gender_flag: 2
+  lang:
+  - la
+Cleopatra:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Cleora:
+  gender_flag: 1
+  lang:
+  - en
+Cleostrata:
+  gender_flag: 2
+  lang:
+  - la
+Cleotilde:
+  gender_flag: 1
+  is_equivalent_to:
+  - Clotilda
+  lang:
+  - es
+  origin:
+  - gem
+Clervie:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - br
+Cleto:
+  gender_flag: 2
+  lang:
+  - it
+Cletus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Cleópatra:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cleopatra
+  lang:
+  - pt
+Cliff:
+  gender_flag: 2
+  lang:
+  - en
+Clifford:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Clifton:
+  gender_flag: 2
+  lang:
+  - en
+Climaco:
+  gender_flag: 2
+  lang:
+  - ceb
+Clint:
+  gender_flag: 2
+  lang:
+  - en
+Clinton:
+  gender_flag: 2
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Clio:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  origin:
+  - grc
+Clitus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Clive:
+  gender_flag: 2
+  lang:
+  - en
+Clizia:
+  gender_flag: 1
+  lang:
+  - it
+Cliément:
+  gender_flag: 2
+  is_equivalent_to:
+  - Clement
+  lang:
+  - nrf
+Cllâodène:
+  gender_flag: 1
+  lang:
+  - nrf
+Cllément:
+  gender_flag: 2
+  lang:
+  - nrf
+Cllémentin:
+  gender_flag: 2
+  is_short_for:
+  - Cllément
+  lang:
+  - nrf
+Cllémentène:
+  gender_flag: 1
+  is_equivalent_to:
+  - Clementine
+  lang:
+  - nrf
+Clode:
+  gender_flag: 2
+  lang:
+  - wa
+Clodio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Claude
+  lang:
+  - gl
+Clodoveo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Clovis
+  lang:
+  - it
+Cloe:
+  gender_flag: 1
+  is_equivalent_to:
+  - Chloe
+  lang:
+  - en
+  - it
+  origin:
+  - grc
+Clora:
+  gender_flag: 1
+  lang:
+  - en
+Cloridano:
+  gender_flag: 2
+  lang:
+  - it
+Clorinda:
+  gender_flag: 1
+  lang:
+  - it
+Clothilda:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Clothilde:
+  gender_flag: 1
+  is_a_variant_of:
+  - Clotilde
+  lang:
+  - fr
+Clotilda:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  origin:
+  - gem
+Clotilde:
+  gender_flag: 1
+  is_equivalent_to:
+  - Clotilda
+  lang:
+  - ceb
+  - es
+  - fr
+  - it
+  - pt
+  origin:
+  - fr
+  - gem
+Clotile:
+  gender_flag: 1
+  lang:
+  - wa
+Clovis:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  - nrf
+Clyde:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - cel
+  - en
+Cláudia:
+  gender_flag: 1
+  lang:
+  - pt
+Cláudio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Claude
+  lang:
+  - pt
+Clârisse:
+  gender_flag: 1
+  lang:
+  - wa
+Clårisse:
+  gender_flag: 1
+  lang:
+  - wa
+Cléanthe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cleanthes
+  lang:
+  - fr
+  origin:
+  - grc
+  - la
+Cléber:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - de
+Clélia:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - la
+Clélie:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - la
+Clém:
+  gender_flag: 7
+  is_equivalent_to:
+  - Clem
+  is_short_for:
+  - Clémence
+  - Clément
+  - Clémentine
+  lang:
+  - fr
+Clémence:
+  gender_flag: 1
+  lang:
+  - fr
+Clément:
+  gender_flag: 2
+  is_equivalent_to:
+  - Clement
+  lang:
+  - fr
+Clémentine:
+  gender_flag: 1
+  lang:
+  - fr
+Cléopâtre:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cleopatra
+  lang:
+  - fr
+Clídna:
+  gender_flag: 1
+  lang:
+  - sga
+Clôde:
+  gender_flag: 2
+  is_equivalent_to:
+  - Claude
+  lang:
+  - wa
+Clœlia:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+Clœlius:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+Cnut:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Co:
+  gender_flag: 3
+  lang:
+  - en
+  - nl
+Coazmar:
+  lang:
+  - goh
+Cobie:
+  gender_flag: 1
+  lang:
+  - en
+Cobra:
+  gender_flag: 2
+  lang:
+  - en
+Cobura:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - gnc
+Cobus:
+  gender_flag: 2
+  lang:
+  - en
+Coby:
+  gender_flag: 2
+  lang:
+  - en
+Coco:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+Cocoa:
+  gender_flag: 6
+  lang:
+  - en
+Codes:
+  gender_flag: 2
+  is_short_for:
+  - Cody
+  lang:
+  - en
+Codruța:
+  gender_flag: 1
+  lang:
+  - ro
+Cody:
+  gender_flag: 7
+  lang:
+  - en
+Coen:
+  gender_flag: 2
+  is_short_for:
+  - Coenraad
+  lang:
+  - en
+  - nl
+  origin:
+  - nl
+Coenraad:
+  gender_flag: 2
+  is_equivalent_to:
+  - Conrad
+  lang:
+  - nl
+  origin:
+  - gem-pro
+Cohen:
+  gender_flag: 2
+  lang:
+  - en
+Coilean:
+  gender_flag: 2
+  lang:
+  - ga
+Coileáin:
+  gender_flag: 2
+  lang:
+  - ga
+Coinneach:
+  gender_flag: 2
+  lang:
+  - gd
+  origin:
+  - sga
+Col:
+  gender_flag: 2
+  is_short_for:
+  - Colin
+  lang:
+  - en
+Colas:
+  gender_flag: 2
+  lang:
+  - nrf
+  - wa
+Colbie:
+  gender_flag: 3
+  is_a_variant_of:
+  - Colby
+  lang:
+  - en
+Colby:
+  gender_flag: 2
+  lang:
+  - en
+Cole:
+  gender_flag: 2
+  is_short_for:
+  - Nicholas
+  lang:
+  - en
+Coleen:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Coleman:
+  gender_flag: 2
+  lang:
+  - en
+Colette:
+  gender_flag: 1
+  lang:
+  - fr
+Colin:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - grc
+Colina:
+  gender_flag: 1
+  lang:
+  - ceb
+Coline:
+  gender_flag: 1
+  lang:
+  - fr
+  - nrf
+Coll:
+  gender_flag: 2
+  lang:
+  - en
+Colleen:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+  - ga
+Collin:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Collins:
+  gender_flag: 2
+  lang:
+  - en
+Collybiscus:
+  gender_flag: 2
+  lang:
+  - la
+Colm:
+  gender_flag: 2
+  lang:
+  - en
+  - ga
+  origin:
+  - ga
+  - la
+Colman:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Colmane:
+  gender_flag: 2
+  lang:
+  - gv
+Colme:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cosmas
+  lang:
+  - gl
+Colmán:
+  gender_flag: 2
+  is_equivalent_to:
+  - Colman
+  lang:
+  - ga
+  - mga
+  origin:
+  - mga
+Colombano:
+  gender_flag: 2
+  lang:
+  - it
+Colt:
+  gender_flag: 2
+  lang:
+  - en
+Colten:
+  gender_flag: 2
+  lang:
+  - en
+Colton:
+  gender_flag: 2
+  lang:
+  - en
+Colum:
+  gender_flag: 2
+  lang:
+  - gv
+Columbus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Comba:
+  gender_flag: 1
+  lang:
+  - pt
+Con:
+  gender_flag: 2
+  lang:
+  - en
+Conall:
+  gender_flag: 2
+  lang:
+  - ga
+  - sga
+Conan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+  - ga
+Conceição:
+  gender_flag: 1
+  lang:
+  - pt
+Concepcion:
+  gender_flag: 1
+  lang:
+  - ceb
+  - tl
+  origin:
+  - es
+Concepción:
+  gender_flag: 1
+  lang:
+  - es
+Concetta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Concepción
+  lang:
+  - it
+  origin:
+  - la
+Concha:
+  gender_flag: 1
+  is_short_for:
+  - Concepción
+  lang:
+  - es
+Conchi:
+  gender_flag: 1
+  is_short_for:
+  - Concepción
+  lang:
+  - es
+Conching:
+  gender_flag: 1
+  lang:
+  - ceb
+Conchita:
+  gender_flag: 1
+  is_short_for:
+  - Concepción
+  lang:
+  - es
+Conchobar:
+  gender_flag: 2
+  lang:
+  - mga
+  - sga
+Conchoor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Conor
+  lang:
+  - gv
+  origin:
+  - sga
+Conchúr:
+  gender_flag: 2
+  is_equivalent_to:
+  - Connor
+  lang:
+  - ga
+  origin:
+  - sga
+Concordia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Condere:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Condrado:
+  gender_flag: 2
+  lang:
+  - ceb
+Confucius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Coni:
+  gender_flag: 1
+  is_short_for:
+  - Concepción
+  lang:
+  - es
+Conleth:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Conley:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Conláed:
+  gender_flag: 2
+  lang:
+  - sga
+Conn:
+  gender_flag: 2
+  lang:
+  - ga
+  - sga
+  origin:
+  - sga
+Connel:
+  gender_flag: 2
+  lang:
+  - en
+Conner:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - ga
+Conni:
+  gender_flag: 1
+  lang:
+  - da
+Connie:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+Connop:
+  gender_flag: 2
+  lang:
+  - en
+Connor:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Conny:
+  gender_flag: 3
+  lang:
+  - da
+  - sv
+Conoc:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - br
+Conogan:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - br
+Conor:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Conrad:
+  gender_flag: 2
+  lang:
+  - ca
+  - en
+  origin:
+  - gem
+Conrado:
+  gender_flag: 2
+  is_equivalent_to:
+  - Conrad
+  lang:
+  - es
+  - pt
+Conråde:
+  gender_flag: 2
+  is_equivalent_to:
+  - Conrad
+  lang:
+  - wa
+Consalvo:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - gem-pro
+Consolacion:
+  gender_flag: 1
+  lang:
+  - ceb
+  - tl
+  origin:
+  - es
+Consolación:
+  gender_flag: 1
+  lang:
+  - es
+Constaintín:
+  gender_flag: 2
+  is_equivalent_to:
+  - Constantine
+  lang:
+  - ga
+  origin:
+  - la
+Constance:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+Constant:
+  gender_flag: 2
+  lang:
+  - en
+  - nrf
+  origin:
+  - la
+Constantijn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Constantine
+  lang:
+  - nl
+  origin:
+  - la
+Constantin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Constantine
+  lang:
+  - en
+  - fr
+  - ro
+Constantina:
+  gender_flag: 1
+  lang:
+  - pt
+Constantine:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Constantino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Constantine
+  lang:
+  - es
+  - pt
+  origin:
+  - la
+Constanze:
+  gender_flag: 1
+  is_a_variant_of:
+  - Konstanze
+  is_equivalent_to:
+  - Constance
+  lang:
+  - de
+Constança:
+  gender_flag: 1
+  is_equivalent_to:
+  - Constance
+  lang:
+  - pt
+Constanța:
+  gender_flag: 1
+  is_equivalent_to:
+  - Constance
+  lang:
+  - ro
+Consuelo:
+  gender_flag: 1
+  lang:
+  - es
+Contardo:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - gem-pro
+Convel:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - br
+Convoyon:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - br
+Conway:
+  gender_flag: 2
+  lang:
+  - en
+Coobragh:
+  gender_flag: 2
+  lang:
+  - gv
+Cool:
+  gender_flag: 2
+  lang:
+  - nl
+Cooney:
+  gender_flag: 1
+  lang:
+  - gv
+Coonie:
+  gender_flag: 1
+  is_short_for:
+  - Cornelia
+  lang:
+  - gmw-ecg
+Coop:
+  gender_flag: 2
+  lang:
+  - en
+Cooper:
+  gender_flag: 2
+  lang:
+  - en
+Coque:
+  gender_flag: 2
+  is_equivalent_to:
+  - Geordie
+  - Georgie
+  is_short_for:
+  - Jorge
+  lang:
+  - es
+Cor:
+  gender_flag: 3
+  lang:
+  - nl
+Cora:
+  gender_flag: 1
+  is_short_for:
+  - Corazon
+  lang:
+  - en
+  - tl
+  origin:
+  - grc
+Coral:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Coralie:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - nrf
+  origin:
+  - fr
+Coraline:
+  gender_flag: 1
+  lang:
+  - en
+Coraliye:
+  gender_flag: 1
+  is_equivalent_to:
+  - Coralie
+  lang:
+  - wa
+Coralîye:
+  gender_flag: 1
+  lang:
+  - wa
+Corazon:
+  gender_flag: 1
+  lang:
+  - ceb
+  - tl
+  origin:
+  - es
+Corbin:
+  gender_flag: 2
+  lang:
+  - en
+Corc: {}
+Cordelia:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - it
+  origin:
+  - en
+  - la
+Cordula:
+  gender_flag: 1
+  lang:
+  - de
+Core:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Corebo:
+  gender_flag: 2
+  lang:
+  - it
+Corentin:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - br
+Corentine:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - br
+Coretta:
+  gender_flag: 1
+  lang:
+  - en
+Corey:
+  gender_flag: 7
+  is_a_variant_of:
+  - Cori
+  lang:
+  - en
+Cori:
+  gender_flag: 1
+  lang:
+  - en
+Corina:
+  gender_flag: 1
+  is_a_variant_of:
+  - Corinna
+  lang:
+  - de
+  - en
+  - ro
+  origin:
+  - grc
+Corinna:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  origin:
+  - grc
+Corinne:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - grc
+Coriolano:
+  gender_flag: 2
+  lang:
+  - it
+Corion:
+  gender_flag: 2
+  lang:
+  - en
+Cormac:
+  gender_flag: 2
+  lang:
+  - en
+  - ga
+  - sga
+  origin:
+  - ga
+  - sga
+Cormack:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Corme:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cosmas
+  lang:
+  - gl
+Cormick:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Corneille:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cornelius
+  lang:
+  - fr
+  origin:
+  - br
+  - la
+Cornelia:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - it
+  - nl
+  - ro
+  - sv
+  origin:
+  - la
+Cornelio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cornelius
+  lang:
+  - es
+  - it
+Cornelis:
+  gender_flag: 2
+  lang:
+  - nl
+Cornelius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Corneliye:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cornelia
+  lang:
+  - wa
+Cornell:
+  gender_flag: 2
+  lang:
+  - en
+Cornélia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cornelia
+  lang:
+  - pt
+Cornélio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cornelius
+  lang:
+  - pt
+Cornély:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - br
+Corona:
+  gender_flag: 3
+  lang:
+  - en
+Corrado:
+  gender_flag: 2
+  is_equivalent_to:
+  - Conrad
+  lang:
+  - it
+Corrie:
+  gender_flag: 3
+  is_short_for:
+  - Cora
+  - Corinne
+  - Cornelia
+  lang:
+  - en
+  - nl
+Corrine:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Corrinne:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Cort:
+  gender_flag: 2
+  lang:
+  - en
+Cory:
+  gender_flag: 3
+  is_a_variant_of:
+  - Corey
+  - Cori
+  lang:
+  - en
+Corydon:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - el
+Coràdo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Conrad
+  lang:
+  - egl
+  origin:
+  - gem
+Cosetta:
+  gender_flag: 1
+  lang:
+  - it
+Cosima:
+  gender_flag: 1
+  lang:
+  - en
+Cosimo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cosmo
+  lang:
+  - it
+Cosma:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cosmas
+  lang:
+  - it
+  origin:
+  - el
+Cosmas:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Cosme:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cosmas
+  lang:
+  - ca
+  - gl
+  - pt
+Cosmin:
+  gender_flag: 2
+  lang:
+  - ro
+Cosmina:
+  gender_flag: 1
+  lang:
+  - ro
+Cosmo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Cosimo
+  lang:
+  - en
+  - it
+  origin:
+  - grc
+  - it
+Costantino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Constantine
+  lang:
+  - it
+  origin:
+  - la
+Costanzo:
+  gender_flag: 2
+  lang:
+  - it
+Costin:
+  gender_flag: 2
+  lang:
+  - ro
+Cotafrit:
+  gender_flag: 1
+  lang:
+  - goh
+Cotahilt:
+  gender_flag: 1
+  lang:
+  - goh
+Coulm:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - br
+Council:
+  gender_flag: 2
+  lang:
+  - en
+Cournug:
+  gender_flag: 2
+  lang:
+  - yol
+Courtenay:
+  gender_flag: 3
+  lang:
+  - en
+Courtney:
+  gender_flag: 7
+  lang:
+  - en
+Covadonga:
+  gender_flag: 1
+  lang:
+  - es
+Covi:
+  gender_flag: 1
+  is_short_for:
+  - Covadonga
+  lang:
+  - es
+Coşkun:
+  gender_flag: 2
+  lang:
+  - tr
+Craig:
+  gender_flag: 2
+  lang:
+  - en
+Crantor:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Crazy Dog:
+  gender_flag: 2
+  lang:
+  - en
+Credo:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - es
+Creed:
+  gender_flag: 2
+  lang:
+  - en
+Creeney:
+  gender_flag: 1
+  lang:
+  - gv
+Creesteeney:
+  gender_flag: 1
+  is_equivalent_to:
+  - Christina
+  lang:
+  - gv
+  origin:
+  - grc
+Creighton:
+  gender_flag: 2
+  lang:
+  - en
+Crescentia:
+  gender_flag: 1
+  lang:
+  - de
+  origin:
+  - la
+Crescenzo:
+  gender_flag: 2
+  lang:
+  - it
+Cresimirus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Krešimir
+  lang:
+  - la
+Crespin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Crispin
+  lang:
+  - wa
+Cressida:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Crew:
+  gender_flag: 2
+  lang:
+  - en
+Crickette:
+  gender_flag: 1
+  lang:
+  - en
+Crimilde:
+  gender_flag: 1
+  lang:
+  - it
+Crina:
+  gender_flag: 1
+  lang:
+  - ro
+Criosaidh:
+  gender_flag: 1
+  is_equivalent_to:
+  - Chrissie
+  is_short_for:
+  - Cairistìona
+  lang:
+  - gd
+Cris:
+  gender_flag: 7
+  lang:
+  - en
+Crisanta:
+  gender_flag: 1
+  lang:
+  - es
+Crisanto:
+  gender_flag: 2
+  lang:
+  - es
+Crising:
+  gender_flag: 1
+  is_short_for:
+  - Crisanta
+  - Cristina
+  lang:
+  - tl
+Crisostomo:
+  gender_flag: 2
+  lang:
+  - ceb
+  - it
+  - tl
+  origin:
+  - es
+Crispim:
+  gender_flag: 2
+  lang:
+  - pt
+Crispin:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - es
+  - la
+Crispino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Crispin
+  lang:
+  - it
+  - pt
+Crispolto:
+  gender_flag: 2
+  lang:
+  - it
+Crispulo:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+  origin:
+  - es
+Crispus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Crispín:
+  gender_flag: 2
+  lang:
+  - es
+Cristi:
+  gender_flag: 3
+  lang:
+  - en
+  - ro
+  - rup
+Cristian:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christian
+  lang:
+  - en
+  - pt
+  - ro
+  origin:
+  - en
+  - grc
+Cristiana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Christiana
+  lang:
+  - it
+Cristiano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christian
+  lang:
+  - it
+  - pt
+Cristina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Christina
+  lang:
+  - ca
+  - es
+  - it
+  - pt
+  - ro
+Cristine:
+  gender_flag: 1
+  is_equivalent_to:
+  - Christina
+  lang:
+  - enm
+  - wa
+Cristinel:
+  gender_flag: 2
+  is_short_for:
+  - Cristian
+  lang:
+  - ro
+Cristián:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christian
+  lang:
+  - es
+Cristobal:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - es
+Cristofe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - wa
+Cristoforo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - it
+Cristopher:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - en
+Cristòfol:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - ca
+Cristóbal:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - es
+Cristóforo:
+  gender_flag: 2
+  lang:
+  - pt
+Cristóvão:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - pt
+Crisóstomo:
+  gender_flag: 2
+  lang:
+  - es
+Crockett:
+  gender_flag: 2
+  lang:
+  - en
+Crocotium:
+  gender_flag: 2
+  lang:
+  - la
+Croesus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Crusoe:
+  gender_flag: 2
+  lang:
+  - en
+Cruz:
+  gender_flag: 3
+  lang:
+  - es
+Cruzinha:
+  gender_flag: 1
+  is_short_for:
+  - Cruz
+  lang:
+  - pt
+Crystal:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Crìsdean:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christian
+  - Christopher
+  lang:
+  - gd
+Críspulo:
+  gender_flag: 2
+  lang:
+  - es
+Csaba:
+  gender_flag: 2
+  lang:
+  - hu
+Csepel:
+  gender_flag: 2
+  lang:
+  - hu
+Csilla:
+  gender_flag: 1
+  lang:
+  - hu
+Csoma:
+  gender_flag: 2
+  lang:
+  - hu
+Ctibor:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Ctirad:
+  gender_flag: 2
+  lang:
+  - cs
+Cuauhtlahtoatzin:
+  gender_flag: 2
+  lang:
+  - nci
+Cuauhtémoc:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - nci
+Cuca:
+  gender_flag: 1
+  lang:
+  - es
+Cueto:
+  gender_flag: 2
+  lang:
+  - es
+Cuiléin:
+  gender_flag: 2
+  lang:
+  - mga
+Cullane:
+  gender_flag: 2
+  lang:
+  - en
+Cullen:
+  gender_flag: 2
+  lang:
+  - en
+Cullin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Collin
+  lang:
+  - yol
+Cumar:
+  gender_flag: 2
+  lang:
+  - so
+Cumhur:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Cumrun: {}
+Cun:
+  gender_flag: 1
+  lang:
+  - owl
+Cuniberto:
+  gender_flag: 2
+  lang:
+  - it
+Cunimundus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - gem-pro
+Cunstance:
+  gender_flag: 1
+  is_equivalent_to:
+  - Constance
+  lang:
+  - fro
+  origin:
+  - la
+Cunwal:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - br
+Curculio:
+  gender_flag: 2
+  lang:
+  - la
+Curly:
+  gender_flag: 2
+  lang:
+  - en
+Curmisagius:
+  gender_flag: 2
+  lang:
+  - la
+Curro:
+  gender_flag: 2
+  is_short_for:
+  - Francisco
+  lang:
+  - es
+Curstaidh:
+  gender_flag: 1
+  lang:
+  - gd
+  origin:
+  - grc
+Curt:
+  gender_flag: 2
+  lang:
+  - en
+  - sv
+  origin:
+  - gem
+Curtis:
+  gender_flag: 2
+  lang:
+  - en
+Curzio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Kurt
+  lang:
+  - it
+Cushla:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Custal:
+  gender_flag: 2
+  lang:
+  - gv
+Custodio:
+  gender_flag: 2
+  lang:
+  - es
+Cuthbert:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  origin:
+  - ang
+Cuþbeald:
+  gender_flag: 2
+  lang:
+  - ang
+Cuþberht:
+  gender_flag: 2
+  lang:
+  - ang
+Cuþflæd:
+  gender_flag: 1
+  lang:
+  - ang
+Cuþwulf:
+  gender_flag: 2
+  lang:
+  - ang
+Cvetka:
+  gender_flag: 1
+  lang:
+  - sl
+Cy:
+  gender_flag: 2
+  is_short_for:
+  - Cyril
+  - Cyrus
+  lang:
+  - en
+Cyamus:
+  gender_flag: 2
+  lang:
+  - la
+Cybil:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Cybill:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Cyd:
+  gender_flag: 7
+  lang:
+  - en
+Cydney:
+  gender_flag: 1
+  lang:
+  - en
+Cylindrus:
+  gender_flag: 2
+  lang:
+  - la
+Cyndi:
+  gender_flag: 1
+  is_short_for:
+  - Cynthia
+  lang:
+  - en
+Cyndie:
+  gender_flag: 1
+  is_short_for:
+  - Cynthia
+  lang:
+  - en
+Cyndy:
+  gender_flag: 1
+  is_short_for:
+  - Cynthia
+  lang:
+  - en
+Cyneberht:
+  gender_flag: 2
+  lang:
+  - ang
+Cynelaf:
+  gender_flag: 2
+  lang:
+  - ang
+Cynemund:
+  gender_flag: 2
+  lang:
+  - ang
+Cyneræd:
+  gender_flag: 2
+  lang:
+  - ang
+Cynesige:
+  gender_flag: 2
+  lang:
+  - ang
+Cynestan:
+  gender_flag: 2
+  lang:
+  - ang
+Cynewig:
+  gender_flag: 2
+  lang:
+  - ang
+Cynewine:
+  gender_flag: 2
+  lang:
+  - ang
+Cynewulf:
+  gender_flag: 2
+  lang:
+  - ang
+Cynferð:
+  gender_flag: 2
+  lang:
+  - ang
+Cynferþ:
+  gender_flag: 2
+  lang:
+  - ang
+Cynthia:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - la
+  - tl
+  origin:
+  - en
+  - grc
+Cynthius:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Cyprian:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cipriano
+  lang:
+  - pl
+Cyprien:
+  gender_flag: 2
+  lang:
+  - fr
+Cyprián:
+  gender_flag: 2
+  lang:
+  - sk
+Cyrda:
+  gender_flag: 2
+  is_short_for:
+  - Cyril
+  lang:
+  - cs
+Cyriaque:
+  gender_flag: 2
+  lang:
+  - fr
+Cyril:
+  gender_flag: 2
+  is_a_variant_of:
+  - Cyrille
+  lang:
+  - ceb
+  - cs
+  - en
+  - fr
+  - sk
+  origin:
+  - en
+  - grc
+Cyrill:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cyril
+  lang:
+  - gsw
+  origin:
+  - grc
+Cyrille:
+  gender_flag: 3
+  is_equivalent_to:
+  - Cyril
+  lang:
+  - fr
+  - nrf
+Cyrus:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - grc
+  - peo
+Cyryl:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cyril
+  lang:
+  - pl
+  origin:
+  - grc
+  - la
+Czesław:
+  gender_flag: 2
+  lang:
+  - pl
+Czesława:
+  gender_flag: 1
+  lang:
+  - pl
+Các: {}
+Cáique:
+  gender_flag: 2
+  lang:
+  - pt
+Cáit:
+  gender_flag: 1
+  is_equivalent_to:
+  - Kate
+  lang:
+  - ga
+Cándida:
+  gender_flag: 1
+  lang:
+  - es
+Cándido:
+  gender_flag: 2
+  lang:
+  - es
+Cármen:
+  gender_flag: 1
+  lang:
+  - pt
+Cássio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cassius
+  lang:
+  - pt
+Cátia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Katya
+  lang:
+  - pt
+  origin:
+  - ru
+Câlisse:
+  gender_flag: 7
+  lang:
+  - wa
+Cândida:
+  gender_flag: 1
+  lang:
+  - pt
+Cäcilia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cecilia
+  lang:
+  - de
+Cäcilie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cecilia
+  lang:
+  - de
+Cäsar:
+  gender_flag: 2
+  lang:
+  - de
+Cålisse:
+  gender_flag: 7
+  is_equivalent_to:
+  - Calixte
+  lang:
+  - wa
+Cæcilie:
+  gender_flag: 1
+  lang:
+  - da
+Cædmon:
+  gender_flag: 2
+  lang:
+  - ang
+  origin:
+  - cel-bry-pro
+Cécile:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cecilia
+  lang:
+  - fr
+Cécilia:
+  gender_flag: 1
+  lang:
+  - fr
+Cécire:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cecilia
+  lang:
+  - nrf
+Cédonîye:
+  gender_flag: 1
+  lang:
+  - wa
+Cédric:
+  gender_flag: 2
+  lang:
+  - fr
+Cédrika:
+  gender_flag: 1
+  lang:
+  - fr
+Cédulie:
+  gender_flag: 1
+  lang:
+  - nrf
+Céleste:
+  gender_flag: 1
+  is_equivalent_to:
+  - Celeste
+  lang:
+  - fr
+Célia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Celia
+  lang:
+  - fr
+  - pt
+Céline:
+  gender_flag: 1
+  lang:
+  - fr
+Céliniye:
+  gender_flag: 1
+  lang:
+  - wa
+Célinâ:
+  gender_flag: 1
+  lang:
+  - wa
+Célinîye:
+  gender_flag: 1
+  lang:
+  - wa
+Célène:
+  gender_flag: 1
+  lang:
+  - nrf
+Cénéric:
+  gender_flag: 2
+  lang:
+  - nrf
+César:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+  - nrf
+  - pt
+  origin:
+  - la
+Cíarán:
+  gender_flag: 2
+  lang:
+  - sga
+Cícero:
+  gender_flag: 2
+  lang:
+  - pt
+Cíla:
+  gender_flag: 1
+  is_short_for:
+  - Cecílie
+  lang:
+  - cs
+Cílinka:
+  gender_flag: 1
+  is_short_for:
+  - Cíla
+  lang:
+  - cs
+Cíntia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cynthia
+  lang:
+  - pt
+  origin:
+  - grc
+Cóemgen:
+  gender_flag: 2
+  lang:
+  - sga
+Côme:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cosmo
+  lang:
+  - fr
+  - wa
+Công:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Côrnélîye:
+  gender_flag: 1
+  lang:
+  - wa
+Cú Bretan:
+  gender_flag: 2
+  lang:
+  - sga
+Cúc:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Cüneyt:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Cătălin:
+  gender_flag: 2
+  lang:
+  - ro
+Cătălina:
+  gender_flag: 1
+  lang:
+  - ro
+Cường:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Cəbrayıl:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+Cəfər:
+  gender_flag: 2
+  lang:
+  - az
+Cəlil:
+  gender_flag: 2
+  lang:
+  - az
+Cəmil:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+Cəmilə:
+  gender_flag: 1
+  lang:
+  - az
+Cəmşid:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - fa
+Çaba:
+  gender_flag: 2
+  lang:
+  - tr
+Çakır:
+  gender_flag: 3
+  lang:
+  - tr
+Çalışkan:
+  gender_flag: 3
+  lang:
+  - tr
+Çam:
+  gender_flag: 2
+  lang:
+  - tr
+Çanga:
+  gender_flag: 2
+  lang:
+  - tr
+Çarlz: {}
+Çary:
+  gender_flag: 2
+  lang:
+  - tk
+Çağ:
+  gender_flag: 2
+  lang:
+  - tr
+Çağatay:
+  gender_flag: 2
+  lang:
+  - tr
+Çağdaş:
+  gender_flag: 3
+  lang:
+  - tr
+Çağla:
+  gender_flag: 3
+  lang:
+  - tr
+Çelik:
+  gender_flag: 2
+  lang:
+  - tr
+Çeliker:
+  gender_flag: 2
+  lang:
+  - tr
+Çem:
+  gender_flag: 2
+  lang:
+  - kmr
+Çeri:
+  gender_flag: 2
+  lang:
+  - tr
+Çetin:
+  gender_flag: 2
+  lang:
+  - tr
+Çevik:
+  gender_flag: 2
+  lang:
+  - tr
+Çeviker:
+  gender_flag: 2
+  lang:
+  - tr
+Çeyiz:
+  gender_flag: 1
+  lang:
+  - tr
+Çhalse:
+  gender_flag: 2
+  is_equivalent_to:
+  - Charles
+  lang:
+  - gv
+Çiçek:
+  gender_flag: 1
+  lang:
+  - tr
+Çiğdem:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - otk
+Çolak:
+  gender_flag: 2
+  lang:
+  - tr
+Çup:
+  gender_flag: 2
+  is_equivalent_to:
+  - Coby
+  lang:
+  - sq
+Çupi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Coby
+  lang:
+  - sq
+Čenda:
+  gender_flag: 2
+  is_short_for:
+  - Čeněk
+  - Čestmír
+  lang:
+  - cs
+Čeněk:
+  gender_flag: 2
+  lang:
+  - cs
+Česlovas:
+  gender_flag: 2
+  lang:
+  - lt
+Čestmír:
+  gender_flag: 2
+  lang:
+  - cs

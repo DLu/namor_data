@@ -1,0 +1,38 @@
+tables:
+  # Crawl
+  categories:
+  - id
+  - name
+  - last_crawl
+  names:
+  - id
+  - name
+  - wiki_text
+  - last_crawl
+  category_membership:
+  - category_id
+  - name_id
+  # Parse
+  name_info:
+  - id
+  - last_parse
+  - gender_flag
+  name_lang:
+  - name_id
+  - lang
+  name_origin:
+  - name_id
+  - lang
+  relationships:
+  - name_id
+  - relationship
+  - name_id2
+types:
+  id: int
+  name_id: int
+  category_id: int
+  last_crawl: timestamp
+  last_parse: timestamp
+  gender_flag: int
+  name_id2: int
+  relationship: Relationship

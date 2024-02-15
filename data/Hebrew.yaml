@@ -1,0 +1,1553 @@
+אַבֿרהם:
+  gender_flag: 2
+  lang:
+  - yi
+  origin:
+  - he
+אַרנאָלד:
+  gender_flag: 2
+  lang:
+  - yi
+אבי:
+  gender_flag: 2
+  lang:
+  - he
+אביב:
+  gender_flag: 2
+  lang:
+  - he
+אביגיל:
+  gender_flag: 1
+  lang:
+  - he
+אביה:
+  gender_flag: 3
+  lang:
+  - he
+אבישלום:
+  gender_flag: 2
+  lang:
+  - he
+אביתר:
+  gender_flag: 2
+  lang:
+  - he
+אבנר:
+  gender_flag: 2
+  lang:
+  - he
+אברהם:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - arc
+  - he
+אברם:
+  gender_flag: 2
+  lang:
+  - he
+אדם:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - arc
+  - he
+אדר:
+  gender_flag: 3
+  lang:
+  - he
+אהוד:
+  gender_flag: 2
+  lang:
+  - he
+אהרון:
+  gender_flag: 2
+  lang:
+  - arc
+אהרוני:
+  gender_flag: 2
+  lang:
+  - he
+אהרן:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aaron
+  lang:
+  - he
+  - yi
+  origin:
+  - he
+אופיר:
+  gender_flag: 3
+  lang:
+  - he
+אופק:
+  gender_flag: 2
+  lang:
+  - he
+אורון:
+  gender_flag: 2
+  lang:
+  - he
+אורי:
+  gender_flag: 2
+  lang:
+  - he
+אוריה:
+  gender_flag: 3
+  is_equivalent_to:
+  - Uriah
+  lang:
+  - he
+אורית:
+  gender_flag: 1
+  lang:
+  - he
+אורן:
+  gender_flag: 2
+  is_equivalent_to:
+  - Oren
+  lang:
+  - he
+אחז:
+  gender_flag: 2
+  lang:
+  - he
+אחינועם:
+  gender_flag: 1
+  lang:
+  - he
+איה:
+  gender_flag: 1
+  lang:
+  - he
+איוב:
+  gender_flag: 2
+  lang:
+  - he
+איזבל:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jezebel
+  lang:
+  - he
+אייל:
+  gender_flag: 2
+  lang:
+  - he
+איכבוד:
+  gender_flag: 2
+  lang:
+  - he
+אילן:
+  gender_flag: 2
+  lang:
+  - he
+איציק:
+  gender_flag: 2
+  lang:
+  - yi
+איתי:
+  gender_flag: 2
+  lang:
+  - he
+איתמר:
+  gender_flag: 2
+  lang:
+  - he
+איתן:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ethan
+  lang:
+  - he
+אלון:
+  gender_flag: 2
+  lang:
+  - he
+אלי: {}
+אליה:
+  gender_flag: 2
+  is_equivalent_to:
+  - Elijah
+  lang:
+  - he
+אליהו:
+  gender_flag: 2
+  is_equivalent_to:
+  - Elias
+  - Elijah
+  lang:
+  - he
+אליעזר:
+  gender_flag: 2
+  is_equivalent_to:
+  - Eliezer
+  lang:
+  - he
+  - yi
+אלישבע:
+  gender_flag: 1
+  lang:
+  - he
+אלעד:
+  gender_flag: 2
+  lang:
+  - he
+אמנון:
+  gender_flag: 2
+  lang:
+  - he
+אמר:
+  gender_flag: 2
+  lang:
+  - he
+אנה:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anna
+  lang:
+  - he
+אנוש:
+  gender_flag: 2
+  lang:
+  - he
+אסא:
+  gender_flag: 2
+  lang:
+  - arc
+  - he
+אסיה:
+  gender_flag: 1
+  lang:
+  - he
+אסנת:
+  gender_flag: 1
+  lang:
+  - he
+אסף:
+  gender_flag: 2
+  lang:
+  - he
+אסתּר:
+  gender_flag: 1
+  is_equivalent_to:
+  - Esther
+  lang:
+  - yi
+אסתר:
+  gender_flag: 1
+  is_equivalent_to:
+  - Esther
+  lang:
+  - he
+אפרת:
+  gender_flag: 1
+  lang:
+  - he
+ארז:
+  gender_flag: 2
+  lang:
+  - he
+ארי:
+  lang:
+  - he
+אריאל:
+  gender_flag: 2
+  lang:
+  - he
+אריה:
+  gender_flag: 2
+  lang:
+  - he
+  - yi
+ארם:
+  gender_flag: 2
+  lang:
+  - arc
+  - he
+אשר:
+  gender_flag: 2
+  lang:
+  - he
+בונים:
+  gender_flag: 2
+  lang:
+  - yi
+ביילע:
+  gender_flag: 1
+  lang:
+  - yi
+בכר:
+  gender_flag: 2
+  lang:
+  - he
+בכרי:
+  gender_flag: 2
+  lang:
+  - he
+בלהה:
+  gender_flag: 1
+  lang:
+  - he
+בן:
+  gender_flag: 2
+  lang:
+  - he
+בנימין:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benjamin
+  lang:
+  - he
+  - yi
+בענדיט:
+  gender_flag: 2
+  lang:
+  - yi
+בער:
+  gender_flag: 2
+  lang:
+  - he
+  - yi
+בר:
+  gender_flag: 2
+  lang:
+  - he
+ברוך:
+  gender_flag: 2
+  lang:
+  - he
+  - lad
+  - yi
+ברק:
+  gender_flag: 2
+  lang:
+  - he
+ברײַנע:
+  gender_flag: 1
+  lang:
+  - yi
+בת שבע:
+  gender_flag: 1
+  lang:
+  - he
+גאָלדע:
+  gender_flag: 1
+  lang:
+  - yi
+גבֿריאל:
+  gender_flag: 2
+  lang:
+  - yi
+גברי:
+  gender_flag: 2
+  lang:
+  - he
+גבריאל:
+  gender_flag: 2
+  lang:
+  - he
+גד:
+  gender_flag: 2
+  lang:
+  - he
+גדי:
+  gender_flag: 2
+  lang:
+  - he
+גדל:
+  gender_flag: 2
+  lang:
+  - he
+גולן:
+  gender_flag: 3
+  lang:
+  - he
+גיא:
+  gender_flag: 2
+  lang:
+  - he
+גיטל:
+  gender_flag: 1
+  lang:
+  - yi
+גיל:
+  gender_flag: 2
+  lang:
+  - he
+גילה:
+  gender_flag: 1
+  lang:
+  - he
+גלעד:
+  gender_flag: 2
+  lang:
+  - he
+גרשם:
+  gender_flag: 2
+  lang:
+  - he
+דאויסכא:
+  gender_flag: 2
+  lang:
+  - lsd
+  origin:
+  - he
+דבורה:
+  gender_flag: 1
+  lang:
+  - he
+דוב:
+  gender_flag: 2
+  lang:
+  - he
+דובֿ־בער:
+  gender_flag: 2
+  lang:
+  - yi
+דוד:
+  gender_flag: 2
+  lang:
+  - he
+  - yi
+דויד:
+  gender_flag: 2
+  lang:
+  - arc
+דונלד:
+  gender_flag: 2
+  lang:
+  - he
+דורון:
+  gender_flag: 2
+  lang:
+  - he
+דורית:
+  gender_flag: 1
+  lang:
+  - he
+דזשאָרדזש:
+  gender_flag: 2
+  lang:
+  - yi
+דין:
+  gender_flag: 2
+  lang:
+  - he
+דן:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dan
+  lang:
+  - he
+דניאל:
+  gender_flag: 3
+  lang:
+  - he
+דרור:
+  gender_flag: 2
+  lang:
+  - he
+הגר:
+  gender_flag: 1
+  lang:
+  - he
+הדס:
+  gender_flag: 1
+  lang:
+  - he
+הדסה:
+  gender_flag: 1
+  lang:
+  - he
+הדר:
+  gender_flag: 2
+  lang:
+  - he
+הושע:
+  gender_flag: 2
+  lang:
+  - he
+הירש:
+  gender_flag: 2
+  lang:
+  - yi
+הלל:
+  gender_flag: 2
+  lang:
+  - he
+הערשל:
+  gender_flag: 2
+  lang:
+  - yi
+ויקי:
+  gender_flag: 1
+  is_equivalent_to:
+  - Vicky
+  lang:
+  - he
+זאב:
+  gender_flag: 2
+  lang:
+  - he
+זבולון:
+  gender_flag: 2
+  lang:
+  - he
+זבל:
+  gender_flag: 2
+  lang:
+  - he
+זוהר:
+  gender_flag: 2
+  lang:
+  - he
+זיוה:
+  gender_flag: 1
+  lang:
+  - he
+זכרי:
+  gender_flag: 2
+  lang:
+  - he
+זכריה:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zechariah
+  lang:
+  - he
+זכריהו:
+  gender_flag: 2
+  lang:
+  - he
+זלמן:
+  gender_flag: 2
+  lang:
+  - yi
+זעליג:
+  gender_flag: 2
+  lang:
+  - yi
+זרח:
+  gender_flag: 2
+  lang:
+  - he
+חבצלת:
+  gender_flag: 1
+  lang:
+  - he
+חבקוק:
+  gender_flag: 2
+  lang:
+  - he
+חגי:
+  gender_flag: 2
+  lang:
+  - he
+חוא:
+  gender_flag: 1
+  lang:
+  - arc
+חוה:
+  gender_flag: 1
+  lang:
+  - he
+חוויאר:
+  gender_flag: 2
+  lang:
+  - he
+חולדה:
+  gender_flag: 1
+  lang:
+  - he
+חזקיהו:
+  gender_flag: 2
+  lang:
+  - he
+חיה:
+  gender_flag: 1
+  lang:
+  - he
+חיים:
+  gender_flag: 2
+  lang:
+  - he
+  - yi
+חן:
+  gender_flag: 3
+  lang:
+  - he
+חנה:
+  gender_flag: 1
+  lang:
+  - he
+  - yi
+חנוך:
+  gender_flag: 2
+  lang:
+  - he
+חנון:
+  gender_flag: 2
+  lang:
+  - he
+חנן:
+  gender_flag: 2
+  lang:
+  - arc
+  - he
+חרות:
+  gender_flag: 1
+  lang:
+  - he
+טביתא:
+  gender_flag: 1
+  lang:
+  - arc
+טוביה:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tobias
+  lang:
+  - he
+טל:
+  gender_flag: 2
+  lang:
+  - he
+טײַבל:
+  gender_flag: 1
+  lang:
+  - yi
+יאַנקל:
+  gender_flag: 2
+  lang:
+  - yi
+יאָסל:
+  gender_flag: 2
+  lang:
+  - yi
+יאיר:
+  gender_flag: 2
+  lang:
+  - he
+יהודא:
+  gender_flag: 2
+  lang:
+  - arc
+יהודה:
+  gender_flag: 2
+  lang:
+  - he
+יהודי:
+  gender_flag: 2
+  lang:
+  - he
+יהודית:
+  gender_flag: 1
+  lang:
+  - he
+יהוסף:
+  gender_flag: 2
+  lang:
+  - he
+יהושע:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joshua
+  lang:
+  - he
+יואב:
+  gender_flag: 2
+  lang:
+  - he
+יואל:
+  gender_flag: 2
+  lang:
+  - he
+יובל:
+  gender_flag: 2
+  lang:
+  - he
+יוחאי:
+  gender_flag: 2
+  lang:
+  - he
+יוחנן:
+  gender_flag: 2
+  lang:
+  - arc
+  - he
+יוכבד:
+  gender_flag: 1
+  lang:
+  - he
+יולי:
+  gender_flag: 2
+  lang:
+  - he
+יום טוב:
+  gender_flag: 2
+  lang:
+  - he
+יונה:
+  gender_flag: 3
+  is_equivalent_to:
+  - Jonah
+  lang:
+  - he
+יוני:
+  gender_flag: 2
+  lang:
+  - he
+יונתן:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jonathan
+  lang:
+  - he
+  - yi
+יוסי:
+  gender_flag: 2
+  lang:
+  - he
+  - yi
+יוסף:
+  gender_flag: 2
+  lang:
+  - ar
+  - arc
+  - he
+  - yi
+יחזקאל:
+  gender_flag: 2
+  lang:
+  - he
+ימין:
+  gender_flag: 2
+  lang:
+  - he
+יממא:
+  gender_flag: 1
+  lang:
+  - arc
+יסמין:
+  gender_flag: 1
+  lang:
+  - he
+יעל:
+  gender_flag: 1
+  is_equivalent_to:
+  - Yael
+  lang:
+  - he
+  - yi
+יעקב:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - he
+יעקבֿ:
+  gender_flag: 2
+  lang:
+  - yi
+יעקוב:
+  gender_flag: 2
+  lang:
+  - arc
+יצחק:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaac
+  lang:
+  - he
+  - yi
+ירדן:
+  gender_flag: 4
+  lang:
+  - he
+ירמיה:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jeremiah
+  lang:
+  - he
+ישוע:
+  gender_flag: 2
+  lang:
+  - arc
+  - he
+ישי:
+  gender_flag: 2
+  lang:
+  - he
+ישעיהו:
+  gender_flag: 2
+  lang:
+  - he
+ישראל:
+  gender_flag: 2
+  lang:
+  - he
+יששכר:
+  gender_flag: 2
+  is_equivalent_to:
+  - Issachar
+  lang:
+  - he
+יתר:
+  gender_flag: 2
+  lang:
+  - he
+כנה:
+  lang:
+  - he
+כפיר:
+  gender_flag: 2
+  lang:
+  - he
+לאה:
+  gender_flag: 1
+  lang:
+  - he
+  - yi
+לביא:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leo
+  lang:
+  - he
+לבן:
+  gender_flag: 2
+  lang:
+  - he
+לבנה:
+  gender_flag: 1
+  lang:
+  - he
+לוי:
+  gender_flag: 2
+  lang:
+  - he
+לוקא:
+  gender_flag: 2
+  lang:
+  - arc
+ליא:
+  gender_flag: 1
+  lang:
+  - arc
+לייב:
+  gender_flag: 2
+  lang:
+  - yi
+לייזער:
+  gender_flag: 2
+  lang:
+  - yi
+לילי:
+  gender_flag: 1
+  lang:
+  - he
+  origin:
+  - en
+למואל:
+  gender_flag: 2
+  lang:
+  - he
+מאַני:
+  gender_flag: 2
+  lang:
+  - yi
+מאַרק:
+  gender_flag: 2
+  lang:
+  - yi
+מאי:
+  gender_flag: 1
+  lang:
+  - he
+מאיר:
+  gender_flag: 2
+  lang:
+  - he
+  - yi
+מדין:
+  gender_flag: 2
+  lang:
+  - he
+מוחמד:
+  gender_flag: 2
+  is_equivalent_to:
+  - Muhammad
+  lang:
+  - he
+  origin:
+  - ar
+מושא:
+  gender_flag: 2
+  lang:
+  - arc
+מייק: {}
+מיכאל:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - he
+  - yi
+  origin:
+  - he
+מיכה:
+  gender_flag: 2
+  is_equivalent_to:
+  - Micah
+  lang:
+  - he
+מיכיה:
+  gender_flag: 2
+  lang:
+  - he
+מיכיהו:
+  gender_flag: 2
+  lang:
+  - he
+מיכל:
+  gender_flag: 1
+  lang:
+  - he
+מימון:
+  gender_flag: 2
+  lang:
+  - he
+מיקה:
+  gender_flag: 1
+  lang:
+  - he
+מירל:
+  gender_flag: 1
+  lang:
+  - yi
+מלאכי:
+  gender_flag: 2
+  is_equivalent_to:
+  - Malachi
+  lang:
+  - he
+מנדי:
+  gender_flag: 2
+  lang:
+  - he
+מנוחה:
+  gender_flag: 1
+  lang:
+  - he
+מנחם:
+  gender_flag: 2
+  lang:
+  - he
+מנשה:
+  gender_flag: 2
+  lang:
+  - he
+מענדל:
+  gender_flag: 2
+  lang:
+  - yi
+מרא:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mara
+  lang:
+  - he
+מרב:
+  gender_flag: 1
+  lang:
+  - he
+מרדכי:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mordecai
+  lang:
+  - he
+  - yi
+מרים:
+  gender_flag: 1
+  lang:
+  - arc
+  - he
+מרקוס:
+  gender_flag: 2
+  lang:
+  - arc
+מרתא:
+  gender_flag: 1
+  lang:
+  - arc
+משה:
+  gender_flag: 2
+  is_equivalent_to:
+  - Moses
+  lang:
+  - he
+משקא:
+  gender_flag: 2
+  lang:
+  - czk
+מתי:
+  gender_flag: 2
+  lang:
+  - arc
+  - he
+מתן:
+  gender_flag: 2
+  lang:
+  - he
+מתתיהו:
+  gender_flag: 2
+  lang:
+  - he
+נאוה:
+  gender_flag: 1
+  lang:
+  - he
+נאור:
+  gender_flag: 2
+  lang:
+  - he
+נגה:
+  gender_flag: 3
+  lang:
+  - he
+נוח:
+  gender_flag: 2
+  lang:
+  - arc
+נון:
+  gender_flag: 2
+  lang:
+  - he
+נועם:
+  gender_flag: 2
+  lang:
+  - he
+נח:
+  gender_flag: 2
+  is_equivalent_to:
+  - Noah
+  lang:
+  - he
+נחום:
+  gender_flag: 2
+  is_equivalent_to:
+  - Nahum
+  lang:
+  - he
+  - yi
+נחמה:
+  gender_flag: 1
+  lang:
+  - he
+נחמיה:
+  gender_flag: 2
+  is_equivalent_to:
+  - Nehemiah
+  lang:
+  - he
+נחמן:
+  gender_flag: 2
+  lang:
+  - he
+נטע:
+  gender_flag: 2
+  lang:
+  - he
+ניב:
+  gender_flag: 2
+  lang:
+  - he
+ניסן:
+  gender_flag: 2
+  lang:
+  - he
+ניצה:
+  gender_flag: 1
+  lang:
+  - he
+ניקאָלײַ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Nicholas
+  lang:
+  - yi
+ניתאי:
+  gender_flag: 2
+  lang:
+  - he
+נמרוד:
+  gender_flag: 2
+  lang:
+  - he
+נסים:
+  gender_flag: 2
+  lang:
+  - he
+נעמה:
+  gender_flag: 1
+  lang:
+  - he
+נעמי:
+  gender_flag: 1
+  is_equivalent_to:
+  - Naomi
+  lang:
+  - he
+נץ:
+  gender_flag: 2
+  lang:
+  - he
+נתן:
+  gender_flag: 2
+  lang:
+  - he
+  - yi
+סופיה:
+  gender_flag: 1
+  lang:
+  - he
+  origin:
+  - grc
+ספיר:
+  gender_flag: 2
+  lang:
+  - he
+סרא:
+  gender_flag: 1
+  lang:
+  - arc
+סתיו:
+  gender_flag: 2
+  lang:
+  - he
+עדה:
+  gender_flag: 1
+  lang:
+  - he
+עדי:
+  gender_flag: 3
+  lang:
+  - he
+עדינה:
+  gender_flag: 1
+  lang:
+  - he
+עדנה:
+  gender_flag: 1
+  lang:
+  - he
+עדריאל:
+  gender_flag: 2
+  lang:
+  - he
+עובדיה:
+  gender_flag: 2
+  is_equivalent_to:
+  - Obadiah
+  lang:
+  - he
+עומר:
+  gender_flag: 2
+  lang:
+  - he
+עופר:
+  gender_flag: 3
+  lang:
+  - he
+עזיז:
+  gender_flag: 2
+  lang:
+  - he
+עזר:
+  gender_flag: 2
+  lang:
+  - he
+עזרא:
+  gender_flag: 2
+  lang:
+  - he
+עלי: {}
+עלמה:
+  gender_flag: 1
+  lang:
+  - he
+עמוס:
+  gender_flag: 2
+  lang:
+  - he
+עמית:
+  gender_flag: 2
+  lang:
+  - he
+עמנואל:
+  gender_flag: 2
+  lang:
+  - he
+עקיבא:
+  gender_flag: 2
+  lang:
+  - arc
+  - he
+  - yi
+פּרץ:
+  gender_flag: 2
+  lang:
+  - yi
+פֿײַוול:
+  gender_flag: 2
+  lang:
+  - yi
+פול:
+  gender_flag: 2
+  lang:
+  - he
+  origin:
+  - en
+פולוס:
+  gender_flag: 2
+  lang:
+  - arc
+פטר:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - he
+פלג:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peleg
+  lang:
+  - he
+פסח:
+  gender_flag: 2
+  lang:
+  - he
+פקח:
+  gender_flag: 2
+  lang:
+  - he
+פרץ:
+  gender_flag: 2
+  lang:
+  - he
+צבי:
+  gender_flag: 2
+  lang:
+  - he
+צור:
+  gender_flag: 2
+  lang:
+  - he
+ציון:
+  gender_flag: 2
+  lang:
+  - he
+ציפורה:
+  gender_flag: 1
+  lang:
+  - he
+ציפי:
+  gender_flag: 1
+  lang:
+  - he
+צלפחד:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zelophehad
+  lang:
+  - he
+צפניה:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zephaniah
+  lang:
+  - he
+קאַדיע:
+  gender_flag: 1
+  lang:
+  - yi
+קאַרל:
+  gender_flag: 2
+  lang:
+  - yi
+קהת:
+  gender_flag: 2
+  lang:
+  - he
+קלאודיו:
+  gender_flag: 2
+  lang:
+  - he
+קלמן:
+  gender_flag: 2
+  lang:
+  - yi
+קרן:
+  gender_flag: 1
+  lang:
+  - he
+ראובן:
+  gender_flag: 2
+  lang:
+  - he
+רבֿקה:
+  gender_flag: 1
+  lang:
+  - yi
+רבקה:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rebecca
+  lang:
+  - he
+רוית:
+  gender_flag: 1
+  lang:
+  - he
+רומנוס:
+  gender_flag: 2
+  lang:
+  - he
+רון:
+  gender_flag: 2
+  lang:
+  - he
+רונן:
+  gender_flag: 2
+  lang:
+  - he
+רועי:
+  gender_flag: 2
+  lang:
+  - he
+רות:
+  gender_flag: 1
+  lang:
+  - he
+  - yi
+רחב:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rahab
+  lang:
+  - he
+רחל:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rachel
+  lang:
+  - he
+  - yi
+רחמים:
+  gender_flag: 2
+  lang:
+  - he
+רייטשעל:
+  gender_flag: 1
+  lang:
+  - yi
+רינה:
+  gender_flag: 1
+  lang:
+  - he
+רן:
+  gender_flag: 2
+  lang:
+  - he
+רעואל:
+  gender_flag: 2
+  lang:
+  - he
+רפֿאל:
+  gender_flag: 2
+  lang:
+  - yi
+רפאל:
+  gender_flag: 2
+  lang:
+  - he
+רפי:
+  gender_flag: 2
+  lang:
+  - he
+רצון:
+  gender_flag: 2
+  lang:
+  - he
+שׂרה:
+  gender_flag: 1
+  lang:
+  - yi
+שאול:
+  gender_flag: 2
+  is_equivalent_to:
+  - Saul
+  lang:
+  - arc
+  - he
+  - yi
+שאילא:
+  gender_flag: 2
+  lang:
+  - arc
+שבֿע:
+  gender_flag: 1
+  lang:
+  - yi
+שבי:
+  gender_flag: 2
+  lang:
+  - he
+שבע:
+  gender_flag: 1
+  lang:
+  - he
+שבתאי:
+  gender_flag: 2
+  lang:
+  - he
+שושנה:
+  gender_flag: 1
+  lang:
+  - he
+שי:
+  gender_flag: 4
+  lang:
+  - he
+שיינע:
+  gender_flag: 1
+  lang:
+  - yi
+שירה:
+  gender_flag: 1
+  lang:
+  - he
+שלו:
+  gender_flag: 2
+  lang:
+  - he
+שלום:
+  gender_flag: 2
+  lang:
+  - he
+  - yi
+שלח:
+  gender_flag: 2
+  lang:
+  - he
+שלימון:
+  gender_flag: 2
+  lang:
+  - arc
+שלמה:
+  gender_flag: 2
+  lang:
+  - he
+  - yi
+שמואל:
+  gender_flag: 2
+  is_equivalent_to:
+  - Samuel
+  lang:
+  - he
+  - yi
+  origin:
+  - he
+שמחה:
+  gender_flag: 3
+  lang:
+  - he
+שמעון:
+  gender_flag: 2
+  lang:
+  - he
+שמעי:
+  gender_flag: 2
+  lang:
+  - he
+שמעיה:
+  gender_flag: 2
+  lang:
+  - he
+שמרית:
+  gender_flag: 1
+  lang:
+  - he
+שמשון:
+  gender_flag: 2
+  is_equivalent_to:
+  - Samson
+  lang:
+  - he
+שני:
+  gender_flag: 1
+  lang:
+  - he
+שניאור:
+  gender_flag: 2
+  lang:
+  - yi
+שפּרינצע:
+  gender_flag: 1
+  lang:
+  - yi
+שרה:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sarah
+  lang:
+  - he
+שרי:
+  gender_flag: 1
+  lang:
+  - he
+שרית:
+  gender_flag: 1
+  lang:
+  - he
+ששון:
+  gender_flag: 2
+  lang:
+  - he
+שת:
+  gender_flag: 2
+  lang:
+  - he
+תאומא:
+  gender_flag: 2
+  lang:
+  - arc
+תום:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tom
+  lang:
+  - he
+תומי:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tommy
+  is_short_for:
+  - תום
+  lang:
+  - he
+תמר:
+  gender_flag: 1
+  lang:
+  - he
+תרח:
+  gender_flag: 2
+  lang:
+  - he

@@ -1,0 +1,4358 @@
+Ia:
+  gender_flag: 1
+  lang:
+  - kw
+Iacobus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  - James
+  lang:
+  - la
+Iacques:
+  gender_flag: 2
+  lang:
+  - frm
+Iagan:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  - Johnnie
+  - Johnny
+  lang:
+  - gd
+Iago:
+  gender_flag: 2
+  is_a_variant_of:
+  - Yago
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - es
+  - gl
+  - it
+  - pt
+Iain:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - en
+  - gd
+Iakopa:
+  gender_flag: 2
+  lang:
+  - haw
+Iakopo:
+  gender_flag: 2
+  lang:
+  - haw
+Iamblichus:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - arc
+Ian:
+  gender_flag: 7
+  is_equivalent_to:
+  - John
+  lang:
+  - bcl
+  - ceb
+  - en
+  - pam
+  - pt
+  origin:
+  - en
+  - gd
+Ianto:
+  gender_flag: 2
+  lang:
+  - cy
+Iantumaros:
+  gender_flag: 2
+  lang:
+  - cel-gau
+Ianuarius:
+  gender_flag: 2
+  lang:
+  - la
+Iaphet:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - he
+Iaphetus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - he
+Iara:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Iasmim:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jasmim
+  lang:
+  - pt
+Iasmin: {}
+Ib:
+  gender_flag: 2
+  lang:
+  - da
+Iben:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Ibi:
+  gender_flag: 1
+  is_short_for:
+  - Ibolya
+  lang:
+  - hu
+Ibidun:
+  gender_flag: 1
+  lang:
+  - yo
+Ibidunmoye:
+  gender_flag: 3
+  lang:
+  - yo
+Ibolya:
+  gender_flag: 1
+  lang:
+  - hu
+Ibolyka:
+  gender_flag: 1
+  is_short_for:
+  - Ibolya
+  lang:
+  - hu
+Ibraahiim:
+  gender_flag: 2
+  lang:
+  - so
+Ibrahim:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  - ha
+  - ms
+  - sh
+  - sw
+  origin:
+  - ar
+  - he
+Ibraim:
+  gender_flag: 2
+  is_a_variant_of:
+  - Abraão
+  is_equivalent_to:
+  - Ibrahim
+  lang:
+  - pt
+  origin:
+  - ar
+Ibrohim:
+  gender_flag: 2
+  lang:
+  - uz
+  origin:
+  - ar
+  - he
+  - syc
+Ibrohimbek:
+  gender_flag: 2
+  lang:
+  - uz
+Ica:
+  gender_flag: 1
+  lang:
+  - id
+Icaro:
+  gender_flag: 2
+  lang:
+  - it
+Ichak:
+  gender_flag: 1
+  lang:
+  - ceb
+Ichel:
+  gender_flag: 1
+  lang:
+  - ceb
+Ichiro:
+  gender_flag: 2
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Ico:
+  gender_flag: 2
+  lang:
+  - sh
+Icy:
+  gender_flag: 1
+  lang:
+  - en
+Ida:
+  gender_flag: 1
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - fo
+  - hu
+  - it
+  - nl
+  - 'no'
+  - pl
+  - pt
+  - sk
+  - sv
+  origin:
+  - de
+  - gem
+Idad:
+  gender_flag: 1
+  lang:
+  - ceb
+Idar:
+  gender_flag: 2
+  lang:
+  - 'no'
+Idbjørg:
+  gender_flag: 1
+  lang:
+  - nn
+Idogbe:
+  gender_flag: 7
+  lang:
+  - yo
+Idoha:
+  gender_flag: 7
+  lang:
+  - yo
+Idowu:
+  gender_flag: 7
+  lang:
+  - yo
+Idris:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+  - cy
+Idunn:
+  gender_flag: 1
+  lang:
+  - nn
+  origin:
+  - non
+Ieda:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - he
+Ieesha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Iefte:
+  gender_flag: 2
+  lang:
+  - it
+Iehan:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - frm
+Iehane:
+  gender_flag: 1
+  lang:
+  - frm
+Ieneke:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ineke
+  lang:
+  - nl
+Ienje:
+  gender_flag: 1
+  lang:
+  - fy
+  - nl
+Iesha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Ietro:
+  gender_flag: 2
+  lang:
+  - it
+Ieuan:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - cy
+  origin:
+  - he
+Ieva:
+  gender_flag: 1
+  is_equivalent_to:
+  - Eva
+  - Eve
+  lang:
+  - lt
+  - lv
+Ifabunmi:
+  gender_flag: 2
+  lang:
+  - yo
+Ifadiran:
+  gender_flag: 2
+  lang:
+  - yo
+Ifadọrọlemi:
+  gender_flag: 2
+  lang:
+  - yo
+Ifajẹmileyin:
+  gender_flag: 7
+  lang:
+  - yo
+Ifalaye:
+  gender_flag: 2
+  lang:
+  - yo
+Ifalọọrọ:
+  gender_flag: 1
+  lang:
+  - yo
+Ifalọọọrọ:
+  gender_flag: 1
+  lang:
+  - yo
+Ifamakinde:
+  gender_flag: 2
+  lang:
+  - yo
+Ifamimikomi:
+  gender_flag: 2
+  lang:
+  - yo
+Ifamugbẹẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Ifan:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - cy
+  origin:
+  - he
+Ifatumikẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Ifayẹmi:
+  gender_flag: 2
+  lang:
+  - yo
+Iga:
+  gender_flag: 1
+  lang:
+  - pl
+Ige:
+  gender_flag: 2
+  lang:
+  - yo
+Iggy:
+  gender_flag: 2
+  is_short_for:
+  - Ignatius
+  lang:
+  - en
+Iggá:
+  gender_flag: 1
+  lang:
+  - smn
+Igino:
+  gender_flag: 2
+  lang:
+  - it
+Ignace:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ignatius
+  lang:
+  - fr
+Ignacio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ignatius
+  lang:
+  - es
+  origin:
+  - la
+Ignacy:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ignatius
+  lang:
+  - pl
+Ignaid:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ignatius
+  lang:
+  - gv
+Ignas:
+  gender_flag: 2
+  lang:
+  - lt
+Ignasi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ignatius
+  lang:
+  - ca
+Ignatius:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - la
+Ignats:
+  gender_flag: 2
+  lang:
+  - lv
+Ignaty:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ignatius
+  lang:
+  - en
+  origin:
+  - ru
+Ignaz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ignatius
+  lang:
+  - de
+Ignazio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ignatius
+  lang:
+  - it
+Ignàsi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ignatius
+  lang:
+  - egl
+  origin:
+  - la
+Ignác:
+  gender_flag: 2
+  lang:
+  - cs
+  - hu
+  - sk
+Ignácie:
+  gender_flag: 1
+  lang:
+  - cs
+Ignácio:
+  gender_flag: 2
+  is_a_variant_of:
+  - Inácio
+  lang:
+  - pt
+Igor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ivor
+  lang:
+  - cs
+  - en
+  - it
+  - pl
+  - pt
+  - sk
+  origin:
+  - ru
+Igorek:
+  gender_flag: 2
+  is_short_for:
+  - Igor
+  lang:
+  - cs
+  - pl
+Igors:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - ru
+Ihar: {}
+Ihipera:
+  gender_flag: 1
+  is_equivalent_to:
+  - Isabel
+  lang:
+  - mi
+Ihitha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - hi
+Ihnat: {}
+Ihor: {}
+Iida:
+  gender_flag: 1
+  lang:
+  - fi
+Iikka:
+  gender_flag: 2
+  lang:
+  - fi
+Iiliä:
+  gender_flag: 2
+  is_equivalent_to:
+  - Elias
+  lang:
+  - izh
+Iina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ina
+  lang:
+  - fi
+Iines:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ines
+  - Inez
+  lang:
+  - fi
+Iiris:
+  gender_flag: 1
+  is_a_variant_of:
+  - Iris
+  lang:
+  - et
+  - fi
+Iiro:
+  gender_flag: 2
+  lang:
+  - fi
+Iirâšǩ:
+  gender_flag: 1
+  lang:
+  - sms
+Iisa:
+  gender_flag: 1
+  lang:
+  - fi
+Iisaaq:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaac
+  lang:
+  - kl
+  origin:
+  - da
+Iisak:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+  origin:
+  - he
+Iisakki:
+  gender_flag: 2
+  lang:
+  - fi
+Iita:
+  gender_flag: 1
+  lang:
+  - fi
+Iivana:
+  gender_flag: 2
+  lang:
+  - fi
+Iivari:
+  gender_flag: 2
+  lang:
+  - fi
+Iivo:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Ijeoma:
+  gender_flag: 1
+  lang:
+  - en
+Ikaika:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Ikang:
+  gender_flag: 1
+  lang:
+  - ceb
+Ike:
+  gender_flag: 2
+  is_short_for:
+  - Isaac
+  lang:
+  - ceb
+  - en
+  origin:
+  - ceb
+Iker:
+  gender_flag: 2
+  lang:
+  - ceb
+  - eu
+  origin:
+  - eu
+Iko:
+  gender_flag: 2
+  lang:
+  - ceb
+  - et
+Ikong:
+  gender_flag: 2
+  lang:
+  - ceb
+Ikuko:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Ikumi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Ila:
+  gender_flag: 1
+  is_short_for:
+  - Ilona
+  lang:
+  - hu
+Ilan:
+  gender_flag: 2
+  lang:
+  - en
+Ilari:
+  gender_flag: 2
+  lang:
+  - fi
+Ilaria:
+  gender_flag: 1
+  lang:
+  - it
+Ilario:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Ilasiaq:
+  gender_flag: 2
+  lang:
+  - kl
+Ilda:
+  gender_flag: 1
+  is_equivalent_to:
+  - Hilda
+  lang:
+  - es
+  - it
+  - pt
+Ildebrando:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hildebrand
+  lang:
+  - it
+Ildefons:
+  gender_flag: 2
+  lang:
+  - pl
+Ildefonso:
+  gender_flag: 2
+  lang:
+  - it
+  - pt
+  origin:
+  - got
+Ildi:
+  gender_flag: 1
+  is_short_for:
+  - Ildikó
+  lang:
+  - hu
+Ildike:
+  gender_flag: 1
+  is_short_for:
+  - Ildikó
+  lang:
+  - hu
+Ildikó:
+  gender_flag: 1
+  lang:
+  - hu
+Ildut:
+  gender_flag: 2
+  lang:
+  - br
+Ileana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Helen
+  lang:
+  - ro
+  origin:
+  - grc
+Ilene:
+  gender_flag: 1
+  lang:
+  - en
+Ilenko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Ilga:
+  gender_flag: 1
+  lang:
+  - lv
+Ilgonis:
+  gender_flag: 2
+  lang:
+  - lv
+Ilgvars:
+  gender_flag: 2
+  lang:
+  - lv
+Ilgın:
+  gender_flag: 1
+  lang:
+  - tr
+Ilham:
+  gender_flag: 7
+  lang:
+  - en
+  - id
+  origin:
+  - ar
+Ili:
+  gender_flag: 1
+  is_short_for:
+  - Ilona
+  lang:
+  - hu
+Ilia: {}
+Iliana:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ileana
+  lang:
+  - en
+Ilias:
+  gender_flag: 2
+  lang:
+  - nl
+Ilie:
+  gender_flag: 2
+  lang:
+  - ro
+  origin:
+  - he
+Ilija:
+  gender_flag: 2
+  lang:
+  - sh
+Ilinden: {}
+Ilir:
+  gender_flag: 2
+  lang:
+  - sq
+Ilja:
+  gender_flag: 3
+  is_equivalent_to:
+  - Elijah
+  lang:
+  - cs
+  - de
+  origin:
+  - ru
+Iljko:
+  gender_flag: 2
+  lang:
+  - sh
+Ilka:
+  gender_flag: 1
+  is_short_for:
+  - Ilona
+  lang:
+  - hu
+Ilkka:
+  gender_flag: 2
+  lang:
+  - fi
+Illar:
+  gender_flag: 2
+  lang:
+  - et
+Ille:
+  gender_flag: 1
+  lang:
+  - et
+Illi:
+  gender_flag: 1
+  lang:
+  - et
+Illia: {}
+Illiam:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - gv
+Illimar:
+  gender_flag: 2
+  lang:
+  - et
+Illugi:
+  gender_flag: 2
+  lang:
+  - is
+Illés:
+  gender_flag: 2
+  is_equivalent_to:
+  - Elijah
+  lang:
+  - hu
+Ilma:
+  gender_flag: 1
+  lang:
+  - fi
+  - hu
+Ilmar:
+  gender_flag: 2
+  lang:
+  - et
+Ilmari:
+  gender_flag: 2
+  lang:
+  - fi
+Ilmatar:
+  gender_flag: 1
+  lang:
+  - fi
+Ilme:
+  gender_flag: 1
+  lang:
+  - et
+Ilmi:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ilma
+  lang:
+  - et
+  - fi
+Ilmo:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Ilmur:
+  gender_flag: 1
+  lang:
+  - is
+Ilmārs:
+  gender_flag: 2
+  lang:
+  - lv
+Ilo:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+  origin:
+  - et
+Ilona:
+  gender_flag: 1
+  is_equivalent_to:
+  - Helen
+  lang:
+  - cs
+  - en
+  - et
+  - fi
+  - hu
+  - lt
+  - lv
+  origin:
+  - grc
+Ilonka:
+  gender_flag: 1
+  is_short_for:
+  - Ilona
+  lang:
+  - cs
+  - hu
+Ilpo:
+  gender_flag: 2
+  lang:
+  - fi
+Ilpotar:
+  gender_flag: 1
+  lang:
+  - fi
+Ilppo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ilpo
+  lang:
+  - fi
+Ilsa:
+  gender_flag: 1
+  lang:
+  - en
+Ilse:
+  gender_flag: 1
+  is_short_for:
+  - Elisabeth
+  lang:
+  - da
+  - de
+  - et
+Ilta:
+  gender_flag: 1
+  lang:
+  - fi
+Iltud:
+  gender_flag: 2
+  lang:
+  - br
+  - fr
+  origin:
+  - br
+Iltuda:
+  gender_flag: 1
+  lang:
+  - br
+Iltuden:
+  gender_flag: 1
+  lang:
+  - br
+Iltudez:
+  gender_flag: 1
+  lang:
+  - br
+Iltudig:
+  gender_flag: 2
+  is_short_for:
+  - Iltud
+  lang:
+  - br
+Iluta:
+  gender_flag: 1
+  lang:
+  - lv
+Ilva:
+  gender_flag: 1
+  lang:
+  - lv
+Ilvars:
+  gender_flag: 2
+  lang:
+  - lv
+Ilya:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ru
+Ilyos:
+  gender_flag: 2
+  lang:
+  - uz
+  origin:
+  - ar
+  - he
+Ilze:
+  gender_flag: 1
+  lang:
+  - lv
+Ilzīte:
+  gender_flag: 1
+  lang:
+  - lv
+Ilìa:
+  gender_flag: 2
+  lang:
+  - scn
+  origin:
+  - he
+Ilías:
+  gender_flag: 2
+  lang:
+  - is
+Ilọri:
+  gender_flag: 7
+  lang:
+  - yo
+Ima:
+  lang:
+  - en
+Imaanu:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Imadiyat:
+  gender_flag: 2
+  lang:
+  - ms
+  origin:
+  - la
+Imam:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - ar
+Imani:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sw
+Imanol:
+  gender_flag: 2
+  is_equivalent_to:
+  - Emmanuel
+  lang:
+  - eu
+Imanqoli: {}
+Imants:
+  gender_flag: 2
+  lang:
+  - lv
+Imbi:
+  gender_flag: 1
+  lang:
+  - et
+Imelda:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - es
+  origin:
+  - gem-pro
+  - roa
+Imhotep:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - egy
+Imi:
+  gender_flag: 2
+  is_short_for:
+  - Imre
+  lang:
+  - hu
+Imke:
+  gender_flag: 1
+  lang:
+  - nl
+  origin:
+  - fy
+Imma:
+  gender_flag: 1
+  is_short_for:
+  - Immacolata
+  lang:
+  - it
+Immacolata:
+  gender_flag: 1
+  lang:
+  - it
+Immanuel:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  - fi
+  - fo
+  - sv
+Immie:
+  gender_flag: 1
+  is_short_for:
+  - Imogen
+  lang:
+  - en
+Immo:
+  gender_flag: 2
+  lang:
+  - fi
+Immy:
+  gender_flag: 1
+  is_short_for:
+  - Imogen
+  lang:
+  - en
+Imogen:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cel
+Imogine:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cel
+Imoinu:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mni
+Imola:
+  gender_flag: 1
+  lang:
+  - hu
+Impi:
+  gender_flag: 1
+  lang:
+  - fi
+Imran:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Imre:
+  gender_flag: 2
+  is_equivalent_to:
+  - Emery
+  lang:
+  - et
+  - hu
+Imri:
+  gender_flag: 2
+  is_equivalent_to:
+  - Emery
+  is_short_for:
+  - Imre
+  lang:
+  - hu
+Imrich:
+  gender_flag: 2
+  lang:
+  - sk
+Imtenan:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ar
+Imâno:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ina:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  - fo
+  - lt
+  - lv
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - la
+Inaciu:
+  gender_flag: 2
+  lang:
+  - ast
+Inaluk:
+  gender_flag: 1
+  lang:
+  - kl
+Inari:
+  gender_flag: 3
+  lang:
+  - fi
+Inchak:
+  gender_flag: 1
+  lang:
+  - ceb
+Increase:
+  gender_flag: 2
+  lang:
+  - en
+India:
+  gender_flag: 1
+  lang:
+  - en
+Indiana:
+  gender_flag: 7
+  lang:
+  - en
+Indira:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Indra:
+  gender_flag: 3
+  lang:
+  - id
+  - lv
+  origin:
+  - jv
+Indratewe:
+  lang:
+  - txb
+Indrawati:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Indrek:
+  gender_flag: 2
+  lang:
+  - et
+Indri:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - mt
+  origin:
+  - grc
+  - la
+  - scn
+Indrit:
+  gender_flag: 2
+  lang:
+  - sq
+Indriði:
+  gender_flag: 2
+  lang:
+  - is
+Indriðína:
+  gender_flag: 1
+  lang:
+  - is
+Indriķis:
+  gender_flag: 2
+  lang:
+  - lv
+Indrė:
+  gender_flag: 1
+  lang:
+  - lt
+Indulis:
+  gender_flag: 2
+  lang:
+  - lv
+Ine:
+  gender_flag: 1
+  lang:
+  - 'no'
+Ineke:
+  gender_flag: 1
+  lang:
+  - nl
+Ines:
+  gender_flag: 1
+  lang:
+  - de
+  - et
+  - it
+  - nl
+  - sh
+  - sv
+Inesa:
+  gender_flag: 1
+  lang:
+  - lv
+Inese:
+  gender_flag: 1
+  lang:
+  - lv
+Inesita:
+  gender_flag: 1
+  is_short_for:
+  - Inés
+  lang:
+  - es
+Inessa:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ru
+Ineta:
+  gender_flag: 1
+  lang:
+  - lt
+  - lv
+Inez:
+  gender_flag: 1
+  lang:
+  - en
+  - sv
+  origin:
+  - es
+Ing:
+  gender_flag: 7
+  lang:
+  - ang
+  - en
+  - fr
+  - sv
+Inga:
+  gender_flag: 1
+  is_a_variant_of:
+  - Inge
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - fo
+  - fr
+  - goh
+  - is
+  - lt
+  - lv
+  - 'no'
+  - non
+  - sk
+  - sv
+  origin:
+  - non
+Inga-Lill:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ingalill
+  lang:
+  - sv
+Ingaberta:
+  gender_flag: 1
+  lang:
+  - goh
+Ingalill:
+  gender_flag: 1
+  lang:
+  - sv
+Ingar:
+  gender_flag: 2
+  lang:
+  - 'no'
+Ingardis:
+  gender_flag: 1
+  lang:
+  - goh
+Ingars:
+  gender_flag: 2
+  lang:
+  - lv
+Inge:
+  gender_flag: 3
+  is_a_variant_of:
+  - Inga
+  is_short_for:
+  - Ingeborg
+  - Ingeburg
+  - Ingrid
+  lang:
+  - da
+  - de
+  - et
+  - 'no'
+  - sv
+Inge-Lise:
+  gender_flag: 1
+  lang:
+  - da
+Ingebjørg:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ingeborg
+  lang:
+  - 'no'
+Ingeborg:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - fr
+  - 'no'
+  - sv
+Ingeburg:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ingeborg
+  lang:
+  - de
+Ingedrudis:
+  gender_flag: 1
+  lang:
+  - goh
+Ingefrid:
+  gender_flag: 1
+  lang:
+  - nn
+  origin:
+  - non
+Ingegerd:
+  gender_flag: 1
+  lang:
+  - sv
+Ingegjerd:
+  gender_flag: 1
+  lang:
+  - nn
+  origin:
+  - non
+Ingegärd:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ingegerd
+  lang:
+  - sv
+Ingeida:
+  gender_flag: 1
+  lang:
+  - goh
+Ingel:
+  gender_flag: 1
+  lang:
+  - et
+Ingela:
+  gender_flag: 1
+  lang:
+  - sv
+Ingelin:
+  gender_flag: 1
+  lang:
+  - 'no'
+Ingelinn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ingelin
+  lang:
+  - 'no'
+Ingelise:
+  gender_flag: 1
+  lang:
+  - da
+Ingemar:
+  gender_flag: 2
+  lang:
+  - fr
+  - sv
+Inger:
+  gender_flag: 1
+  lang:
+  - da
+  - fr
+  - 'no'
+  - sv
+Inger-Lise:
+  gender_flag: 1
+  lang:
+  - 'no'
+Ingerid:
+  gender_flag: 1
+  lang:
+  - nn
+  origin:
+  - non
+Ingerlill:
+  gender_flag: 1
+  lang:
+  - 'no'
+Ingerlin:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ingelin
+  lang:
+  - 'no'
+Ingerline:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ingelin
+  lang:
+  - 'no'
+Ingerlise:
+  gender_flag: 1
+  lang:
+  - da
+Ingfrid:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ingefrid
+  lang:
+  - nn
+  origin:
+  - non
+Inggerd:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ingjerd
+  lang:
+  - 'no'
+Inggjerd:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ingjerd
+  lang:
+  - 'no'
+Inggo:
+  gender_flag: 2
+  is_short_for:
+  - Domingo
+  lang:
+  - tl
+Ingheiður:
+  gender_flag: 1
+  lang:
+  - is
+Ingi:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Ingibjartur:
+  gender_flag: 2
+  lang:
+  - fo
+Ingibjörg:
+  gender_flag: 1
+  lang:
+  - is
+Ingibjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Ingibjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Ingibjørt:
+  gender_flag: 1
+  lang:
+  - fo
+Ingibjǫrg:
+  gender_flag: 1
+  lang:
+  - non
+Ingigerð:
+  gender_flag: 1
+  lang:
+  - fo
+Ingileif:
+  gender_flag: 1
+  lang:
+  - is
+Ingileivur:
+  gender_flag: 2
+  lang:
+  - fo
+Ingileyg:
+  gender_flag: 1
+  lang:
+  - fo
+Ingilín:
+  gender_flag: 1
+  lang:
+  - fo
+Ingimar:
+  gender_flag: 2
+  lang:
+  - fo
+Ingimarr:
+  gender_flag: 2
+  lang:
+  - non
+Ingimundur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Ingimundína:
+  gender_flag: 1
+  lang:
+  - is
+Ingina:
+  gender_flag: 1
+  lang:
+  - goh
+Ingine:
+  gender_flag: 1
+  lang:
+  - 'no'
+Ingirið:
+  gender_flag: 1
+  lang:
+  - fo
+Ingiríðr:
+  gender_flag: 1
+  lang:
+  - non
+Ingiríður:
+  gender_flag: 1
+  lang:
+  - is
+Ingivaldur:
+  gender_flag: 2
+  lang:
+  - fo
+Ingiæld:
+  gender_flag: 2
+  lang:
+  - gmq-osw
+Ingiþór:
+  gender_flag: 2
+  lang:
+  - is
+Ingjaldr:
+  gender_flag: 2
+  lang:
+  - non
+Ingjaldur:
+  gender_flag: 2
+  lang:
+  - fo
+Ingjerd:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ingegjerd
+  lang:
+  - nn
+Ingmar:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ingemar
+  - Ingimar
+  lang:
+  - fo
+  - fr
+  - sv
+Ingo:
+  gender_flag: 2
+  lang:
+  - de
+  - goh
+Ingoberga:
+  gender_flag: 1
+  lang:
+  - goh
+Ingohildis:
+  gender_flag: 1
+  lang:
+  - goh
+Ingolf:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+Ingolvur:
+  gender_flag: 2
+  lang:
+  - fo
+Ingram:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Ingrid:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ingerid
+  lang:
+  - ceb
+  - cs
+  - da
+  - de
+  - en
+  - et
+  - fr
+  - is
+  - nl
+  - nn
+  - pt
+  - sv
+  origin:
+  - da
+  - en
+  - gem
+  - 'no'
+  - non
+  - sv
+Ingrida:
+  gender_flag: 1
+  lang:
+  - lt
+  - sk
+Ingrið:
+  gender_flag: 1
+  lang:
+  - fo
+Ingríðr:
+  gender_flag: 1
+  lang:
+  - non
+Ingrún:
+  gender_flag: 1
+  lang:
+  - fo
+Ingrīda:
+  gender_flag: 1
+  lang:
+  - lv
+Ingudis:
+  gender_flag: 1
+  lang:
+  - goh
+Ingui:
+  gender_flag: 2
+  lang:
+  - ang
+Ingulf:
+  gender_flag: 2
+  lang:
+  - goh
+Ingun:
+  gender_flag: 1
+  lang:
+  - fo
+Inguna:
+  gender_flag: 1
+  lang:
+  - lv
+Ingundis:
+  gender_flag: 1
+  lang:
+  - goh
+Ingunn:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+  - 'no'
+Ingus:
+  gender_flag: 2
+  lang:
+  - lv
+Ingvald:
+  gender_flag: 2
+  lang:
+  - 'no'
+Ingvaldur:
+  gender_flag: 2
+  lang:
+  - fo
+Ingvar:
+  gender_flag: 2
+  lang:
+  - fo
+  - fr
+  - is
+  - 'no'
+  - sv
+Ingvi:
+  gender_flag: 2
+  lang:
+  - is
+Ingvild:
+  gender_flag: 1
+  lang:
+  - 'no'
+Ingvor:
+  gender_flag: 1
+  lang:
+  - sv
+Ingvá:
+  gender_flag: 1
+  lang:
+  - fo
+Ingvør:
+  gender_flag: 1
+  lang:
+  - fo
+Ingálvur:
+  gender_flag: 2
+  lang:
+  - fo
+Ingó:
+  gender_flag: 2
+  is_short_for:
+  - Ingólfur
+  lang:
+  - is
+Ingólfur:
+  gender_flag: 2
+  lang:
+  - is
+Ingólfína:
+  gender_flag: 1
+  lang:
+  - is
+Ingþór:
+  gender_flag: 2
+  lang:
+  - is
+Ingūna:
+  gender_flag: 1
+  lang:
+  - lv
+Inha:
+  gender_flag: 1
+  lang:
+  - fi
+Inigo:
+  gender_flag: 2
+  lang:
+  - en
+Inita:
+  gender_flag: 1
+  lang:
+  - lv
+Inji:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Inka:
+  gender_flag: 1
+  is_short_for:
+  - Ingrid
+  lang:
+  - cs
+  - en
+  - fi
+Inkeri:
+  gender_flag: 1
+  lang:
+  - fi
+Inma:
+  gender_flag: 1
+  is_short_for:
+  - Inmaculada
+  lang:
+  - es
+Inmaculada:
+  gender_flag: 1
+  lang:
+  - es
+Inna:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+  - fo
+  - lv
+Innar:
+  gender_flag: 2
+  lang:
+  - et
+Innico:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - es
+Innocenzo:
+  gender_flag: 2
+  lang:
+  - it
+Innozenz:
+  gender_flag: 2
+  lang:
+  - de
+  origin:
+  - la
+Inocencio:
+  gender_flag: 2
+  lang:
+  - es
+Inoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Inry:
+  gender_flag: 2
+  is_equivalent_to:
+  - Henry
+  lang:
+  - gv
+Insik:
+  gender_flag: 3
+  lang:
+  - ceb
+Insoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Inta:
+  gender_flag: 1
+  lang:
+  - lv
+Intalik:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Intars:
+  gender_flag: 2
+  lang:
+  - lv
+Inting:
+  gender_flag: 2
+  lang:
+  - ceb
+Into:
+  gender_flag: 2
+  lang:
+  - fi
+Intoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Ints:
+  gender_flag: 2
+  lang:
+  - et
+  - lv
+Inuk:
+  gender_flag: 2
+  lang:
+  - kl
+Inunnguaq:
+  gender_flag: 2
+  lang:
+  - kl
+Inutsiaq:
+  gender_flag: 2
+  lang:
+  - kl
+Inuuteq:
+  gender_flag: 2
+  lang:
+  - kl
+Inácio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ignatius
+  lang:
+  - pt
+  origin:
+  - la
+Inès:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - es
+  - grc
+Inés:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agnes
+  lang:
+  - es
+  origin:
+  - grc
+  - la
+Inês:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agnes
+  - Inez
+  lang:
+  - pt
+  origin:
+  - grc
+Ināra:
+  gender_flag: 1
+  lang:
+  - lv
+Inārs:
+  gender_flag: 2
+  lang:
+  - lv
+Ioan:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - cy
+  - ro
+  origin:
+  - he
+Ioana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Joan
+  lang:
+  - ro
+  origin:
+  - he
+Ioane:
+  gender_flag: 3
+  lang:
+  - en
+  - haw
+  origin:
+  - he
+Ioannes:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  - Jon
+  lang:
+  - la
+Ioannis: {}
+Iohn:
+  gender_flag: 2
+  lang:
+  - enm
+  origin:
+  - fro
+Iokepa:
+  gender_flag: 2
+  lang:
+  - haw
+Iola:
+  gender_flag: 1
+  lang:
+  - en
+Iolanda:
+  gender_flag: 1
+  is_equivalent_to:
+  - Yolanda
+  lang:
+  - it
+  - pt
+  origin:
+  - grc
+Iolanthe:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Iole:
+  gender_flag: 1
+  lang:
+  - it
+Iolo:
+  gender_flag: 2
+  lang:
+  - cy
+  - en
+  origin:
+  - cy
+Ion: {}
+Iona:
+  gender_flag: 3
+  lang:
+  - en
+  - haw
+Ionas:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - he
+Ione:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  origin:
+  - he
+Ionel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Johnny
+  is_short_for:
+  - Ion
+  lang:
+  - ro
+Ionela:
+  gender_flag: 1
+  lang:
+  - ro
+Ionuț:
+  gender_flag: 2
+  is_equivalent_to:
+  - Johnny
+  is_short_for:
+  - Ion
+  lang:
+  - ro
+Iordanes:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jordanes
+  lang:
+  - la
+Iorgu:
+  gender_flag: 2
+  lang:
+  - ro
+  origin:
+  - grc
+Iorio:
+  gender_flag: 2
+  lang:
+  - it
+Iorworth:
+  gender_flag: 2
+  lang:
+  - en
+Iosepha:
+  gender_flag: 1
+  is_equivalent_to:
+  - Josephine
+  lang:
+  - la
+Iosephus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - la
+Iosif:
+  gender_flag: 2
+  lang:
+  - ro
+Iosua:
+  gender_flag: 2
+  lang:
+  - haw
+Iosue:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joshua
+  lang:
+  - la
+Iosè:
+  gender_flag: 1
+  is_equivalent_to:
+  - Josephine
+  lang:
+  - it
+Iouri: {}
+Ioʻela:
+  gender_flag: 2
+  lang:
+  - haw
+Ipay:
+  gender_flag: 1
+  lang:
+  - ceb
+Ippolito:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hippolytus
+  lang:
+  - it
+  origin:
+  - grc
+Ira:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - sla
+Iracema:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Iraci:
+  gender_flag: 3
+  lang:
+  - pt
+  origin:
+  - tpw
+Irai Leima:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mni
+Irakli: {}
+Irana:
+  gender_flag: 1
+  lang:
+  - fr
+Iratxe:
+  gender_flag: 1
+  lang:
+  - eu
+Ireczek:
+  gender_flag: 2
+  is_short_for:
+  - Irek
+  lang:
+  - pl
+Ireene:
+  gender_flag: 1
+  is_equivalent_to:
+  - Irene
+  lang:
+  - et
+Irek:
+  gender_flag: 2
+  is_short_for:
+  - Ireneusz
+  lang:
+  - pl
+Iren:
+  gender_flag: 1
+  is_a_variant_of:
+  - Irene
+  lang:
+  - 'no'
+Irena:
+  gender_flag: 1
+  is_equivalent_to:
+  - Irene
+  lang:
+  - cs
+  - fo
+  - lt
+  - pl
+  - sk
+Irenaeus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Irene:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - es
+  - et
+  - fi
+  - it
+  - nl
+  - 'no'
+  - pt
+  - sv
+  - tl
+  origin:
+  - en
+  - grc
+Irenea:
+  gender_flag: 1
+  lang:
+  - ceb
+  - es
+  origin:
+  - es
+Ireneo:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+  origin:
+  - es
+Ireneusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Irenaeus
+  lang:
+  - pl
+Irenka:
+  gender_flag: 1
+  is_short_for:
+  - Irena
+  lang:
+  - cs
+  - pl
+Irenæus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Ireño:
+  gender_flag: 2
+  lang:
+  - es
+Irfan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Iria:
+  gender_flag: 1
+  is_equivalent_to:
+  - Irene
+  lang:
+  - pt
+Irihāpeti:
+  gender_flag: 1
+  is_equivalent_to:
+  - Elizabeth
+  lang:
+  - mi
+Irina:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - es
+  - fi
+  - lt
+  - ro
+  origin:
+  - ru
+Iris:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - es
+  - et
+  - fo
+  - fr
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - en
+  - grc
+Irish:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - en
+Irja:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Irma:
+  gender_flag: 1
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - fo
+  - fr
+  - lt
+  - lv
+  - nl
+  - sk
+  - sv
+  origin:
+  - gem
+Irmak:
+  gender_flag: 3
+  lang:
+  - tr
+Irmela:
+  gender_flag: 1
+  is_short_for:
+  - Irma
+  lang:
+  - de
+Irmeli:
+  gender_flag: 1
+  lang:
+  - fi
+Irmelin:
+  gender_flag: 1
+  is_short_for:
+  - Irma
+  lang:
+  - de
+Irmengard:
+  gender_flag: 1
+  is_a_variant_of:
+  - Irmgard
+  is_equivalent_to:
+  - Ermengarde
+  lang:
+  - de
+Irmgard:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ermengarde
+  lang:
+  - de
+Irmin:
+  gender_flag: 2
+  lang:
+  - osx
+Irmina:
+  gender_flag: 1
+  lang:
+  - goh
+  - pl
+Irmindrud:
+  gender_flag: 1
+  lang:
+  - goh
+Irminfrid:
+  gender_flag: 1
+  lang:
+  - goh
+Irmingar:
+  gender_flag: 2
+  lang:
+  - goh
+Irmingart:
+  gender_flag: 1
+  lang:
+  - goh
+Irminhart:
+  gender_flag: 2
+  lang:
+  - goh
+Irminheri:
+  gender_flag: 2
+  lang:
+  - goh
+Irminolt:
+  gender_flag: 2
+  lang:
+  - goh
+Irminperht:
+  gender_flag: 2
+  lang:
+  - goh
+Irminrat:
+  lang:
+  - goh
+Irminsuind:
+  gender_flag: 1
+  lang:
+  - goh
+Irnerio:
+  gender_flag: 2
+  lang:
+  - it
+Iroslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Iroyinogunkiitan:
+  gender_flag: 7
+  lang:
+  - yo
+Irun:
+  gender_flag: 1
+  is_a_variant_of:
+  - Irunn
+  lang:
+  - 'no'
+Irunn:
+  gender_flag: 1
+  lang:
+  - 'no'
+Irusha:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - he
+Irutė:
+  gender_flag: 1
+  lang:
+  - lt
+Iruś:
+  gender_flag: 2
+  is_short_for:
+  - Ireneusz
+  lang:
+  - pl
+Irv:
+  gender_flag: 2
+  lang:
+  - en
+Irve:
+  gender_flag: 2
+  lang:
+  - en
+Irven:
+  gender_flag: 2
+  lang:
+  - en
+Irvin:
+  gender_flag: 2
+  lang:
+  - en
+Irvine:
+  gender_flag: 2
+  lang:
+  - en
+Irving:
+  gender_flag: 2
+  lang:
+  - en
+Irwin:
+  gender_flag: 2
+  lang:
+  - en
+Irène:
+  gender_flag: 1
+  is_equivalent_to:
+  - Irene
+  lang:
+  - fr
+  - sv
+Irén:
+  gender_flag: 1
+  is_equivalent_to:
+  - Irene
+  lang:
+  - hu
+Irénée:
+  gender_flag: 2
+  is_equivalent_to:
+  - Irenaeus
+  lang:
+  - fr
+Irāia:
+  gender_flag: 2
+  lang:
+  - mi
+Irēna:
+  gender_flag: 1
+  lang:
+  - lv
+  origin:
+  - grc
+Irīna:
+  gender_flag: 1
+  lang:
+  - lv
+Isa:
+  gender_flag: 7
+  is_short_for:
+  - Isabel
+  - Isabelle
+  lang:
+  - en
+  - es
+  - fr
+  - ha
+  - sv
+  origin:
+  - ar
+Isaac:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+  - fr
+Isaack:
+  gender_flag: 2
+  lang:
+  - en
+Isaak:
+  gender_flag: 2
+  lang:
+  - de
+Isabeau:
+  gender_flag: 7
+  lang:
+  - fr
+Isabel:
+  gender_flag: 1
+  is_a_variant_of:
+  - Isabella
+  - Isabelle
+  is_equivalent_to:
+  - Elizabeth
+  lang:
+  - ca
+  - ceb
+  - da
+  - de
+  - en
+  - es
+  - nl
+  - 'no'
+  - pt
+  - sv
+  - tl
+  origin:
+  - es
+  - he
+Isabela:
+  gender_flag: 1
+  is_a_variant_of:
+  - Isabel
+  lang:
+  - ceb
+  - en
+  - es
+  - pt
+  - tl
+  origin:
+  - es
+Isabele:
+  gender_flag: 1
+  is_a_variant_of:
+  - Isabel
+  lang:
+  - pt
+Isabell:
+  gender_flag: 1
+  is_a_variant_of:
+  - Isabel
+  lang:
+  - de
+  - en
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - he
+Isabella:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - fi
+  - fo
+  - it
+  - nl
+  - 'no'
+  - pt
+  - sv
+Isabelle:
+  gender_flag: 1
+  is_a_variant_of:
+  - Isabel
+  lang:
+  - de
+  - en
+  - fr
+  - pt
+  - sv
+  origin:
+  - fr
+Isabé:
+  gender_flag: 1
+  lang:
+  - nrf
+Isac:
+  gender_flag: 2
+  lang:
+  - sv
+Isacco:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - he
+Isadora:
+  gender_flag: 1
+  is_a_variant_of:
+  - Isidora
+  lang:
+  - en
+  origin:
+  - grc
+Isadore:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Isagani:
+  gender_flag: 2
+  lang:
+  - tl
+Isaia:
+  gender_flag: 2
+  lang:
+  - it
+Isaiah:
+  gender_flag: 2
+  lang:
+  - en
+Isak:
+  gender_flag: 2
+  lang:
+  - da
+  - ee
+  - 'no'
+  - sv
+Isam:
+  gender_flag: 2
+  lang:
+  - en
+Isang:
+  gender_flag: 1
+  is_short_for:
+  - Isabel
+  lang:
+  - ceb
+  - tl
+Isaque:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaac
+  lang:
+  - pt
+Isaura:
+  gender_flag: 1
+  lang:
+  - it
+  - pt
+Isay:
+  gender_flag: 1
+  is_short_for:
+  - Clarissa
+  - Luisa
+  - Marissa
+  - Melissa
+  lang:
+  - tl
+Isaí:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jesse
+  lang:
+  - es
+Isaías:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaiah
+  lang:
+  - es
+  - pt
+  origin:
+  - he
+Isaïe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaiah
+  lang:
+  - fr
+  origin:
+  - he
+Iseabail:
+  gender_flag: 1
+  is_equivalent_to:
+  - Isabel
+  lang:
+  - gd
+  origin:
+  - he
+Iselin:
+  gender_flag: 1
+  lang:
+  - 'no'
+Iseline:
+  gender_flag: 1
+  is_a_variant_of:
+  - Iselin
+  lang:
+  - 'no'
+Iselinn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Iselin
+  lang:
+  - 'no'
+Iseult:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - gem
+Ish:
+  gender_flag: 3
+  is_short_for:
+  - Ishmael
+  lang:
+  - en
+Ishaan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Ishani:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Ishaq:
+  gender_flag: 2
+  lang:
+  - en
+Ishbel:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gd
+Ishmael:
+  gender_flag: 2
+  lang:
+  - en
+Isiah:
+  gender_flag: 2
+  is_a_variant_of:
+  - Isaiah
+  lang:
+  - en
+Isiaka:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaac
+  lang:
+  - yo
+  origin:
+  - ar
+Iside:
+  gender_flag: 1
+  is_equivalent_to:
+  - Isis
+  lang:
+  - it
+Isidora:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  - la
+  origin:
+  - grc
+Isidore:
+  gender_flag: 2
+  lang:
+  - en
+  - nrf
+  origin:
+  - grc
+Isidoro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isidore
+  lang:
+  - es
+  - it
+Isidorus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isadore
+  - Isidore
+  lang:
+  - la
+Isidro:
+  gender_flag: 2
+  is_a_variant_of:
+  - Isidoro
+  is_equivalent_to:
+  - Isidore
+  lang:
+  - ceb
+  - es
+  - tl
+  origin:
+  - es
+Isikiẹli:
+  gender_flag: 2
+  lang:
+  - yo
+Isis: {}
+Isiyaku:
+  gender_flag: 2
+  lang:
+  - ha
+Isko:
+  gender_flag: 2
+  is_short_for:
+  - Francis
+  - Francisco
+  lang:
+  - ceb
+  - fi
+  - tl
+Isla:
+  gender_flag: 1
+  lang:
+  - en
+Islam:
+  gender_flag: 2
+  lang:
+  - en
+Islaw:
+  gender_flag: 2
+  is_short_for:
+  - Estanislao
+  - Israel
+  lang:
+  - ceb
+  - tl
+Islom:
+  gender_flag: 2
+  lang:
+  - uz
+Islombek:
+  gender_flag: 2
+  lang:
+  - uz
+Isma:
+  gender_flag: 2
+  is_short_for:
+  - Ismael
+  lang:
+  - es
+Isma'ilu:
+  gender_flag: 2
+  lang:
+  - ha
+Ismaaciil:
+  gender_flag: 2
+  lang:
+  - so
+Ismael:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ishmael
+  lang:
+  - ee
+  - es
+  - fi
+  - pt
+Ismaele:
+  gender_flag: 2
+  lang:
+  - it
+Ismail:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ishmael
+  lang:
+  - sq
+  origin:
+  - he
+Ismene:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Ismet:
+  gender_flag: 2
+  lang:
+  - sq
+  origin:
+  - ar
+Ismo:
+  gender_flag: 2
+  lang:
+  - fi
+Isobel:
+  gender_flag: 1
+  is_a_variant_of:
+  - Isabel
+  lang:
+  - en
+  origin:
+  - he
+Isobelle:
+  gender_flag: 1
+  lang:
+  - en
+Isolda:
+  gender_flag: 1
+  is_equivalent_to:
+  - Iseult
+  lang:
+  - es
+Isolde:
+  gender_flag: 1
+  is_equivalent_to:
+  - Iseult
+  lang:
+  - de
+  - en
+  origin:
+  - cel
+  - gem
+Isom:
+  gender_flag: 2
+  lang:
+  - en
+Isotta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Iseult
+  - Isolde
+  lang:
+  - it
+Isra:
+  gender_flag: 2
+  is_short_for:
+  - Israel
+  lang:
+  - es
+Israel:
+  gender_flag: 2
+  lang:
+  - ca
+  - en
+  - es
+  - pt
+  - tl
+  origin:
+  - he
+Isria:
+  gender_flag: 1
+  lang:
+  - en
+Issa:
+  lang:
+  - en
+Issac:
+  gender_flag: 2
+  lang:
+  - en
+Issachar:
+  gender_flag: 2
+  lang:
+  - en
+Issakka:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaac
+  lang:
+  - izh
+Issát:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaac
+  lang:
+  - se
+Isti:
+  gender_flag: 2
+  is_short_for:
+  - István
+  lang:
+  - hu
+Isto:
+  gender_flag: 2
+  lang:
+  - fi
+István:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - hu
+  origin:
+  - grc
+Istvánka:
+  gender_flag: 2
+  is_short_for:
+  - István
+  lang:
+  - hu
+Isuf:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - sq
+Isuzu:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Isy:
+  gender_flag: 1
+  lang:
+  - en
+Isàura:
+  gender_flag: 1
+  lang:
+  - rom
+Ita:
+  gender_flag: 1
+  lang:
+  - et
+Itahisa:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - gnc
+Itis:
+  gender_flag: 1
+  lang:
+  - goh
+Itzcoatl:
+  gender_flag: 2
+  lang:
+  - nci
+Itzel:
+  gender_flag: 1
+  lang:
+  - en
+Itzhak:
+  gender_flag: 2
+  is_a_variant_of:
+  - Isaac
+  lang:
+  - en
+Itziar:
+  gender_flag: 1
+  lang:
+  - eu
+Iulia:
+  gender_flag: 1
+  lang:
+  - la
+  - ro
+Iulian:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julian
+  lang:
+  - ro
+  origin:
+  - la
+Iuliu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julius
+  lang:
+  - ro
+  origin:
+  - la
+Iune:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Iuryi: {}
+Iustin:
+  gender_flag: 2
+  lang:
+  - ro
+  origin:
+  - la
+Iustinianus:
+  gender_flag: 2
+  lang:
+  - la
+Iustinus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Justin
+  lang:
+  - la
+Iuśfòun:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - egl
+  origin:
+  - he
+Iuśêf:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - egl
+  origin:
+  - he
+Iva:
+  gender_flag: 1
+  lang:
+  - cs
+  - en
+  - it
+  - sh
+Ivalu:
+  gender_flag: 1
+  lang:
+  - kl
+Ivan:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - ca
+  - cs
+  - da
+  - en
+  - fo
+  - 'no'
+  - pt
+  - sh
+  - sk
+  - sl
+  - sv
+  origin:
+  - cy
+  - ru
+Ivana:
+  gender_flag: 1
+  lang:
+  - cs
+  - en
+  - sh
+  - sk
+Ivanas:
+  gender_flag: 2
+  lang:
+  - lt
+Ivanie:
+  gender_flag: 1
+  lang:
+  - fr
+Ivanka:
+  gender_flag: 1
+  is_short_for:
+  - Ivana
+  lang:
+  - cs
+  - en
+  origin:
+  - cs
+  - he
+Ivanna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - uk
+Ivans:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - sla
+Ivar:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - et
+  - nb
+  - nn
+  - sv
+  origin:
+  - non
+Ivari:
+  gender_flag: 2
+  lang:
+  - et
+Ivars:
+  gender_flag: 2
+  lang:
+  - lv
+Ive:
+  gender_flag: 3
+  is_short_for:
+  - Ivy
+  lang:
+  - en
+  - wa
+Ivek:
+  gender_flag: 2
+  lang:
+  - sh
+Iver:
+  gender_flag: 2
+  lang:
+  - da
+  - 'no'
+Ives:
+  gender_flag: 2
+  lang:
+  - oc
+Ivet:
+  gender_flag: 1
+  is_equivalent_to:
+  - Yvette
+  lang:
+  - ca
+Iveta:
+  gender_flag: 1
+  lang:
+  - cs
+  - lt
+  - lv
+  - sk
+Ivete:
+  gender_flag: 1
+  is_equivalent_to:
+  - Yvette
+  lang:
+  - pt
+  origin:
+  - gem
+Ivetka:
+  gender_flag: 1
+  is_short_for:
+  - Iveta
+  lang:
+  - cs
+Ivett:
+  gender_flag: 1
+  is_equivalent_to:
+  - Yvette
+  lang:
+  - hu
+Ivi:
+  gender_flag: 1
+  is_a_variant_of:
+  - Eva
+  lang:
+  - et
+Ivica:
+  gender_flag: 3
+  lang:
+  - sh
+  - sk
+Ivik:
+  gender_flag: 3
+  lang:
+  - kl
+Ivika:
+  gender_flag: 1
+  is_a_variant_of:
+  - Eva
+  is_short_for:
+  - Ivi
+  lang:
+  - et
+Ivinnguaq:
+  gender_flag: 1
+  lang:
+  - kl
+Ivo:
+  gender_flag: 2
+  lang:
+  - cs
+  - en
+  - et
+  - it
+  - izh
+  - lv
+  - pt
+  - sh
+  origin:
+  - gem
+Ivon:
+  gender_flag: 2
+  lang:
+  - oc
+  - wa
+Ivona:
+  gender_flag: 1
+  is_equivalent_to:
+  - Yvonne
+  lang:
+  - cs
+  - oc
+  - sk
+Ivone:
+  gender_flag: 1
+  is_equivalent_to:
+  - Yvonne
+  lang:
+  - pt
+  origin:
+  - gem
+Ivonei:
+  gender_flag: 2
+  lang:
+  - pt
+Ivonka:
+  gender_flag: 1
+  is_short_for:
+  - Ivona
+  lang:
+  - cs
+Ivonne:
+  gender_flag: 1
+  lang:
+  - de
+Ivor:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Ivory:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Ivoš:
+  gender_flag: 2
+  is_short_for:
+  - Ivo
+  lang:
+  - cs
+Ivuš:
+  gender_flag: 1
+  is_short_for:
+  - Iva
+  lang:
+  - cs
+Ivuška:
+  gender_flag: 1
+  is_short_for:
+  - Iva
+  lang:
+  - cs
+Ivvár:
+  gender_flag: 2
+  lang:
+  - se
+Ivy:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Iván:
+  gender_flag: 2
+  is_equivalent_to:
+  - Evan
+  - Ian
+  - Ivan
+  lang:
+  - es
+  - hu
+Ivánek:
+  gender_flag: 2
+  is_short_for:
+  - Ivan
+  lang:
+  - cs
+Ivã:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ivan
+  is_equivalent_to:
+  - Ivan
+  lang:
+  - pt
+Iwa:
+  gender_flag: 1
+  is_short_for:
+  - Iwona
+  lang:
+  - pl
+Iwan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ivan
+  - John
+  lang:
+  - cy
+  - pl
+  origin:
+  - he
+Iwana:
+  gender_flag: 1
+  lang:
+  - pl
+Iwao:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Iwo:
+  gender_flag: 2
+  lang:
+  - pl
+Iwona:
+  gender_flag: 1
+  is_equivalent_to:
+  - Yvonne
+  lang:
+  - pl
+Iwonka:
+  gender_flag: 1
+  is_short_for:
+  - Iwona
+  lang:
+  - pl
+Iyaji:
+  gender_flag: 2
+  lang:
+  - igl
+Iyanda:
+  gender_flag: 7
+  lang:
+  - yo
+Iza:
+  gender_flag: 1
+  is_short_for:
+  - Izabela
+  - Izabella
+  lang:
+  - hu
+  - sk
+Izaak:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaac
+  lang:
+  - pl
+  origin:
+  - grc
+  - he
+  - la
+Izabel:
+  gender_flag: 1
+  is_a_variant_of:
+  - Isabel
+  lang:
+  - pt
+Izabela:
+  gender_flag: 1
+  is_a_variant_of:
+  - Isabel
+  is_equivalent_to:
+  - Isabel
+  - Isabelle
+  lang:
+  - cs
+  - pl
+  - pt
+  - sk
+Izabele:
+  gender_flag: 1
+  is_a_variant_of:
+  - Isabel
+  lang:
+  - pt
+Izabelka:
+  gender_flag: 1
+  is_short_for:
+  - Izabela
+  lang:
+  - cs
+Izabell:
+  gender_flag: 1
+  is_a_variant_of:
+  - Isabel
+  lang:
+  - pt
+Izabella:
+  gender_flag: 1
+  is_a_variant_of:
+  - Isabel
+  lang:
+  - hu
+  - pt
+Izabelle:
+  gender_flag: 1
+  is_a_variant_of:
+  - Isabel
+  lang:
+  - pt
+Izabelė:
+  gender_flag: 1
+  lang:
+  - lt
+Izabetë:
+  gender_flag: 1
+  is_equivalent_to:
+  - Elizabeth
+  lang:
+  - sq
+Izaiah:
+  gender_flag: 2
+  lang:
+  - en
+Izajasz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaiah
+  lang:
+  - pl
+Izaokas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaac
+  lang:
+  - lt
+Izaro:
+  gender_flag: 1
+  lang:
+  - eu
+Izet:
+  gender_flag: 2
+  lang:
+  - sq
+  origin:
+  - ar
+Izidor:
+  gender_flag: 2
+  lang:
+  - sk
+Izo:
+  gender_flag: 2
+  is_short_for:
+  - Izidor
+  - Izák
+  lang:
+  - sk
+Izora:
+  gender_flag: 1
+  lang:
+  - en
+Izrael:
+  gender_flag: 2
+  is_equivalent_to:
+  - Israel
+  lang:
+  - cs
+  origin:
+  - he
+Izsák:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaac
+  lang:
+  - hu
+Izumi:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ja
+Izydor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isidore
+  lang:
+  - pl
+Izydora:
+  gender_flag: 1
+  is_equivalent_to:
+  - Isidora
+  lang:
+  - pl
+Izzie:
+  gender_flag: 7
+  is_short_for:
+  - Isabel
+  - Israel
+  lang:
+  - en
+Izzy:
+  gender_flag: 7
+  is_short_for:
+  - Isabel
+  - Israel
+  lang:
+  - en
+Izák:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaac
+  lang:
+  - cs
+  - sk
+  origin:
+  - he
+Iða:
+  gender_flag: 1
+  lang:
+  - is
+Iðbjörg:
+  gender_flag: 1
+  lang:
+  - is
+Iðunn:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Iñaki:
+  gender_flag: 2
+  lang:
+  - es
+  - eu
+  origin:
+  - eu
+Iñigo:
+  gender_flag: 2
+  lang:
+  - tl
+  origin:
+  - es
+Iúil:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jules
+  - Julius
+  lang:
+  - ga
+  origin:
+  - la
+Iļja: {}
+Iľja:
+  gender_flag: 2
+  lang:
+  - sk
+Iŋgá:
+  gender_flag: 1
+  lang:
+  - se
+Iśśapake:
+  lang:
+  - txb
+Işanguly:
+  gender_flag: 2
+  lang:
+  - tk
+Işık:
+  gender_flag: 3
+  lang:
+  - tr
+Işıktan:
+  gender_flag: 2
+  lang:
+  - tr
+Işıl:
+  gender_flag: 1
+  lang:
+  - tr
+Işım:
+  gender_flag: 1
+  lang:
+  - tr
+Işın:
+  gender_flag: 3
+  lang:
+  - tr
+Işıt:
+  gender_flag: 1
+  lang:
+  - tr
+Işıtan:
+  gender_flag: 3
+  lang:
+  - tr
+Ištvan:
+  gender_flag: 2
+  lang:
+  - sh
+Iṣọla:
+  gender_flag: 2
+  lang:
+  - yo
+ishëm:
+  gender_flag: 2
+  lang:
+  - sq
+Ìngrid:
+  gender_flag: 1
+  lang:
+  - ca
+  - es
+Ìomhar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Evander
+  - Ivor
+  lang:
+  - gd
+  origin:
+  - non
+Ícaro:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - grc
+Ída:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ida
+  lang:
+  - is
+Ígor:
+  gender_flag: 2
+  is_a_variant_of:
+  - Igor
+  is_equivalent_to:
+  - Igor
+  lang:
+  - pt
+Ímundur:
+  gender_flag: 2
+  lang:
+  - fo
+Ína:
+  gender_flag: 1
+  lang:
+  - is
+Ír:
+  gender_flag: 1
+  lang:
+  - is
+Írena:
+  gender_flag: 1
+  lang:
+  - is
+Íris:
+  gender_flag: 1
+  is_equivalent_to:
+  - Iris
+  lang:
+  - is
+  - pt
+  - sk
+  origin:
+  - grc
+Ísak:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaac
+  lang:
+  - is
+Ísakur:
+  gender_flag: 2
+  lang:
+  - fo
+Ísakína:
+  gender_flag: 1
+  lang:
+  - is
+Ísbjörg:
+  gender_flag: 1
+  lang:
+  - is
+Ísdís:
+  gender_flag: 1
+  lang:
+  - is
+Ísey:
+  gender_flag: 1
+  lang:
+  - is
+Ísgeir:
+  gender_flag: 2
+  lang:
+  - is
+Ísis:
+  gender_flag: 1
+  lang:
+  - pt
+Íslaug:
+  gender_flag: 1
+  lang:
+  - is
+Ísleifur:
+  gender_flag: 2
+  lang:
+  - is
+Ísleivur:
+  gender_flag: 2
+  lang:
+  - fo
+Ísmael:
+  gender_flag: 2
+  lang:
+  - is
+  origin:
+  - he
+Ísmal:
+  gender_flag: 2
+  lang:
+  - fo
+Ísrún:
+  gender_flag: 1
+  lang:
+  - is
+Ítala:
+  gender_flag: 1
+  lang:
+  - ca
+  - pt
+  origin:
+  - la
+Ítalo:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - la
+Íva:
+  gender_flag: 1
+  lang:
+  - is
+Ívan:
+  gender_flag: 2
+  lang:
+  - is
+Ívar:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Ívarr:
+  gender_flag: 2
+  lang:
+  - non
+Íðunn:
+  gender_flag: 1
+  lang:
+  - fo
+Íñigo:
+  gender_flag: 2
+  lang:
+  - es
+Îsâĸ:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Īhaka:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaac
+  lang:
+  - mi
+Īhāia:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaiah
+  lang:
+  - mi
+Īlyipari:
+  lang:
+  - txb
+İbrahim:
+  gender_flag: 2
+  lang:
+  - az
+  - tr
+  origin:
+  - ar
+  - he
+  - syc
+İdi:
+  gender_flag: 2
+  lang:
+  - tr
+İdil:
+  gender_flag: 1
+  lang:
+  - tr
+İffet:
+  gender_flag: 1
+  lang:
+  - tr
+İhsan:
+  gender_flag: 3
+  lang:
+  - tr
+İkiz:
+  gender_flag: 2
+  lang:
+  - tr
+İl:
+  gender_flag: 2
+  lang:
+  - tr
+İlalan:
+  gender_flag: 2
+  lang:
+  - tr
+İlaldı:
+  gender_flag: 2
+  lang:
+  - tr
+İlalmış:
+  gender_flag: 2
+  lang:
+  - tr
+İlay:
+  gender_flag: 1
+  lang:
+  - tr
+İlayda:
+  gender_flag: 1
+  lang:
+  - tr
+İlaydın:
+  gender_flag: 2
+  lang:
+  - tr
+İlbasan:
+  gender_flag: 2
+  lang:
+  - tr
+İlbasmış:
+  gender_flag: 2
+  lang:
+  - tr
+İlbastı:
+  gender_flag: 2
+  lang:
+  - tr
+İlbaş:
+  gender_flag: 2
+  lang:
+  - tr
+İlbey:
+  gender_flag: 2
+  lang:
+  - tr
+İlbeyi:
+  gender_flag: 2
+  lang:
+  - tr
+İlboğa:
+  gender_flag: 2
+  lang:
+  - tr
+İldemir:
+  gender_flag: 2
+  lang:
+  - tr
+İldeniz:
+  gender_flag: 3
+  lang:
+  - tr
+İldeş:
+  gender_flag: 3
+  lang:
+  - tr
+İlgi:
+  gender_flag: 3
+  lang:
+  - tr
+İlginç:
+  gender_flag: 2
+  lang:
+  - tr
+İlgün:
+  gender_flag: 3
+  lang:
+  - tr
+İlham:
+  gender_flag: 2
+  lang:
+  - az
+  - tr
+  origin:
+  - ar
+İlhamə:
+  gender_flag: 1
+  lang:
+  - az
+İlhan:
+  gender_flag: 2
+  lang:
+  - tr
+İlim:
+  gender_flag: 2
+  lang:
+  - tr
+İlkan:
+  gender_flag: 2
+  lang:
+  - tr
+İlkay:
+  gender_flag: 3
+  lang:
+  - tr
+İlkbahar:
+  gender_flag: 1
+  lang:
+  - tr
+İlke:
+  gender_flag: 3
+  lang:
+  - tr
+İlker:
+  gender_flag: 2
+  lang:
+  - tr
+İlknur:
+  gender_flag: 1
+  lang:
+  - tr
+İlkut:
+  gender_flag: 2
+  lang:
+  - tr
+İltay:
+  gender_flag: 2
+  lang:
+  - tr
+İltaş:
+  gender_flag: 2
+  lang:
+  - tr
+İlteriş:
+  gender_flag: 2
+  lang:
+  - tr
+İlyas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Elias
+  - Elijah
+  lang:
+  - az
+  - tr
+  origin:
+  - ar
+  - he
+İmamqulu:
+  gender_flag: 2
+  lang:
+  - az
+İmanqulu:
+  gender_flag: 2
+  lang:
+  - az
+İmre:
+  gender_flag: 2
+  lang:
+  - tr
+İmren:
+  gender_flag: 3
+  lang:
+  - tr
+İnal:
+  gender_flag: 3
+  lang:
+  - tr
+İnan:
+  gender_flag: 3
+  lang:
+  - tr
+İnanç:
+  gender_flag: 3
+  lang:
+  - tr
+İnce:
+  gender_flag: 3
+  lang:
+  - tr
+İnci:
+  gender_flag: 1
+  lang:
+  - tr
+İncila:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - tr
+İpek:
+  gender_flag: 1
+  lang:
+  - tr
+İrem:
+  gender_flag: 1
+  lang:
+  - tr
+İren:
+  gender_flag: 2
+  lang:
+  - tr
+İrfan:
+  gender_flag: 3
+  lang:
+  - tr
+  origin:
+  - ar
+İriney: {}
+İsa:
+  gender_flag: 2
+  lang:
+  - tr
+İshak:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+  - he
+İshaq:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+  - he
+İskender:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - tr
+İslam:
+  gender_flag: 2
+  lang:
+  - az
+  - tr
+  origin:
+  - ar
+İsmail:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ishmael
+  lang:
+  - tr
+  origin:
+  - ar
+İsmayıl:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+İsmet:
+  gender_flag: 3
+  lang:
+  - tr
+  origin:
+  - ar
+İstefanos:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - tr
+İtibar:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+İvan: {}
+İzel:
+  gender_flag: 3
+  lang:
+  - tr
+İzgül:
+  gender_flag: 1
+  lang:
+  - tr
+İzzet:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+İçten:
+  gender_flag: 3
+  lang:
+  - tr
+İçöz:
+  gender_flag: 2
+  lang:
+  - tr

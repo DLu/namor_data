@@ -1,0 +1,6772 @@
+La Toya:
+  gender_flag: 1
+  lang:
+  - en
+La Vergne:
+  gender_flag: 1
+  lang:
+  - en
+La Verne:
+  gender_flag: 1
+  lang:
+  - en
+LaTonya:
+  gender_flag: 1
+  is_a_variant_of:
+  - Latonia
+  lang:
+  - en
+Laakki:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Laannguaq:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Laaouni:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Laars:
+  gender_flag: 2
+  lang:
+  - fo
+Laasi:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Laban:
+  gender_flag: 2
+  lang:
+  - en
+Labano:
+  gender_flag: 2
+  lang:
+  - it
+Labanus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - he
+Labhrás:
+  gender_flag: 2
+  is_equivalent_to:
+  - Laurence
+  - Lawrence
+  lang:
+  - ga
+Labib:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Labrax:
+  gender_flag: 2
+  lang:
+  - la
+Lacey:
+  gender_flag: 7
+  lang:
+  - en
+Lachaidh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lachie
+  is_short_for:
+  - Lachann
+  - Lachlann
+  lang:
+  - gd
+Lachann:
+  gender_flag: 2
+  is_a_variant_of:
+  - Lachlann
+  is_equivalent_to:
+  - Lachlan
+  lang:
+  - gd
+  origin:
+  - sga
+Lachie:
+  gender_flag: 2
+  is_short_for:
+  - Lachlan
+  lang:
+  - en
+Lachlan:
+  gender_flag: 2
+  lang:
+  - en
+Lachlann:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lachlan
+  lang:
+  - gd
+  origin:
+  - sga
+Lachtnae:
+  gender_flag: 2
+  lang:
+  - sga
+Lachtnán:
+  gender_flag: 2
+  lang:
+  - sga
+Lachy:
+  gender_flag: 2
+  is_short_for:
+  - Lachlan
+  lang:
+  - en
+Laci:
+  gender_flag: 7
+  is_short_for:
+  - László
+  lang:
+  - en
+  - hu
+Lackó:
+  gender_flag: 2
+  is_short_for:
+  - László
+  lang:
+  - hu
+Laco:
+  gender_flag: 2
+  lang:
+  - sk
+Lacy:
+  gender_flag: 7
+  lang:
+  - en
+Lada:
+  gender_flag: 1
+  lang:
+  - cs
+  - en
+  origin:
+  - cs
+Ladale:
+  gender_flag: 2
+  lang:
+  - en
+Ladasclavus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vladislav
+  lang:
+  - la
+Ladasha:
+  gender_flag: 1
+  lang:
+  - en
+Ladi:
+  gender_flag: 1
+  lang:
+  - ha
+Ladislao:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ladislaus
+  lang:
+  - es
+  - it
+Ladislas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ladislaus
+  lang:
+  - fr
+Ladislau:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ladislaus
+  lang:
+  - ca
+  - pt
+  - ro
+  origin:
+  - la
+  - sla
+Ladislaus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sla
+Ladislav:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ladislaus
+  lang:
+  - cs
+  - sk
+Ladislava:
+  gender_flag: 1
+  lang:
+  - sk
+Ladson:
+  gender_flag: 2
+  lang:
+  - en
+Laduška:
+  gender_flag: 1
+  is_short_for:
+  - Lada
+  lang:
+  - cs
+Laerte:
+  gender_flag: 2
+  lang:
+  - it
+Laerto:
+  gender_flag: 2
+  lang:
+  - eo
+  origin:
+  - grc
+Laetitia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Letitia
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+Lafayette:
+  gender_flag: 2
+  lang:
+  - en
+Lafe:
+  gender_flag: 2
+  is_short_for:
+  - Lafayette
+  lang:
+  - en
+Lage:
+  gender_flag: 2
+  lang:
+  - da
+  - sv
+Lagle:
+  gender_flag: 1
+  lang:
+  - et
+  origin:
+  - et
+Lagos:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lagus
+  lang:
+  - fr
+  origin:
+  - grc
+Lagrimas:
+  gender_flag: 1
+  lang:
+  - ceb
+Lagunna:
+  gender_flag: 2
+  lang:
+  - yo
+Lagus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+  - la
+Lahapa:
+  gender_flag: 1
+  lang:
+  - haw
+Lahja:
+  gender_flag: 1
+  lang:
+  - fi
+Laia:
+  gender_flag: 1
+  is_short_for:
+  - Eulàlia
+  lang:
+  - ca
+Laikhurembi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mni
+Laila:
+  gender_flag: 1
+  is_a_variant_of:
+  - Leila
+  lang:
+  - da
+  - de
+  - en
+  - fi
+  - fo
+  - lv
+  - 'no'
+  - sv
+  origin:
+  - ar
+Lailah:
+  gender_flag: 1
+  is_a_variant_of:
+  - Leila
+  lang:
+  - en
+  origin:
+  - ar
+Laima:
+  gender_flag: 1
+  lang:
+  - lt
+  - lv
+Laimdota:
+  gender_flag: 1
+  lang:
+  - lv
+Laimdots:
+  gender_flag: 2
+  lang:
+  - lv
+Laimi:
+  gender_flag: 1
+  lang:
+  - fi
+Laimis:
+  gender_flag: 2
+  lang:
+  - lt
+Laimonis:
+  gender_flag: 2
+  lang:
+  - lv
+Laimutis:
+  gender_flag: 2
+  lang:
+  - lt
+Laimutė:
+  gender_flag: 1
+  lang:
+  - lt
+Laina:
+  gender_flag: 1
+  lang:
+  - fi
+Lainaotabi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mni
+Laine:
+  gender_flag: 1
+  lang:
+  - et
+Lainey:
+  gender_flag: 1
+  is_short_for:
+  - Elaine
+  lang:
+  - en
+Laith:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - ar
+Lajos:
+  gender_flag: 2
+  is_equivalent_to:
+  - Louis
+  lang:
+  - hu
+Laka:
+  gender_flag: 3
+  lang:
+  - haw
+Lakalo:
+  gender_flag: 2
+  lang:
+  - haw
+Lake:
+  gender_flag: 6
+  lang:
+  - en
+Lakeisha:
+  gender_flag: 1
+  lang:
+  - en
+Lakesha:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lakeisha
+  lang:
+  - en
+Lakeshia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lakeisha
+  lang:
+  - en
+Lakhdar:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Lakisha:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lakeisha
+  lang:
+  - en
+Lakshmana:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Lakshmi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Lala:
+  gender_flag: 2
+  lang:
+  - tr
+Lalage:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Lale:
+  gender_flag: 1
+  lang:
+  - tr
+Lali:
+  gender_flag: 1
+  is_short_for:
+  - Citlali
+  lang:
+  - es
+Lalita:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Laliye:
+  gender_flag: 1
+  is_equivalent_to:
+  - Eulalie
+  lang:
+  - wa
+Lalli:
+  gender_flag: 2
+  lang:
+  - fi
+  origin:
+  - la
+Lalo:
+  gender_flag: 2
+  is_short_for:
+  - Braulio
+  - Eduardo
+  - Ladislao
+  - Álvaro
+  lang:
+  - es
+Lalə:
+  gender_flag: 1
+  lang:
+  - az
+  origin:
+  - fa
+Lamar:
+  gender_flag: 2
+  lang:
+  - en
+Lambda:
+  gender_flag: 1
+  lang:
+  - en
+Lambert:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - gem
+Lamberto:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lambert
+  lang:
+  - ceb
+  - it
+Lambiet:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lambert
+  lang:
+  - wa
+Lamesha:
+  gender_flag: 1
+  lang:
+  - en
+Lami:
+  gender_flag: 1
+  lang:
+  - ha
+Lamia:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - ar
+Lamidi:
+  gender_flag: 2
+  lang:
+  - yo
+  origin:
+  - ar
+Lampadio:
+  gender_flag: 2
+  lang:
+  - la
+Lan:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Lana:
+  gender_flag: 1
+  lang:
+  - en
+  - is
+  origin:
+  - ru
+Lanakila:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Lance:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - gem
+Lancelot:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - fr
+  origin:
+  - en
+  - frm
+  - gem
+Land:
+  gender_flag: 2
+  lang:
+  - sq
+Landbeorht:
+  gender_flag: 2
+  lang:
+  - ang
+Lando:
+  gender_flag: 2
+  lang:
+  - ceb
+  - it
+Landolfo:
+  gender_flag: 2
+  lang:
+  - it
+Landon:
+  gender_flag: 2
+  lang:
+  - en
+Landri:
+  gender_flag: 1
+  lang:
+  - en
+Landyn:
+  gender_flag: 2
+  lang:
+  - en
+Landër:
+  gender_flag: 2
+  lang:
+  - sq
+Lane:
+  gender_flag: 7
+  lang:
+  - en
+Laney:
+  gender_flag: 7
+  lang:
+  - en
+Langston:
+  gender_flag: 2
+  lang:
+  - en
+Lani:
+  gender_flag: 7
+  lang:
+  - en
+  - haw
+  origin:
+  - haw
+Lanny:
+  gender_flag: 2
+  is_short_for:
+  - Laurence
+  - Roland
+  lang:
+  - en
+Lantoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Lanzarote:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lancelot
+  lang:
+  - es
+Laojzek:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aloysius
+  lang:
+  - wym
+Lapo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Coby
+  - Jake
+  lang:
+  - it
+Laquana:
+  gender_flag: 1
+  lang:
+  - en
+Laquanta:
+  gender_flag: 1
+  lang:
+  - en
+Laquisha:
+  gender_flag: 1
+  lang:
+  - en
+Laquita:
+  gender_flag: 1
+  lang:
+  - en
+Lara:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - fr
+  - is
+  - it
+  - pt
+  origin:
+  - ru
+Lari:
+  gender_flag: 2
+  lang:
+  - fi
+Larina:
+  gender_flag: 1
+  lang:
+  - en
+Larisa:
+  gender_flag: 1
+  lang:
+  - en
+  - lt
+  - lv
+  origin:
+  - grc
+Larissa:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - fr
+  - it
+  - pt
+  origin:
+  - grc
+Lark:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Larry:
+  gender_flag: 2
+  is_short_for:
+  - Laurence
+  lang:
+  - en
+  - es
+  origin:
+  - en
+Lars:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  - fo
+  - is
+  - nl
+  - nn
+  - 'no'
+  - sv
+  origin:
+  - la
+Larsine:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Larvas:
+  gender_flag: 2
+  lang:
+  - fo
+Lasairfhíona:
+  gender_flag: 1
+  lang:
+  - ga
+Lashawndra:
+  gender_flag: 1
+  lang:
+  - en
+Lashay:
+  gender_flag: 1
+  lang:
+  - en
+Lashonda:
+  gender_flag: 1
+  lang:
+  - en
+Lasisi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abdulaziz
+  lang:
+  - yo
+  origin:
+  - ar
+Lasota:
+  gender_flag: 2
+  lang:
+  - pl
+Lasse:
+  gender_flag: 2
+  is_short_for:
+  - Lars
+  lang:
+  - da
+  - fi
+  - 'no'
+  - sv
+  origin:
+  - la
+Lassi:
+  gender_flag: 2
+  lang:
+  - fi
+Laszlo:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hu
+Lata:
+  gender_flag: 1
+  lang:
+  - en
+Latanya:
+  gender_flag: 1
+  lang:
+  - en
+Lateef:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Latif:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - ar
+Latife:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Latisha:
+  gender_flag: 1
+  lang:
+  - en
+Latonia:
+  gender_flag: 1
+  lang:
+  - en
+Latonya:
+  gender_flag: 1
+  is_a_variant_of:
+  - Latonia
+  lang:
+  - en
+Latosha:
+  gender_flag: 1
+  lang:
+  - en
+Latoya:
+  gender_flag: 1
+  lang:
+  - en
+Latoyah:
+  gender_flag: 1
+  lang:
+  - en
+Lattanzio:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Lau:
+  gender_flag: 2
+  lang:
+  - da
+Laud:
+  gender_flag: 2
+  lang:
+  - nrf
+Laudith:
+  gender_flag: 1
+  lang:
+  - 'no'
+Lauge:
+  gender_flag: 2
+  lang:
+  - da
+Laugheiður:
+  gender_flag: 1
+  lang:
+  - is
+Lauha:
+  gender_flag: 1
+  lang:
+  - fi
+Lauma:
+  gender_flag: 1
+  lang:
+  - lv
+Launcelot:
+  gender_flag: 2
+  is_a_variant_of:
+  - Lancelot
+  lang:
+  - en
+Launde:
+  gender_flag: 1
+  lang:
+  - nrf
+Laur:
+  gender_flag: 2
+  lang:
+  - et
+Laura:
+  gender_flag: 1
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - es
+  - et
+  - fi
+  - fo
+  - fr
+  - it
+  - lt
+  - lv
+  - nl
+  - 'no'
+  - pl
+  - pt
+  - sk
+  - sv
+  origin:
+  - la
+Laure:
+  gender_flag: 1
+  is_equivalent_to:
+  - Laura
+  lang:
+  - fr
+Laurel:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - en
+Laureline:
+  gender_flag: 1
+  lang:
+  - fr
+Lauren:
+  gender_flag: 7
+  lang:
+  - en
+Laurence:
+  gender_flag: 3
+  lang:
+  - en
+  - fr
+Laurens:
+  gender_flag: 2
+  is_a_variant_of:
+  - Lorenz
+  is_equivalent_to:
+  - Laurence
+  - Lawrence
+  lang:
+  - de
+  - nl
+Laurent:
+  gender_flag: 2
+  is_equivalent_to:
+  - Laurence
+  - Lawrence
+  lang:
+  - fr
+Laurentie:
+  gender_flag: 1
+  lang:
+  - fr
+Laurentius:
+  gender_flag: 2
+  is_equivalent_to:
+  - Laurence
+  lang:
+  - la
+Laurenz:
+  gender_flag: 2
+  lang:
+  - de
+Laurențiu:
+  gender_flag: 2
+  lang:
+  - ro
+  origin:
+  - la
+Lauretta:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Laurette:
+  gender_flag: 1
+  is_equivalent_to:
+  - Laura
+  is_short_for:
+  - Laure
+  lang:
+  - fr
+Lauri:
+  gender_flag: 3
+  lang:
+  - en
+  - et
+  - fi
+Laurianne:
+  gender_flag: 1
+  lang:
+  - en
+Laurice:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Laurids:
+  gender_flag: 2
+  is_a_variant_of:
+  - Laurits
+  lang:
+  - da
+Laurie:
+  gender_flag: 7
+  is_short_for:
+  - Laurence
+  lang:
+  - en
+Laurin:
+  gender_flag: 3
+  is_a_variant_of:
+  - Lauren
+  lang:
+  - de
+  - en
+Laurina:
+  gender_flag: 1
+  lang:
+  - fo
+Laurinda:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Laurine:
+  gender_flag: 1
+  is_short_for:
+  - Laure
+  lang:
+  - da
+  - fr
+Lauris:
+  gender_flag: 2
+  lang:
+  - lv
+Laurissa:
+  gender_flag: 1
+  lang:
+  - en
+Laurits:
+  gender_flag: 2
+  lang:
+  - da
+  - 'no'
+Lauritz:
+  gender_flag: 2
+  is_a_variant_of:
+  - Laurits
+  lang:
+  - da
+Lauro:
+  gender_flag: 2
+  lang:
+  - en
+  - it
+Laurs:
+  gender_flag: 2
+  lang:
+  - da
+Laurus:
+  gender_flag: 2
+  lang:
+  - fo
+Lauryn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Laurynas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Laurence
+  lang:
+  - lt
+Laurys:
+  gender_flag: 2
+  is_equivalent_to:
+  - Laurence
+  lang:
+  - gv
+Laurêncio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Laurence
+  lang:
+  - pt
+  origin:
+  - la
+Laust:
+  gender_flag: 2
+  lang:
+  - da
+Lavanya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Lavars:
+  gender_flag: 2
+  lang:
+  - fo
+Lave:
+  gender_flag: 2
+  lang:
+  - da
+Lavender:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Lavern:
+  gender_flag: 7
+  lang:
+  - en
+Laverna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Laverne:
+  gender_flag: 1
+  lang:
+  - en
+Lavinia:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  origin:
+  - la
+Lavonia:
+  gender_flag: 1
+  lang:
+  - en
+Lavoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Lavra:
+  gender_flag: 1
+  lang:
+  - sl
+Lavrans:
+  gender_flag: 2
+  lang:
+  - fo
+Lavínia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lavinia
+  lang:
+  - pt
+Lavīze:
+  gender_flag: 1
+  lang:
+  - lv
+Law:
+  gender_flag: 2
+  lang:
+  - en
+Lawanda:
+  gender_flag: 1
+  lang:
+  - en
+Lawking:
+  lang:
+  - trv
+Lawrence:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Lawrie:
+  gender_flag: 2
+  is_short_for:
+  - Lawrence
+  lang:
+  - en
+Laws:
+  gender_flag: 2
+  is_short_for:
+  - Lawrence
+  lang:
+  - en
+Lawton:
+  gender_flag: 2
+  lang:
+  - en
+Lawyer:
+  gender_flag: 2
+  lang:
+  - en
+Layla:
+  gender_flag: 1
+  is_a_variant_of:
+  - Leila
+  lang:
+  - en
+  origin:
+  - ar
+Laylah:
+  gender_flag: 1
+  is_a_variant_of:
+  - Leila
+  lang:
+  - en
+  origin:
+  - ar
+Layne:
+  gender_flag: 2
+  lang:
+  - en
+Layton:
+  gender_flag: 2
+  lang:
+  - en
+Lazar:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sh
+Lazarus:
+  gender_flag: 2
+  lang:
+  - en
+Lazlo:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hu
+Lazlow:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sla
+Lazzaro:
+  gender_flag: 2
+  lang:
+  - it
+Laëtitia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Letitia
+  lang:
+  - fr
+Laís:
+  gender_flag: 1
+  lang:
+  - pt
+Laïesse:
+  gender_flag: 2
+  is_equivalent_to:
+  - Elias
+  lang:
+  - nrf
+Laʻakea:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Ldjir:
+  gender_flag: 2
+  lang:
+  - wa
+Ldjî:
+  gender_flag: 2
+  lang:
+  - wa
+Le Roi:
+  gender_flag: 2
+  lang:
+  - en
+Le Roy:
+  gender_flag: 2
+  lang:
+  - en
+LeRoi:
+  gender_flag: 2
+  lang:
+  - en
+LeRoy:
+  gender_flag: 2
+  lang:
+  - en
+Lea:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - et
+  - fi
+  - fo
+  - haw
+  - is
+  - 'no'
+  - sk
+  - sv
+  origin:
+  - haw
+  - he
+Leaena:
+  gender_flag: 2
+  lang:
+  - la
+Leagsaidh:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lexie
+  lang:
+  - gd
+Leah:
+  gender_flag: 1
+  lang:
+  - en
+  - 'no'
+  origin:
+  - he
+Leana:
+  gender_flag: 1
+  lang:
+  - en
+Leander:
+  gender_flag: 2
+  lang:
+  - en
+  - sv
+  origin:
+  - grc
+Leandrew:
+  gender_flag: 2
+  lang:
+  - en
+Leandro:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+Leanid: {}
+Leanna:
+  gender_flag: 1
+  lang:
+  - en
+Leannah:
+  gender_flag: 1
+  lang:
+  - en
+Leanne:
+  gender_flag: 1
+  lang:
+  - en
+Learco:
+  gender_flag: 2
+  lang:
+  - it
+Learry:
+  gender_flag: 2
+  is_equivalent_to:
+  - Larry
+  lang:
+  - yol
+Leary:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - ga
+Lebron:
+  gender_flag: 2
+  lang:
+  - ceb
+Lech:
+  gender_flag: 2
+  lang:
+  - pl
+Leda:
+  gender_flag: 1
+  lang:
+  - it
+Lediça:
+  gender_flag: 1
+  is_equivalent_to:
+  - Letitia
+  lang:
+  - pt
+Lee:
+  gender_flag: 7
+  lang:
+  - en
+Lee Roy:
+  gender_flag: 2
+  lang:
+  - en
+LeeRoy:
+  gender_flag: 2
+  lang:
+  - en
+Leea:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lea
+  lang:
+  - fi
+Leegi:
+  gender_flag: 1
+  lang:
+  - et
+Leela:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Leelo:
+  gender_flag: 1
+  lang:
+  - et
+Leemet:
+  gender_flag: 2
+  is_equivalent_to:
+  - Clement
+  lang:
+  - et
+  origin:
+  - la
+Leena:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Leendert:
+  gender_flag: 2
+  lang:
+  - nl
+Leeni:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Leentje:
+  gender_flag: 1
+  lang:
+  - nl
+Leeroy:
+  gender_flag: 2
+  lang:
+  - en
+Leevi:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+  origin:
+  - he
+Leeza:
+  gender_flag: 1
+  lang:
+  - en
+Legend:
+  gender_flag: 2
+  lang:
+  - en
+Legimin:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Lehel:
+  gender_flag: 2
+  lang:
+  - hu
+Leho:
+  gender_flag: 2
+  lang:
+  - et
+Lehte:
+  gender_flag: 1
+  lang:
+  - et
+Lehti:
+  gender_flag: 1
+  lang:
+  - et
+Lehua:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Lei:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Leia:
+  gender_flag: 1
+  lang:
+  - en
+  - pt
+  - sv
+Leialoha:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Leida:
+  gender_flag: 1
+  lang:
+  - et
+Leidulv:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Leidy:
+  gender_flag: 7
+  lang:
+  - en
+Leif:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - 'no'
+  - sv
+  origin:
+  - gem
+Leifr:
+  gender_flag: 2
+  lang:
+  - non
+Leifur:
+  gender_flag: 2
+  lang:
+  - is
+Leigh:
+  gender_flag: 7
+  lang:
+  - en
+Leighton:
+  gender_flag: 7
+  lang:
+  - en
+Leiki:
+  gender_flag: 2
+  lang:
+  - fo
+Leila:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - fi
+  - fr
+  - hu
+  - pt
+  origin:
+  - ar
+Leilani:
+  gender_flag: 3
+  lang:
+  - en
+  - haw
+  origin:
+  - haw
+Leili:
+  gender_flag: 1
+  lang:
+  - et
+Leimomi:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Leinani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Leināʻala:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Leire:
+  gender_flag: 1
+  lang:
+  - es
+Leiv:
+  gender_flag: 2
+  lang:
+  - nb
+  - nn
+Leivur:
+  gender_flag: 2
+  lang:
+  - fo
+Leiðulfr:
+  gender_flag: 2
+  lang:
+  - non
+Lejla:
+  gender_flag: 1
+  lang:
+  - hu
+Leka:
+  gender_flag: 2
+  lang:
+  - sq
+Lekiniu:
+  gender_flag: 2
+  lang:
+  - sq
+Lekë:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - sq
+Lela:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+  - ka
+Leland:
+  gender_flag: 2
+  lang:
+  - en
+Lelde:
+  gender_flag: 1
+  lang:
+  - lv
+Lelia:
+  gender_flag: 1
+  lang:
+  - en
+Lelio:
+  gender_flag: 2
+  lang:
+  - it
+Lella:
+  gender_flag: 1
+  lang:
+  - en
+Lembe:
+  gender_flag: 1
+  lang:
+  - et
+Lembi:
+  gender_flag: 1
+  lang:
+  - et
+Lembit:
+  gender_flag: 2
+  lang:
+  - et
+Lemet:
+  gender_flag: 2
+  lang:
+  - se
+Lemma:
+  gender_flag: 1
+  lang:
+  - en
+Lemme:
+  gender_flag: 1
+  lang:
+  - et
+Lemmikki:
+  gender_flag: 1
+  lang:
+  - fi
+Lemmitty:
+  gender_flag: 1
+  lang:
+  - fi
+Lemmy:
+  gender_flag: 1
+  lang:
+  - en
+Lemniselenis:
+  gender_flag: 1
+  lang:
+  - la
+Lempi:
+  gender_flag: 1
+  lang:
+  - fi
+Lemuel:
+  gender_flag: 2
+  lang:
+  - en
+Lemuele:
+  gender_flag: 2
+  lang:
+  - it
+Len:
+  gender_flag: 2
+  is_short_for:
+  - Leonard
+  lang:
+  - en
+Lena:
+  gender_flag: 3
+  is_short_for:
+  - Helena
+  - Magdalena
+  - Milena
+  lang:
+  - da
+  - de
+  - en
+  - fo
+  - la
+  - 'no'
+  - pl
+  - sv
+  origin:
+  - grc
+  - he
+Lene:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Leni:
+  gender_flag: 1
+  is_short_for:
+  - Helene
+  - Magdalene
+  lang:
+  - de
+Leninka:
+  gender_flag: 1
+  is_short_for:
+  - Lenka
+  lang:
+  - cs
+Lenička:
+  gender_flag: 1
+  is_short_for:
+  - Lenka
+  lang:
+  - cs
+Lenka:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Lenlen:
+  gender_flag: 1
+  lang:
+  - ceb
+Lennard:
+  gender_flag: 2
+  lang:
+  - de
+Lennart:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leonard
+  lang:
+  - da
+  - de
+  - et
+  - fi
+  - sv
+Lennartti:
+  gender_flag: 2
+  lang:
+  - fi
+Lenni:
+  gender_flag: 2
+  lang:
+  - fi
+Lenno:
+  gender_flag: 2
+  lang:
+  - et
+Lennon:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - ga
+Lennu:
+  gender_flag: 2
+  lang:
+  - fi
+Lenny:
+  gender_flag: 2
+  is_short_for:
+  - Leonard
+  lang:
+  - en
+Lenora:
+  gender_flag: 1
+  is_a_variant_of:
+  - Eleanor
+  lang:
+  - en
+Lenore:
+  gender_flag: 1
+  is_a_variant_of:
+  - Eleanor
+  lang:
+  - en
+Lenuța:
+  gender_flag: 1
+  lang:
+  - ro
+Lenworth:
+  gender_flag: 2
+  lang:
+  - en
+Leny:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lene
+  lang:
+  - 'no'
+Leo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Leon
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - fi
+  - fo
+  - nl
+  - 'no'
+  - sv
+Leocadia:
+  gender_flag: 1
+  lang:
+  - es
+Leodigario:
+  gender_flag: 2
+  lang:
+  - es
+  - tl
+Leody:
+  gender_flag: 2
+  is_short_for:
+  - Leodigario
+  lang:
+  - tl
+Leoflæd:
+  gender_flag: 1
+  lang:
+  - ang
+Leofmær:
+  gender_flag: 2
+  lang:
+  - ang
+Leofnoþ:
+  gender_flag: 2
+  lang:
+  - ang
+Leofric:
+  gender_flag: 2
+  lang:
+  - ang
+Leofrun:
+  gender_flag: 1
+  lang:
+  - ang
+Leofsige:
+  gender_flag: 2
+  lang:
+  - ang
+Leofstan:
+  gender_flag: 2
+  lang:
+  - ang
+Leofweard:
+  gender_flag: 2
+  lang:
+  - ang
+Leofwig:
+  gender_flag: 2
+  lang:
+  - ang
+Leofwine:
+  gender_flag: 2
+  lang:
+  - ang
+Leohtilo:
+  lang:
+  - goh
+Leokadia:
+  gender_flag: 1
+  lang:
+  - pl
+Leokadiusz:
+  gender_flag: 2
+  lang:
+  - pl
+Leon:
+  gender_flag: 2
+  is_a_variant_of:
+  - Leo
+  is_equivalent_to:
+  - Leo
+  lang:
+  - da
+  - de
+  - en
+  - fo
+  - 'no'
+  - pl
+  - sl
+  - sv
+  origin:
+  - la
+Leona:
+  gender_flag: 1
+  lang:
+  - cs
+  - en
+  origin:
+  - la
+Leonard:
+  gender_flag: 2
+  lang:
+  - en
+  - fro
+  - pl
+  - sk
+  origin:
+  - gem
+  - goh
+Leonarda:
+  gender_flag: 1
+  lang:
+  - pl
+Leonardas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leonard
+  lang:
+  - lt
+Leonardo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leonard
+  lang:
+  - en
+  - es
+  - it
+  - pt
+  origin:
+  - it
+Leonards:
+  gender_flag: 2
+  lang:
+  - lv
+Leonardus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leonard
+  lang:
+  - la
+Leonas:
+  gender_flag: 2
+  lang:
+  - lt
+Leoncio:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - grc
+  - la
+Leondre:
+  gender_flag: 2
+  lang:
+  - en
+Leonel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lionel
+  lang:
+  - pt
+Leonhard:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leonard
+  lang:
+  - de
+Leoni:
+  gender_flag: 1
+  lang:
+  - de
+  - eu
+Leonia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Leona
+  lang:
+  - pl
+Leonid:
+  gender_flag: 2
+  lang:
+  - en
+Leonida:
+  gender_flag: 2
+  lang:
+  - it
+  - la
+Leonidas:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Leonie:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  origin:
+  - fr
+  - la
+Leonilde:
+  gender_flag: 1
+  lang:
+  - it
+Leonka:
+  gender_flag: 1
+  is_short_for:
+  - Leona
+  lang:
+  - cs
+Leonor:
+  gender_flag: 1
+  is_equivalent_to:
+  - Eleanor
+  lang:
+  - es
+  - pt
+  - tl
+  origin:
+  - es
+Leonora:
+  gender_flag: 1
+  is_short_for:
+  - Eleonora
+  lang:
+  - en
+  - eu
+  - it
+  origin:
+  - it
+Leonore:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+Leons:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - grc
+Leontýna:
+  gender_flag: 1
+  lang:
+  - cs
+Leontýnka:
+  gender_flag: 1
+  is_short_for:
+  - Leontýna
+  lang:
+  - cs
+Leonzio:
+  gender_flag: 2
+  lang:
+  - it
+Leonīds:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - grc
+Leopol:
+  gender_flag: 2
+  lang:
+  - eu
+Leopold:
+  gender_flag: 2
+  lang:
+  - cs
+  - de
+  - en
+  - nl
+  - sk
+  origin:
+  - gem
+Leopoldas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leopold
+  lang:
+  - lt
+Leopoldina:
+  gender_flag: 1
+  lang:
+  - pt
+Leopoldo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leopold
+  lang:
+  - ceb
+  - es
+  - eu
+  - it
+  - pt
+  origin:
+  - gem
+Leora:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Leotholf:
+  gender_flag: 2
+  lang:
+  - goh
+Leovigildo:
+  gender_flag: 2
+  lang:
+  - pt
+Leoš:
+  gender_flag: 2
+  lang:
+  - cs
+Lepeka:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rebecca
+  lang:
+  - haw
+Lepel:
+  gender_flag: 2
+  lang:
+  - en
+Lepine:
+  gender_flag: 2
+  lang:
+  - fr
+Leptines:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Lerate:
+  gender_flag: 1
+  lang:
+  - eu
+Lerma:
+  gender_flag: 1
+  lang:
+  - tl
+Leroi:
+  gender_flag: 2
+  lang:
+  - en
+Leroy:
+  gender_flag: 2
+  lang:
+  - en
+Lerruz:
+  gender_flag: 2
+  lang:
+  - eu
+Les:
+  gender_flag: 7
+  is_short_for:
+  - Leslie
+  - Lester
+  lang:
+  - en
+Lesana:
+  gender_flag: 1
+  lang:
+  - sk
+Lesbonicus:
+  gender_flag: 2
+  lang:
+  - la
+Lesh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexis
+  - Alexius
+  lang:
+  - sq
+  origin:
+  - grc
+Lesio:
+  gender_flag: 2
+  is_short_for:
+  - Leszek
+  lang:
+  - pl
+Lesley:
+  gender_flag: 7
+  lang:
+  - en
+Leslie:
+  gender_flag: 7
+  lang:
+  - ceb
+  - en
+  - fr
+  - sco
+  origin:
+  - en
+Lesly:
+  gender_flag: 1
+  lang:
+  - fr
+Lesmana:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Lester:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Lestine:
+  gender_flag: 1
+  lang:
+  - wa
+Lesty:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - en
+Leszek:
+  gender_flag: 2
+  lang:
+  - pl
+Lesław:
+  gender_flag: 2
+  lang:
+  - pl
+Let:
+  gender_flag: 2
+  lang:
+  - eu
+Letasu:
+  gender_flag: 1
+  lang:
+  - eu
+Leti:
+  gender_flag: 1
+  is_short_for:
+  - Leticia
+  lang:
+  - es
+Leticia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Letitia
+  lang:
+  - es
+Letitia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Letizia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Letitia
+  lang:
+  - eu
+  - it
+Letlet:
+  gender_flag: 1
+  is_short_for:
+  - Leticia
+  lang:
+  - tl
+Lettice:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lettie:
+  gender_flag: 1
+  lang:
+  - en
+Letty:
+  gender_flag: 1
+  is_short_for:
+  - Letitia
+  - Lettice
+  lang:
+  - en
+Letu:
+  gender_flag: 1
+  is_short_for:
+  - Leticia
+  lang:
+  - es
+Letícia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Letitia
+  lang:
+  - pt
+Leucio:
+  gender_flag: 2
+  lang:
+  - it
+Levent:
+  gender_flag: 2
+  lang:
+  - tr
+Levente:
+  gender_flag: 2
+  lang:
+  - hu
+Levi:
+  gender_flag: 2
+  is_short_for:
+  - Levente
+  lang:
+  - en
+  - fo
+  - hu
+  - it
+  - la
+  - pt
+  origin:
+  - he
+Leviken:
+  gender_flag: 1
+  lang:
+  - 'no'
+Levin:
+  gender_flag: 2
+  lang:
+  - en
+Levonte:
+  gender_flag: 2
+  lang:
+  - en
+Levoslav:
+  gender_flag: 2
+  lang:
+  - sk
+Levy:
+  gender_flag: 2
+  lang:
+  - en
+Leví:
+  gender_flag: 2
+  lang:
+  - is
+Lew:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leo
+  lang:
+  - en
+  - pl
+Lewanna:
+  gender_flag: 1
+  lang:
+  - en
+Lewi:
+  gender_flag: 2
+  lang:
+  - haw
+Lewie:
+  gender_flag: 2
+  is_short_for:
+  - Lewis
+  lang:
+  - en
+Lewis:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - frk
+  - fro
+  - gem
+Lewy:
+  gender_flag: 2
+  is_short_for:
+  - Lewis
+  lang:
+  - en
+Lex:
+  gender_flag: 3
+  lang:
+  - en
+Lexa:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Lexaundre:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - nrf
+Lexi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Lexie:
+  gender_flag: 1
+  lang:
+  - en
+Lexis:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexis
+  lang:
+  - nrf
+Leya:
+  gender_flag: 1
+  is_equivalent_to:
+  - Leah
+  lang:
+  - wa
+Leyande:
+  gender_flag: 2
+  lang:
+  - wa
+Leyla:
+  gender_flag: 1
+  is_a_variant_of:
+  - Leila
+  lang:
+  - az
+  - en
+  - tr
+  origin:
+  - ar
+Leylah:
+  gender_flag: 1
+  is_a_variant_of:
+  - Leila
+  lang:
+  - en
+  origin:
+  - ar
+Leyon:
+  gender_flag: 2
+  lang:
+  - wa
+Leyoniye:
+  gender_flag: 1
+  lang:
+  - wa
+Leyonård:
+  gender_flag: 2
+  lang:
+  - wa
+Leyopôl:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leopold
+  lang:
+  - wa
+Leyton:
+  gender_flag: 6
+  lang:
+  - en
+Leyvoy:
+  gender_flag: 1
+  lang:
+  - fo
+Lez:
+  gender_flag: 2
+  is_short_for:
+  - Leslie
+  lang:
+  - en
+Leza:
+  gender_flag: 1
+  lang:
+  - eu
+Lezaeta:
+  gender_flag: 1
+  lang:
+  - eu
+Lezana:
+  gender_flag: 1
+  lang:
+  - eu
+Lezeta:
+  gender_flag: 1
+  lang:
+  - eu
+Lezgîn:
+  gender_flag: 2
+  lang:
+  - kmr
+Lezo:
+  gender_flag: 2
+  lang:
+  - eu
+Leão:
+  gender_flag: 2
+  lang:
+  - pt
+Leòun:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leo
+  lang:
+  - egl
+  origin:
+  - la
+Leó:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leo
+  lang:
+  - hu
+León:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leon
+  lang:
+  - es
+Leôncio:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - la
+Li:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Lia:
+  gender_flag: 1
+  lang:
+  - it
+  - la
+  - nl
+  - pt
+  - ro
+  origin:
+  - he
+Liam:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bill
+  - Will
+  lang:
+  - da
+  - en
+  - fo
+  - ga
+  - 'no'
+  - sv
+  origin:
+  - en
+  - ga
+Liana:
+  gender_flag: 1
+  lang:
+  - en
+  - sk
+  origin:
+  - la
+Liane:
+  gender_flag: 1
+  lang:
+  - de
+Libbie:
+  gender_flag: 1
+  lang:
+  - ceb
+Libby:
+  gender_flag: 1
+  is_short_for:
+  - Elizabeth
+  lang:
+  - ceb
+  - en
+Libe:
+  gender_flag: 1
+  lang:
+  - eu
+Liberacion:
+  gender_flag: 1
+  lang:
+  - ceb
+Liberale:
+  gender_flag: 2
+  lang:
+  - it
+Liberata:
+  gender_flag: 1
+  lang:
+  - ceb
+Liberty:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Libor:
+  gender_flag: 2
+  lang:
+  - cs
+Liborek:
+  gender_flag: 2
+  is_short_for:
+  - Libor
+  lang:
+  - cs
+Librada:
+  gender_flag: 1
+  lang:
+  - tl
+Libuša:
+  gender_flag: 1
+  lang:
+  - sk
+Libuše:
+  gender_flag: 1
+  lang:
+  - cs
+Libuška:
+  gender_flag: 1
+  is_short_for:
+  - Libuše
+  lang:
+  - cs
+Liběna:
+  gender_flag: 1
+  lang:
+  - cs
+Liběnka:
+  gender_flag: 1
+  is_short_for:
+  - Liběna
+  lang:
+  - cs
+Licaòun:
+  gender_flag: 2
+  lang:
+  - egl
+  origin:
+  - grc
+Licha:
+  gender_flag: 1
+  is_short_for:
+  - Alicia
+  - Felicia
+  lang:
+  - es
+Licia:
+  gender_flag: 1
+  lang:
+  - it
+Licinio:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Licisco:
+  gender_flag: 2
+  lang:
+  - it
+Lico:
+  gender_flag: 1
+  lang:
+  - akm
+Lida:
+  gender_flag: 1
+  lang:
+  - lt
+Liddy:
+  gender_flag: 1
+  lang:
+  - en
+Lide:
+  gender_flag: 1
+  lang:
+  - eu
+Lidewij:
+  gender_flag: 1
+  lang:
+  - nl
+Lidia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lydia
+  lang:
+  - en
+  - es
+  - eu
+  - it
+  - pl
+  origin:
+  - grc
+Lidija:
+  gender_flag: 1
+  lang:
+  - lt
+  - lv
+  origin:
+  - grc
+Lidjî:
+  gender_flag: 2
+  lang:
+  - wa
+Lidka:
+  gender_flag: 1
+  is_short_for:
+  - Lída
+  lang:
+  - cs
+Lidmila:
+  gender_flag: 1
+  lang:
+  - cs
+Lidunka:
+  gender_flag: 1
+  is_short_for:
+  - Lída
+  lang:
+  - cs
+Liduš:
+  gender_flag: 1
+  is_short_for:
+  - Lída
+  lang:
+  - cs
+Liduška:
+  gender_flag: 1
+  is_short_for:
+  - Lída
+  lang:
+  - cs
+Lieke:
+  gender_flag: 1
+  lang:
+  - nl
+Liene:
+  gender_flag: 1
+  lang:
+  - lv
+Lienīte:
+  gender_flag: 1
+  lang:
+  - lv
+Lierni:
+  gender_flag: 1
+  lang:
+  - eu
+Lies:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lisa
+  is_short_for:
+  - Elisabeth
+  lang:
+  - nl
+Lieschen:
+  gender_flag: 1
+  lang:
+  - de
+Liese:
+  gender_flag: 1
+  is_short_for:
+  - Elisabeth
+  lang:
+  - de
+Liesel:
+  gender_flag: 1
+  is_short_for:
+  - Elisabeth
+  lang:
+  - de
+  - en
+  origin:
+  - de
+Lieselotte:
+  gender_flag: 1
+  lang:
+  - de
+Liesl:
+  gender_flag: 1
+  is_short_for:
+  - Elisabeth
+  lang:
+  - de
+Liesma:
+  gender_flag: 1
+  lang:
+  - lv
+Lieve:
+  gender_flag: 1
+  lang:
+  - nl
+Lieven:
+  gender_flag: 2
+  lang:
+  - nl
+Liezl:
+  gender_flag: 1
+  lang:
+  - ceb
+Ligaya:
+  gender_flag: 1
+  lang:
+  - tl
+Ligita:
+  gender_flag: 1
+  lang:
+  - lv
+Ligulf:
+  gender_flag: 2
+  lang:
+  - ang
+Lihoti:
+  gender_flag: 2
+  lang:
+  - eu
+Lii:
+  gender_flag: 1
+  lang:
+  - et
+Liia:
+  gender_flag: 1
+  lang:
+  - et
+Liide:
+  gender_flag: 1
+  lang:
+  - et
+Liidia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lydia
+  lang:
+  - et
+Liilia:
+  gender_flag: 1
+  lang:
+  - et
+Liina:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Liis:
+  gender_flag: 1
+  lang:
+  - et
+Liisa:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Liisbet:
+  gender_flag: 1
+  lang:
+  - et
+Liisi:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Liisu:
+  gender_flag: 1
+  lang:
+  - et
+Liivi:
+  gender_flag: 1
+  lang:
+  - et
+Liivika:
+  gender_flag: 1
+  lang:
+  - et
+Lija:
+  gender_flag: 1
+  lang:
+  - lv
+Lije:
+  gender_flag: 2
+  is_short_for:
+  - Elijah
+  lang:
+  - en
+Likeke:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Lil:
+  gender_flag: 1
+  lang:
+  - en
+Lila:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+  - sa
+Lilah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Lili:
+  gender_flag: 1
+  is_short_for:
+  - Elisabeth
+  - Emily
+  lang:
+  - de
+  - eu
+  - hu
+Lilia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lily
+  lang:
+  - en
+  - es
+  - haw
+  - tl
+  origin:
+  - en
+  - es
+  - la
+Lilian:
+  gender_flag: 3
+  lang:
+  - da
+  - en
+  - et
+  - eu
+  - fr
+  - sv
+  origin:
+  - la
+Liliana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lilian
+  lang:
+  - cs
+  - en
+  - es
+  - haw
+  - it
+  - pl
+  - pt
+  origin:
+  - en
+  - la
+Liliane:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lilian
+  lang:
+  - fr
+Liliann:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lillian
+  lang:
+  - 'no'
+Lilianna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lilias:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lilibelle:
+  gender_flag: 1
+  lang:
+  - fr
+Lilibet:
+  gender_flag: 1
+  lang:
+  - en
+Lilibeth:
+  gender_flag: 1
+  lang:
+  - en
+Lilidh:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lillian
+  - Lily
+  lang:
+  - gd
+Lilija:
+  gender_flag: 1
+  lang:
+  - lt
+  - lv
+Liling:
+  gender_flag: 1
+  lang:
+  - ceb
+Lilinoe:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Liliosa:
+  gender_flag: 1
+  lang:
+  - es
+Lilita:
+  gender_flag: 1
+  lang:
+  - lv
+Lilith:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Lilja:
+  gender_flag: 1
+  lang:
+  - fi
+  - fo
+  - is
+Liljana: {}
+Lill:
+  gender_flag: 1
+  lang:
+  - 'no'
+  - sv
+Lilla:
+  gender_flag: 1
+  lang:
+  - hu
+Lilleba:
+  gender_flag: 1
+  lang:
+  - 'no'
+Lillemor:
+  gender_flag: 1
+  lang:
+  - sv
+Lillen:
+  gender_flag: 1
+  lang:
+  - 'no'
+Lilli:
+  gender_flag: 1
+  is_short_for:
+  - Elisabeth
+  lang:
+  - da
+  - de
+  - et
+  - fi
+Lillia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lillian:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  - 'no'
+  origin:
+  - la
+Lilliana:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lilliane:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lilliann:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lillian
+  lang:
+  - 'no'
+Lillianna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lillianne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lillian
+  lang:
+  - 'no'
+Lillias:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lillie:
+  gender_flag: 1
+  lang:
+  - en
+Lillun:
+  gender_flag: 1
+  lang:
+  - 'no'
+Lillunn:
+  gender_flag: 1
+  lang:
+  - 'no'
+Lilly:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lily
+  is_short_for:
+  - Elisabeth
+  - Elizabeth
+  - Lillian
+  lang:
+  - da
+  - de
+  - en
+  - 'no'
+  - sv
+  origin:
+  - grc
+  - la
+Lillyan:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lillyanne:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lillý:
+  gender_flag: 1
+  lang:
+  - fo
+Lily:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Lilyan:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lilyana:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sla
+Lilyann:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lilyanna:
+  gender_flag: 1
+  lang:
+  - en
+Limar:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - ceb
+Lin:
+  gender_flag: 6
+  lang:
+  - en
+Lina:
+  gender_flag: 1
+  is_a_variant_of:
+  - Line
+  lang:
+  - da
+  - de
+  - en
+  - eu
+  - fo
+  - lt
+  - 'no'
+  - nrf
+  - sv
+Linards:
+  gender_flag: 2
+  lang:
+  - lv
+Linas:
+  gender_flag: 2
+  lang:
+  - lt
+Linc:
+  gender_flag: 2
+  is_short_for:
+  - Lincoln
+  lang:
+  - en
+Lincoln:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  origin:
+  - en
+Lind:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Linda:
+  gender_flag: 1
+  lang:
+  - ceb
+  - cs
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - fo
+  - fr
+  - hu
+  - is
+  - lv
+  - nl
+  - 'no'
+  - sk
+  - sv
+  origin:
+  - gem
+Lindell:
+  gender_flag: 2
+  lang:
+  - en
+Linden:
+  gender_flag: 7
+  lang:
+  - en
+Lindie:
+  gender_flag: 1
+  lang:
+  - en
+Lindit:
+  gender_flag: 2
+  lang:
+  - sq
+Lindita:
+  gender_flag: 1
+  lang:
+  - sq
+Linditi:
+  gender_flag: 2
+  lang:
+  - sq
+Linditë:
+  gender_flag: 1
+  lang:
+  - sq
+Lindsay:
+  gender_flag: 7
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Lindsey:
+  gender_flag: 7
+  lang:
+  - en
+Lindy:
+  gender_flag: 1
+  lang:
+  - en
+Line:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Linette:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  - 'no'
+  origin:
+  - cy
+Lineu:
+  gender_flag: 2
+  lang:
+  - pt
+Linh:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Link:
+  gender_flag: 2
+  is_short_for:
+  - Lincoln
+  lang:
+  - en
+Linn:
+  gender_flag: 1
+  lang:
+  - 'no'
+  - sv
+Linna:
+  gender_flag: 1
+  lang:
+  - en
+Linnar:
+  gender_flag: 2
+  lang:
+  - et
+Linnart:
+  gender_flag: 2
+  lang:
+  - et
+Linnea:
+  gender_flag: 1
+  lang:
+  - en
+  - fi
+  - 'no'
+  - sv
+  origin:
+  - la
+Linnet:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Linnie:
+  gender_flag: 1
+  is_short_for:
+  - Linda
+  lang:
+  - en
+Linnéa:
+  gender_flag: 1
+  lang:
+  - sv
+Lino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Linus
+  lang:
+  - eo
+  - eu
+  - it
+  origin:
+  - grc
+Linus:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  - la
+  - sv
+  origin:
+  - grc
+  - la
+Linwood:
+  gender_flag: 2
+  lang:
+  - en
+Linzi:
+  gender_flag: 1
+  lang:
+  - en
+Linzy:
+  gender_flag: 1
+  lang:
+  - en
+Linâ:
+  gender_flag: 1
+  lang:
+  - wa
+Linå:
+  gender_flag: 1
+  lang:
+  - wa
+Linåd:
+  gender_flag: 2
+  lang:
+  - wa
+Lionel:
+  gender_flag: 2
+  lang:
+  - en
+  - eu
+  - fr
+  origin:
+  - la
+Lionello:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lionel
+  lang:
+  - it
+Lionginas:
+  gender_flag: 2
+  lang:
+  - lt
+Liotru:
+  gender_flag: 2
+  lang:
+  - scn
+Lioûnie:
+  gender_flag: 1
+  lang:
+  - nrf
+Lipjan:
+  gender_flag: 2
+  lang:
+  - sq
+Lippikka:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Lipun:
+  gender_flag: 2
+  lang:
+  - tay
+Lirain:
+  gender_flag: 2
+  lang:
+  - eu
+Liridon:
+  gender_flag: 2
+  lang:
+  - sq
+Liridona:
+  gender_flag: 1
+  lang:
+  - sq
+Lis:
+  gender_flag: 1
+  lang:
+  - da
+Lisa:
+  gender_flag: 1
+  is_short_for:
+  - Lisabé
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fo
+  - fr
+  - it
+  - nl
+  - 'no'
+  - nrf
+  - sv
+  origin:
+  - en
+  - he
+Lisabe:
+  gender_flag: 1
+  lang:
+  - eu
+Lisabet:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lisbeth
+  lang:
+  - fo
+  - 'no'
+Lisabeth:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lisbeth
+  lang:
+  - 'no'
+Lisabé:
+  gender_flag: 1
+  is_equivalent_to:
+  - Elizabeth
+  lang:
+  - nrf
+Lisaid:
+  gender_flag: 1
+  is_short_for:
+  - Ealisaid
+  lang:
+  - gv
+Lisandro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lysander
+  lang:
+  - es
+  - it
+Lisbet:
+  gender_flag: 1
+  lang:
+  - da
+  - fo
+  - sv
+Lisbeth:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - 'no'
+  - sv
+Lise:
+  gender_flag: 1
+  is_short_for:
+  - Lisa
+  lang:
+  - da
+  - en
+  - fr
+  - 'no'
+  origin:
+  - fr
+Lise-Lott:
+  gender_flag: 1
+  is_a_variant_of:
+  - Liselotte
+  lang:
+  - sv
+Lise-Lotte:
+  gender_flag: 1
+  is_a_variant_of:
+  - Liselotte
+  lang:
+  - da
+  - sv
+Lisebeth:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lisbeth
+  lang:
+  - 'no'
+Liselott:
+  gender_flag: 1
+  lang:
+  - sv
+Liselotte:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - es
+  - sv
+Lisen:
+  gender_flag: 1
+  is_short_for:
+  - Elisabeth
+  lang:
+  - 'no'
+  - sv
+Lisetta:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - it
+Lisette:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Lisia:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Lisken:
+  gender_flag: 1
+  is_short_for:
+  - Elisabeth
+  lang:
+  - 'no'
+Lisl:
+  gender_flag: 1
+  lang:
+  - de
+Lison:
+  gender_flag: 1
+  is_short_for:
+  - Lisa
+  lang:
+  - nrf
+Liss:
+  gender_flag: 1
+  is_short_for:
+  - Ealisaid
+  lang:
+  - fo
+  - gv
+Lissandri:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - fur
+Lissbeth:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lisbeth
+  lang:
+  - 'no'
+Lissi:
+  gender_flag: 1
+  lang:
+  - da
+Lissie:
+  gender_flag: 1
+  lang:
+  - da
+Lissy:
+  gender_flag: 1
+  is_short_for:
+  - Elisabeth
+  lang:
+  - da
+  - en
+Lita:
+  gender_flag: 1
+  is_short_for:
+  - Manoela
+  lang:
+  - ceb
+  - en
+  - gl
+  - 'no'
+Liten:
+  gender_flag: 1
+  lang:
+  - 'no'
+Lito:
+  gender_flag: 2
+  is_short_for:
+  - Hipólito
+  - Manoel
+  lang:
+  - ceb
+  - es
+  - gl
+Littie:
+  gender_flag: 1
+  lang:
+  - en
+Liucija:
+  gender_flag: 1
+  lang:
+  - lt
+Liuda:
+  gender_flag: 1
+  lang:
+  - lt
+Liudewitus: {}
+Liudmila: {}
+Liudvika:
+  gender_flag: 1
+  lang:
+  - lt
+Liudvikas:
+  gender_flag: 2
+  lang:
+  - lt
+Liutfrit:
+  gender_flag: 1
+  lang:
+  - goh
+Liutpald:
+  gender_flag: 2
+  lang:
+  - goh
+Liutprando:
+  gender_flag: 2
+  lang:
+  - it
+Liv:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  - 'no'
+Liva:
+  gender_flag: 1
+  lang:
+  - da
+  - fo
+  - sk
+Live:
+  gender_flag: 1
+  is_a_variant_of:
+  - Liv
+  lang:
+  - 'no'
+Liveta:
+  gender_flag: 1
+  lang:
+  - lt
+Livia:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - it
+  origin:
+  - la
+Livie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Livia
+  lang:
+  - fr
+Livio:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Liviu:
+  gender_flag: 2
+  lang:
+  - ro
+  origin:
+  - la
+Livny:
+  gender_flag: 1
+  lang:
+  - 'no'
+Livvy:
+  gender_flag: 1
+  lang:
+  - en
+Livy:
+  gender_flag: 1
+  is_short_for:
+  - Olivia
+  lang:
+  - en
+Livî:
+  gender_flag: 2
+  is_equivalent_to:
+  - Oliver
+  lang:
+  - wa
+Liwayway:
+  gender_flag: 1
+  lang:
+  - tl
+Liyoun:
+  gender_flag: 2
+  is_short_for:
+  - Napoliyoun
+  lang:
+  - nrf
+Liz:
+  gender_flag: 1
+  is_short_for:
+  - Elizabeth
+  lang:
+  - en
+Liza:
+  gender_flag: 1
+  lang:
+  - en
+  - wa
+  origin:
+  - he
+Lizabeth:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Lizagain:
+  gender_flag: 1
+  lang:
+  - eu
+Lizardi:
+  gender_flag: 2
+  lang:
+  - eu
+Lizardo:
+  gender_flag: 2
+  lang:
+  - es
+Lizbeth:
+  gender_flag: 1
+  is_a_variant_of:
+  - Elizabeth
+  lang:
+  - en
+  origin:
+  - he
+Lizzi:
+  gender_flag: 1
+  lang:
+  - da
+Lizzie:
+  gender_flag: 1
+  is_short_for:
+  - Elizabeth
+  lang:
+  - da
+  - en
+Lizzy:
+  gender_flag: 1
+  is_short_for:
+  - Elizabeth
+  lang:
+  - en
+Lizé:
+  gender_flag: 2
+  lang:
+  - wa
+Liêm:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Liùsaidh:
+  gender_flag: 1
+  is_equivalent_to:
+  - Louise
+  - Lucy
+  lang:
+  - gd
+Liāna:
+  gender_flag: 1
+  lang:
+  - lv
+Liūtas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leo
+  lang:
+  - lt
+Liễu:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Liệu:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Ljuba:
+  gender_flag: 3
+  lang:
+  - cs
+  - sh
+Ljubljenko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Ljuboje:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Ljubomir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Ljuboslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Ljudemisl:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Ljudevit:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Ljudmila: {}
+Ljudmilla: {}
+Ljótunn:
+  gender_flag: 1
+  lang:
+  - is
+Ljótur:
+  gender_flag: 2
+  lang:
+  - is
+Ljúfur:
+  gender_flag: 2
+  lang:
+  - is
+Llesh:
+  gender_flag: 2
+  lang:
+  - sq
+Lleshdër:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexandros
+  lang:
+  - sq
+  origin:
+  - grc
+Llewellyn:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Llewelyn:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Lleó:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leo
+  lang:
+  - ca
+Lli:
+  gender_flag: 2
+  is_equivalent_to:
+  - Elias
+  lang:
+  - sq
+  origin:
+  - grc
+Lliocadie:
+  gender_flag: 1
+  lang:
+  - nrf
+Llioûnîn:
+  gender_flag: 1
+  is_short_for:
+  - Lioûnie
+  lang:
+  - nrf
+Llorenç:
+  gender_flag: 2
+  is_equivalent_to:
+  - Laurence
+  lang:
+  - ca
+  origin:
+  - la
+Lloyd:
+  gender_flag: 2
+  lang:
+  - en
+Lluc:
+  gender_flag: 2
+  is_equivalent_to:
+  - Luke
+  lang:
+  - ca
+Llucas:
+  gender_flag: 2
+  lang:
+  - ast
+Lluís:
+  gender_flag: 2
+  is_equivalent_to:
+  - Louis
+  lang:
+  - ca
+Lluïsa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Louisa
+  - Luisa
+  lang:
+  - ca
+Llywelyn:
+  gender_flag: 2
+  lang:
+  - cy
+  origin:
+  - owl
+Llúcia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lucy
+  lang:
+  - ca
+Loan:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Lobsang:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - bo
+Lochlan:
+  gender_flag: 2
+  lang:
+  - en
+Lockie:
+  gender_flag: 2
+  is_short_for:
+  - Lachlan
+  lang:
+  - en
+Loderingo:
+  gender_flag: 2
+  lang:
+  - it
+Lodewijk:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lewis
+  - Louis
+  - Ludwig
+  lang:
+  - nl
+Lodiye:
+  gender_flag: 1
+  lang:
+  - wa
+Lodovico:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ludovico
+  lang:
+  - it
+  origin:
+  - la
+Lodowick:
+  gender_flag: 2
+  lang:
+  - en
+Lodîye:
+  gender_flag: 1
+  lang:
+  - wa
+Loeis:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lewis
+  - Louis
+  lang:
+  - fro
+Loel:
+  gender_flag: 2
+  lang:
+  - en
+Loes:
+  gender_flag: 1
+  lang:
+  - nl
+Lofnheiður:
+  gender_flag: 1
+  lang:
+  - is
+Loftur:
+  gender_flag: 2
+  lang:
+  - fo
+Logan:
+  gender_flag: 7
+  lang:
+  - en
+Logey:
+  gender_flag: 1
+  lang:
+  - is
+Logi:
+  gender_flag: 2
+  lang:
+  - is
+Lohier:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lothar
+  lang:
+  - fro
+Loide:
+  gender_flag: 1
+  lang:
+  - it
+Loika:
+  gender_flag: 1
+  lang:
+  - haw
+Lois:
+  gender_flag: 3
+  lang:
+  - en
+  - gl
+  origin:
+  - grc
+  - la
+Loit:
+  gender_flag: 2
+  lang:
+  - et
+Lojza:
+  gender_flag: 2
+  is_short_for:
+  - Alois
+  lang:
+  - cs
+Lojzík:
+  gender_flag: 2
+  is_short_for:
+  - Lojza
+  lang:
+  - cs
+Lok Ningthou:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Loka:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - en
+Lokalia:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Loke:
+  gender_flag: 3
+  lang:
+  - da
+  - haw
+  - nn
+  - sv
+  origin:
+  - en
+  - non
+Lokelani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Lokesh:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Loki:
+  gender_flag: 2
+  lang:
+  - is
+Lokman:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Lol:
+  gender_flag: 3
+  is_short_for:
+  - Laura
+  - Laurence
+  - Lawrence
+  lang:
+  - en
+Lola:
+  gender_flag: 1
+  is_short_for:
+  - Dolores
+  lang:
+  - en
+  - es
+  - fr
+  - nl
+  - sv
+  - uz
+  origin:
+  - es
+  - fa
+  - la
+  - osp
+Loleatta:
+  gender_flag: 1
+  lang:
+  - en
+Loleng:
+  gender_flag: 1
+  is_short_for:
+  - Dolores
+  lang:
+  - tl
+Loles:
+  gender_flag: 1
+  is_short_for:
+  - Dolores
+  lang:
+  - es
+Loli:
+  gender_flag: 1
+  is_short_for:
+  - Dolores
+  lang:
+  - es
+Lolita:
+  gender_flag: 1
+  is_short_for:
+  - Dolores
+  lang:
+  - en
+  - es
+  - fr
+  - lt
+  - lv
+  origin:
+  - es
+Lollie:
+  gender_flag: 1
+  is_short_for:
+  - Laura
+  lang:
+  - en
+Lolly:
+  gender_flag: 1
+  is_short_for:
+  - Laura
+  - Louise
+  lang:
+  - en
+Lolo:
+  gender_flag: 1
+  lang:
+  - en
+Lolote:
+  gender_flag: 1
+  lang:
+  - wa
+Lomayumtewa:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hop
+Lominne:
+  gender_flag: 1
+  lang:
+  - wa
+Lona:
+  gender_flag: 1
+  lang:
+  - fo
+London:
+  gender_flag: 7
+  lang:
+  - en
+Lone:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Long:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Lonnie:
+  gender_flag: 2
+  lang:
+  - en
+Lono:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Lonôre:
+  gender_flag: 1
+  is_equivalent_to:
+  - Eleanor
+  lang:
+  - nrf
+Loone:
+  gender_flag: 1
+  lang:
+  - et
+Looqi:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Loore:
+  gender_flag: 1
+  lang:
+  - et
+Looriit:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Loosh:
+  gender_flag: 2
+  is_short_for:
+  - Lucius
+  lang:
+  - en
+Lopaka:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Lope:
+  gender_flag: 2
+  lang:
+  - es
+Lopo:
+  gender_flag: 2
+  lang:
+  - pt
+Lora:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lorcán:
+  gender_flag: 2
+  lang:
+  - ga
+Lore:
+  gender_flag: 1
+  is_a_variant_of:
+  - Laure
+  is_equivalent_to:
+  - Laura
+  is_short_for:
+  - Eleonore
+  - Hannelore
+  lang:
+  - de
+  - fr
+  - nl
+Loredana:
+  gender_flag: 1
+  lang:
+  - ro
+Lorelai:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - de
+Lorelei:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - de
+Loren:
+  gender_flag: 7
+  is_a_variant_of:
+  - Lauren
+  lang:
+  - en
+  origin:
+  - de
+  - es
+  - it
+  - la
+Lorena:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lorraine
+  lang:
+  - en
+  - es
+  - it
+  - pt
+  origin:
+  - it
+Lorene:
+  gender_flag: 1
+  lang:
+  - en
+Loreno:
+  gender_flag: 2
+  lang:
+  - it
+Lorenz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Laurence
+  lang:
+  - de
+Lorenza:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lauren
+  lang:
+  - es
+  - it
+Lorenzo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Laurence
+  lang:
+  - es
+  - it
+  origin:
+  - la
+Loreta:
+  gender_flag: 1
+  lang:
+  - lt
+Loreto:
+  gender_flag: 3
+  lang:
+  - ceb
+  - es
+Loretta:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lori:
+  gender_flag: 1
+  lang:
+  - en
+Lorie:
+  gender_flag: 1
+  lang:
+  - en
+Lorin:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - la
+Lorinda:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lorint:
+  gender_flag: 2
+  is_equivalent_to:
+  - Laurence
+  lang:
+  - wa
+Loris:
+  gender_flag: 1
+  lang:
+  - en
+Lorna:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - gd
+Lorraine:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Lot:
+  gender_flag: 2
+  lang:
+  - en
+Lotaire:
+  gender_flag: 2
+  lang:
+  - wa
+Lotario:
+  gender_flag: 2
+  lang:
+  - it
+Lote:
+  gender_flag: 1
+  lang:
+  - wa
+Lothar:
+  gender_flag: 2
+  lang:
+  - de
+Lotlot:
+  gender_flag: 1
+  is_short_for:
+  - Charlotte
+  lang:
+  - tl
+Lotta:
+  gender_flag: 1
+  is_short_for:
+  - Charlotta
+  - Liselotte
+  lang:
+  - fi
+  - fo
+  - sv
+Lotte:
+  gender_flag: 1
+  is_short_for:
+  - Charlotte
+  lang:
+  - da
+  - de
+  - nl
+  - 'no'
+Lottelise:
+  gender_flag: 1
+  lang:
+  - 'no'
+Lotten:
+  gender_flag: 1
+  is_short_for:
+  - Charlotta
+  lang:
+  - sv
+Lotti:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lottie
+  lang:
+  - hu
+Lottie:
+  gender_flag: 1
+  lang:
+  - en
+Lou:
+  gender_flag: 7
+  is_short_for:
+  - Louis
+  - Louisa
+  - Louise
+  lang:
+  - en
+  - fr
+Louanne:
+  gender_flag: 1
+  lang:
+  - en
+Loucinda:
+  gender_flag: 1
+  lang:
+  - en
+Louella:
+  gender_flag: 1
+  lang:
+  - en
+Louey:
+  gender_flag: 3
+  lang:
+  - en
+Louie:
+  gender_flag: 3
+  is_short_for:
+  - Louis
+  - Louisa
+  - Louise
+  lang:
+  - en
+Louis:
+  gender_flag: 7
+  is_a_variant_of:
+  - Lodewijk
+  - Ludwig
+  lang:
+  - de
+  - en
+  - fr
+  - nl
+  - nrf
+  origin:
+  - fr
+Louisa:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  origin:
+  - gem
+Louise:
+  gender_flag: 1
+  is_a_variant_of:
+  - Luise
+  lang:
+  - da
+  - de
+  - en
+  - fr
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - fr
+Louiseu:
+  gender_flag: 1
+  is_equivalent_to:
+  - Louise
+  lang:
+  - nrf
+Louisot:
+  gender_flag: 2
+  is_short_for:
+  - Louis
+  lang:
+  - nrf
+Louisotin:
+  gender_flag: 2
+  is_short_for:
+  - Louis
+  lang:
+  - nrf
+Loujain:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Loujaïne:
+  gender_flag: 1
+  is_equivalent_to:
+  - Loujain
+  lang:
+  - fr
+  origin:
+  - ar
+Loulou:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lulu
+  is_short_for:
+  - Louiseu
+  lang:
+  - nrf
+Louothains:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lawrence
+  lang:
+  - nrf
+Loup:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - la
+Lourdes:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - es
+  - pt
+  - tl
+  origin:
+  - es
+Lourenço:
+  gender_flag: 2
+  is_equivalent_to:
+  - Laurence
+  - Lawrence
+  lang:
+  - pt
+Louve:
+  gender_flag: 1
+  lang:
+  - en
+Louwis:
+  gender_flag: 2
+  is_equivalent_to:
+  - Louis
+  lang:
+  - wa
+Louwisse:
+  gender_flag: 1
+  is_equivalent_to:
+  - Louise
+  lang:
+  - wa
+Lova:
+  gender_flag: 1
+  lang:
+  - sv
+Love:
+  gender_flag: 7
+  is_a_variant_of:
+  - Ludvig
+  lang:
+  - ceb
+  - en
+  - sv
+  - tl
+  origin:
+  - en
+Lovel:
+  gender_flag: 2
+  lang:
+  - en
+Lovely:
+  gender_flag: 1
+  lang:
+  - ceb
+  - tl
+  origin:
+  - en
+Loveth:
+  gender_flag: 1
+  lang:
+  - en
+Loviisa:
+  gender_flag: 1
+  lang:
+  - fi
+Loviise:
+  gender_flag: 1
+  lang:
+  - et
+Lovinda:
+  gender_flag: 1
+  lang:
+  - 'no'
+Lovis:
+  gender_flag: 1
+  lang:
+  - sv
+Lovisa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Louise
+  lang:
+  - fo
+  - sv
+Lovise:
+  gender_flag: 1
+  is_equivalent_to:
+  - Louise
+  lang:
+  - 'no'
+Lowana:
+  gender_flag: 1
+  lang:
+  - en
+Lowanna:
+  gender_flag: 1
+  lang:
+  - en
+Lowell:
+  gender_flag: 2
+  lang:
+  - en
+Lowri:
+  gender_flag: 1
+  is_equivalent_to:
+  - Laura
+  lang:
+  - cy
+  - en
+  origin:
+  - cy
+Loyalakpa:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Loyce:
+  gender_flag: 1
+  lang:
+  - en
+Loyd:
+  gender_flag: 2
+  lang:
+  - en
+Loyisse:
+  gender_flag: 1
+  is_equivalent_to:
+  - Eloise
+  lang:
+  - wa
+Loz:
+  gender_flag: 2
+  lang:
+  - en
+Lozorius:
+  gender_flag: 2
+  lang:
+  - lt
+Loís:
+  gender_flag: 2
+  lang:
+  - oc
+Loïc:
+  gender_flag: 2
+  lang:
+  - fr
+Loïs:
+  gender_flag: 3
+  is_a_variant_of:
+  - Lois
+  - Louis
+  - Loïc
+  lang:
+  - fr
+Loðin:
+  gender_flag: 2
+  lang:
+  - fo
+Loðmundur:
+  gender_flag: 2
+  lang:
+  - is
+Lu:
+  gender_flag: 1
+  is_short_for:
+  - Lucy
+  lang:
+  - en
+Lualhati:
+  gender_flag: 1
+  lang:
+  - tl
+Luan:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+Luana:
+  gender_flag: 1
+  lang:
+  - en
+  - haw
+  - it
+  - pt
+  origin:
+  - en
+Luann:
+  gender_flag: 1
+  lang:
+  - en
+Luannah:
+  gender_flag: 1
+  lang:
+  - en
+Luanne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Louanne
+  lang:
+  - en
+Lubomír:
+  gender_flag: 2
+  lang:
+  - cs
+Lubomíra:
+  gender_flag: 1
+  lang:
+  - cs
+Lubor:
+  gender_flag: 2
+  lang:
+  - cs
+Luboš:
+  gender_flag: 2
+  lang:
+  - cs
+Lubošek:
+  gender_flag: 2
+  is_short_for:
+  - Luboš
+  lang:
+  - cs
+Luc:
+  gender_flag: 2
+  is_equivalent_to:
+  - Luke
+  lang:
+  - fr
+  - nrf
+Luca:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lucas
+  - Luke
+  lang:
+  - de
+  - en
+  - it
+  - ro
+  - rup
+  origin:
+  - early 2000's
+  - it
+Lucas:
+  gender_flag: 2
+  is_a_variant_of:
+  - Lukas
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - fr
+  - la
+  - nl
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - grc
+  - la
+Lucasse:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lucas
+  lang:
+  - wa
+Lucek:
+  gender_flag: 2
+  lang:
+  - pl
+Lucetta:
+  gender_flag: 1
+  lang:
+  - en
+Lucette:
+  gender_flag: 1
+  lang:
+  - nrf
+Luceye:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lucy
+  lang:
+  - wa
+Lucha:
+  gender_flag: 1
+  is_short_for:
+  - Luisa
+  - Luz
+  lang:
+  - es
+Luchino:
+  gender_flag: 2
+  lang:
+  - it
+Lucho:
+  gender_flag: 2
+  is_short_for:
+  - Luis
+  lang:
+  - es
+Luci:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lucia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lucy
+  lang:
+  - de
+  - en
+  - it
+  - ro
+  - sk
+  - sv
+  origin:
+  - la
+Lucian:
+  gender_flag: 2
+  lang:
+  - en
+  - ro
+  origin:
+  - la
+Luciana:
+  gender_flag: 1
+  lang:
+  - es
+  - it
+  - pt
+Luciano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lucian
+  lang:
+  - es
+  - it
+  - pt
+Lucie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lucia
+  is_equivalent_to:
+  - Lucy
+  lang:
+  - cs
+  - de
+  - en
+  - fr
+  - nrf
+  origin:
+  - la
+Lucien:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lucian
+  lang:
+  - fr
+Lucienne:
+  gender_flag: 1
+  lang:
+  - fr
+Lucija:
+  gender_flag: 1
+  lang:
+  - sl
+Lucila:
+  gender_flag: 1
+  lang:
+  - ceb
+Lucile:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lucille
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+Lucilla:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lucille:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - fr
+  origin:
+  - en
+  - fr
+  - la
+Lucina:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lucinda:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lucinka:
+  gender_flag: 1
+  is_short_for:
+  - Lucina
+  lang:
+  - cs
+Lucio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lucius
+  lang:
+  - es
+  - it
+  origin:
+  - la
+Lucius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Lucjan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lucian
+  lang:
+  - pl
+Lucjusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lucius
+  lang:
+  - pl
+Lucka:
+  gender_flag: 1
+  is_short_for:
+  - Lucie
+  lang:
+  - cs
+Lucrecia:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - la
+Lucretia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Lucretius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Lucrezia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lucretia
+  lang:
+  - it
+Lucrèce:
+  gender_flag: 3
+  lang:
+  - fr
+Lucrécio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lucretius
+  lang:
+  - pt
+Lucy:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+  - la
+Lucyin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lucian
+  lang:
+  - wa
+Lucyla:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lucilla
+  lang:
+  - pl
+Lucyna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lucina
+  lang:
+  - pl
+Lucía:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lucy
+  lang:
+  - es
+Ludgarda:
+  gender_flag: 1
+  lang:
+  - pl
+Ludilyn:
+  gender_flag: 1
+  lang:
+  - ceb
+Ludis:
+  gender_flag: 2
+  lang:
+  - lv
+Ludivina:
+  gender_flag: 1
+  lang:
+  - oc
+Ludivine:
+  gender_flag: 1
+  lang:
+  - fr
+Ludmila:
+  gender_flag: 1
+  lang:
+  - cs
+  - lv
+Ludmilka:
+  gender_flag: 1
+  is_short_for:
+  - Ludmila
+  lang:
+  - cs
+Ludmił:
+  gender_flag: 2
+  lang:
+  - pl
+Ludmiła:
+  gender_flag: 1
+  lang:
+  - pl
+Ludolph:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - de
+Ludovi:
+  gender_flag: 2
+  lang:
+  - nrf
+Ludovic:
+  gender_flag: 2
+  lang:
+  - fr
+  - ro
+  origin:
+  - la
+Ludovica:
+  gender_flag: 1
+  lang:
+  - it
+  origin:
+  - la
+Ludovico:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Ludovicus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Louis
+  lang:
+  - la
+Ludva:
+  gender_flag: 2
+  is_short_for:
+  - Ludvík
+  lang:
+  - cs
+Ludvig:
+  gender_flag: 2
+  is_equivalent_to:
+  - Louis
+  lang:
+  - da
+  - 'no'
+  - sv
+Ludvigs:
+  gender_flag: 2
+  lang:
+  - lv
+Ludvik:
+  gender_flag: 2
+  lang:
+  - fi
+Ludvikke:
+  gender_flag: 1
+  lang:
+  - 'no'
+Ludvine:
+  gender_flag: 1
+  lang:
+  - 'no'
+Ludvík:
+  gender_flag: 2
+  is_equivalent_to:
+  - Louis
+  lang:
+  - cs
+  - fo
+  origin:
+  - de
+Ludwig:
+  gender_flag: 2
+  is_a_variant_of:
+  - Louis
+  - Luis
+  - Lutz
+  lang:
+  - de
+  - en
+Ludwik:
+  gender_flag: 2
+  is_equivalent_to:
+  - Louis
+  - Ludwig
+  lang:
+  - pl
+Ludwika:
+  gender_flag: 1
+  lang:
+  - pl
+Luděk:
+  gender_flag: 2
+  lang:
+  - cs
+Luděček:
+  gender_flag: 2
+  is_short_for:
+  - Luděk
+  lang:
+  - cs
+Luella:
+  gender_flag: 1
+  is_a_variant_of:
+  - Louella
+  lang:
+  - en
+Lugaid:
+  gender_flag: 2
+  lang:
+  - sga
+Lughaidh:
+  gender_flag: 2
+  lang:
+  - ga
+  origin:
+  - sga
+Lui:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Luici:
+  gender_flag: 2
+  is_equivalent_to:
+  - Louis
+  lang:
+  - scn
+  origin:
+  - la
+Luigi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Louis
+  lang:
+  - en
+  - it
+  origin:
+  - it
+  - la
+Luigina:
+  gender_flag: 1
+  lang:
+  - it
+Luika:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Luis:
+  gender_flag: 2
+  is_equivalent_to:
+  - Louis
+  lang:
+  - ceb
+  - cim
+  - de
+  - en
+  - es
+  - tl
+  origin:
+  - es
+  - fr
+  - gem
+Luisa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Louise
+  lang:
+  - de
+  - es
+  - it
+  origin:
+  - es
+  - fr
+  - la
+Luise:
+  gender_flag: 1
+  is_equivalent_to:
+  - Louise
+  lang:
+  - de
+  - et
+Luisito:
+  gender_flag: 2
+  is_short_for:
+  - Luis
+  lang:
+  - es
+Luitpold:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leopold
+  lang:
+  - bar
+  - de
+Luiz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lewis
+  - Louis
+  lang:
+  - pt
+Luiza:
+  gender_flag: 1
+  is_equivalent_to:
+  - Louise
+  lang:
+  - pl
+  - pt
+Lujza:
+  gender_flag: 1
+  lang:
+  - sk
+Luk:
+  gender_flag: 2
+  is_equivalent_to:
+  - Luke
+  is_short_for:
+  - Lukáš
+  lang:
+  - nl
+  - sk
+  - wa
+Luka:
+  gender_flag: 3
+  is_equivalent_to:
+  - Luke
+  - Ruth
+  lang:
+  - en
+  - fi
+  - haw
+  - sh
+  - sl
+  origin:
+  - sla
+Lukas:
+  gender_flag: 2
+  is_a_variant_of:
+  - Lucas
+  is_equivalent_to:
+  - Luke
+  lang:
+  - da
+  - de
+  - en
+  - fo
+  - lt
+  - 'no'
+  - sv
+  origin:
+  - la
+Luke:
+  gender_flag: 2
+  lang:
+  - en
+Lukia:
+  gender_flag: 1
+  lang:
+  - haw
+Lukianusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lucian
+  lang:
+  - pl
+Lukka:
+  gender_flag: 1
+  lang:
+  - is
+Lukman:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - ar
+Lukrecja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lucretia
+  lang:
+  - pl
+Lukrecjusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lucretius
+  lang:
+  - pl
+Lukys:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lucas
+  lang:
+  - gv
+Lukács:
+  gender_flag: 2
+  lang:
+  - hu
+Lukáš:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lucas
+  - Luke
+  lang:
+  - cs
+  - sk
+  origin:
+  - grc
+Lukášek:
+  gender_flag: 2
+  is_short_for:
+  - Lukáš
+  lang:
+  - cs
+Lula:
+  gender_flag: 3
+  is_short_for:
+  - Luiz
+  - Luís
+  lang:
+  - en
+  - es
+  - fo
+  - pt
+Lulia:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Lulieta:
+  gender_flag: 1
+  lang:
+  - sq
+Lulu:
+  gender_flag: 1
+  is_short_for:
+  - Louisa
+  - Louise
+  - Lucy
+  lang:
+  - de
+  - en
+Lulzim:
+  gender_flag: 2
+  lang:
+  - sq
+Lulú:
+  gender_flag: 1
+  is_short_for:
+  - Ludivina
+  lang:
+  - oc
+Lum:
+  gender_flag: 2
+  is_short_for:
+  - Columbus
+  lang:
+  - en
+Lumi:
+  gender_flag: 1
+  lang:
+  - fi
+  origin:
+  - fi
+Lumia:
+  gender_flag: 1
+  lang:
+  - fi
+Lumikki:
+  gender_flag: 1
+  lang:
+  - fi
+Luminița:
+  gender_flag: 1
+  lang:
+  - ro
+Luminosa:
+  gender_flag: 1
+  lang:
+  - it
+Lumír:
+  gender_flag: 2
+  lang:
+  - cs
+Lumírek:
+  gender_flag: 2
+  is_short_for:
+  - Lumír
+  lang:
+  - cs
+Luna:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - es
+  - it
+  - la
+  - tl
+  origin:
+  - es
+  - la
+Lunella:
+  gender_flag: 1
+  lang:
+  - it
+  origin:
+  - la
+Lunetta:
+  gender_flag: 1
+  lang:
+  - it
+  origin:
+  - la
+Lunina:
+  gender_flag: 1
+  lang:
+  - it
+  origin:
+  - la
+Luningning:
+  gender_flag: 1
+  lang:
+  - tl
+Lunzi:
+  gender_flag: 2
+  lang:
+  - gsw
+  origin:
+  - la
+Lupe:
+  gender_flag: 7
+  is_short_for:
+  - Guadalupe
+  lang:
+  - en
+  - es
+  origin:
+  - es
+Lupita:
+  gender_flag: 1
+  is_short_for:
+  - Guadalupe
+  lang:
+  - es
+Luqmon:
+  gender_flag: 2
+  lang:
+  - uz
+  origin:
+  - ar
+Lurèins:
+  gender_flag: 2
+  is_equivalent_to:
+  - Laurence
+  lang:
+  - egl
+  origin:
+  - la
+Lurèinsa:
+  gender_flag: 1
+  lang:
+  - egl
+Lusanda:
+  gender_flag: 1
+  lang:
+  - en
+Lusia:
+  gender_flag: 1
+  lang:
+  - fo
+Lusie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lucie
+  lang:
+  - 'no'
+Lusine:
+  gender_flag: 1
+  lang:
+  - 'no'
+Lusing:
+  gender_flag: 1
+  lang:
+  - ceb
+Lussi:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lucie
+  lang:
+  - 'no'
+Lussie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lucie
+  lang:
+  - 'no'
+Luther:
+  gender_flag: 2
+  lang:
+  - en
+Lutz:
+  gender_flag: 2
+  is_short_for:
+  - Ludwig
+  lang:
+  - de
+Luuk:
+  gender_flag: 2
+  is_equivalent_to:
+  - Luke
+  lang:
+  - nl
+Luukas:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Luule:
+  gender_flag: 1
+  lang:
+  - et
+Luutivik:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Luutsivik:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Luvìgg:
+  gender_flag: 2
+  lang:
+  - rgn
+  origin:
+  - la
+Luys:
+  gender_flag: 2
+  lang:
+  - pt
+Luz:
+  gender_flag: 1
+  lang:
+  - ceb
+  - es
+  - pt
+  origin:
+  - es
+Luzia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lucia
+  lang:
+  - de
+  - pt
+Luzie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lucie
+  lang:
+  - de
+Luzmila:
+  gender_flag: 1
+  lang:
+  - es
+Luzviminda:
+  gender_flag: 1
+  lang:
+  - tl
+Luân:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Luìgg:
+  gender_flag: 2
+  lang:
+  - rgn
+  origin:
+  - la
+Luís:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lewis
+  - Louis
+  lang:
+  - pt
+Luísa:
+  gender_flag: 1
+  lang:
+  - pt
+Luďa:
+  gender_flag: 3
+  is_short_for:
+  - Ludmila
+  - Luděk
+  lang:
+  - cs
+Luīze:
+  gender_flag: 1
+  lang:
+  - lv
+Luʻukia:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Luận:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Lyanna:
+  gender_flag: 1
+  lang:
+  - en
+Lyco:
+  gender_flag: 2
+  lang:
+  - la
+Lyconides:
+  gender_flag: 2
+  lang:
+  - la
+Lycurgus:
+  gender_flag: 2
+  lang:
+  - en
+Lycus:
+  gender_flag: 2
+  lang:
+  - la
+Lydia:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - fr
+  - la
+  - 'no'
+  - sv
+  origin:
+  - grc
+Lydie:
+  gender_flag: 1
+  lang:
+  - fr
+Lydus:
+  gender_flag: 2
+  lang:
+  - la
+Lye:
+  gender_flag: 1
+  is_short_for:
+  - Lyanna
+  lang:
+  - en
+Lykke:
+  gender_flag: 3
+  lang:
+  - da
+Lykkir:
+  gender_flag: 2
+  lang:
+  - fo
+Lyla:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Lylah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Lyle:
+  gender_flag: 2
+  lang:
+  - en
+Lyman:
+  gender_flag: 2
+  lang:
+  - en
+Lyn:
+  gender_flag: 1
+  lang:
+  - en
+Lynda:
+  gender_flag: 1
+  is_a_variant_of:
+  - Linda
+  lang:
+  - en
+  origin:
+  - gem
+Lyndon:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Lyndsey:
+  gender_flag: 1
+  lang:
+  - en
+Lyne:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+Lynette:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - cy
+  - en
+Lyngvi:
+  gender_flag: 2
+  lang:
+  - is
+Lynn:
+  gender_flag: 7
+  is_a_variant_of:
+  - Lyn
+  lang:
+  - en
+Lynne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lynn
+  lang:
+  - en
+Lynnette:
+  gender_flag: 1
+  is_a_variant_of:
+  - Lynette
+  lang:
+  - en
+  origin:
+  - cy
+Lyra:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - grc
+Lyric:
+  gender_flag: 7
+  lang:
+  - en
+Lysander:
+  gender_flag: 2
+  lang:
+  - en
+Lysandre:
+  gender_flag: 7
+  lang:
+  - fr
+Lysidamus:
+  gender_flag: 2
+  lang:
+  - la
+Lysimachus:
+  gender_flag: 2
+  lang:
+  - la
+Lyssa:
+  gender_flag: 1
+  lang:
+  - en
+Lyssy:
+  gender_flag: 1
+  lang:
+  - 'no'
+Lystiteles:
+  gender_flag: 2
+  lang:
+  - la
+Lyudmila:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ru
+  - uk
+Lyydi:
+  gender_flag: 1
+  lang:
+  - fi
+Lyydia:
+  gender_flag: 1
+  lang:
+  - fi
+Lyyli:
+  gender_flag: 1
+  lang:
+  - fi
+Lyyti:
+  gender_flag: 1
+  lang:
+  - fi
+Láfi:
+  gender_flag: 2
+  lang:
+  - is
+Láki:
+  gender_flag: 2
+  lang:
+  - is
+Lára:
+  gender_flag: 1
+  lang:
+  - is
+Lárus:
+  gender_flag: 2
+  lang:
+  - is
+Lásse:
+  gender_flag: 2
+  lang:
+  - se
+László:
+  gender_flag: 2
+  lang:
+  - hu
+Lávus:
+  gender_flag: 2
+  lang:
+  - fo
+Lázaro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lazarus
+  lang:
+  - es
+  - pt
+  origin:
+  - he
+Lázár:
+  gender_flag: 2
+  lang:
+  - hu
+Láďa:
+  gender_flag: 3
+  is_short_for:
+  - Ladislav
+  - Ladislava
+  lang:
+  - cs
+Lâm:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Lân:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Lâse:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Lãke:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Lãnguaĸ:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Lærke:
+  gender_flag: 1
+  lang:
+  - da
+Lætitia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Letitia
+  lang:
+  - fr
+Lèane:
+  gender_flag: 1
+  lang:
+  - nrf
+Lèya:
+  gender_flag: 1
+  lang:
+  - wa
+Léa:
+  gender_flag: 1
+  lang:
+  - fr
+Léan:
+  gender_flag: 2
+  lang:
+  - nrf
+Lélia:
+  gender_flag: 1
+  lang:
+  - fr
+Léna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lena
+  lang:
+  - hu
+Léne:
+  gender_flag: 1
+  lang:
+  - nrf
+Lénharður:
+  gender_flag: 2
+  lang:
+  - is
+Lénárd:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leonard
+  lang:
+  - hu
+Léo:
+  gender_flag: 2
+  lang:
+  - fr
+Léon:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leo
+  lang:
+  - fr
+Léonard:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leonard
+  lang:
+  - fr
+Léonce:
+  gender_flag: 2
+  lang:
+  - fr
+Léonche:
+  gender_flag: 2
+  lang:
+  - nrf
+Léone:
+  gender_flag: 1
+  lang:
+  - fr
+Léonie:
+  gender_flag: 1
+  lang:
+  - fr
+Léonne:
+  gender_flag: 1
+  lang:
+  - nrf
+Léonor:
+  gender_flag: 2
+  lang:
+  - fr
+Léonora:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - it
+Léonore:
+  gender_flag: 1
+  lang:
+  - fr
+Léontine:
+  gender_flag: 1
+  lang:
+  - nrf
+Léopold:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leopold
+  lang:
+  - fr
+Lépine:
+  gender_flag: 2
+  lang:
+  - fr
+Léstine:
+  gender_flag: 1
+  lang:
+  - wa
+Léňa:
+  gender_flag: 1
+  is_short_for:
+  - Lenka
+  lang:
+  - cs
+Lê:
+  gender_flag: 1
+  lang:
+  - vi
+Lìa:
+  gender_flag: 2
+  lang:
+  - scn
+  origin:
+  - he
+Lìddia:
+  gender_flag: 1
+  lang:
+  - egl
+Lí:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Lía:
+  gender_flag: 1
+  lang:
+  - es
+Líadain:
+  gender_flag: 1
+  lang:
+  - sga
+Líba:
+  gender_flag: 1
+  is_short_for:
+  - Libuše
+  lang:
+  - cs
+Lída:
+  gender_flag: 1
+  is_short_for:
+  - Lidmila
+  - Ludmila
+  lang:
+  - cs
+Lídia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lydia
+  lang:
+  - pt
+Lífdís:
+  gender_flag: 1
+  lang:
+  - is
+Líggjas:
+  gender_flag: 2
+  lang:
+  - fo
+Lígia:
+  gender_flag: 1
+  lang:
+  - pt
+Lín:
+  gender_flag: 1
+  lang:
+  - fo
+Lípíka:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Lísa:
+  gender_flag: 1
+  lang:
+  - is
+Lísbita:
+  gender_flag: 1
+  lang:
+  - fo
+Lív:
+  gender_flag: 1
+  lang:
+  - fo
+Lívia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Livia
+  lang:
+  - pt
+  - sk
+Líza:
+  gender_flag: 1
+  is_short_for:
+  - Alžběta
+  - Eliška
+  lang:
+  - cs
+Lízinka:
+  gender_flag: 1
+  is_short_for:
+  - Líza
+  lang:
+  - cs
+Lîsabé:
+  gender_flag: 1
+  is_equivalent_to:
+  - Elizabeth
+  lang:
+  - nrf
+Lîzabé:
+  gender_flag: 1
+  is_equivalent_to:
+  - Elizabeth
+  lang:
+  - nrf
+Lóa:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Lóegaire:
+  gender_flag: 2
+  lang:
+  - sga
+Lói:
+  gender_flag: 2
+  lang:
+  - is
+Lô:
+  gender_flag: 2
+  lang:
+  - bkm
+Lôrît:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Lôĸe:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Løðar:
+  gender_flag: 2
+  lang:
+  - fo
+Lùcas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Luke
+  lang:
+  - gd
+  origin:
+  - la
+Lúa:
+  gender_flag: 1
+  lang:
+  - gl
+Lúcia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lucy
+  lang:
+  - pt
+Lúkas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Luke
+  lang:
+  - is
+Lúther:
+  gender_flag: 2
+  lang:
+  - is
+Lúðvík:
+  gender_flag: 2
+  lang:
+  - is
+Lûtivik:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Lüüdia:
+  gender_flag: 1
+  lang:
+  - et
+Lý:
+  gender_flag: 1
+  lang:
+  - fo
+Lýdia:
+  gender_flag: 1
+  lang:
+  - fo
+  - sk
+Lýdie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lydia
+  lang:
+  - cs
+Lýdía:
+  gender_flag: 1
+  lang:
+  - is
+Lýra:
+  gender_flag: 1
+  lang:
+  - is
+Lýðar:
+  gender_flag: 2
+  lang:
+  - fo
+Lýður:
+  gender_flag: 2
+  lang:
+  - fo
+Lāhela:
+  gender_flag: 1
+  lang:
+  - haw
+Lāsma:
+  gender_flag: 1
+  lang:
+  - lv
+Līga:
+  gender_flag: 1
+  lang:
+  - lv
+Līna:
+  gender_flag: 1
+  lang:
+  - lv
+Līva:
+  gender_flag: 1
+  lang:
+  - lv
+Līvija:
+  gender_flag: 1
+  lang:
+  - lv
+Lőrinc:
+  gender_flag: 2
+  lang:
+  - hu
+Lũtsivik:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Lūcija:
+  gender_flag: 1
+  lang:
+  - lv
+Lūcijs:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - la
+Lūks:
+  gender_flag: 2
+  lang:
+  - lv
+Ləyla:
+  gender_flag: 1
+  lang:
+  - az
+Lệ:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Lộc: {}
+Lợi:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Lực:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Ļubova: {}
+Ľuba:
+  gender_flag: 1
+  is_short_for:
+  - Ľubica
+  lang:
+  - sk
+Ľubica:
+  gender_flag: 1
+  lang:
+  - sk
+Ľubo:
+  gender_flag: 2
+  is_short_for:
+  - Ľubomír
+  - Ľuboslav
+  lang:
+  - sk
+Ľubomír:
+  gender_flag: 2
+  lang:
+  - sk
+Ľubomíra:
+  gender_flag: 1
+  lang:
+  - sk
+Ľubor:
+  gender_flag: 2
+  lang:
+  - sk
+Ľuboslav:
+  gender_flag: 2
+  lang:
+  - sk
+Ľuboslava:
+  gender_flag: 1
+  lang:
+  - sk
+Ľuboš:
+  gender_flag: 2
+  lang:
+  - sk
+Ľuda:
+  gender_flag: 1
+  is_short_for:
+  - Ľudmila
+  lang:
+  - sk
+Ľudmila:
+  gender_flag: 1
+  lang:
+  - sk
+Ľudo:
+  gender_flag: 2
+  is_short_for:
+  - Ľudomil
+  - Ľudovít
+  lang:
+  - sk
+Ľudomil:
+  gender_flag: 2
+  lang:
+  - sk
+Ľudomila:
+  gender_flag: 1
+  lang:
+  - sk
+Ľudovít:
+  gender_flag: 2
+  lang:
+  - sk
+Łucja:
+  gender_flag: 1
+  lang:
+  - pl
+Łukasz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Luke
+  lang:
+  - pl

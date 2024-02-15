@@ -1,0 +1,7202 @@
+Baba:
+  gender_flag: 7
+  lang:
+  - ha
+  - jaa
+  - lv
+Babaidh:
+  gender_flag: 1
+  is_equivalent_to:
+  - Babs
+  - Barbie
+  is_short_for:
+  - Barabal
+  lang:
+  - gd
+Babben:
+  gender_flag: 1
+  is_short_for:
+  - Barbro
+  lang:
+  - 'no'
+Babe:
+  gender_flag: 2
+  lang:
+  - en
+Babete:
+  gender_flag: 1
+  lang:
+  - wa
+Babila:
+  gender_flag: 2
+  lang:
+  - it
+Babs:
+  gender_flag: 1
+  is_short_for:
+  - Barbara
+  lang:
+  - en
+Baby:
+  gender_flag: 3
+  lang:
+  - ceb
+Babylyn:
+  gender_flag: 1
+  lang:
+  - ceb
+Bacchis:
+  gender_flag: 1
+  lang:
+  - la
+Baccio:
+  gender_flag: 2
+  lang:
+  - it
+Bachisio:
+  gender_flag: 2
+  lang:
+  - it
+Baciccia:
+  gender_flag: 2
+  lang:
+  - it
+Bacolo:
+  gender_flag: 2
+  lang:
+  - it
+Bacı:
+  gender_flag: 1
+  lang:
+  - tr
+Bada:
+  gender_flag: 7
+  lang:
+  - jaa
+Badischte:
+  gender_flag: 2
+  lang:
+  - gsw
+  origin:
+  - fr
+Badjomé:
+  gender_flag: 2
+  lang:
+  - wa
+Badr:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Badîn:
+  gender_flag: 2
+  lang:
+  - kmr
+Baebio:
+  gender_flag: 2
+  lang:
+  - la
+Baer:
+  gender_flag: 2
+  lang:
+  - li
+Bager:
+  gender_flag: 2
+  lang:
+  - kmr
+Bagio:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Bagus:
+  gender_flag: 2
+  lang:
+  - id
+  - ms
+  origin:
+  - ms
+Baha:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Bahadir:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - tr
+Bahar:
+  gender_flag: 1
+  lang:
+  - tr
+Bahauddin:
+  gender_flag: 2
+  lang:
+  - en
+Bahazhoni:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - nv
+Bahdan: {}
+Bahee:
+  gender_flag: 1
+  lang:
+  - gv
+Bahoz:
+  gender_flag: 2
+  lang:
+  - kmr
+Bahtiyar:
+  gender_flag: 3
+  lang:
+  - tr
+Bahuslau: {}
+Bahçeli:
+  gender_flag: 2
+  lang:
+  - tr
+Baiba:
+  gender_flag: 1
+  lang:
+  - lv
+Bailee:
+  gender_flag: 1
+  lang:
+  - en
+Bailey:
+  gender_flag: 7
+  lang:
+  - en
+Bainzu:
+  gender_flag: 2
+  is_short_for:
+  - Gabinu
+  lang:
+  - sc
+  - sdc
+Bairbre:
+  gender_flag: 1
+  is_equivalent_to:
+  - Barbara
+  lang:
+  - ga
+  origin:
+  - grc
+Baiulo:
+  gender_flag: 2
+  lang:
+  - it
+Baiwa:
+  gender_flag: 1
+  lang:
+  - ha
+Baka:
+  gender_flag: 7
+  lang:
+  - jaa
+Bakare:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abubakar
+  lang:
+  - yo
+  origin:
+  - ha
+Baki:
+  gender_flag: 2
+  lang:
+  - ceb
+  - tr
+  origin:
+  - ar
+Bakro:
+  lang:
+  - rom
+Bakır:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Bala:
+  gender_flag: 2
+  lang:
+  - sq
+  origin:
+  - sq
+Balaraba:
+  gender_flag: 1
+  lang:
+  - ha
+Balarabe:
+  gender_flag: 2
+  lang:
+  - ha
+Balassa:
+  gender_flag: 2
+  lang:
+  - hu
+Balbay:
+  gender_flag: 2
+  lang:
+  - tr
+Balbina:
+  gender_flag: 1
+  lang:
+  - it
+  - pl
+Balbino:
+  gender_flag: 2
+  lang:
+  - it
+Baldassarre:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - he
+Balder:
+  gender_flag: 2
+  lang:
+  - ang
+  - nn
+  origin:
+  - non
+Baldhere:
+  gender_flag: 2
+  lang:
+  - goh
+Baldomero:
+  gender_flag: 2
+  lang:
+  - gl
+Baldor:
+  gender_flag: 2
+  lang:
+  - goh
+Baldovino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Baldwin
+  lang:
+  - it
+  origin:
+  - gem-pro
+Baldro:
+  gender_flag: 2
+  lang:
+  - goh
+Baldrún:
+  gender_flag: 1
+  lang:
+  - is
+Balduino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Baldwin
+  lang:
+  - es
+  origin:
+  - gem-pro
+Balduinus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Baldwin
+  lang:
+  - la
+Baldur:
+  gender_flag: 2
+  lang:
+  - de
+  - fo
+  - is
+Balduíno:
+  gender_flag: 2
+  is_equivalent_to:
+  - Baldwin
+  lang:
+  - pt
+Baldvin:
+  gender_flag: 2
+  lang:
+  - fo
+Baldwin:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Balet:
+  gender_flag: 1
+  lang:
+  - ceb
+Bali:
+  gender_flag: 2
+  is_short_for:
+  - Balázs
+  - Bálint
+  lang:
+  - hu
+Baljit:
+  gender_flag: 2
+  lang:
+  - en
+Ballan:
+  gender_flag: 2
+  lang:
+  - sq
+Ballio:
+  gender_flag: 2
+  lang:
+  - la
+Balor:
+  gender_flag: 2
+  lang:
+  - en
+Balot:
+  gender_flag: 2
+  lang:
+  - ceb
+Baltasar:
+  gender_flag: 2
+  lang:
+  - en
+  - fo
+Baltazar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Balthazar
+  lang:
+  - es
+  - pl
+Baltazár:
+  gender_flag: 2
+  lang:
+  - hu
+Balthazar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - peo
+Baltija:
+  gender_flag: 1
+  lang:
+  - lt
+Baltramiejus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bartholomew
+  lang:
+  - lt
+Balys:
+  gender_flag: 2
+  lang:
+  - lt
+Balyş:
+  gender_flag: 2
+  lang:
+  - tk
+Balz:
+  gender_flag: 2
+  lang:
+  - de
+Balázs:
+  gender_flag: 2
+  is_equivalent_to:
+  - Blaise
+  - Blase
+  - Blasius
+  lang:
+  - hu
+Balë:
+  gender_flag: 2
+  lang:
+  - sq
+  origin:
+  - sq
+Bamba:
+  gender_flag: 1
+  lang:
+  - ceb
+Bambang:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Bambi:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+Banban:
+  gender_flag: 3
+  lang:
+  - ceb
+Baning:
+  gender_flag: 2
+  lang:
+  - ceb
+Banjo:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - ceb
+Bankẹ:
+  gender_flag: 7
+  lang:
+  - yo
+Banne:
+  gender_flag: 2
+  lang:
+  - de
+Banu:
+  gender_flag: 1
+  lang:
+  - tr
+Baptista:
+  gender_flag: 2
+  lang:
+  - ca
+  - de
+Baptiste:
+  gender_flag: 2
+  lang:
+  - fr
+Bara:
+  gender_flag: 1
+  is_short_for:
+  - Barbora
+  lang:
+  - sk
+Barabal:
+  gender_flag: 1
+  is_equivalent_to:
+  - Annabella
+  - Barbara
+  lang:
+  - gd
+Barack:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Barak:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Baran:
+  gender_flag: 2
+  lang:
+  - kmr
+  - tr
+Barau:
+  gender_flag: 2
+  lang:
+  - ha
+Barb:
+  gender_flag: 1
+  is_short_for:
+  - Barbara
+  lang:
+  - en
+Barba:
+  gender_flag: 1
+  is_equivalent_to:
+  - Barbara
+  lang:
+  - br
+  - fo
+Barbara:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - fo
+  - fr
+  - hu
+  - it
+  - nl
+  - pl
+  - sk
+  - sv
+  origin:
+  - la
+Barbaros:
+  gender_flag: 2
+  lang:
+  - tr
+Barbe:
+  gender_flag: 1
+  lang:
+  - fr
+Barbi:
+  gender_flag: 1
+  is_short_for:
+  - Barbara
+  lang:
+  - hu
+Barbie:
+  gender_flag: 1
+  is_short_for:
+  - Barbara
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Barbora:
+  gender_flag: 1
+  is_equivalent_to:
+  - Barbara
+  lang:
+  - cs
+  - lt
+  - sk
+Barborka:
+  gender_flag: 1
+  is_short_for:
+  - Barbora
+  lang:
+  - cs
+Barbra:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Barbrey:
+  gender_flag: 1
+  is_equivalent_to:
+  - Barbara
+  lang:
+  - gv
+  origin:
+  - grc
+Barbro:
+  gender_flag: 1
+  is_equivalent_to:
+  - Barbara
+  lang:
+  - eo
+  - 'no'
+  - sv
+  origin:
+  - grc
+Barbára:
+  gender_flag: 1
+  lang:
+  - is
+Bardh:
+  gender_flag: 2
+  lang:
+  - sq
+Bardhyl:
+  gender_flag: 2
+  lang:
+  - sq
+  origin:
+  - xil
+Bardhyll:
+  gender_flag: 2
+  lang:
+  - sq
+Barka:
+  gender_flag: 1
+  is_short_for:
+  - Bára
+  lang:
+  - cs
+Barlaam:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+Barna:
+  gender_flag: 2
+  lang:
+  - hu
+Barnaba:
+  gender_flag: 2
+  is_equivalent_to:
+  - Barnaby
+  lang:
+  - it
+  - pl
+  origin:
+  - grc
+  - he
+Barnabas:
+  gender_flag: 2
+  lang:
+  - en
+Barnaby:
+  gender_flag: 2
+  lang:
+  - en
+Barnabáš:
+  gender_flag: 2
+  is_equivalent_to:
+  - Barnabas
+  - Barnaby
+  lang:
+  - cs
+  origin:
+  - he
+Barnabé:
+  gender_flag: 2
+  is_equivalent_to:
+  - Barnabas
+  - Barnaby
+  lang:
+  - fr
+  - nrf
+Barnas:
+  gender_flag: 2
+  lang:
+  - kmr
+Barnett:
+  gender_flag: 2
+  lang:
+  - en
+Barney:
+  gender_flag: 2
+  is_short_for:
+  - Barnabas
+  - Barnett
+  - Bernard
+  lang:
+  - en
+Baron:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - en
+Barrack:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Barri:
+  gender_flag: 2
+  lang:
+  - is
+Barrie:
+  gender_flag: 2
+  lang:
+  - en
+Barron:
+  gender_flag: 2
+  lang:
+  - en
+Barry:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Barsimeo:
+  gender_flag: 2
+  lang:
+  - it
+Bart:
+  gender_flag: 2
+  is_short_for:
+  - Bartholomew
+  lang:
+  - en
+  - nl
+Bartal:
+  gender_flag: 2
+  lang:
+  - fo
+Bartek:
+  gender_flag: 2
+  is_short_for:
+  - Bartosz
+  - Bartłomiej
+  lang:
+  - pl
+Bartholomew:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - arc
+Bartholomäus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bartholomew
+  lang:
+  - de
+Barthélemy:
+  gender_flag: 2
+  lang:
+  - fr
+Barti:
+  gender_flag: 2
+  lang:
+  - cy
+Bartlàz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bartholomew
+  lang:
+  - rgn
+  origin:
+  - arc
+  - grc
+  - la
+Bartolome:
+  gender_flag: 2
+  lang:
+  - tl
+  origin:
+  - es
+Bartolomei:
+  gender_flag: 2
+  lang:
+  - ro
+Bartolomej:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bartholomew
+  lang:
+  - sk
+  origin:
+  - grc
+Bartolomeo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bartholomew
+  lang:
+  - eo
+  - it
+  origin:
+  - grc
+Bartolomeu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bartholomew
+  lang:
+  - pt
+  - ro
+Bartolomé:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bartholomew
+  lang:
+  - es
+Bartoloměj:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bartholomew
+  lang:
+  - cs
+  origin:
+  - grc
+Bartomeu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bartholomew
+  lang:
+  - ca
+Barton:
+  gender_flag: 2
+  lang:
+  - en
+Bartosz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bartholomew
+  lang:
+  - pl
+Bartoszek:
+  gender_flag: 2
+  is_short_for:
+  - Bartosz
+  lang:
+  - pl
+Bartu:
+  gender_flag: 2
+  lang:
+  - tr
+Bartuś:
+  gender_flag: 2
+  is_short_for:
+  - Bartosz
+  - Bartłomiej
+  lang:
+  - pl
+Barty:
+  gender_flag: 2
+  is_short_for:
+  - Bartholomew
+  lang:
+  - en
+Bartłomiej:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bartholomew
+  lang:
+  - pl
+  origin:
+  - arc
+Baruch:
+  gender_flag: 2
+  lang:
+  - en
+Barunka:
+  gender_flag: 1
+  is_short_for:
+  - Bára
+  lang:
+  - cs
+Baruška:
+  gender_flag: 1
+  is_short_for:
+  - Bára
+  lang:
+  - cs
+Barys: {}
+Barça:
+  gender_flag: 2
+  lang:
+  - tr
+Barði:
+  gender_flag: 2
+  lang:
+  - is
+Barča:
+  gender_flag: 1
+  is_short_for:
+  - Bára
+  lang:
+  - cs
+Barčinka:
+  gender_flag: 1
+  is_short_for:
+  - Bára
+  lang:
+  - cs
+Barış:
+  gender_flag: 2
+  lang:
+  - tr
+Bas'cian:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sebastian
+  lang:
+  - ist
+  origin:
+  - la
+Basant:
+  gender_flag: 2
+  lang:
+  - en
+Baschi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Seb
+  is_short_for:
+  - Sebastian
+  lang:
+  - gsw
+  origin:
+  - la
+Bashaar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Bashar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Basheer:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Bashir:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Basia:
+  gender_flag: 1
+  is_short_for:
+  - Barbara
+  lang:
+  - pl
+Basiel:
+  gender_flag: 2
+  lang:
+  - nl
+Basil:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Basile:
+  gender_flag: 2
+  is_equivalent_to:
+  - Basil
+  lang:
+  - fr
+Basilia:
+  gender_flag: 1
+  lang:
+  - ceb
+Basilio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Basil
+  lang:
+  - ceb
+  - es
+  - it
+  - tl
+  origin:
+  - es
+Baskoro:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Basri:
+  gender_flag: 2
+  lang:
+  - tr
+Bassi:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Bassiano:
+  gender_flag: 2
+  lang:
+  - it
+Bastiaan:
+  gender_flag: 2
+  lang:
+  - nl
+Bastian:
+  gender_flag: 2
+  is_short_for:
+  - Sebastian
+  lang:
+  - br
+  - da
+  - de
+  - en
+  - fo
+  - gmw-ecg
+Bastien:
+  gender_flag: 2
+  is_short_for:
+  - Sébastien
+  lang:
+  - fr
+Bastienne:
+  gender_flag: 1
+  lang:
+  - de
+  - fr
+Bastyin:
+  gender_flag: 2
+  lang:
+  - wa
+Bastén:
+  gender_flag: 2
+  lang:
+  - wa
+Basuki:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Basílio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Basil
+  lang:
+  - pt
+Bathsheba:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Bathshua:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Bathuel:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - he
+Batilde:
+  gender_flag: 1
+  lang:
+  - nrf
+Batisse:
+  gender_flag: 2
+  lang:
+  - wa
+Batistin:
+  gender_flag: 2
+  lang:
+  - nrf
+Batistou:
+  gender_flag: 2
+  lang:
+  - oc
+Bato:
+  gender_flag: 2
+  lang:
+  - ceb
+  - sq
+  origin:
+  - ceb
+Baton:
+  gender_flag: 2
+  lang:
+  - sq
+Batt:
+  gender_flag: 2
+  is_short_for:
+  - Bartholomew
+  lang:
+  - en
+Battista:
+  gender_flag: 2
+  lang:
+  - it
+Batu:
+  gender_flag: 2
+  lang:
+  - en
+  - tr
+Batuhan:
+  gender_flag: 2
+  lang:
+  - tr
+Batur:
+  gender_flag: 2
+  lang:
+  - tr
+Batı:
+  gender_flag: 3
+  lang:
+  - tr
+Batıhan:
+  gender_flag: 2
+  lang:
+  - tr
+Baudouin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Baldwin
+  lang:
+  - fr
+Bawa:
+  gender_flag: 2
+  lang:
+  - ha
+Bawer:
+  gender_flag: 2
+  lang:
+  - kmr
+Baxter:
+  gender_flag: 2
+  lang:
+  - en
+Bayani:
+  gender_flag: 2
+  lang:
+  - tl
+Bayar:
+  gender_flag: 2
+  lang:
+  - tr
+Bayard:
+  gender_flag: 2
+  lang:
+  - en
+Bayhan:
+  gender_flag: 2
+  lang:
+  - tr
+Baykal:
+  gender_flag: 2
+  lang:
+  - tr
+Baylee:
+  gender_flag: 1
+  lang:
+  - en
+Bayleigh:
+  gender_flag: 1
+  is_a_variant_of:
+  - Bailey
+  lang:
+  - en
+Baylor:
+  gender_flag: 2
+  lang:
+  - en
+Bayrak:
+  gender_flag: 2
+  lang:
+  - tr
+Bayram:
+  gender_flag: 2
+  lang:
+  - az
+  - tr
+  origin:
+  - otk
+Baz:
+  gender_flag: 2
+  lang:
+  - en
+Bazile:
+  gender_flag: 2
+  is_equivalent_to:
+  - Basil
+  lang:
+  - nrf
+Bazyli:
+  gender_flag: 2
+  is_equivalent_to:
+  - Basil
+  lang:
+  - pl
+Bazza:
+  gender_flag: 2
+  is_short_for:
+  - Barry
+  - Basil
+  lang:
+  - en
+Baýram:
+  gender_flag: 2
+  lang:
+  - tk
+Bağır:
+  gender_flag: 2
+  lang:
+  - az
+  - tr
+Baśka:
+  gender_flag: 1
+  is_short_for:
+  - Barbara
+  lang:
+  - pl
+Başbuğ:
+  gender_flag: 2
+  lang:
+  - tr
+Başer:
+  gender_flag: 2
+  lang:
+  - tr
+Başkurt:
+  gender_flag: 2
+  lang:
+  - tr
+Baştuğ:
+  gender_flag: 2
+  lang:
+  - tr
+Baƙo:
+  gender_flag: 2
+  lang:
+  - ha
+Bdek:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - sq
+  origin:
+  - la
+Bea:
+  gender_flag: 1
+  is_short_for:
+  - Beatrice
+  - Beatrix
+  - Beatriz
+  - Beáta
+  lang:
+  - en
+  - es
+  - hu
+  - nl
+Beadowulf:
+  gender_flag: 2
+  lang:
+  - ang
+Beagmund:
+  gender_flag: 2
+  lang:
+  - ang
+Beat:
+  gender_flag: 2
+  lang:
+  - gsw
+  origin:
+  - la
+Beata:
+  gender_flag: 1
+  lang:
+  - fo
+  - la
+  - lt
+  - pl
+  - sv
+Beate:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - 'no'
+  origin:
+  - la
+Beathag:
+  gender_flag: 1
+  lang:
+  - gd
+Beathan:
+  gender_flag: 2
+  lang:
+  - gd
+Beatrice:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - it
+  - ro
+  - sv
+  origin:
+  - la
+Beatrijs:
+  gender_flag: 1
+  is_equivalent_to:
+  - Beatrice
+  lang:
+  - nl
+Beatrise:
+  gender_flag: 1
+  lang:
+  - lv
+Beatriu:
+  gender_flag: 1
+  is_equivalent_to:
+  - Beatrice
+  lang:
+  - ca
+Beatrix:
+  gender_flag: 1
+  is_equivalent_to:
+  - Beatrice
+  lang:
+  - de
+  - en
+  - hu
+  - la
+  origin:
+  - la
+Beatriz:
+  gender_flag: 1
+  is_equivalent_to:
+  - Beatrice
+  lang:
+  - es
+  - pt
+Beats:
+  gender_flag: 1
+  is_short_for:
+  - Beatrice
+  - Beatrix
+  lang:
+  - en
+Beau:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Beauregard:
+  gender_flag: 2
+  lang:
+  - en
+Beavis:
+  gender_flag: 2
+  lang:
+  - en
+Bebang:
+  gender_flag: 1
+  lang:
+  - ceb
+Bebbe:
+  gender_flag: 1
+  is_short_for:
+  - Elisabeth
+  lang:
+  - ang
+Bebe:
+  gender_flag: 1
+  lang:
+  - en
+Bebert:
+  gender_flag: 2
+  lang:
+  - wa
+Bec:
+  gender_flag: 1
+  is_short_for:
+  - Rebecca
+  lang:
+  - en
+  origin:
+  - he
+Becca:
+  gender_flag: 1
+  is_short_for:
+  - Rebecca
+  lang:
+  - en
+  origin:
+  - he
+Beccán:
+  gender_flag: 2
+  lang:
+  - sga
+Becher:
+  gender_flag: 2
+  lang:
+  - en
+Becia:
+  gender_flag: 1
+  is_short_for:
+  - Beata
+  lang:
+  - pl
+Becka:
+  gender_flag: 1
+  is_short_for:
+  - Rebecca
+  lang:
+  - en
+Becker:
+  gender_flag: 2
+  lang:
+  - en
+Becki:
+  gender_flag: 1
+  lang:
+  - en
+Beckie:
+  gender_flag: 1
+  lang:
+  - en
+Becks:
+  gender_flag: 1
+  is_short_for:
+  - Rebecca
+  lang:
+  - en
+Becky:
+  gender_flag: 1
+  is_short_for:
+  - Rebecca
+  lang:
+  - en
+Bedda:
+  gender_flag: 1
+  lang:
+  - fo
+Bedir:
+  gender_flag: 2
+  lang:
+  - tr
+Bedirxan:
+  gender_flag: 2
+  lang:
+  - kmr
+Bedje:
+  gender_flag: 1
+  lang:
+  - wa
+Bedřich:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frederick
+  lang:
+  - cs
+Bedřiška:
+  gender_flag: 1
+  is_equivalent_to:
+  - Frederica
+  lang:
+  - cs
+Bedříšek:
+  gender_flag: 2
+  is_short_for:
+  - Bedřich
+  lang:
+  - cs
+Bee:
+  gender_flag: 1
+  is_short_for:
+  - Beatrice
+  lang:
+  - en
+Beedher:
+  gender_flag: 2
+  lang:
+  - yol
+Beej:
+  gender_flag: 2
+  lang:
+  - en
+Beethoven:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - en
+Begoña:
+  gender_flag: 1
+  lang:
+  - es
+Begüm:
+  gender_flag: 1
+  lang:
+  - tr
+Behrouz: {}
+Behzat:
+  gender_flag: 2
+  lang:
+  - tr
+Behçet:
+  gender_flag: 2
+  lang:
+  - tr
+Beileag:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bella
+  is_short_for:
+  - Iseabail
+  lang:
+  - gd
+Beinar:
+  gender_flag: 2
+  lang:
+  - fo
+Beini:
+  gender_flag: 2
+  lang:
+  - fo
+Beinidict:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - ga
+Beinir:
+  gender_flag: 2
+  lang:
+  - fo
+Beinta:
+  gender_flag: 1
+  lang:
+  - fo
+Bekan:
+  gender_flag: 2
+  lang:
+  - is
+  - non
+  origin:
+  - sga
+Bekang:
+  gender_flag: 1
+  lang:
+  - ceb
+Bekay:
+  gender_flag: 1
+  lang:
+  - ceb
+Beki:
+  gender_flag: 1
+  lang:
+  - en
+Bekir:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Bekobod:
+  gender_flag: 2
+  lang:
+  - uz
+Bekzod:
+  gender_flag: 2
+  lang:
+  - uz
+Bel:
+  gender_flag: 1
+  lang:
+  - en
+Bela:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bella
+  lang:
+  - pt
+Belarmino:
+  gender_flag: 2
+  lang:
+  - es
+  - pt
+Belen:
+  gender_flag: 1
+  lang:
+  - ceb
+Belex:
+  gender_flag: 2
+  lang:
+  - xaq
+Belinda:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - fo
+Belisario:
+  gender_flag: 2
+  lang:
+  - es
+Belisarius:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - gem-pro
+Bell:
+  gender_flag: 3
+  is_a_variant_of:
+  - Belle
+  lang:
+  - en
+Bella:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - hu
+  - nl
+  origin:
+  - it
+Belladonna:
+  gender_flag: 1
+  lang:
+  - en
+Belle:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - nl
+  origin:
+  - en
+  - fr
+  - la
+Bellé:
+  gender_flag: 1
+  is_equivalent_to:
+  - Arabella
+  lang:
+  - nrf
+Belo:
+  gender_flag: 2
+  lang:
+  - sk
+Beltrán:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bertram
+  lang:
+  - es
+Belén:
+  gender_flag: 1
+  lang:
+  - es
+Ben:
+  gender_flag: 2
+  lang:
+  - ceb
+  - de
+Benadikt:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - fo
+Benadikta:
+  gender_flag: 1
+  lang:
+  - fo
+Benas:
+  gender_flag: 2
+  lang:
+  - lt
+Benay:
+  gender_flag: 1
+  lang:
+  - tr
+Benazir:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ur
+Benben:
+  gender_flag: 2
+  lang:
+  - ceb
+Bence:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vincent
+  lang:
+  - hu
+Bendik:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - 'no'
+Bendt:
+  gender_flag: 2
+  lang:
+  - da
+Benead:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - br
+Benedeit:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - fro
+Benedek:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - hu
+Benedetta:
+  gender_flag: 1
+  lang:
+  - it
+Benedetto:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - it
+Benedict:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  origin:
+  - la
+Benedicta:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Benedicte:
+  gender_flag: 1
+  is_a_variant_of:
+  - Benedikte
+  lang:
+  - da
+  - 'no'
+Benedictus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - la
+Benedig:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - br
+Benedikt:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - cs
+  - de
+  - is
+  origin:
+  - la
+Benediktas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - lt
+Benedikte:
+  gender_flag: 1
+  is_equivalent_to:
+  - Benedicta
+  lang:
+  - da
+  - 'no'
+Benedikto:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - eo
+  origin:
+  - la
+Benediktína:
+  gender_flag: 1
+  lang:
+  - is
+Benedit:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - oc
+Benedita:
+  gender_flag: 1
+  is_equivalent_to:
+  - Benedicta
+  lang:
+  - oc
+Benedito:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - pt
+Benedykt:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - pl
+Benedykta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Benedicta
+  lang:
+  - pl
+Beneharo:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - gnc
+Bener:
+  gender_flag: 2
+  lang:
+  - tr
+Beneset:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - oc
+Beneseta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Benedicta
+  lang:
+  - oc
+Benet:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - ca
+Bengt:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - 'no'
+  - sv
+Bengta:
+  gender_flag: 1
+  lang:
+  - sv
+Bengî:
+  gender_flag: 2
+  lang:
+  - kmr
+Beni:
+  gender_flag: 2
+  is_short_for:
+  - Benedek
+  - Benjámin
+  lang:
+  - hu
+Beniamin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benjamin
+  lang:
+  - ang
+  - ro
+Beniamino:
+  gender_flag: 2
+  lang:
+  - it
+Beniaminus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - he
+Benicio:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+  origin:
+  - es
+Benigno:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+  - tl
+  origin:
+  - es
+Benita:
+  gender_flag: 1
+  lang:
+  - es
+  - fo
+  - lv
+Benito:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - en
+  - es
+  - it
+Benjam:
+  gender_flag: 2
+  lang:
+  - fi
+Benjami:
+  gender_flag: 2
+  lang:
+  - fi
+Benjamim:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benjamin
+  lang:
+  - pt
+Benjamin:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fi
+  - fo
+  - fr
+  - gv
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - en
+  - es
+Benjaminas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benjamin
+  lang:
+  - lt
+Benjamín:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benjamin
+  lang:
+  - cs
+  - es
+  - is
+  - sk
+  origin:
+  - he
+Benjamîn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benjamin
+  lang:
+  - nrf
+Benji:
+  gender_flag: 2
+  is_short_for:
+  - Benjamin
+  lang:
+  - en
+Benjie:
+  gender_flag: 2
+  is_short_for:
+  - Benjamin
+  lang:
+  - en
+Benjy:
+  gender_flag: 2
+  is_short_for:
+  - Benjamin
+  lang:
+  - en
+Benjámin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benjamin
+  lang:
+  - hu
+Benkő:
+  gender_flag: 2
+  is_short_for:
+  - Benedek
+  lang:
+  - hu
+Benna:
+  gender_flag: 1
+  lang:
+  - is
+Bennet:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Bennett:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Bennie:
+  gender_flag: 3
+  is_short_for:
+  - Benjamin
+  - Bernadette
+  - Bernice
+  lang:
+  - en
+  - gmw-ecg
+Benniged:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - br
+Benno:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+Bennu:
+  gender_flag: 1
+  lang:
+  - tr
+Benny:
+  gender_flag: 7
+  lang:
+  - da
+  - en
+  - sv
+Benoet:
+  gender_flag: 2
+  lang:
+  - wa
+Benoit:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - en
+  origin:
+  - fr
+Benouét:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  - Bennett
+  lang:
+  - nrf
+Benoît:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - fr
+Bensína:
+  gender_flag: 1
+  lang:
+  - is
+Bent:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - da
+  - 'no'
+Bente:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Benthe:
+  gender_flag: 1
+  lang:
+  - da
+Bentlee:
+  gender_flag: 2
+  lang:
+  - en
+Bento:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - pt
+Benton:
+  gender_flag: 2
+  lang:
+  - en
+Bentot:
+  gender_flag: 2
+  lang:
+  - ceb
+Benvenuto:
+  gender_flag: 2
+  lang:
+  - it
+Benvindo:
+  gender_flag: 2
+  lang:
+  - pt
+Benzion:
+  gender_flag: 2
+  lang:
+  - en
+Benícia:
+  gender_flag: 1
+  lang:
+  - pt
+Benício:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benicio
+  lang:
+  - pt
+Benóní:
+  gender_flag: 2
+  lang:
+  - is
+Benóný:
+  gender_flag: 2
+  lang:
+  - is
+Beorhtmund:
+  gender_flag: 2
+  lang:
+  - ang
+Beorhtmær:
+  gender_flag: 2
+  lang:
+  - ang
+Beorhtnoþ:
+  gender_flag: 2
+  lang:
+  - ang
+Beorhtric:
+  gender_flag: 2
+  lang:
+  - ang
+Beorhtsige:
+  gender_flag: 2
+  lang:
+  - ang
+Beorhtweard:
+  gender_flag: 2
+  lang:
+  - ang
+Beorhtwulf:
+  gender_flag: 2
+  lang:
+  - ang
+Beorn:
+  gender_flag: 2
+  lang:
+  - ang
+Beornheard:
+  gender_flag: 2
+  lang:
+  - ang
+Beornmod:
+  gender_flag: 2
+  lang:
+  - ang
+Beornmund:
+  gender_flag: 2
+  lang:
+  - ang
+Beornwulf:
+  gender_flag: 2
+  lang:
+  - ang
+Beowulf:
+  gender_flag: 2
+  lang:
+  - ang
+  - en
+  origin:
+  - ang
+Bep:
+  gender_flag: 1
+  lang:
+  - nl
+Bepe:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  lang:
+  - vec
+Bepi:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  lang:
+  - vec
+Beppe:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  lang:
+  - it
+Beppino:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  lang:
+  - it
+Bera:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+  - nn
+  origin:
+  - non
+Berahim:
+  gender_flag: 2
+  lang:
+  - ms
+  origin:
+  - he
+Beran:
+  gender_flag: 2
+  lang:
+  - zza
+Berardo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Bernardo
+  lang:
+  - it
+Berb:
+  gender_flag: 1
+  is_short_for:
+  - Barbara
+  lang:
+  - gmw-ecg
+Berc'hed:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bridget
+  lang:
+  - br
+Berci:
+  gender_flag: 2
+  is_short_for:
+  - Albert
+  - Bertalan
+  lang:
+  - hu
+Berdie:
+  gender_flag: 1
+  is_short_for:
+  - Bertha
+  lang:
+  - en
+Beremut:
+  gender_flag: 2
+  lang:
+  - xvn
+Beren:
+  gender_flag: 3
+  lang:
+  - tr
+Berend:
+  gender_flag: 2
+  lang:
+  - de
+  - nl
+Berendina:
+  gender_flag: 1
+  lang:
+  - 'no'
+Berengar:
+  gender_flag: 2
+  lang:
+  - en
+Berengaria:
+  gender_flag: 1
+  lang:
+  - en
+Berengario:
+  gender_flag: 2
+  lang:
+  - it
+Berengarius:
+  gender_flag: 2
+  is_equivalent_to:
+  - Berengar
+  lang:
+  - la
+  origin:
+  - gem
+Berenguel:
+  gender_flag: 2
+  lang:
+  - gl
+Berenice:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  - pt
+  origin:
+  - grc
+Berenika:
+  gender_flag: 1
+  is_equivalent_to:
+  - Berenice
+  lang:
+  - cs
+Berfîn:
+  gender_flag: 1
+  lang:
+  - kmr
+Berg:
+  gender_flag: 2
+  lang:
+  - is
+Bergar:
+  gender_flag: 2
+  lang:
+  - fo
+Bergdis:
+  gender_flag: 1
+  lang:
+  - fo
+Bergdís:
+  gender_flag: 1
+  lang:
+  - is
+Bergfinnur:
+  gender_flag: 2
+  lang:
+  - fo
+Bergfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Bergfríður:
+  gender_flag: 2
+  lang:
+  - fo
+Bergheiður:
+  gender_flag: 1
+  lang:
+  - is
+Berghild:
+  gender_flag: 1
+  lang:
+  - fo
+Bergitta:
+  gender_flag: 1
+  lang:
+  - fo
+Bergjón:
+  gender_flag: 2
+  lang:
+  - is
+Berglaug:
+  gender_flag: 1
+  lang:
+  - is
+Bergleivur:
+  gender_flag: 2
+  lang:
+  - fo
+Berglind:
+  gender_flag: 1
+  lang:
+  - is
+Bergljot:
+  gender_flag: 3
+  lang:
+  - nn
+  - 'no'
+  origin:
+  - non
+Bergljót:
+  gender_flag: 1
+  lang:
+  - fo
+Bergly:
+  gender_flag: 1
+  lang:
+  - 'no'
+Bergmann:
+  gender_flag: 2
+  lang:
+  - is
+Bergmundur:
+  gender_flag: 2
+  lang:
+  - is
+Bergrún:
+  gender_flag: 1
+  lang:
+  - is
+Bergsvein:
+  gender_flag: 2
+  lang:
+  - fo
+Bergtór:
+  gender_flag: 2
+  lang:
+  - fo
+Bergunn:
+  gender_flag: 1
+  lang:
+  - fo
+Bergur:
+  gender_flag: 2
+  lang:
+  - fo
+Bergþrúður:
+  gender_flag: 1
+  lang:
+  - is
+Berhte:
+  gender_flag: 1
+  lang:
+  - ang
+Berhthun:
+  gender_flag: 2
+  lang:
+  - ang
+Berhtnoþ:
+  gender_flag: 2
+  lang:
+  - ang
+Berhtræd:
+  gender_flag: 2
+  lang:
+  - ang
+Berhtweald:
+  gender_flag: 2
+  lang:
+  - ang
+Berhtwulf:
+  gender_flag: 2
+  lang:
+  - ang
+Beri:
+  gender_flag: 2
+  lang:
+  - tr
+Berina:
+  gender_flag: 1
+  lang:
+  - 'no'
+Berint:
+  gender_flag: 2
+  lang:
+  - fo
+Berinthia:
+  gender_flag: 1
+  lang:
+  - en
+Berislav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Berit:
+  gender_flag: 1
+  is_a_variant_of:
+  - Birgitta
+  - Birgitte
+  lang:
+  - da
+  - et
+  - fo
+  - 'no'
+  - sv
+Berivoj:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Berk:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - trk-pro
+Berkant:
+  gender_flag: 2
+  lang:
+  - tr
+Berkay:
+  gender_flag: 2
+  lang:
+  - tr
+Berkcan:
+  gender_flag: 2
+  lang:
+  - tr
+Berke:
+  gender_flag: 3
+  lang:
+  - tr
+Berkeley:
+  gender_flag: 2
+  lang:
+  - en
+Berker:
+  gender_flag: 2
+  lang:
+  - tr
+Bermudo:
+  gender_flag: 2
+  lang:
+  - es
+Bern:
+  gender_flag: 2
+  is_short_for:
+  - Bernard
+  lang:
+  - en
+Berna:
+  gender_flag: 3
+  lang:
+  - tr
+Bernabe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Barnabas
+  lang:
+  - tl
+  origin:
+  - es
+Bernada:
+  gender_flag: 1
+  lang:
+  - oc
+Bernadeta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bernadette
+  lang:
+  - cs
+  - pl
+Bernadett:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bernadette
+  lang:
+  - hu
+Bernadetta:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  origin:
+  - fr
+Bernadette:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - fr
+  origin:
+  - fr
+Bernar:
+  gender_flag: 2
+  lang:
+  - fo
+Bernard:
+  gender_flag: 2
+  lang:
+  - ceb
+  - cs
+  - en
+  - fr
+  - pl
+  - sk
+  origin:
+  - en
+  - gem
+Bernarda:
+  gender_flag: 3
+  lang:
+  - ceb
+  - es
+  - it
+  origin:
+  - gem-pro
+Bernardas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bernard
+  lang:
+  - lt
+Bernardina:
+  gender_flag: 1
+  lang:
+  - it
+Bernardino:
+  gender_flag: 2
+  is_short_for:
+  - Bernardo
+  lang:
+  - es
+  - it
+  - pt
+Bernardita:
+  gender_flag: 1
+  lang:
+  - ceb
+Bernardo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bernard
+  lang:
+  - ceb
+  - es
+  - it
+  - pt
+  - tl
+  origin:
+  - es
+  - gem-pro
+Bernardus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bernard
+  lang:
+  - la
+  origin:
+  - gem-pro
+Bernardèin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bernie
+  is_short_for:
+  - Bernardo
+  lang:
+  - egl
+  origin:
+  - gem
+Bernart:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bernard
+  lang:
+  - fro
+  - pro
+Bernat:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bernard
+  lang:
+  - ca
+  - en
+  - oc
+Bernd:
+  gender_flag: 2
+  is_short_for:
+  - Bernhard
+  lang:
+  - de
+  - en
+  origin:
+  - de
+Berndt:
+  gender_flag: 2
+  lang:
+  - de
+  - sv
+Bernez:
+  gender_flag: 2
+  lang:
+  - br
+Bernhard:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bernard
+  lang:
+  - da
+  - de
+  - fo
+  - 'no'
+  - sv
+Bernhardt:
+  gender_flag: 2
+  lang:
+  - de
+Bernhart:
+  gender_flag: 2
+  lang:
+  - de
+Bernharður:
+  gender_flag: 2
+  lang:
+  - is
+Bernharðína:
+  gender_flag: 1
+  lang:
+  - is
+Bernice:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Bernie:
+  gender_flag: 7
+  is_short_for:
+  - Bernadette
+  - Bernard
+  - Bernhardt
+  - Bernice
+  lang:
+  - en
+  - gmw-ecg
+Bernita:
+  gender_flag: 1
+  lang:
+  - en
+Bernt:
+  gender_flag: 2
+  lang:
+  - da
+  - 'no'
+  - sv
+Bernát:
+  gender_flag: 2
+  lang:
+  - hu
+Berq:
+  gender_flag: 2
+  lang:
+  - zza
+Berrie:
+  gender_flag: 1
+  lang:
+  - nrf
+Berry:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Bersi:
+  gender_flag: 2
+  lang:
+  - fo
+Bert:
+  gender_flag: 2
+  is_short_for:
+  - Albert
+  - Berthold
+  lang:
+  - de
+  - en
+  - nl
+  - sv
+  - wa
+Berta:
+  gender_flag: 1
+  is_a_variant_of:
+  - Bertha
+  is_equivalent_to:
+  - Bertha
+  lang:
+  - cs
+  - de
+  - en
+  - es
+  - et
+  - fo
+  - hu
+  - sk
+  - sl
+  - sv
+Bertalan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bartholomew
+  lang:
+  - hu
+Bertcaoz:
+  lang:
+  - goh
+Bertel:
+  gender_flag: 2
+  lang:
+  - da
+Bertha:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  origin:
+  - gem
+Berthe:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bertha
+  lang:
+  - fr
+  - nrf
+Berthea:
+  gender_flag: 1
+  lang:
+  - 'no'
+Berthel:
+  gender_flag: 2
+  lang:
+  - da
+Berthille:
+  gender_flag: 1
+  lang:
+  - nrf
+Berthold:
+  gender_flag: 2
+  lang:
+  - de
+Bertie:
+  gender_flag: 2
+  is_short_for:
+  - Albert
+  lang:
+  - en
+  - gmw-ecg
+Bertil:
+  gender_flag: 2
+  lang:
+  - sv
+Bertin:
+  gender_flag: 2
+  lang:
+  - nrf
+Bertine:
+  gender_flag: 1
+  lang:
+  - fr
+  - wa
+Berting:
+  gender_flag: 2
+  is_short_for:
+  - Albert
+  - Alberto
+  lang:
+  - ceb
+  - tl
+Bertička:
+  gender_flag: 1
+  is_short_for:
+  - Berta
+  lang:
+  - cs
+Berto:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bert
+  lang:
+  - ceb
+  - it
+Bertomieu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bartholomew
+  lang:
+  - oc
+Bertram:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  origin:
+  - gem
+Bertran:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bertram
+  lang:
+  - ca
+Bertrand:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bertram
+  lang:
+  - fr
+  - oc
+Bertrando:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bertram
+  lang:
+  - it
+  origin:
+  - gem-pro
+Bertrán:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bertram
+  lang:
+  - es
+Bertta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bertha
+  lang:
+  - fi
+Bertus:
+  gender_flag: 2
+  lang:
+  - nl
+Bertík:
+  gender_flag: 2
+  is_short_for:
+  - Albert
+  - Hubert
+  - Norbert
+  - Robert
+  lang:
+  - cs
+Berxwedan:
+  gender_flag: 2
+  lang:
+  - kmr
+Beryl:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Berzan:
+  gender_flag: 2
+  lang:
+  - kmr
+Berþa:
+  gender_flag: 1
+  lang:
+  - ang
+Berğ:
+  gender_flag: 2
+  lang:
+  - zza
+Besiana:
+  gender_flag: 1
+  lang:
+  - sq
+Besim:
+  gender_flag: 2
+  lang:
+  - sq
+Besnik:
+  gender_flag: 2
+  lang:
+  - sq
+Besnike:
+  gender_flag: 1
+  lang:
+  - sq
+Bess:
+  gender_flag: 1
+  is_short_for:
+  - Elizabeth
+  lang:
+  - en
+Bessarione:
+  gender_flag: 2
+  lang:
+  - it
+Bessee:
+  gender_flag: 1
+  is_equivalent_to:
+  - Betty
+  lang:
+  - gv
+Bessi:
+  gender_flag: 2
+  lang:
+  - fo
+Bessie:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Bessy:
+  gender_flag: 1
+  is_short_for:
+  - Elizabeth
+  lang:
+  - en
+Bessí:
+  gender_flag: 1
+  lang:
+  - is
+Bestla:
+  gender_flag: 1
+  lang:
+  - is
+Bet:
+  gender_flag: 3
+  lang:
+  - en
+Betcha:
+  gender_flag: 1
+  lang:
+  - en
+Beth:
+  gender_flag: 1
+  lang:
+  - en
+Bethan:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - arc
+Bethany:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - arc
+Bethie:
+  gender_flag: 1
+  is_short_for:
+  - Elizabeth
+  lang:
+  - en
+Bethsabée:
+  gender_flag: 1
+  lang:
+  - fr
+Bethuel:
+  gender_flag: 2
+  lang:
+  - en
+Bethy:
+  gender_flag: 1
+  is_short_for:
+  - Elizabeth
+  lang:
+  - en
+Betija:
+  gender_flag: 1
+  lang:
+  - lv
+Betina:
+  gender_flag: 1
+  is_a_variant_of:
+  - Bettina
+  lang:
+  - da
+Beto:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+  - pt
+  origin:
+  - es
+Betong:
+  gender_flag: 2
+  is_short_for:
+  - Albert
+  - Alberto
+  - Robert
+  - Roberto
+  lang:
+  - tl
+Betsabé:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bathsheba
+  lang:
+  - es
+Betsey:
+  gender_flag: 1
+  is_short_for:
+  - Elizabeth
+  lang:
+  - en
+Betsi:
+  gender_flag: 1
+  is_short_for:
+  - Elizabeth
+  lang:
+  - en
+Betsie:
+  gender_flag: 1
+  is_short_for:
+  - Elizabeth
+  lang:
+  - en
+Betsy:
+  gender_flag: 1
+  is_short_for:
+  - Elizabeth
+  lang:
+  - ceb
+  - en
+  - es
+  - pt
+  - tl
+  origin:
+  - en
+Betta:
+  gender_flag: 1
+  lang:
+  - fo
+  - it
+Bette:
+  lang:
+  - de
+Betti:
+  gender_flag: 1
+  is_short_for:
+  - Elisabetta
+  lang:
+  - et
+  - it
+Bettie:
+  gender_flag: 1
+  is_short_for:
+  - Elizabeth
+  lang:
+  - en
+Bettina:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - it
+Bettino:
+  gender_flag: 2
+  lang:
+  - it
+Bettl:
+  gender_flag: 1
+  is_short_for:
+  - Elisabeth
+  lang:
+  - gmw-ecg
+Betty:
+  gender_flag: 1
+  is_short_for:
+  - Elizabeth
+  lang:
+  - ceb
+  - da
+  - en
+  - tl
+  origin:
+  - en
+Betté:
+  gender_flag: 1
+  is_equivalent_to:
+  - Betty
+  is_short_for:
+  - Lîsabé
+  - Lîzabé
+  - Élîzabé
+  lang:
+  - nrf
+Bettý:
+  gender_flag: 1
+  lang:
+  - fo
+Betuel:
+  gender_flag: 2
+  lang:
+  - fo
+Betül:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Beulah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Beuzeg:
+  gender_flag: 2
+  lang:
+  - br
+Bev:
+  gender_flag: 1
+  lang:
+  - en
+Bevan:
+  gender_flag: 2
+  lang:
+  - en
+Beverley:
+  gender_flag: 7
+  lang:
+  - en
+Beverly:
+  gender_flag: 7
+  lang:
+  - en
+Bevil:
+  gender_flag: 2
+  lang:
+  - en
+Bevis:
+  gender_flag: 2
+  lang:
+  - en
+Bevo:
+  gender_flag: 7
+  lang:
+  - en
+Bexley:
+  gender_flag: 1
+  lang:
+  - en
+Bextewar:
+  gender_flag: 2
+  lang:
+  - kmr
+Beyatrice:
+  gender_flag: 1
+  is_equivalent_to:
+  - Beatrice
+  lang:
+  - wa
+Beyaz:
+  gender_flag: 1
+  lang:
+  - tr
+Beyhan:
+  gender_flag: 3
+  lang:
+  - tr
+Beyoncé:
+  gender_flag: 1
+  lang:
+  - en
+Beyza:
+  gender_flag: 1
+  lang:
+  - tr
+Beáta:
+  gender_flag: 1
+  lang:
+  - cs
+  - hu
+  - sk
+  origin:
+  - la
+Beátka:
+  gender_flag: 1
+  is_short_for:
+  - Beáta
+  lang:
+  - cs
+  - sk
+Beóllán:
+  gender_flag: 2
+  lang:
+  - mga
+Beāte:
+  gender_flag: 1
+  lang:
+  - lv
+Beňadik:
+  gender_flag: 2
+  lang:
+  - sk
+Beňo:
+  gender_flag: 2
+  is_short_for:
+  - Beňadik
+  lang:
+  - sk
+Beşer:
+  gender_flag: 2
+  lang:
+  - tr
+Bhimrao:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Bhishma:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Bhupendra:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Bi:
+  gender_flag: 2
+  lang:
+  - bwr
+Biagio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Blaise
+  lang:
+  - it
+Bianca:
+  gender_flag: 1
+  is_a_variant_of:
+  - Blanche
+  is_equivalent_to:
+  - Blanche
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - fr
+  - id
+  - it
+  - pt
+  - ro
+  origin:
+  - it
+Bianco:
+  gender_flag: 2
+  lang:
+  - it
+Bianka:
+  gender_flag: 1
+  is_a_variant_of:
+  - Bianca
+  - Blanche
+  is_equivalent_to:
+  - Bianca
+  lang:
+  - de
+  - fr
+  - hu
+  - pl
+  - sk
+Bianore:
+  gender_flag: 2
+  lang:
+  - it
+Bibbi:
+  gender_flag: 1
+  is_short_for:
+  - Birgitta
+  lang:
+  - sv
+Bibe:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Bibi:
+  gender_flag: 1
+  is_short_for:
+  - Birgitta
+  lang:
+  - sv
+Bibiana:
+  gender_flag: 1
+  lang:
+  - es
+  - pt
+Bibiána:
+  gender_flag: 1
+  lang:
+  - sk
+Bican:
+  gender_flag: 2
+  lang:
+  - tr
+Bico:
+  gender_flag: 1
+  is_short_for:
+  - Victoria
+  lang:
+  - es
+Biddi:
+  gender_flag: 2
+  lang:
+  - is
+Biddie:
+  gender_flag: 1
+  is_short_for:
+  - Bridget
+  lang:
+  - en
+Biddy:
+  gender_flag: 1
+  is_short_for:
+  - Bridget
+  lang:
+  - en
+Bido:
+  gender_flag: 2
+  lang:
+  - ceb
+Biehtár:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - se
+Bieito:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - gl
+Biel:
+  gender_flag: 2
+  is_short_for:
+  - Gabriel
+  lang:
+  - ca
+Biene:
+  gender_flag: 1
+  is_short_for:
+  - Sabine
+  lang:
+  - gmw-ecg
+Bienvenido:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+  - tl
+  origin:
+  - es
+Biera:
+  gender_flag: 2
+  lang:
+  - se
+Biernat:
+  gender_flag: 2
+  lang:
+  - pl
+Biernåd:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bernard
+  lang:
+  - wa
+Biernådete:
+  gender_flag: 1
+  lang:
+  - wa
+Bietlete:
+  gender_flag: 1
+  lang:
+  - wa
+Bietmé:
+  gender_flag: 2
+  lang:
+  - wa
+Bietrumé:
+  gender_flag: 2
+  lang:
+  - wa
+Biggi:
+  gender_flag: 2
+  lang:
+  - is
+Biggie:
+  gender_flag: 1
+  is_short_for:
+  - Birgit
+  lang:
+  - gmw-ecg
+Bihter:
+  gender_flag: 1
+  lang:
+  - tr
+Biibi:
+  gender_flag: 1
+  is_equivalent_to:
+  - Phoebe
+  lang:
+  - kl
+  origin:
+  - da
+Biina:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Bikki:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Bikká:
+  gender_flag: 1
+  lang:
+  - se
+Biko:
+  gender_flag: 1
+  lang:
+  - ja
+Bikoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Biktoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Bilal:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Bilek:
+  gender_flag: 2
+  lang:
+  - tr
+Bilge:
+  gender_flag: 3
+  lang:
+  - tr
+Bilgehan:
+  gender_flag: 3
+  lang:
+  - tr
+Bilgin:
+  gender_flag: 2
+  lang:
+  - tr
+Bilhah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Biljan: {}
+Biljana: {}
+Bill:
+  gender_flag: 2
+  is_short_for:
+  - William
+  lang:
+  - en
+  - pt
+  - sv
+  origin:
+  - en
+Billa:
+  gender_flag: 1
+  lang:
+  - fo
+Billeen:
+  gender_flag: 2
+  is_equivalent_to:
+  - Billy
+  lang:
+  - yol
+Billi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Billie:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - gem
+Billy:
+  gender_flag: 2
+  is_short_for:
+  - William
+  lang:
+  - ceb
+  - en
+  - sv
+  origin:
+  - en
+Billy Bob:
+  gender_flag: 2
+  lang:
+  - en
+Billy Jean:
+  gender_flag: 1
+  lang:
+  - en
+Billyjean:
+  gender_flag: 1
+  lang:
+  - en
+Bimbo:
+  gender_flag: 2
+  lang:
+  - de
+Bimo:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Bina:
+  gender_flag: 1
+  lang:
+  - fo
+Binalp:
+  gender_flag: 2
+  lang:
+  - tr
+Binay:
+  gender_flag: 3
+  lang:
+  - tr
+Bing:
+  gender_flag: 2
+  lang:
+  - en
+Bingbing:
+  gender_flag: 1
+  lang:
+  - ceb
+Binna:
+  gender_flag: 1
+  lang:
+  - is
+Binnie:
+  gender_flag: 1
+  lang:
+  - en
+Binod:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Binodini:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Binsoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Binta:
+  gender_flag: 1
+  lang:
+  - ha
+Bintoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Bipasha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - bn
+Bipoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Bircan:
+  gender_flag: 3
+  lang:
+  - tr
+Birce:
+  gender_flag: 1
+  lang:
+  - tr
+Birdie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Biren:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - sa
+Biret:
+  gender_flag: 1
+  lang:
+  - se
+Birg:
+  gender_flag: 1
+  is_short_for:
+  - Birgit
+  lang:
+  - gmw-ecg
+Birgar:
+  gender_flag: 2
+  lang:
+  - fo
+Birgen:
+  gender_flag: 1
+  lang:
+  - tr
+Birger:
+  gender_flag: 2
+  lang:
+  - da
+  - nn
+  - 'no'
+  - sv
+  origin:
+  - non
+Birghir:
+  gender_flag: 2
+  lang:
+  - gmq-osw
+Birgir:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+  - non
+Birgit:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - et
+  - fo
+  - 'no'
+  - sv
+Birgith:
+  gender_flag: 1
+  lang:
+  - da
+Birgitta:
+  gender_flag: 1
+  lang:
+  - et
+  - fo
+  - sv
+Birgitte:
+  gender_flag: 1
+  is_equivalent_to:
+  - Birgitta
+  - Bridget
+  lang:
+  - da
+  - en
+  - 'no'
+  origin:
+  - da
+  - 'no'
+Birgün:
+  gender_flag: 1
+  lang:
+  - tr
+Biricik:
+  gender_flag: 1
+  lang:
+  - tr
+Birihta:
+  gender_flag: 1
+  lang:
+  - ang
+Biring:
+  gender_flag: 1
+  is_short_for:
+  - Virginia
+  lang:
+  - tl
+Birita:
+  gender_flag: 1
+  lang:
+  - fo
+Birk:
+  gender_flag: 2
+  lang:
+  - en
+Birkan:
+  gender_flag: 2
+  lang:
+  - tr
+Birkir:
+  gender_flag: 2
+  lang:
+  - is
+Birna:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Birni:
+  gender_flag: 2
+  lang:
+  - fo
+Birol:
+  gender_flag: 2
+  lang:
+  - tr
+Birta:
+  gender_flag: 1
+  lang:
+  - fo
+Birtan:
+  gender_flag: 2
+  lang:
+  - tr
+Birte:
+  gender_flag: 1
+  is_a_variant_of:
+  - Birthe
+  lang:
+  - da
+Birthe:
+  gender_flag: 1
+  lang:
+  - da
+Birtir:
+  gender_flag: 2
+  lang:
+  - fo
+Biruta:
+  gender_flag: 1
+  lang:
+  - lv
+Birutė:
+  gender_flag: 1
+  lang:
+  - lt
+Biryar:
+  gender_flag: 2
+  lang:
+  - kmr
+Bishishta:
+  gender_flag: 1
+  lang:
+  - en
+Bishop:
+  gender_flag: 2
+  lang:
+  - en
+Bising:
+  gender_flag: 1
+  lang:
+  - ceb
+Bismillah:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Bissula:
+  gender_flag: 1
+  lang:
+  - la
+Bitoy:
+  gender_flag: 2
+  is_short_for:
+  - Victor
+  lang:
+  - ceb
+Bitsy:
+  gender_flag: 1
+  lang:
+  - en
+Bitte:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+  - sv
+Bitten:
+  gender_flag: 1
+  lang:
+  - da
+Biötuł:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bartholomew
+  lang:
+  - wym
+Bjalla:
+  gender_flag: 1
+  lang:
+  - fo
+Bjargey:
+  gender_flag: 1
+  lang:
+  - is
+Bjargmundur:
+  gender_flag: 2
+  lang:
+  - is
+Bjargþór:
+  gender_flag: 2
+  lang:
+  - is
+Bjarke:
+  gender_flag: 2
+  lang:
+  - da
+Bjarki:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Bjarma:
+  gender_flag: 1
+  lang:
+  - fo
+Bjarndis:
+  gender_flag: 1
+  lang:
+  - fo
+Bjarndís:
+  gender_flag: 1
+  lang:
+  - is
+Bjarne:
+  gender_flag: 2
+  lang:
+  - da
+  - nb
+  - nn
+  - sv
+  origin:
+  - non
+Bjarnfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Bjarngrímur:
+  gender_flag: 2
+  lang:
+  - fo
+Bjarnharður:
+  gender_flag: 2
+  lang:
+  - is
+Bjarnheiður:
+  gender_flag: 1
+  lang:
+  - is
+Bjarnheðin:
+  gender_flag: 2
+  lang:
+  - fo
+Bjarnhild:
+  gender_flag: 1
+  lang:
+  - fo
+Bjarni:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+  - non
+Bjarnrún:
+  gender_flag: 1
+  lang:
+  - is
+Bjarnvarður:
+  gender_flag: 2
+  lang:
+  - fo
+Bjarta:
+  gender_flag: 1
+  lang:
+  - fo
+Bjarte:
+  gender_flag: 2
+  lang:
+  - 'no'
+Bjarti:
+  gender_flag: 2
+  lang:
+  - fo
+Bjartmar:
+  gender_flag: 2
+  lang:
+  - fo
+Bjartur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Bjelli:
+  gender_flag: 2
+  lang:
+  - sq
+Bjerne:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Bjorn:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - da
+  - is
+  - 'no'
+  - non
+  - sv
+Bjólan:
+  gender_flag: 2
+  lang:
+  - is
+  - non
+  origin:
+  - sga
+Bjöggi:
+  gender_flag: 2
+  is_short_for:
+  - Björgvin
+  lang:
+  - is
+Björg:
+  gender_flag: 1
+  lang:
+  - is
+Björghildur:
+  gender_flag: 1
+  lang:
+  - is
+Björgmundur:
+  gender_flag: 2
+  lang:
+  - is
+Björgvin:
+  gender_flag: 2
+  lang:
+  - is
+Björk:
+  gender_flag: 1
+  lang:
+  - is
+Björn:
+  gender_flag: 2
+  lang:
+  - de
+  - is
+  - sv
+Björndís:
+  gender_flag: 1
+  lang:
+  - is
+Björt:
+  gender_flag: 1
+  lang:
+  - is
+Bjølla:
+  gender_flag: 1
+  lang:
+  - fo
+Bjørg:
+  gender_flag: 1
+  lang:
+  - fo
+  - nn
+  - 'no'
+  origin:
+  - non
+Bjørgfinnur:
+  gender_flag: 2
+  lang:
+  - fo
+Bjørgfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Bjørgheðin:
+  gender_flag: 2
+  lang:
+  - fo
+Bjørgolvur:
+  gender_flag: 2
+  lang:
+  - fo
+Bjørgúlvur:
+  gender_flag: 2
+  lang:
+  - fo
+Bjørk:
+  gender_flag: 1
+  lang:
+  - fo
+  - nn
+  origin:
+  - non
+Bjørn:
+  gender_flag: 2
+  lang:
+  - da
+  - fo
+  - nn
+  - 'no'
+  origin:
+  - non
+Bjørnar:
+  gender_flag: 2
+  lang:
+  - nn
+  - 'no'
+Bjørt:
+  gender_flag: 1
+  lang:
+  - fo
+Bjǫrn:
+  gender_flag: 2
+  lang:
+  - non
+Blaanid:
+  gender_flag: 1
+  lang:
+  - gv
+Blaedarus:
+  gender_flag: 2
+  lang:
+  - la
+Blago:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sh
+Blagoje:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sh
+Blagoljub:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Blagomir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Blagotvor:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Blahoslav:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Blai:
+  gender_flag: 2
+  is_equivalent_to:
+  - Blaise
+  lang:
+  - ca
+Blain:
+  gender_flag: 2
+  lang:
+  - en
+Blaine:
+  gender_flag: 7
+  lang:
+  - en
+Blair:
+  gender_flag: 7
+  lang:
+  - en
+  - gd
+Blaire:
+  gender_flag: 1
+  is_a_variant_of:
+  - Blair
+  lang:
+  - en
+  origin:
+  - gd
+Blaise:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+  - fro
+  - la
+Blake:
+  gender_flag: 7
+  lang:
+  - en
+Blakely:
+  gender_flag: 1
+  lang:
+  - en
+Blanca:
+  gender_flag: 1
+  lang:
+  - es
+Blanch:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+Blanche:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Blandine:
+  gender_flag: 1
+  lang:
+  - fr
+Blanička:
+  gender_flag: 1
+  is_short_for:
+  - Blanka
+  lang:
+  - cs
+Blanka:
+  gender_flag: 1
+  is_equivalent_to:
+  - Blanche
+  lang:
+  - cs
+  - hu
+  - pl
+  - sk
+Blas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Blaise
+  lang:
+  - es
+  origin:
+  - la
+Blase:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Blasius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Blat:
+  gender_flag: 2
+  lang:
+  - sq
+Blaunsh:
+  gender_flag: 1
+  is_equivalent_to:
+  - Blanche
+  lang:
+  - gv
+Blayre:
+  gender_flag: 7
+  is_a_variant_of:
+  - Blair
+  - Blaire
+  lang:
+  - en
+  origin:
+  - gd
+Blaze:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Blaž:
+  gender_flag: 2
+  lang:
+  - sl
+Blažej:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Blažena:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Blaženka:
+  gender_flag: 1
+  is_short_for:
+  - Blažena
+  lang:
+  - cs
+Bled:
+  gender_flag: 2
+  lang:
+  - sq
+Bledar:
+  gender_flag: 2
+  lang:
+  - sq
+Blend:
+  gender_flag: 2
+  lang:
+  - sq
+Blendar:
+  gender_flag: 2
+  lang:
+  - sq
+Blepharo:
+  gender_flag: 2
+  lang:
+  - la
+Bliss:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Blossom:
+  gender_flag: 1
+  lang:
+  - en
+Blue:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Blumarit:
+  gender_flag: 2
+  lang:
+  - xvn
+Blythe:
+  gender_flag: 1
+  lang:
+  - en
+Blásius:
+  gender_flag: 2
+  lang:
+  - fo
+Bnoet:
+  gender_flag: 2
+  lang:
+  - wa
+Bo:
+  gender_flag: 2
+  lang:
+  - da
+  - en
+  - nl
+  - sv
+  origin:
+  - gem
+Boas:
+  gender_flag: 2
+  lang:
+  - fo
+Boaz:
+  gender_flag: 2
+  lang:
+  - en
+Bob:
+  gender_flag: 2
+  is_short_for:
+  - Robert
+  lang:
+  - en
+  - nl
+  - pt
+  origin:
+  - en
+Bobbi:
+  gender_flag: 1
+  is_short_for:
+  - Roberta
+  lang:
+  - en
+Bobbie:
+  gender_flag: 3
+  is_short_for:
+  - Robert
+  - Roberta
+  lang:
+  - en
+Bobbikins:
+  gender_flag: 3
+  is_short_for:
+  - Bobbie
+  lang:
+  - en
+Bobby:
+  gender_flag: 7
+  is_short_for:
+  - Robert
+  - Roberta
+  lang:
+  - en
+Bobby Joe:
+  gender_flag: 2
+  lang:
+  - en
+Bobert:
+  gender_flag: 2
+  lang:
+  - en
+Bode:
+  gender_flag: 2
+  lang:
+  - en
+Bodhi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Bodie:
+  gender_flag: 2
+  lang:
+  - en
+Bodil:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+  - sv
+Bodin:
+  lang:
+  - en
+Bodo:
+  gender_flag: 2
+  lang:
+  - de
+Boel:
+  gender_flag: 1
+  is_a_variant_of:
+  - Bodil
+  lang:
+  - sv
+Boemondo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bohemond
+  lang:
+  - it
+Bogart:
+  gender_flag: 2
+  lang:
+  - ceb
+Bogdan:
+  gender_flag: 2
+  lang:
+  - en
+  - pl
+  - ro
+  - sh
+  origin:
+  - sla
+Bogdana:
+  gender_flag: 1
+  lang:
+  - pl
+Bogdán:
+  gender_flag: 2
+  lang:
+  - hu
+Bogdănel:
+  gender_flag: 2
+  is_short_for:
+  - Bogdan
+  lang:
+  - ro
+Bogey:
+  gender_flag: 2
+  lang:
+  - en
+Bogi:
+  gender_flag: 3
+  is_short_for:
+  - Boglárka
+  lang:
+  - fo
+  - hu
+  - is
+Boglárka:
+  gender_flag: 1
+  lang:
+  - hu
+Bogoljub:
+  gender_flag: 2
+  lang:
+  - sh
+Bogosav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Bogoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Boguchwał:
+  gender_flag: 2
+  lang:
+  - pl
+Bogumil:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Bogumił:
+  gender_flag: 2
+  lang:
+  - pl
+Bogumiła:
+  gender_flag: 1
+  lang:
+  - pl
+Bogurad:
+  gender_flag: 2
+  lang:
+  - pl
+Bogusław:
+  gender_flag: 2
+  lang:
+  - pl
+Bogusława:
+  gender_flag: 1
+  lang:
+  - pl
+Boguwola:
+  gender_flag: 1
+  lang:
+  - pl
+Boguś:
+  gender_flag: 2
+  is_short_for:
+  - Bogdan
+  - Bogumił
+  - Bogusław
+  lang:
+  - pl
+Bohachwał:
+  gender_flag: 2
+  lang:
+  - hsb
+Bohdan:
+  gender_flag: 2
+  lang:
+  - cs
+  - en
+  - pl
+  - sk
+Bohdana:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Bohdanka:
+  gender_flag: 1
+  is_short_for:
+  - Bohdana
+  lang:
+  - cs
+Bohemond:
+  lang:
+  - en
+Bohouš:
+  gender_flag: 2
+  is_short_for:
+  - Bohumil
+  - Bohumír
+  - Bohuslav
+  lang:
+  - cs
+Bohuchval:
+  gender_flag: 2
+  lang:
+  - cs
+Bohuchwał:
+  gender_flag: 2
+  lang:
+  - hsb
+Bohumil:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Bohumila:
+  gender_flag: 1
+  lang:
+  - cs
+Bohumír:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Bohumíra:
+  gender_flag: 1
+  lang:
+  - cs
+Bohunka:
+  gender_flag: 1
+  is_short_for:
+  - Bohumila
+  - Bohuslava
+  lang:
+  - cs
+Bohuslav:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Bohuslava:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Bohuš:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Boidmal:
+  gender_flag: 2
+  lang:
+  - sga
+Bojan:
+  gender_flag: 2
+  lang:
+  - sh
+Bojana:
+  gender_flag: 1
+  lang:
+  - sl
+Boje:
+  gender_flag: 2
+  lang:
+  - da
+Bojslav:
+  gender_flag: 2
+  lang:
+  - sh
+Bolatta:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Boldizsár:
+  gender_flag: 2
+  lang:
+  - hu
+Bolek:
+  gender_flag: 2
+  is_short_for:
+  - Boleslav
+  - Bolesław
+  lang:
+  - cs
+  - pl
+Boleslav:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Boleslava:
+  gender_flag: 1
+  lang:
+  - cs
+Bolesław:
+  gender_flag: 2
+  lang:
+  - pl
+Bolesława:
+  gender_flag: 1
+  lang:
+  - pl
+Bolette:
+  gender_flag: 1
+  lang:
+  - da
+Boline:
+  gender_flag: 1
+  lang:
+  - da
+Boljenjeg:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Bon:
+  gender_flag: 2
+  lang:
+  - nrf
+  - vi
+Bonaccorso:
+  gender_flag: 2
+  lang:
+  - it
+Bonamico:
+  gender_flag: 2
+  lang:
+  - it
+Bonaventure:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Bonavita:
+  gender_flag: 2
+  lang:
+  - it
+Bonawentura:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bonaventure
+  lang:
+  - pl
+  origin:
+  - it
+Bonbon:
+  gender_flag: 3
+  lang:
+  - ceb
+Boncuk:
+  gender_flag: 1
+  lang:
+  - tr
+Bond:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - non
+Bong:
+  gender_flag: 2
+  is_short_for:
+  - Bonifacio
+  lang:
+  - ceb
+  - tl
+Bongbong:
+  gender_flag: 2
+  lang:
+  - ceb
+Boniface:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+Bonifacio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Boniface
+  lang:
+  - es
+  - it
+  - tl
+  origin:
+  - es
+  - la
+Bonifacja:
+  gender_flag: 1
+  lang:
+  - pl
+Bonifaco:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bonifatius
+  lang:
+  - eo
+  origin:
+  - la
+Bonifacy:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bonifatius
+  lang:
+  - pl
+Bonifatius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Bonifazio:
+  gender_flag: 2
+  is_a_variant_of:
+  - Bonifacio
+  is_equivalent_to:
+  - Boniface
+  lang:
+  - it
+  origin:
+  - la
+Bonifác:
+  gender_flag: 2
+  is_equivalent_to:
+  - Boniface
+  lang:
+  - cs
+  - sk
+  origin:
+  - la
+Bonifácio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Boniface
+  - Bonifatius
+  lang:
+  - pt
+Bonita:
+  gender_flag: 1
+  lang:
+  - es
+Bonjeg:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Bonjovi:
+  gender_flag: 2
+  lang:
+  - ceb
+Bonne:
+  gender_flag: 1
+  lang:
+  - nrf
+Bonnie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Bonny:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Bonoso:
+  gender_flag: 2
+  lang:
+  - it
+Bonturo:
+  gender_flag: 2
+  lang:
+  - it
+Bora:
+  gender_flag: 3
+  lang:
+  - sq
+  - tr
+Borahan:
+  gender_flag: 2
+  lang:
+  - tr
+Borakan:
+  gender_flag: 2
+  lang:
+  - tr
+Borang:
+  gender_flag: 1
+  lang:
+  - ceb
+Borbardha:
+  gender_flag: 1
+  lang:
+  - sq
+Borbolya:
+  gender_flag: 1
+  lang:
+  - hu
+Borbora:
+  gender_flag: 1
+  is_equivalent_to:
+  - Barbara
+  lang:
+  - dsb
+  origin:
+  - grc
+Borbála:
+  gender_flag: 1
+  is_equivalent_to:
+  - Barbara
+  lang:
+  - hu
+Borgar:
+  gender_flag: 2
+  lang:
+  - fo
+Borgdís:
+  gender_flag: 1
+  lang:
+  - is
+Borgfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Borghild:
+  gender_flag: 1
+  lang:
+  - fo
+  - 'no'
+Borghildr:
+  gender_flag: 1
+  lang:
+  - non
+Borghildur:
+  gender_flag: 1
+  lang:
+  - is
+Borgny:
+  gender_flag: 1
+  lang:
+  - 'no'
+Borgný:
+  gender_flag: 1
+  lang:
+  - fo
+Borgrún:
+  gender_flag: 1
+  lang:
+  - is
+Bori:
+  gender_flag: 1
+  is_short_for:
+  - Borbála
+  lang:
+  - hu
+Boris:
+  gender_flag: 3
+  is_short_for:
+  - Borbála
+  lang:
+  - cs
+  - de
+  - en
+  - hu
+  - it
+  - sh
+  - sk
+  origin:
+  - sla
+Borislav:
+  gender_flag: 2
+  lang:
+  - sh
+Boriss:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - sla
+Borivoj:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Borivoje:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Borja:
+  gender_flag: 2
+  lang:
+  - ca
+  - es
+Borko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Borna:
+  gender_flag: 3
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Bortolo:
+  gender_flag: 2
+  lang:
+  - it
+Borut:
+  gender_flag: 2
+  lang:
+  - sl
+Borys:
+  gender_flag: 2
+  lang:
+  - en
+  - pl
+  origin:
+  - uk
+Bosco:
+  gender_flag: 2
+  lang:
+  - en
+Bosley:
+  gender_flag: 2
+  lang:
+  - en
+Bosse:
+  gender_flag: 2
+  is_short_for:
+  - Bo
+  lang:
+  - sv
+Boston:
+  gender_flag: 2
+  lang:
+  - en
+Botan:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Bothilde:
+  gender_flag: 1
+  lang:
+  - da
+Boti:
+  gender_flag: 2
+  is_short_for:
+  - Botond
+  lang:
+  - hu
+Botond:
+  gender_flag: 2
+  lang:
+  - hu
+Boudewijn:
+  gender_flag: 2
+  lang:
+  - nl
+Bouonot:
+  gender_flag: 2
+  lang:
+  - nrf
+Boy:
+  gender_flag: 2
+  lang:
+  - ceb
+  - de
+  - nl
+  - tl
+  - tr
+Boyang:
+  gender_flag: 1
+  lang:
+  - ceb
+Boyce:
+  gender_flag: 2
+  lang:
+  - en
+Boyd:
+  gender_flag: 2
+  lang:
+  - en
+Boye:
+  gender_flag: 2
+  lang:
+  - da
+Boyet:
+  gender_flag: 2
+  lang:
+  - ceb
+Boz:
+  gender_flag: 2
+  lang:
+  - en
+Bozkurt:
+  gender_flag: 2
+  lang:
+  - tr
+Bozok:
+  gender_flag: 2
+  lang:
+  - tr
+Boğa:
+  gender_flag: 2
+  lang:
+  - tr
+Bořek:
+  gender_flag: 2
+  lang:
+  - cs
+Bořivoj:
+  gender_flag: 2
+  lang:
+  - cs
+Bořík:
+  gender_flag: 2
+  is_short_for:
+  - Bořivoj
+  lang:
+  - cs
+Boško:
+  gender_flag: 2
+  lang:
+  - sl
+Boštjan:
+  gender_flag: 2
+  lang:
+  - sl
+Bożena:
+  gender_flag: 1
+  lang:
+  - pl
+Bożenka:
+  gender_flag: 1
+  is_short_for:
+  - Bożena
+  lang:
+  - pl
+Boža:
+  gender_flag: 3
+  is_short_for:
+  - Bohumil
+  - Bohumila
+  - Bohuslav
+  - Bohuslava
+  - Božena
+  lang:
+  - cs
+Božena:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+  - sl
+Boženka:
+  gender_flag: 1
+  is_short_for:
+  - Božena
+  lang:
+  - cs
+Božica:
+  gender_flag: 1
+  is_short_for:
+  - Božidara
+  lang:
+  - sk
+Božidara:
+  gender_flag: 1
+  lang:
+  - sk
+Božka:
+  gender_flag: 1
+  is_short_for:
+  - Boža
+  lang:
+  - cs
+Brad:
+  gender_flag: 2
+  is_short_for:
+  - Bradford
+  - Bradley
+  - Bradly
+  lang:
+  - en
+Braden:
+  gender_flag: 2
+  lang:
+  - en
+Bradford:
+  gender_flag: 2
+  lang:
+  - en
+Bradlee:
+  gender_flag: 2
+  is_a_variant_of:
+  - Bradley
+  lang:
+  - en
+Bradleigh:
+  gender_flag: 2
+  is_a_variant_of:
+  - Bradley
+  lang:
+  - en
+Bradley:
+  gender_flag: 2
+  lang:
+  - en
+Bradleya:
+  gender_flag: 1
+  lang:
+  - en
+Bradly:
+  gender_flag: 2
+  lang:
+  - en
+Brady:
+  gender_flag: 7
+  lang:
+  - en
+Braeden:
+  gender_flag: 2
+  is_a_variant_of:
+  - Braden
+  lang:
+  - en
+Braedon:
+  gender_flag: 2
+  lang:
+  - en
+Braelyn:
+  gender_flag: 1
+  lang:
+  - en
+Braelynn:
+  gender_flag: 1
+  lang:
+  - en
+Brage:
+  gender_flag: 2
+  lang:
+  - nn
+  - 'no'
+  origin:
+  - non
+Bragi:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+  - non
+Brahim:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Braiden:
+  gender_flag: 2
+  lang:
+  - en
+Brais:
+  gender_flag: 2
+  is_equivalent_to:
+  - Blaise
+  lang:
+  - gl
+  origin:
+  - la
+Bram:
+  gender_flag: 2
+  is_short_for:
+  - Âbréhan
+  lang:
+  - en
+  - nl
+  - nrf
+  origin:
+  - he
+Branca:
+  gender_flag: 3
+  is_equivalent_to:
+  - Blanche
+  lang:
+  - it
+  - pt
+Branda:
+  gender_flag: 3
+  lang:
+  - it
+Brandan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Brendan
+  lang:
+  - fro
+Brandar:
+  gender_flag: 2
+  lang:
+  - fo
+Branddís:
+  gender_flag: 1
+  lang:
+  - is
+Branden:
+  gender_flag: 2
+  is_a_variant_of:
+  - Brandon
+  lang:
+  - en
+Brandi:
+  gender_flag: 1
+  is_a_variant_of:
+  - Brandy
+  lang:
+  - en
+  origin:
+  - en
+Brando:
+  gender_flag: 2
+  lang:
+  - it
+Brandon:
+  gender_flag: 2
+  is_a_variant_of:
+  - Brendan
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Brandubh:
+  gender_flag: 2
+  lang:
+  - ga
+Brandur:
+  gender_flag: 2
+  lang:
+  - fo
+Brandy:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Brandán:
+  gender_flag: 2
+  is_equivalent_to:
+  - Brendan
+  lang:
+  - gl
+Brane:
+  gender_flag: 2
+  lang:
+  - sh
+Brangen:
+  gender_flag: 2
+  lang:
+  - sga
+Branimerus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Branimir
+  lang:
+  - la
+Branimir:
+  gender_flag: 2
+  lang:
+  - sh
+Branimirus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Branimir
+  lang:
+  - la
+Branislau: {}
+Branislav:
+  gender_flag: 2
+  lang:
+  - sh
+  - sk
+Branislava:
+  gender_flag: 1
+  lang:
+  - sk
+Branka:
+  gender_flag: 1
+  lang:
+  - sh
+Branko:
+  gender_flag: 2
+  lang:
+  - sh
+Brannimerus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Branimir
+  lang:
+  - la
+Branson:
+  gender_flag: 2
+  lang:
+  - en
+Brantlee:
+  gender_flag: 2
+  lang:
+  - en
+Brantley:
+  gender_flag: 2
+  lang:
+  - en
+Branwen:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cy
+Braslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Bratoljub:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Braulio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lalo
+  lang:
+  - es
+Braxton:
+  gender_flag: 2
+  lang:
+  - en
+Brayan:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - en
+Brayden:
+  gender_flag: 2
+  is_a_variant_of:
+  - Braden
+  lang:
+  - en
+Braydon:
+  gender_flag: 2
+  lang:
+  - en
+Braylee:
+  gender_flag: 1
+  lang:
+  - en
+Braylen:
+  gender_flag: 2
+  lang:
+  - en
+Braylon:
+  gender_flag: 2
+  lang:
+  - en
+Brayson:
+  gender_flag: 2
+  lang:
+  - en
+Braňa:
+  gender_flag: 1
+  is_short_for:
+  - Branislava
+  lang:
+  - sk
+Braňo:
+  gender_flag: 2
+  is_short_for:
+  - Branislav
+  lang:
+  - sk
+Bre:
+  gender_flag: 1
+  is_short_for:
+  - Breanna
+  lang:
+  - en
+Breandán:
+  gender_flag: 2
+  is_equivalent_to:
+  - Brendan
+  lang:
+  - ga
+  origin:
+  - sga
+Breanna:
+  gender_flag: 1
+  is_a_variant_of:
+  - Brianna
+  lang:
+  - en
+  origin:
+  - cel
+Brec'hed:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bridget
+  lang:
+  - br
+Brecht:
+  gender_flag: 2
+  lang:
+  - nl
+Brecken:
+  gender_flag: 2
+  lang:
+  - en
+Bred: {}
+Bredli: {}
+Bree:
+  gender_flag: 1
+  lang:
+  - en
+Breeshey:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bridget
+  lang:
+  - gv
+  origin:
+  - sga
+Breixo:
+  gender_flag: 2
+  lang:
+  - gl
+Breki:
+  gender_flag: 2
+  lang:
+  - is
+Brenamir:
+  gender_flag: 2
+  is_equivalent_to:
+  - Branimir
+  lang:
+  - la
+Brencis:
+  gender_flag: 2
+  lang:
+  - lv
+Brenda:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Brendan:
+  gender_flag: 2
+  lang:
+  - en
+  - fo
+  origin:
+  - ga
+Brendano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Brendan
+  lang:
+  - it
+Brenden:
+  gender_flag: 2
+  is_a_variant_of:
+  - Brendan
+  lang:
+  - en
+  origin:
+  - ga
+Brendon: {}
+Brenna:
+  gender_flag: 1
+  lang:
+  - en
+Brennan:
+  gender_flag: 2
+  is_a_variant_of:
+  - Brendan
+  lang:
+  - en
+Brennen:
+  gender_flag: 2
+  lang:
+  - en
+Brenno:
+  gender_flag: 2
+  lang:
+  - it
+Breno:
+  gender_flag: 2
+  lang:
+  - pt
+Brent:
+  gender_flag: 2
+  lang:
+  - en
+Brentley:
+  gender_flag: 2
+  lang:
+  - en
+Brenton:
+  gender_flag: 2
+  lang:
+  - en
+Breonna:
+  gender_flag: 1
+  lang:
+  - en
+Bresti:
+  gender_flag: 2
+  lang:
+  - fo
+Brestir:
+  gender_flag: 2
+  lang:
+  - fo
+Bret:
+  gender_flag: 2
+  is_a_variant_of:
+  - Brett
+  lang:
+  - en
+Brett:
+  gender_flag: 7
+  lang:
+  - en
+Bretteva:
+  gender_flag: 1
+  lang:
+  - is
+Breval:
+  gender_flag: 2
+  lang:
+  - br
+Brevala:
+  gender_flag: 1
+  lang:
+  - br
+Brevalaer:
+  gender_flag: 2
+  lang:
+  - br
+Brewster:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - en
+Breyon:
+  gender_flag: 1
+  lang:
+  - en
+Bri:
+  gender_flag: 7
+  is_short_for:
+  - Brian
+  - Brianna
+  lang:
+  - en
+Bria:
+  gender_flag: 1
+  lang:
+  - en
+Brialdur:
+  gender_flag: 2
+  lang:
+  - fo
+Brian:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - en
+  - fo
+  - fr
+  - ga
+  origin:
+  - ga
+Briana:
+  gender_flag: 1
+  lang:
+  - en
+Brianna:
+  gender_flag: 1
+  is_a_variant_of:
+  - Briana
+  lang:
+  - en
+Brianne:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cel
+Briannica:
+  gender_flag: 1
+  lang:
+  - en
+Briar:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Brice:
+  gender_flag: 3
+  lang:
+  - en
+  - fr
+  origin:
+  - cel
+  - fr
+Brickell:
+  gender_flag: 1
+  lang:
+  - en
+Bridger:
+  gender_flag: 2
+  lang:
+  - en
+Bridget:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Bridie:
+  gender_flag: 1
+  lang:
+  - en
+Brie:
+  gender_flag: 1
+  lang:
+  - en
+Briella:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Brielle:
+  gender_flag: 1
+  lang:
+  - en
+Brienne:
+  gender_flag: 1
+  lang:
+  - en
+Brieuc:
+  gender_flag: 2
+  lang:
+  - fr
+Brighid:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bridget
+  lang:
+  - ga
+  origin:
+  - sga
+Brigid:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Brigida:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bridget
+  lang:
+  - it
+Brigit:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bridget
+  lang:
+  - sga
+  origin:
+  - cel-pro
+Brigita:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bridget
+  lang:
+  - cs
+  - lt
+  - lv
+  - sk
+Brigitte:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bridget
+  lang:
+  - de
+  - fr
+Briley:
+  gender_flag: 1
+  lang:
+  - en
+Brimar:
+  gender_flag: 2
+  lang:
+  - is
+Brimir:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Brimrún:
+  gender_flag: 1
+  lang:
+  - is
+Brimþór:
+  gender_flag: 2
+  lang:
+  - is
+Brina:
+  gender_flag: 1
+  lang:
+  - sl
+Brinley:
+  gender_flag: 1
+  lang:
+  - en
+Brit:
+  gender_flag: 1
+  is_a_variant_of:
+  - Britt
+  is_short_for:
+  - Birgitte
+  lang:
+  - 'no'
+Brita:
+  gender_flag: 1
+  is_short_for:
+  - Brigita
+  lang:
+  - et
+  - fo
+  - 'no'
+  - sk
+  - sv
+Britlyn:
+  gender_flag: 1
+  lang:
+  - en
+Britney:
+  gender_flag: 1
+  is_a_variant_of:
+  - Brittany
+  lang:
+  - ceb
+  - en
+Britni:
+  gender_flag: 1
+  lang:
+  - en
+Britt:
+  gender_flag: 1
+  lang:
+  - da
+  - fo
+  - 'no'
+  - sv
+Britta:
+  gender_flag: 1
+  is_a_variant_of:
+  - Birgitta
+  is_equivalent_to:
+  - Bridget
+  lang:
+  - da
+  - de
+  - sv
+  origin:
+  - sv
+Brittany:
+  gender_flag: 1
+  lang:
+  - en
+Brittney:
+  gender_flag: 1
+  is_a_variant_of:
+  - Brittany
+  lang:
+  - en
+Brittny:
+  gender_flag: 1
+  lang:
+  - en
+Brixton:
+  gender_flag: 2
+  lang:
+  - en
+Brizio:
+  gender_flag: 2
+  lang:
+  - it
+Brjánn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Brian
+  lang:
+  - is
+Brock:
+  gender_flag: 2
+  lang:
+  - en
+Broddi:
+  gender_flag: 2
+  lang:
+  - fo
+Broddur:
+  gender_flag: 2
+  lang:
+  - fo
+Brodelio:
+  gender_flag: 2
+  lang:
+  - ceb
+Broderick:
+  gender_flag: 2
+  lang:
+  - en
+Brodie:
+  gender_flag: 2
+  lang:
+  - en
+Brody:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+Brogan:
+  gender_flag: 7
+  lang:
+  - en
+Brogeen:
+  gender_flag: 2
+  is_equivalent_to:
+  - Brogan
+  lang:
+  - yol
+Bromia:
+  gender_flag: 2
+  lang:
+  - la
+Bronagh:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Bronek:
+  gender_flag: 2
+  is_short_for:
+  - Bronisław
+  lang:
+  - pl
+Bronislav:
+  gender_flag: 2
+  lang:
+  - cs
+Bronislava:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Bronislova:
+  gender_flag: 1
+  lang:
+  - lt
+Bronislovas:
+  gender_flag: 2
+  lang:
+  - lt
+Bronisław:
+  gender_flag: 2
+  lang:
+  - pl
+Bronisława:
+  gender_flag: 1
+  lang:
+  - pl
+Bronius:
+  gender_flag: 2
+  lang:
+  - lt
+Bronlyn:
+  gender_flag: 1
+  lang:
+  - en
+Bronson:
+  gender_flag: 2
+  lang:
+  - en
+Brontë:
+  gender_flag: 2
+  lang:
+  - en
+Bronwen:
+  gender_flag: 1
+  lang:
+  - cy
+  - en
+  origin:
+  - cy
+Bronwyn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cy
+Brook:
+  gender_flag: 7
+  is_a_variant_of:
+  - Brooke
+  - Brooks
+  lang:
+  - en
+Brooke:
+  gender_flag: 1
+  lang:
+  - en
+Brooklyn:
+  gender_flag: 7
+  lang:
+  - en
+Brooklynn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Brooklyn
+  lang:
+  - en
+Brooks:
+  gender_flag: 2
+  lang:
+  - en
+Brooksy:
+  gender_flag: 2
+  is_short_for:
+  - Brooks
+  lang:
+  - en
+Bror:
+  gender_flag: 2
+  lang:
+  - sv
+Brose:
+  gender_flag: 2
+  is_short_for:
+  - Ambrose
+  lang:
+  - en
+Brosi:
+  gender_flag: 2
+  lang:
+  - fo
+Broņislava:
+  gender_flag: 1
+  lang:
+  - lv
+Broňa:
+  gender_flag: 2
+  is_short_for:
+  - Bronislav
+  lang:
+  - cs
+Bruce:
+  gender_flag: 2
+  lang:
+  - en
+Brucey:
+  gender_flag: 2
+  is_short_for:
+  - Bruce
+  lang:
+  - en
+Brucie:
+  gender_flag: 2
+  lang:
+  - en
+Bruhn:
+  gender_flag: 2
+  is_short_for:
+  - Bruno
+  lang:
+  - gmw-ecg
+Bruna:
+  gender_flag: 1
+  lang:
+  - it
+  - pt
+Brunelda:
+  gender_flag: 1
+  is_a_variant_of:
+  - Brunilde
+  lang:
+  - it
+Brunetto:
+  gender_flag: 2
+  lang:
+  - it
+Brunhild:
+  gender_flag: 1
+  is_a_variant_of:
+  - Brunhilde
+  lang:
+  - de
+  - en
+  origin:
+  - de
+Brunhilde:
+  gender_flag: 1
+  lang:
+  - de
+  - nrf
+Brunilda:
+  gender_flag: 1
+  is_a_variant_of:
+  - Brunilde
+  lang:
+  - es
+  - it
+Brunilde:
+  gender_flag: 1
+  is_equivalent_to:
+  - Brunhild
+  lang:
+  - it
+  origin:
+  - gem-pro
+Brunildo:
+  gender_flag: 2
+  lang:
+  - it
+Bruno:
+  gender_flag: 2
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - es
+  - et
+  - fr
+  - it
+  - la
+  - lv
+  - nl
+  - pt
+  - sk
+  - sv
+  origin:
+  - gem
+Brunomir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Brunonas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bruno
+  lang:
+  - lt
+Brunoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Brutus:
+  gender_flag: 2
+  lang:
+  - en
+Bryan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Bryanna:
+  gender_flag: 1
+  is_a_variant_of:
+  - Brianna
+  lang:
+  - en
+  origin:
+  - cel
+Bryant:
+  gender_flag: 2
+  lang:
+  - en
+Bryce:
+  gender_flag: 2
+  is_a_variant_of:
+  - Brice
+  lang:
+  - en
+  origin:
+  - cel
+Brycen:
+  gender_flag: 2
+  lang:
+  - en
+Brygida:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bridget
+  lang:
+  - pl
+Brylee:
+  gender_flag: 1
+  lang:
+  - en
+Bryleigh:
+  gender_flag: 1
+  lang:
+  - en
+Bryn:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - cy
+Bryndis:
+  gender_flag: 1
+  lang:
+  - fo
+Bryndís:
+  gender_flag: 1
+  lang:
+  - is
+Bryngerð:
+  gender_flag: 1
+  lang:
+  - fo
+Bryngerður:
+  gender_flag: 1
+  lang:
+  - is
+Brynhild:
+  gender_flag: 1
+  lang:
+  - fo
+  origin:
+  - gem-pro
+Brynhildur:
+  gender_flag: 1
+  lang:
+  - is
+Brynja:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Brynjar:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Brynjolvur:
+  gender_flag: 2
+  lang:
+  - fo
+Brynjólfur:
+  gender_flag: 2
+  lang:
+  - is
+Brynjólfína:
+  gender_flag: 1
+  lang:
+  - is
+Brynjúlfur:
+  gender_flag: 2
+  lang:
+  - is
+Brynlee:
+  gender_flag: 1
+  lang:
+  - en
+Brynleivur:
+  gender_flag: 2
+  lang:
+  - fo
+Brynlie:
+  gender_flag: 1
+  lang:
+  - en
+Brynn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cy
+Brynolf:
+  gender_flag: 2
+  lang:
+  - sv
+Brynþór:
+  gender_flag: 2
+  lang:
+  - is
+Bryon:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Bryony:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Bryson:
+  gender_flag: 2
+  lang:
+  - en
+Brá:
+  gender_flag: 1
+  lang:
+  - fo
+Bréanainn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Brendan
+  lang:
+  - ga
+  origin:
+  - sga
+Bréixome:
+  gender_flag: 2
+  lang:
+  - gl
+Brìghde:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bridget
+  - Brigid
+  lang:
+  - gd
+  origin:
+  - sga
+Bríanna:
+  gender_flag: 1
+  lang:
+  - is
+Brício:
+  gender_flag: 2
+  is_equivalent_to:
+  - Brice
+  - Bryce
+  lang:
+  - pt
+Bríd:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bridget
+  - Brigid
+  lang:
+  - ga
+  origin:
+  - sga
+Brígida:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bridget
+  lang:
+  - pt
+  origin:
+  - ga
+Brímir:
+  gender_flag: 2
+  lang:
+  - is
+Brónach:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bronagh
+  lang:
+  - ga
+  origin:
+  - sga
+Brúsi:
+  gender_flag: 2
+  lang:
+  - fo
+Brünhild:
+  gender_flag: 1
+  is_a_variant_of:
+  - Brunhilde
+  lang:
+  - de
+Brünhilde:
+  gender_flag: 1
+  is_a_variant_of:
+  - Brunhilde
+  lang:
+  - de
+Bub: {}
+Bubbles:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - en
+Buchoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Buck:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Buckeen:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bucky
+  lang:
+  - yol
+Bucky:
+  gender_flag: 2
+  lang:
+  - en
+Bucolo:
+  gender_flag: 2
+  lang:
+  - it
+Bucolus:
+  gender_flag: 2
+  lang:
+  - en
+Bud:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - en
+Buda:
+  gender_flag: 2
+  lang:
+  - hu
+Budd:
+  gender_flag: 2
+  lang:
+  - en
+Buddie:
+  gender_flag: 2
+  lang:
+  - en
+Buddy:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - en
+Budianto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Budimerus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Budimir
+  lang:
+  - la
+  origin:
+  - sla
+Budimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Budimiro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Budimir
+  lang:
+  - la
+Budiono:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Budong:
+  gender_flag: 2
+  lang:
+  - ceb
+Buena:
+  gender_flag: 1
+  lang:
+  - en
+Buenaventura:
+  gender_flag: 2
+  lang:
+  - es
+Buffy:
+  gender_flag: 1
+  is_short_for:
+  - Elizabeth
+  lang:
+  - ceb
+  - en
+Bukayọ:
+  gender_flag: 7
+  lang:
+  - yo
+Buknoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Bulcsú:
+  gender_flag: 2
+  lang:
+  - hu
+Bulut:
+  gender_flag: 2
+  lang:
+  - tr
+Buoso:
+  gender_flag: 2
+  lang:
+  - it
+Burak:
+  gender_flag: 2
+  lang:
+  - tr
+Burcu:
+  gender_flag: 1
+  lang:
+  - tr
+Burgnoþ:
+  gender_flag: 2
+  lang:
+  - ang
+Burhan:
+  gender_flag: 2
+  lang:
+  - en
+  - tr
+  origin:
+  - ar
+Burkhard:
+  gender_flag: 2
+  lang:
+  - de
+Burkhardt:
+  gender_flag: 2
+  lang:
+  - de
+Burkhart:
+  gender_flag: 2
+  lang:
+  - de
+Burnamy:
+  gender_flag: 2
+  lang:
+  - en
+Burnell:
+  gender_flag: 2
+  lang:
+  - en
+Bursi:
+  gender_flag: 2
+  lang:
+  - fo
+Burt:
+  gender_flag: 2
+  lang:
+  - en
+Burton:
+  gender_flag: 2
+  lang:
+  - en
+Burçak:
+  gender_flag: 3
+  lang:
+  - tr
+Burçin:
+  gender_flag: 1
+  lang:
+  - tr
+Buse:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - fa
+Buster:
+  gender_flag: 2
+  lang:
+  - en
+Butchoy:
+  gender_flag: 2
+  lang:
+  - ceb
+  - tl
+Butsoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Buzz:
+  gender_flag: 2
+  lang:
+  - en
+Buğra:
+  gender_flag: 2
+  lang:
+  - tr
+Bylgja:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Byrge:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Byrhtmund:
+  gender_flag: 2
+  lang:
+  - ang
+Byrne:
+  gender_flag: 2
+  lang:
+  - en
+Byron:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+Bystrík:
+  gender_flag: 2
+  lang:
+  - sk
+Bálint:
+  gender_flag: 2
+  is_equivalent_to:
+  - Valentine
+  lang:
+  - hu
+Bán:
+  gender_flag: 2
+  lang:
+  - hu
+Bánk:
+  gender_flag: 2
+  lang:
+  - hu
+Bára:
+  gender_flag: 1
+  lang:
+  - cs
+  - fo
+  - is
+Báraldur:
+  gender_flag: 2
+  lang:
+  - fo
+Bárbara:
+  gender_flag: 1
+  is_equivalent_to:
+  - Barbara
+  lang:
+  - es
+  - pt
+  origin:
+  - grc
+  - la
+Bárðr:
+  gender_flag: 2
+  lang:
+  - non
+Bárður:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Báse:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Bávlos:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - se
+Bâbe:
+  gender_flag: 1
+  lang:
+  - wa
+Bârbe:
+  gender_flag: 1
+  lang:
+  - wa
+Bägül:
+  gender_flag: 1
+  lang:
+  - tk
+Bärbel:
+  gender_flag: 1
+  lang:
+  - de
+Bådwin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Baldwin
+  lang:
+  - wa
+Bård:
+  gender_flag: 2
+  lang:
+  - nn
+  - 'no'
+  origin:
+  - non
+Båre:
+  gender_flag: 1
+  lang:
+  - wa
+Bååʹres:
+  gender_flag: 2
+  lang:
+  - sms
+  origin:
+  - ru
+Bældæg:
+  gender_flag: 2
+  lang:
+  - ang
+Bænadikt:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - fo
+Bænadikta:
+  gender_flag: 1
+  lang:
+  - fo
+Bèpe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joe
+  is_short_for:
+  - Giuśèpe
+  lang:
+  - egl
+  origin:
+  - he
+Bèrnabé:
+  gender_flag: 2
+  is_equivalent_to:
+  - Barnaby
+  lang:
+  - nrf
+Bèrta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bertha
+  lang:
+  - oc
+Béatrice:
+  gender_flag: 1
+  is_equivalent_to:
+  - Beatrice
+  lang:
+  - fr
+Béatrix:
+  gender_flag: 1
+  lang:
+  - fr
+Béci:
+  gender_flag: 2
+  is_short_for:
+  - Béla
+  lang:
+  - hu
+Béda:
+  gender_flag: 2
+  is_short_for:
+  - Bedřich
+  lang:
+  - cs
+Béla:
+  gender_flag: 2
+  lang:
+  - hu
+Bélus:
+  gender_flag: 2
+  is_short_for:
+  - Béla
+  lang:
+  - hu
+Béni:
+  gender_flag: 2
+  is_short_for:
+  - Benjámin
+  lang:
+  - hu
+Bénoni:
+  gender_flag: 2
+  lang:
+  - nrf
+Bénédicte:
+  gender_flag: 1
+  lang:
+  - fr
+Bérangère:
+  gender_flag: 1
+  is_a_variant_of:
+  - Bérengère
+  lang:
+  - fr
+Bérengère:
+  gender_flag: 1
+  lang:
+  - fr
+Bérénice:
+  gender_flag: 1
+  is_equivalent_to:
+  - Berenice
+  lang:
+  - fr
+Béďa:
+  gender_flag: 3
+  is_short_for:
+  - Bedřich
+  - Bedřiška
+  lang:
+  - cs
+Bênardin:
+  gender_flag: 2
+  lang:
+  - nrf
+Bêrt:
+  gender_flag: 2
+  lang:
+  - wa
+Bêrtine:
+  gender_flag: 1
+  lang:
+  - wa
+Bêrîvan:
+  gender_flag: 1
+  lang:
+  - kmr
+Bêtinet:
+  gender_flag: 2
+  lang:
+  - nrf
+Bêtri:
+  gender_flag: 1
+  lang:
+  - wa
+Bình:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Bích:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Bíke:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Bína:
+  gender_flag: 1
+  lang:
+  - is
+Bîna:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Bîtresse:
+  gender_flag: 1
+  lang:
+  - wa
+Bóas:
+  gender_flag: 2
+  lang:
+  - fo
+Bódog:
+  gender_flag: 2
+  lang:
+  - hu
+Bóris:
+  gender_flag: 2
+  is_equivalent_to:
+  - Boris
+  lang:
+  - pt
+Bóthild:
+  gender_flag: 1
+  lang:
+  - fo
+Bóthildur:
+  gender_flag: 1
+  lang:
+  - is
+Bótolvur:
+  gender_flag: 2
+  lang:
+  - fo
+Böke:
+  gender_flag: 2
+  lang:
+  - tr
+Börge:
+  gender_flag: 2
+  lang:
+  - de
+Börje:
+  gender_flag: 2
+  lang:
+  - sv
+Böðvildur:
+  gender_flag: 1
+  lang:
+  - is
+Bødvar:
+  gender_flag: 2
+  lang:
+  - fo
+Bøje:
+  gender_flag: 2
+  lang:
+  - da
+Børge:
+  gender_flag: 2
+  is_a_variant_of:
+  - Birger
+  lang:
+  - da
+  - nn
+  - 'no'
+  origin:
+  - non
+Børka:
+  gender_flag: 1
+  lang:
+  - fo
+Børre:
+  gender_flag: 2
+  is_a_variant_of:
+  - Birger
+  lang:
+  - nn
+  - 'no'
+  origin:
+  - non
+Búgvi:
+  gender_flag: 2
+  lang:
+  - fo
+Búi:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Bülent:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - fa
+Bürküt:
+  gender_flag: 2
+  lang:
+  - tr
+Büşra:
+  gender_flag: 1
+  lang:
+  - tr
+Běla:
+  gender_flag: 1
+  lang:
+  - cs
+Bělinka:
+  gender_flag: 1
+  is_short_for:
+  - Běla
+  lang:
+  - cs
+Běta:
+  gender_flag: 1
+  is_short_for:
+  - Alžběta
+  lang:
+  - cs
+Bětka:
+  gender_flag: 1
+  is_short_for:
+  - Běta
+  lang:
+  - cs
+Bětunka:
+  gender_flag: 1
+  is_short_for:
+  - Běta
+  lang:
+  - cs
+Bětuška:
+  gender_flag: 1
+  is_short_for:
+  - Běta
+  lang:
+  - cs
+Błażej:
+  gender_flag: 2
+  is_equivalent_to:
+  - Blasius
+  lang:
+  - pl
+Břetislav:
+  gender_flag: 2
+  lang:
+  - cs
+Břetík:
+  gender_flag: 2
+  is_short_for:
+  - Břeťa
+  lang:
+  - cs
+Břeťa:
+  gender_flag: 2
+  is_short_for:
+  - Břetislav
+  lang:
+  - cs
+Bưởi:
+  gender_flag: 1
+  lang:
+  - vi
+Bəhmən:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - fa
+Bəhram:
+  gender_flag: 2
+  lang:
+  - az
+Bəhruz:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - fa
+Bəşir:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+Bạch:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Bảo:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Bắc:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Bọsẹde:
+  gender_flag: 1
+  lang:
+  - yo
+bjrwnygꜣt:
+  gender_flag: 1
+  lang:
+  - egy
+  origin:
+  - grc
+bk:
+  gender_flag: 2
+  lang:
+  - xmr
+bꜣk-n-rn.f:
+  gender_flag: 2
+  lang:
+  - egy

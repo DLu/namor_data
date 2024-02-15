@@ -1,0 +1,9947 @@
+Ѓеро:
+  gender_flag: 2
+  lang:
+  - mk
+Ѓерѓ: {}
+Ѓерѓи:
+  gender_flag: 2
+  lang:
+  - mk
+Ѓоко:
+  gender_flag: 2
+  lang:
+  - mk
+Ѓоре:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ѓорче
+  lang:
+  - mk
+Ѓорче:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ѓоре
+  lang:
+  - mk
+Ѓорѓи:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - mk
+Ѓорѓија:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - mk
+Ѓурчин:
+  gender_flag: 2
+  lang:
+  - mk
+Ѓурѓа:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ѓурѓина
+  - Ѓурѓица
+  lang:
+  - mk
+Ѓурѓина:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ѓурѓа
+  - Ѓурѓица
+  lang:
+  - mk
+Ѓурѓица:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ѓурѓа
+  - Ѓурѓина
+  lang:
+  - mk
+Єва:
+  gender_flag: 1
+  lang:
+  - uk
+Євген:
+  gender_flag: 2
+  lang:
+  - uk
+Євгеній:
+  gender_flag: 2
+  lang:
+  - uk
+Євгенія:
+  gender_flag: 1
+  lang:
+  - uk
+Євдокія:
+  gender_flag: 1
+  lang:
+  - uk
+Єгор:
+  gender_flag: 2
+  lang:
+  - uk
+Єлизавета:
+  gender_flag: 1
+  lang:
+  - uk
+Єлисей:
+  gender_flag: 2
+  lang:
+  - uk
+Ѕвезда:
+  gender_flag: 1
+  lang:
+  - mk
+Ѕвездан:
+  gender_flag: 2
+  lang:
+  - mk
+Ѕвездана:
+  gender_flag: 1
+  lang:
+  - mk
+Ѕвонко:
+  gender_flag: 2
+  lang:
+  - mk
+Ѕугра:
+  gender_flag: 1
+  lang:
+  - mk
+Іван:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ivan
+  - John
+  lang:
+  - be
+  - uk
+Іванко:
+  gender_flag: 2
+  is_equivalent_to:
+  - Johnny
+  is_short_for:
+  - Іван
+  lang:
+  - uk
+Іванна:
+  gender_flag: 1
+  lang:
+  - uk
+Івасик:
+  gender_flag: 2
+  lang:
+  - uk
+Ігар:
+  gender_flag: 2
+  lang:
+  - be
+Ігнат:
+  gender_flag: 2
+  lang:
+  - be
+Ігор:
+  gender_flag: 2
+  lang:
+  - uk
+Ізмаїл:
+  gender_flag: 2
+  lang:
+  - uk
+Ізраїль:
+  gender_flag: 2
+  lang:
+  - uk
+Ізяслав:
+  gender_flag: 2
+  lang:
+  - uk
+Ілля:
+  gender_flag: 2
+  lang:
+  - uk
+Ілона:
+  gender_flag: 1
+  lang:
+  - uk
+Ілько:
+  gender_flag: 2
+  lang:
+  - uk
+Ілья:
+  gender_flag: 2
+  lang:
+  - be
+Інна:
+  gender_flag: 1
+  lang:
+  - uk
+Іосіф:
+  gender_flag: 2
+  lang:
+  - be
+Ірина:
+  gender_flag: 1
+  lang:
+  - uk
+Ірына:
+  gender_flag: 1
+  lang:
+  - be
+Ірэна:
+  gender_flag: 1
+  lang:
+  - be
+Іңкәр:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Јагода:
+  gender_flag: 1
+  lang:
+  - mk
+Јадранка:
+  gender_flag: 1
+  lang:
+  - mk
+Јаков:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - mk
+Јан:
+  gender_flag: 2
+  lang:
+  - mk
+Јана:
+  gender_flag: 1
+  lang:
+  - mk
+Јане:
+  gender_flag: 2
+  lang:
+  - mk
+Јанка:
+  gender_flag: 1
+  lang:
+  - mk
+Јанко:
+  gender_flag: 2
+  lang:
+  - mk
+Јасенка:
+  gender_flag: 1
+  lang:
+  - mk
+Јасмина:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jasmine
+  lang:
+  - mk
+Јасминка:
+  gender_flag: 1
+  is_a_variant_of:
+  - Јасмина
+  lang:
+  - mk
+Јасна:
+  gender_flag: 1
+  lang:
+  - mk
+Јоаким:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joachim
+  lang:
+  - mk
+Јоана:
+  gender_flag: 1
+  is_equivalent_to:
+  - Joanna
+  lang:
+  - mk
+Јован:
+  gender_flag: 2
+  lang:
+  - mk
+  - sh
+Јована:
+  gender_flag: 1
+  lang:
+  - mk
+Јованка:
+  gender_flag: 1
+  lang:
+  - mk
+Јоле:
+  gender_flag: 2
+  is_short_for:
+  - Јован
+  lang:
+  - mk
+Јорда:
+  gender_flag: 1
+  lang:
+  - mk
+Јордан:
+  gender_flag: 2
+  is_a_variant_of:
+  - Јорде
+  lang:
+  - mk
+Јордана:
+  gender_flag: 1
+  lang:
+  - mk
+Јорданка:
+  gender_flag: 1
+  lang:
+  - mk
+Јорде:
+  gender_flag: 2
+  is_a_variant_of:
+  - Јордан
+  lang:
+  - mk
+Јосип:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - sh
+Јосиф:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - mk
+Јоцо:
+  gender_flag: 2
+  is_short_for:
+  - Јордан
+  lang:
+  - mk
+Јуле:
+  gender_flag: 1
+  is_short_for:
+  - Јулија
+  lang:
+  - mk
+Јулија:
+  gender_flag: 1
+  is_equivalent_to:
+  - Julia
+  lang:
+  - mk
+Јустин:
+  gender_flag: 2
+  is_equivalent_to:
+  - Justin
+  lang:
+  - sh
+Љубица:
+  gender_flag: 1
+  lang:
+  - mk
+Љубомир:
+  gender_flag: 2
+  lang:
+  - mk
+Љулиета: {}
+Љулјета: {}
+Љумтурие: {}
+Љупка:
+  gender_flag: 1
+  lang:
+  - mk
+Љупчо:
+  gender_flag: 2
+  lang:
+  - mk
+Љуљзим: {}
+Љуљзиме: {}
+Ќирил:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cyril
+  lang:
+  - mk
+Џо: {}
+А̄дз:
+  gender_flag: 1
+  lang:
+  - sia
+Аалы:
+  gender_flag: 2
+  lang:
+  - ky
+  origin:
+  - ar
+Аалым:
+  gender_flag: 2
+  lang:
+  - ky
+  origin:
+  - ar
+Аарон:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aaron
+  lang:
+  - ru
+  origin:
+  - he
+Абай:
+  gender_flag: 2
+  lang:
+  - kk
+Абака:
+  gender_flag: 2
+  lang:
+  - ru
+  origin:
+  - fa
+Аббас:
+  gender_flag: 2
+  lang:
+  - ru
+Аббос:
+  gender_flag: 2
+  lang:
+  - tg
+Абдолла:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Абдрахман:
+  gender_flag: 2
+  lang:
+  - ru
+  origin:
+  - ar
+Абдул:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abdul
+  lang:
+  - ru
+  origin:
+  - ar
+Абдулла:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abdullah
+  lang:
+  - ba
+  - kk
+  - ru
+  origin:
+  - ar
+Абдуллаһ:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Абдінасір:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Абел:
+  gender_flag: 2
+  lang:
+  - sh
+Абель:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abel
+  lang:
+  - ru
+Абзагә:
+  gender_flag: 2
+  lang:
+  - ab
+Абрам:
+  gender_flag: 2
+  lang:
+  - ru
+Абылай:
+  gender_flag: 2
+  lang:
+  - kk
+Авакум:
+  gender_flag: 2
+  lang:
+  - bg
+Августа:
+  gender_flag: 1
+  lang:
+  - uk
+Авдей:
+  gender_flag: 2
+  lang:
+  - ru
+Авдотья:
+  gender_flag: 1
+  lang:
+  - ru
+Авдюша:
+  gender_flag: 2
+  lang:
+  - ru
+Авель:
+  gender_flag: 2
+  lang:
+  - ru
+Авессалом:
+  gender_flag: 2
+  is_equivalent_to:
+  - Absalom
+  lang:
+  - ru
+Аврам:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - mk
+  - sh
+Аврангзеб:
+  gender_flag: 2
+  lang:
+  - tg
+Аврелий:
+  gender_flag: 2
+  lang:
+  - ru
+Аврора:
+  gender_flag: 1
+  is_equivalent_to:
+  - Aurora
+  lang:
+  - mk
+  - ru
+  origin:
+  - la
+Агата:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - ru
+  origin:
+  - grc
+Агафия:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - ru
+  origin:
+  - grc
+Агафія:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - uk
+  origin:
+  - grc
+Аглая:
+  gender_flag: 1
+  is_equivalent_to:
+  - Aglaia
+  lang:
+  - ru
+  origin:
+  - grc
+Агнеса:
+  gender_flag: 1
+  lang:
+  - uk
+Адам:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - be
+  - mk
+  - ru
+  - sh
+  - uk
+Адамыр:
+  gender_flag: 2
+  lang:
+  - ab
+Аделаида:
+  gender_flag: 1
+  is_equivalent_to:
+  - Adelaide
+  lang:
+  - ru
+Адем:
+  gender_flag: 2
+  lang:
+  - sh
+Адольф:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adolf
+  lang:
+  - ru
+  origin:
+  - de
+Адриан:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adrian
+  lang:
+  - ru
+  origin:
+  - la
+Адріан:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adrian
+  lang:
+  - uk
+Адэлаіда:
+  gender_flag: 1
+  lang:
+  - be
+Адэм:
+  gender_flag: 2
+  lang:
+  - ady
+Ажар:
+  gender_flag: 1
+  lang:
+  - kk
+Ажаргүл:
+  gender_flag: 1
+  lang:
+  - kk
+Ажьгьери:
+  gender_flag: 2
+  lang:
+  - ab
+Аза:
+  gender_flag: 7
+  lang:
+  - ru
+  origin:
+  - ar
+Азалия:
+  gender_flag: 1
+  lang:
+  - ru
+Азамат:
+  gender_flag: 2
+  lang:
+  - ba
+  - kk
+  origin:
+  - ar
+Азиз:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Аида:
+  gender_flag: 1
+  is_equivalent_to:
+  - Aida
+  lang:
+  - kk
+Айбек:
+  gender_flag: 2
+  lang:
+  - kk
+  - ky
+Айберген:
+  gender_flag: 2
+  lang:
+  - kk
+Айболат:
+  gender_flag: 2
+  lang:
+  - kk
+Айбулат:
+  gender_flag: 2
+  lang:
+  - ba
+Айгүл:
+  gender_flag: 1
+  lang:
+  - kk
+  - ky
+Айгөл:
+  gender_flag: 1
+  lang:
+  - ba
+Айдай:
+  gender_flag: 1
+  lang:
+  - kk
+Айдос:
+  gender_flag: 2
+  lang:
+  - kk
+Айжан:
+  gender_flag: 1
+  lang:
+  - kk
+  - ky
+Айжүрек:
+  gender_flag: 1
+  lang:
+  - kk
+Айнабек:
+  gender_flag: 2
+  lang:
+  - kk
+Айнур:
+  gender_flag: 2
+  lang:
+  - ba
+Айнұр:
+  gender_flag: 1
+  lang:
+  - kk
+Айпери:
+  gender_flag: 1
+  lang:
+  - ky
+Айрат:
+  gender_flag: 2
+  lang:
+  - ba
+Айрин:
+  gender_flag: 1
+  is_equivalent_to:
+  - Irene
+  lang:
+  - bg
+  origin:
+  - en
+Айрис:
+  gender_flag: 1
+  is_equivalent_to:
+  - Iris
+  lang:
+  - bg
+  origin:
+  - en
+Айсулуу:
+  gender_flag: 1
+  lang:
+  - ky
+Айсұлтан:
+  gender_flag: 2
+  lang:
+  - kk
+Айтуған:
+  gender_flag: 2
+  lang:
+  - ba
+Айтқали:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Айша:
+  gender_flag: 1
+  is_equivalent_to:
+  - Aisha
+  lang:
+  - kk
+  - ru
+  origin:
+  - ar
+Айҙар:
+  gender_flag: 2
+  lang:
+  - ba
+Айһылыу:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - trk
+Аким:
+  gender_flag: 2
+  lang:
+  - ru
+Аксинья:
+  gender_flag: 1
+  lang:
+  - ru
+Акім:
+  gender_flag: 2
+  lang:
+  - be
+Ала:
+  gender_flag: 1
+  lang:
+  - be
+Алагьыӄә:
+  gender_flag: 2
+  lang:
+  - uby
+Албена:
+  gender_flag: 1
+  lang:
+  - bg
+Албърт:
+  gender_flag: 2
+  is_equivalent_to:
+  - Albert
+  lang:
+  - bg
+  origin:
+  - en
+Алдаберген:
+  gender_flag: 2
+  lang:
+  - kk
+Алдияр:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - fa
+Алевтина:
+  gender_flag: 1
+  lang:
+  - ru
+Алег:
+  gender_flag: 2
+  lang:
+  - be
+Александар:
+  gender_flag: 2
+  lang:
+  - mk
+  - sh
+Александр:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - mn
+  - ru
+  origin:
+  - ru
+Александра:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alexandra
+  lang:
+  - bg
+  - mk
+  - ru
+Алексей:
+  gender_flag: 2
+  lang:
+  - ru
+Алемқьери:
+  gender_flag: 2
+  lang:
+  - uby
+Алена:
+  gender_flag: 1
+  lang:
+  - be
+Алесандра:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alexandra
+  lang:
+  - bg
+  origin:
+  - it
+Али:
+  gender_flag: 2
+  lang:
+  - mk
+Алиас:
+  gender_flag: 2
+  is_equivalent_to:
+  - Elias
+  lang:
+  - ab
+Алиасгьери:
+  gender_flag: 2
+  lang:
+  - ab
+Алик:
+  gender_flag: 2
+  lang:
+  - ru
+Алим:
+  gender_flag: 2
+  lang:
+  - ky
+  origin:
+  - ar
+Алина:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alina
+  lang:
+  - mk
+  - ru
+Алис:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alice
+  lang:
+  - bg
+Алиса:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alice
+  lang:
+  - ru
+Алистер:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alistair
+  lang:
+  - ru
+  origin:
+  - gd
+Алистър:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aleister
+  - Alistair
+  lang:
+  - bg
+  origin:
+  - en
+Алисън:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alison
+  lang:
+  - bg
+  origin:
+  - en
+Алија:
+  gender_flag: 2
+  lang:
+  - mk
+Алла:
+  gender_flag: 1
+  lang:
+  - ru
+  - uk
+Алмагүл:
+  gender_flag: 1
+  lang:
+  - kk
+Алмас:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - fa
+Алпан:
+  gender_flag: 2
+  lang:
+  - kk
+Алпысбай:
+  gender_flag: 2
+  lang:
+  - kk
+Алтай:
+  gender_flag: 2
+  lang:
+  - kk
+Алтынай:
+  gender_flag: 1
+  lang:
+  - kk
+Алтынбай:
+  gender_flag: 2
+  lang:
+  - kk
+Алтынбек:
+  gender_flag: 2
+  lang:
+  - kk
+Алфонсо:
+  gender_flag: 2
+  lang:
+  - bg
+  origin:
+  - es
+  - it
+Алфред:
+  lang:
+  - ru
+Алықьса:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexius
+  lang:
+  - ab
+Альберт:
+  gender_flag: 2
+  is_equivalent_to:
+  - Albert
+  lang:
+  - ru
+Альберта:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alberta
+  lang:
+  - ru
+Альбина:
+  gender_flag: 1
+  lang:
+  - ru
+Альфред:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alfred
+  lang:
+  - ru
+  origin:
+  - en
+Аля:
+  gender_flag: 1
+  lang:
+  - ru
+Аляксандар:
+  gender_flag: 2
+  lang:
+  - be
+Аляксандр:
+  gender_flag: 2
+  lang:
+  - be
+Аляксандра:
+  gender_flag: 1
+  lang:
+  - be
+Аляксей:
+  gender_flag: 2
+  lang:
+  - be
+Алёна:
+  gender_flag: 1
+  lang:
+  - ru
+Алёша:
+  gender_flag: 2
+  lang:
+  - ru
+Аліна:
+  gender_flag: 1
+  lang:
+  - be
+  - uk
+Алістер:
+  gender_flag: 2
+  lang:
+  - uk
+Алҵыкә:
+  gender_flag: 2
+  lang:
+  - ab
+Алӣ:
+  gender_flag: 2
+  lang:
+  - tg
+Амаль:
+  gender_flag: 1
+  lang:
+  - ru
+  origin:
+  - ar
+Амангелді:
+  gender_flag: 2
+  lang:
+  - kk
+Аманда:
+  gender_flag: 1
+  is_equivalent_to:
+  - Amanda
+  lang:
+  - bg
+  origin:
+  - la
+Амандос:
+  gender_flag: 2
+  lang:
+  - kk
+Аманжол:
+  gender_flag: 2
+  lang:
+  - kk
+Амантай:
+  gender_flag: 2
+  lang:
+  - kk
+Амир:
+  gender_flag: 2
+  lang:
+  - tg
+Амос:
+  gender_flag: 2
+  is_equivalent_to:
+  - Amos
+  lang:
+  - ru
+  origin:
+  - he
+Ана:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anna
+  - Anne
+  lang:
+  - bg
+  - mk
+  - sh
+Анаргүл:
+  gender_flag: 1
+  lang:
+  - kk
+Анастасия:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anastasia
+  lang:
+  - ru
+  origin:
+  - grc
+Анастасија:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anastasia
+  lang:
+  - mk
+Анастасія:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anastasia
+  lang:
+  - be
+  - uk
+Анатолий:
+  gender_flag: 2
+  lang:
+  - ru
+Анатолия:
+  gender_flag: 1
+  lang:
+  - ru
+Анатолій:
+  gender_flag: 2
+  lang:
+  - be
+  - uk
+Ангел:
+  gender_flag: 2
+  is_equivalent_to:
+  - Angel
+  lang:
+  - mk
+Ангела:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angela
+  lang:
+  - mk
+  - ru
+Ангеле:
+  gender_flag: 2
+  lang:
+  - mk
+Ангелина:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angelina
+  lang:
+  - bg
+  - mk
+  - ru
+  origin:
+  - grc
+Ангеліна:
+  gender_flag: 1
+  lang:
+  - be
+  - uk
+Анджела:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angela
+  lang:
+  - ru
+  origin:
+  - en
+Андреа:
+  gender_flag: 3
+  is_equivalent_to:
+  - Andrea
+  - Andrew
+  lang:
+  - mk
+Андрей:
+  gender_flag: 2
+  lang:
+  - ru
+Андреј:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - mk
+Андриан:
+  gender_flag: 2
+  lang:
+  - ru
+Андрија:
+  gender_flag: 2
+  lang:
+  - sh
+Андрэй:
+  gender_flag: 2
+  lang:
+  - be
+Андрю:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - bg
+  origin:
+  - en
+Андріан:
+  gender_flag: 2
+  lang:
+  - uk
+Андрій:
+  gender_flag: 2
+  lang:
+  - uk
+Анелия:
+  gender_flag: 1
+  lang:
+  - bg
+Анета:
+  gender_flag: 1
+  lang:
+  - bg
+  - mk
+  origin:
+  - fr
+Анжаліка:
+  gender_flag: 1
+  lang:
+  - be
+Анжела:
+  gender_flag: 1
+  lang:
+  - ru
+Анжелика:
+  gender_flag: 1
+  lang:
+  - ru
+Анжеліка:
+  gender_flag: 1
+  lang:
+  - uk
+Анжэла:
+  gender_flag: 1
+  lang:
+  - be
+Анисия:
+  gender_flag: 1
+  lang:
+  - ru
+Анита:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anita
+  lang:
+  - mk
+Анка:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ана
+  lang:
+  - mk
+  - sh
+Анкица:
+  gender_flag: 1
+  is_short_for:
+  - Анка
+  lang:
+  - mk
+Анна:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ana
+  - Ann
+  - Anna
+  lang:
+  - ru
+  - uk
+Антаніна:
+  gender_flag: 1
+  lang:
+  - be
+Анте:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - sh
+Антоанета:
+  gender_flag: 1
+  lang:
+  - bg
+  origin:
+  - fr
+Антон:
+  gender_flag: 2
+  lang:
+  - be
+  - ru
+Антонина:
+  gender_flag: 1
+  is_equivalent_to:
+  - Antonina
+  lang:
+  - ru
+  origin:
+  - la
+Антониј:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - mk
+Антонија:
+  gender_flag: 1
+  lang:
+  - mk
+Антоніна:
+  gender_flag: 1
+  lang:
+  - uk
+Антун:
+  gender_flag: 2
+  lang:
+  - sh
+Антъни:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - bg
+  origin:
+  - en
+Антін:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - uk
+Анфиса:
+  gender_flag: 1
+  lang:
+  - ru
+Анхела:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angela
+  lang:
+  - ru
+  origin:
+  - es
+Аня:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anya
+  lang:
+  - ru
+Анѓа:
+  gender_flag: 1
+  is_short_for:
+  - Ангела
+  - Ангелина
+  lang:
+  - mk
+Анісім:
+  gender_flag: 2
+  lang:
+  - be
+Ардашьын:
+  gender_flag: 2
+  lang:
+  - ab
+Ардақ:
+  gender_flag: 1
+  lang:
+  - kk
+Ариэль:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ariel
+  lang:
+  - ru
+  origin:
+  - he
+Аркадзій:
+  gender_flag: 2
+  lang:
+  - be
+Аркадий:
+  gender_flag: 2
+  lang:
+  - ru
+Арноу:
+  gender_flag: 2
+  lang:
+  - ab
+Арон:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aaron
+  lang:
+  - ru
+  origin:
+  - he
+Арсен:
+  gender_flag: 2
+  lang:
+  - mk
+Арсеній:
+  gender_flag: 2
+  lang:
+  - be
+Арсоу:
+  gender_flag: 2
+  lang:
+  - ab
+Артем:
+  gender_flag: 2
+  lang:
+  - uk
+Артемида:
+  gender_flag: 1
+  lang:
+  - ru
+Артина:
+  gender_flag: 1
+  is_equivalent_to:
+  - Artina
+  lang:
+  - ru
+Артур:
+  gender_flag: 2
+  lang:
+  - be
+  - ru
+Артър:
+  gender_flag: 2
+  is_equivalent_to:
+  - Arthur
+  lang:
+  - bg
+  origin:
+  - en
+Артём:
+  gender_flag: 2
+  lang:
+  - ru
+Аруай:
+  gender_flag: 1
+  lang:
+  - kk
+Аружан:
+  gender_flag: 1
+  lang:
+  - kk
+Арцём:
+  gender_flag: 2
+  lang:
+  - be
+Арчи:
+  gender_flag: 2
+  is_equivalent_to:
+  - Archie
+  lang:
+  - bg
+  origin:
+  - en
+Арыстан:
+  gender_flag: 2
+  lang:
+  - kk
+Арыстанбек:
+  gender_flag: 2
+  lang:
+  - kk
+Арістотель:
+  gender_flag: 2
+  lang:
+  - uk
+Асанбай:
+  gender_flag: 2
+  lang:
+  - kk
+Асанғали:
+  gender_flag: 2
+  lang:
+  - kk
+Аслангьери:
+  gender_flag: 2
+  lang:
+  - ab
+Асылбек:
+  gender_flag: 2
+  lang:
+  - kk
+Ася:
+  gender_flag: 1
+  is_equivalent_to:
+  - Asya
+  lang:
+  - ru
+Асқар:
+  gender_flag: 2
+  lang:
+  - kk
+Асҭамыр:
+  gender_flag: 2
+  lang:
+  - ab
+Атанас:
+  gender_flag: 2
+  is_equivalent_to:
+  - Athanasius
+  lang:
+  - mk
+Атена:
+  gender_flag: 1
+  lang:
+  - uk
+Атина:
+  gender_flag: 1
+  lang:
+  - mk
+Афанасий:
+  gender_flag: 2
+  lang:
+  - ru
+Афанасия:
+  gender_flag: 1
+  lang:
+  - ru
+Афанасій:
+  gender_flag: 2
+  lang:
+  - be
+Афасыжь:
+  gender_flag: 2
+  lang:
+  - uby
+Афердита: {}
+Афина:
+  gender_flag: 1
+  lang:
+  - ru
+Афродита:
+  gender_flag: 1
+  lang:
+  - ru
+Афіна:
+  gender_flag: 1
+  lang:
+  - uk
+Ахмет:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Аца:
+  gender_flag: 1
+  lang:
+  - mk
+Аце:
+  gender_flag: 2
+  lang:
+  - mk
+Ацко:
+  gender_flag: 2
+  lang:
+  - mk
+Ацо:
+  gender_flag: 2
+  is_short_for:
+  - Александар
+  lang:
+  - mk
+Ашли:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ashley
+  lang:
+  - bg
+  origin:
+  - en
+Ашраф:
+  gender_flag: 2
+  lang:
+  - tg
+Ашҳангьери:
+  gender_flag: 2
+  lang:
+  - ab
+Аэлита:
+  gender_flag: 1
+  lang:
+  - ru
+Аюхан:
+  gender_flag: 2
+  lang:
+  - kk
+Аяжан:
+  gender_flag: 1
+  lang:
+  - kk
+Аяужан:
+  gender_flag: 1
+  lang:
+  - kk
+Ања:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anya
+  lang:
+  - mk
+Аўдоцця:
+  gender_flag: 1
+  lang:
+  - be
+Ағила:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Ақбота:
+  gender_flag: 1
+  lang:
+  - kk
+Ақгүл:
+  gender_flag: 1
+  lang:
+  - kk
+Ақерке:
+  gender_flag: 1
+  lang:
+  - kk
+Ақжан:
+  gender_flag: 7
+  lang:
+  - kk
+Ақжол:
+  gender_flag: 2
+  lang:
+  - kk
+Ақкүміс:
+  gender_flag: 1
+  lang:
+  - kk
+Аққу:
+  gender_flag: 7
+  lang:
+  - kk
+Аҟәлангьери:
+  gender_flag: 2
+  lang:
+  - ab
+Аҡмал:
+  gender_flag: 2
+  lang:
+  - ba
+Аңсар:
+  gender_flag: 2
+  lang:
+  - kk
+Аҳмад:
+  gender_flag: 2
+  lang:
+  - tg
+Багдан:
+  gender_flag: 2
+  lang:
+  - be
+Багуслаў:
+  gender_flag: 2
+  lang:
+  - be
+Базарбай:
+  gender_flag: 2
+  lang:
+  - kk
+Базаргүл:
+  gender_flag: 1
+  lang:
+  - kk
+Байрамбикә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - trk
+Байрас:
+  gender_flag: 2
+  lang:
+  - ba
+Байысхан:
+  gender_flag: 2
+  lang:
+  - kk
+Балтабек:
+  gender_flag: 2
+  lang:
+  - kk
+Баныу:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - fa
+Бардил: {}
+Бардиљ: {}
+Барыс:
+  gender_flag: 2
+  lang:
+  - be
+Батима:
+  gender_flag: 1
+  lang:
+  - kk
+Баттулга:
+  gender_flag: 2
+  lang:
+  - mn
+Бауыржан:
+  gender_flag: 2
+  lang:
+  - kk
+Башир:
+  gender_flag: 2
+  lang:
+  - tg
+Бајрам:
+  gender_flag: 2
+  lang:
+  - mk
+Бағдат:
+  gender_flag: 2
+  lang:
+  - kk
+Бақаргүл:
+  gender_flag: 1
+  lang:
+  - kk
+Бақтияр:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - fa
+Бақытжан:
+  gender_flag: 2
+  lang:
+  - kk
+Бақьтор:
+  gender_flag: 2
+  is_equivalent_to:
+  - Victor
+  lang:
+  - ab
+Баҭал:
+  gender_flag: 2
+  lang:
+  - ab
+Баҭоӄәа:
+  gender_flag: 2
+  lang:
+  - uby
+Бейбіт:
+  gender_flag: 2
+  lang:
+  - kk
+Бейли:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bailee
+  - Baylee
+  lang:
+  - bg
+  origin:
+  - en
+Бейсен:
+  gender_flag: 2
+  lang:
+  - kk
+Бекболат:
+  gender_flag: 2
+  lang:
+  - kk
+Бекболот:
+  gender_flag: 2
+  lang:
+  - ky
+Бекжан:
+  gender_flag: 2
+  lang:
+  - ky
+Бекзат:
+  gender_flag: 2
+  lang:
+  - kk
+Бени:
+  gender_flag: 3
+  is_equivalent_to:
+  - Benny
+  lang:
+  - bg
+  origin:
+  - en
+Бенуа: {}
+Бердібек:
+  gender_flag: 2
+  lang:
+  - kk
+Бердіқұл:
+  gender_flag: 2
+  lang:
+  - kk
+Бермет:
+  gender_flag: 1
+  lang:
+  - ky
+Бесим: {}
+Бесиме: {}
+Бесник: {}
+Беснике: {}
+Бет:
+  gender_flag: 1
+  is_equivalent_to:
+  - Beth
+  lang:
+  - bg
+  origin:
+  - en
+Бети:
+  gender_flag: 1
+  is_equivalent_to:
+  - Betty
+  is_short_for:
+  - Елизабета
+  lang:
+  - mk
+Беқьыр:
+  gender_flag: 2
+  lang:
+  - ab
+Беҳрӯз:
+  gender_flag: 2
+  lang:
+  - tg
+Бзагьаус:
+  gender_flag: 2
+  lang:
+  - ab
+Бианка:
+  gender_flag: 1
+  is_equivalent_to:
+  - Blanche
+  lang:
+  - bg
+  origin:
+  - it
+Бибігүл:
+  gender_flag: 1
+  lang:
+  - kk
+Бикбулат:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - fa
+Биле:
+  gender_flag: 1
+  is_short_for:
+  - Билјана
+  lang:
+  - mk
+Билјан:
+  gender_flag: 2
+  lang:
+  - mk
+Билјана:
+  gender_flag: 1
+  lang:
+  - mk
+Бисера:
+  gender_flag: 1
+  is_a_variant_of:
+  - Бисерка
+  lang:
+  - mk
+Бисерка:
+  gender_flag: 1
+  is_a_variant_of:
+  - Бисера
+  lang:
+  - mk
+Бистра:
+  gender_flag: 1
+  lang:
+  - mk
+Блага:
+  gender_flag: 1
+  lang:
+  - mk
+Благо:
+  gender_flag: 2
+  lang:
+  - sh
+Благовест:
+  gender_flag: 2
+  lang:
+  - bg
+Благовеста:
+  gender_flag: 1
+  lang:
+  - bg
+Благой:
+  gender_flag: 2
+  lang:
+  - bg
+Благоја:
+  gender_flag: 2
+  lang:
+  - mk
+Благоје:
+  gender_flag: 2
+  lang:
+  - sh
+Блерим: {}
+Блок: {}
+Бобана:
+  gender_flag: 1
+  lang:
+  - mk
+Боби: {}
+Богда:
+  gender_flag: 1
+  lang:
+  - mk
+Богдан:
+  gender_flag: 2
+  lang:
+  - mk
+  - ru
+  - sh
+  - uk
+Богдана:
+  gender_flag: 1
+  lang:
+  - mk
+  - uk
+Богданка:
+  gender_flag: 1
+  lang:
+  - mk
+Богољуб:
+  gender_flag: 2
+  lang:
+  - sh
+Богуслав:
+  gender_flag: 2
+  lang:
+  - uk
+Божидар:
+  gender_flag: 2
+  lang:
+  - bg
+  origin:
+  - grc
+Боки:
+  gender_flag: 2
+  is_short_for:
+  - Бојан
+  lang:
+  - mk
+Болат:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - fa
+Болеслав:
+  gender_flag: 2
+  lang:
+  - ru
+Боранбай:
+  gender_flag: 2
+  lang:
+  - kk
+Борежә:
+  gender_flag: 2
+  lang:
+  - uby
+Борис:
+  gender_flag: 2
+  lang:
+  - bg
+  - mk
+  - ru
+  - sh
+  - uk
+Борислав:
+  gender_flag: 2
+  lang:
+  - sh
+Борка:
+  gender_flag: 1
+  lang:
+  - mk
+Боря:
+  gender_flag: 2
+  lang:
+  - ru
+Борјан:
+  gender_flag: 2
+  lang:
+  - mk
+Босилка:
+  gender_flag: 1
+  lang:
+  - mk
+Босилко:
+  gender_flag: 2
+  lang:
+  - mk
+Ботакөз:
+  gender_flag: 1
+  lang:
+  - kk
+Боян:
+  gender_flag: 2
+  lang:
+  - bg
+Бојан:
+  gender_flag: 2
+  lang:
+  - mk
+  - sh
+Бојана:
+  gender_flag: 1
+  lang:
+  - mk
+Брадли:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bradley
+  lang:
+  - bg
+  origin:
+  - en
+Брайан:
+  gender_flag: 2
+  is_equivalent_to:
+  - Brian
+  - Bryan
+  lang:
+  - ru
+  origin:
+  - en
+Бранислав:
+  gender_flag: 2
+  lang:
+  - sh
+Бранка:
+  gender_flag: 1
+  lang:
+  - mk
+  - sh
+Бранко:
+  gender_flag: 2
+  lang:
+  - mk
+  - sh
+Браніслава:
+  gender_flag: 1
+  lang:
+  - be
+Браніслаў:
+  gender_flag: 2
+  lang:
+  - be
+Броніслав:
+  gender_flag: 2
+  lang:
+  - uk
+Броніслава:
+  gender_flag: 1
+  lang:
+  - uk
+Булат:
+  gender_flag: 2
+  lang:
+  - ba
+  - ru
+  - tt
+  origin:
+  - fa
+Біржан:
+  gender_flag: 2
+  lang:
+  - kk
+Бүркітбай:
+  gender_flag: 2
+  lang:
+  - kk
+Бәкір:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Бөртэ:
+  gender_flag: 1
+  lang:
+  - mn
+Бөріхан:
+  gender_flag: 2
+  lang:
+  - kk
+В'ячеслав:
+  gender_flag: 2
+  lang:
+  - uk
+В'ячеслава:
+  gender_flag: 1
+  lang:
+  - uk
+Ваагн:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vahagn
+  lang:
+  - ru
+  origin:
+  - hy
+Вадзім:
+  gender_flag: 2
+  lang:
+  - be
+Вадим:
+  gender_flag: 2
+  lang:
+  - ru
+  - uk
+Валентин:
+  gender_flag: 2
+  is_equivalent_to:
+  - Valentine
+  lang:
+  - ru
+  - uk
+  origin:
+  - la
+Валентина:
+  gender_flag: 1
+  is_equivalent_to:
+  - Valentina
+  lang:
+  - mk
+  - ru
+  - uk
+Валера:
+  gender_flag: 3
+  lang:
+  - ru
+Валерий:
+  gender_flag: 2
+  lang:
+  - ru
+Валерия:
+  gender_flag: 1
+  lang:
+  - ru
+Валерый:
+  gender_flag: 2
+  lang:
+  - be
+Валя:
+  gender_flag: 3
+  lang:
+  - ru
+Валянцін:
+  gender_flag: 2
+  lang:
+  - be
+Ванда:
+  gender_flag: 1
+  lang:
+  - be
+Ваня:
+  gender_flag: 2
+  lang:
+  - ru
+Ванѓа:
+  gender_flag: 1
+  lang:
+  - mk
+Варвара:
+  gender_flag: 1
+  lang:
+  - be
+  - mk
+  - ru
+Варфоломей:
+  gender_flag: 2
+  lang:
+  - ru
+Варфоломій:
+  gender_flag: 2
+  lang:
+  - uk
+Васил:
+  gender_flag: 2
+  is_equivalent_to:
+  - Basil
+  lang:
+  - bg
+  - mk
+Василий:
+  gender_flag: 2
+  is_equivalent_to:
+  - Basil
+  - Vasilios
+  lang:
+  - bg
+  - ru
+Василиса:
+  gender_flag: 1
+  lang:
+  - ru
+Василка:
+  gender_flag: 1
+  lang:
+  - bg
+  - mk
+Василь:
+  gender_flag: 2
+  lang:
+  - uk
+Васьк:
+  gender_flag: 2
+  lang:
+  - sia
+Вася:
+  gender_flag: 2
+  lang:
+  - ru
+Васіль:
+  gender_flag: 2
+  lang:
+  - be
+Везир:
+  gender_flag: 2
+  lang:
+  - mk
+Везирка:
+  gender_flag: 1
+  lang:
+  - mk
+Велибор:
+  gender_flag: 2
+  lang:
+  - mk
+Велизар:
+  gender_flag: 2
+  lang:
+  - bg
+  - sh
+Велимир:
+  gender_flag: 2
+  lang:
+  - mk
+Велјан:
+  gender_flag: 2
+  lang:
+  - mk
+Венедикт:
+  gender_flag: 2
+  lang:
+  - ru
+Венера:
+  gender_flag: 1
+  lang:
+  - ru
+Вениамин:
+  gender_flag: 2
+  lang:
+  - ru
+Венко:
+  gender_flag: 2
+  lang:
+  - mk
+Вера:
+  gender_flag: 1
+  lang:
+  - be
+  - mk
+  - ru
+Вероника:
+  gender_flag: 1
+  is_equivalent_to:
+  - Veronica
+  lang:
+  - mk
+  - ru
+  origin:
+  - grc
+Вероніка:
+  gender_flag: 1
+  lang:
+  - uk
+Верче:
+  gender_flag: 1
+  is_short_for:
+  - Вера
+  lang:
+  - mk
+Весела:
+  gender_flag: 1
+  is_a_variant_of:
+  - Веселинка
+  - Веселка
+  lang:
+  - mk
+Веселин:
+  gender_flag: 2
+  lang:
+  - mk
+Веселина:
+  gender_flag: 1
+  lang:
+  - bg
+Веселинка:
+  gender_flag: 1
+  is_a_variant_of:
+  - Весела
+  - Веселка
+  lang:
+  - mk
+Веселка:
+  gender_flag: 1
+  is_a_variant_of:
+  - Весела
+  - Веселинка
+  lang:
+  - mk
+Весна:
+  gender_flag: 1
+  lang:
+  - mk
+  - ru
+  - sh
+Виден:
+  gender_flag: 2
+  lang:
+  - bg
+Вики:
+  gender_flag: 1
+  is_equivalent_to:
+  - Vicky
+  is_short_for:
+  - Викторија
+  lang:
+  - mk
+Виктор:
+  gender_flag: 2
+  lang:
+  - mk
+  - ru
+Виктория:
+  gender_flag: 1
+  lang:
+  - ru
+Викторија:
+  gender_flag: 1
+  is_equivalent_to:
+  - Victoria
+  lang:
+  - sh
+Вилдан:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Виолета:
+  gender_flag: 1
+  is_equivalent_to:
+  - Violet
+  lang:
+  - mk
+Виссарион:
+  gender_flag: 2
+  lang:
+  - ru
+Виталий:
+  gender_flag: 2
+  lang:
+  - ru
+Влад:
+  gender_flag: 2
+  lang:
+  - ru
+  - uk
+Влада:
+  gender_flag: 1
+  lang:
+  - uk
+Владимир:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vladimir
+  lang:
+  - mk
+  - ru
+Владислав:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vladislav
+  lang:
+  - mk
+  - ru
+  - uk
+Владислава:
+  gender_flag: 1
+  lang:
+  - uk
+Вова:
+  gender_flag: 2
+  lang:
+  - ru
+Вован:
+  gender_flag: 2
+  lang:
+  - ru
+Володимир:
+  gender_flag: 2
+  lang:
+  - uk
+Володимира:
+  gender_flag: 1
+  lang:
+  - uk
+Володимѣръ:
+  gender_flag: 2
+  lang:
+  - orv
+Володя:
+  gender_flag: 2
+  lang:
+  - ru
+Вольга:
+  gender_flag: 1
+  lang:
+  - be
+Војдан:
+  gender_flag: 2
+  lang:
+  - mk
+Војислав:
+  gender_flag: 2
+  lang:
+  - sh
+Всеволод:
+  gender_flag: 2
+  lang:
+  - ru
+  - uk
+Вэттэр:
+  gender_flag: 2
+  lang:
+  - sia
+Вяра:
+  gender_flag: 1
+  lang:
+  - bg
+Вячаслаў:
+  gender_flag: 2
+  lang:
+  - be
+Вячеслав:
+  gender_flag: 2
+  lang:
+  - ru
+Вівдя:
+  gender_flag: 1
+  lang:
+  - uk
+Вікенцій:
+  gender_flag: 2
+  lang:
+  - be
+Віктар:
+  gender_flag: 2
+  lang:
+  - be
+Віктор:
+  gender_flag: 2
+  lang:
+  - uk
+Вікторыя:
+  gender_flag: 1
+  lang:
+  - be
+Вікторія:
+  gender_flag: 1
+  lang:
+  - uk
+Віра:
+  gender_flag: 1
+  lang:
+  - uk
+Віталій:
+  gender_flag: 2
+  lang:
+  - be
+Вітаўт:
+  gender_flag: 2
+  lang:
+  - be
+Віялета:
+  gender_flag: 1
+  lang:
+  - be
+Вјолца: {}
+Вѧцьславе:
+  gender_flag: 2
+  is_equivalent_to:
+  - Wenceslaus
+  lang:
+  - zle-ono
+Вәхит:
+  gender_flag: 2
+  lang:
+  - ba
+Г'юстон: {}
+Габдулла:
+  gender_flag: 2
+  lang:
+  - tt
+  origin:
+  - ar
+Габриела:
+  gender_flag: 1
+  is_equivalent_to:
+  - Gabriella
+  lang:
+  - mk
+Гавриил:
+  gender_flag: 2
+  lang:
+  - ru
+Гаврил:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gabriel
+  lang:
+  - mk
+Гаврило:
+  gender_flag: 2
+  lang:
+  - uk
+Галина:
+  gender_flag: 1
+  lang:
+  - ru
+  - uk
+Галя:
+  gender_flag: 1
+  lang:
+  - ru
+Галіна:
+  gender_flag: 1
+  lang:
+  - be
+Гандалф:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gandalf
+  lang:
+  - bg
+Ганна:
+  gender_flag: 1
+  lang:
+  - be
+  - uk
+Гардзей:
+  gender_flag: 2
+  lang:
+  - be
+Гарик:
+  gender_flag: 2
+  lang:
+  - ru
+Гариф:
+  gender_flag: 2
+  lang:
+  - tt
+  origin:
+  - ar
+Гарифулла:
+  gender_flag: 2
+  lang:
+  - tt
+  origin:
+  - ar
+Гауһар:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - fa
+Гаўрыла:
+  gender_flag: 2
+  lang:
+  - be
+Гезим: {}
+Генадзь:
+  gender_flag: 2
+  lang:
+  - be
+Генадзій:
+  gender_flag: 2
+  lang:
+  - be
+Геннадий:
+  gender_flag: 2
+  lang:
+  - ru
+Геннадій:
+  gender_flag: 2
+  lang:
+  - uk
+Генрих:
+  gender_flag: 2
+  lang:
+  - ru
+Георгий:
+  gender_flag: 2
+  lang:
+  - ru
+Георгій:
+  gender_flag: 2
+  lang:
+  - be
+  - uk
+Герасим:
+  gender_flag: 2
+  lang:
+  - bg
+  - mk
+  - ru
+  - sh
+Герасім:
+  gender_flag: 2
+  lang:
+  - be
+Гервасій:
+  gender_flag: 2
+  lang:
+  - uk
+Гергана:
+  gender_flag: 1
+  lang:
+  - bg
+Герда:
+  gender_flag: 1
+  is_equivalent_to:
+  - Gerda
+  lang:
+  - ru
+Герман:
+  gender_flag: 2
+  is_equivalent_to:
+  - Herman
+  lang:
+  - ru
+  - uk
+Гзим: {}
+Гинка:
+  gender_flag: 1
+  lang:
+  - bg
+Глеб:
+  gender_flag: 2
+  lang:
+  - be
+  - ru
+Глигор:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - mk
+Гликерия:
+  gender_flag: 1
+  lang:
+  - ru
+Гліб:
+  gender_flag: 2
+  lang:
+  - uk
+Гобәйдулла:
+  gender_flag: 2
+  lang:
+  - tt
+  origin:
+  - ar
+Горазд:
+  gender_flag: 2
+  lang:
+  - mk
+Горан:
+  gender_flag: 2
+  lang:
+  - bg
+  - mk
+  - sh
+Горацій:
+  gender_flag: 2
+  lang:
+  - uk
+Гордана:
+  gender_flag: 1
+  lang:
+  - mk
+  - sh
+Гордей:
+  gender_flag: 2
+  lang:
+  - ru
+Гордій:
+  gender_flag: 2
+  lang:
+  - uk
+Гоца:
+  gender_flag: 1
+  lang:
+  - mk
+Гоце:
+  gender_flag: 2
+  lang:
+  - mk
+Григорий:
+  gender_flag: 2
+  lang:
+  - ru
+Григорій:
+  gender_flag: 2
+  lang:
+  - uk
+Григір:
+  gender_flag: 2
+  lang:
+  - uk
+Гриць:
+  gender_flag: 2
+  lang:
+  - uk
+Гриша:
+  gender_flag: 2
+  lang:
+  - ru
+Грозда:
+  gender_flag: 1
+  lang:
+  - bg
+Гулабинка:
+  gender_flag: 1
+  lang:
+  - mk
+Гүзәл:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - trk
+Гүлажар:
+  gender_flag: 1
+  lang:
+  - kk
+Гүлай:
+  gender_flag: 1
+  lang:
+  - kk
+Гүлбаршын:
+  gender_flag: 1
+  lang:
+  - kk
+Гүлбақыт:
+  gender_flag: 1
+  lang:
+  - kk
+Гүлболсын:
+  gender_flag: 1
+  lang:
+  - kk
+Гүлдана:
+  gender_flag: 1
+  lang:
+  - kk
+Гүлжан:
+  gender_flag: 1
+  lang:
+  - kk
+Гүлжауһар:
+  gender_flag: 1
+  lang:
+  - kk
+Гүлжигит:
+  gender_flag: 2
+  lang:
+  - ky
+Гүлмира:
+  gender_flag: 1
+  lang:
+  - kk
+Гүлнар:
+  gender_flag: 1
+  lang:
+  - kk
+Гүлнұр:
+  gender_flag: 1
+  lang:
+  - kk
+Гүлпариза:
+  gender_flag: 1
+  lang:
+  - kk
+Гүлфайрус:
+  gender_flag: 1
+  lang:
+  - kk
+Гүлфариза:
+  gender_flag: 1
+  lang:
+  - kk
+Гүлшара:
+  gender_flag: 1
+  lang:
+  - kk
+Гүлшат:
+  gender_flag: 1
+  lang:
+  - kk
+Гәдиса:
+  gender_flag: 2
+  lang:
+  - ab
+Гәымзаӷ:
+  gender_flag: 2
+  lang:
+  - uby
+Гәүһәр:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - fa
+Гөлбаныу:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - fa
+Гөлназ:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - fa
+Давид:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - mk
+  - ru
+  - uk
+Давор:
+  gender_flag: 2
+  lang:
+  - mk
+Давід:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - be
+  - rue
+Далибор:
+  gender_flag: 2
+  lang:
+  - mk
+  - sh
+Дамиан:
+  gender_flag: 2
+  is_equivalent_to:
+  - Damian
+  lang:
+  - ru
+Дамир:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - sla
+Дамінік:
+  gender_flag: 2
+  lang:
+  - be
+Дамініка:
+  gender_flag: 1
+  lang:
+  - be
+Дамјан:
+  gender_flag: 2
+  is_equivalent_to:
+  - Damien
+  lang:
+  - mk
+Данаҟаи:
+  gender_flag: 2
+  lang:
+  - ab
+Даниел:
+  gender_flag: 2
+  is_equivalent_to:
+  - Daniel
+  lang:
+  - mk
+Даниела:
+  gender_flag: 1
+  is_equivalent_to:
+  - Danielle
+  lang:
+  - mk
+Даниил:
+  gender_flag: 2
+  lang:
+  - ru
+Данило:
+  gender_flag: 2
+  lang:
+  - uk
+Даница:
+  gender_flag: 1
+  lang:
+  - sh
+Даниял:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Дар'я:
+  gender_flag: 1
+  lang:
+  - be
+Дараҭиа:
+  gender_flag: 2
+  lang:
+  - ab
+Дарина:
+  gender_flag: 1
+  lang:
+  - uk
+Дарио:
+  gender_flag: 2
+  is_equivalent_to:
+  - Darius
+  lang:
+  - mk
+Дариға:
+  gender_flag: 1
+  lang:
+  - kk
+Дарко:
+  gender_flag: 2
+  lang:
+  - mk
+Дарья:
+  gender_flag: 1
+  lang:
+  - ru
+Дарій:
+  gender_flag: 2
+  is_equivalent_to:
+  - Darius
+  lang:
+  - uk
+  origin:
+  - peo
+Дастан:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - fa
+Дауыт:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Дафина:
+  gender_flag: 1
+  is_equivalent_to:
+  - Daphne
+  lang:
+  - mk
+Даша:
+  gender_flag: 1
+  lang:
+  - ru
+Даян:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Делјан:
+  gender_flag: 2
+  lang:
+  - mk
+Демьян:
+  gender_flag: 2
+  lang:
+  - ru
+Денис:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dennis
+  lang:
+  - ru
+  - sh
+  - uk
+Деница:
+  gender_flag: 1
+  lang:
+  - bg
+Десислава:
+  gender_flag: 1
+  lang:
+  - bg
+Деспина:
+  gender_flag: 1
+  lang:
+  - mk
+Дејан:
+  gender_flag: 2
+  lang:
+  - mk
+Дејвид: {}
+Деңиз:
+  gender_flag: 7
+  lang:
+  - ky
+  origin:
+  - trk-pro
+Джеймс:
+  gender_flag: 2
+  is_equivalent_to:
+  - James
+  lang:
+  - ru
+Джийн:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jean
+  lang:
+  - bg
+Джон:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - ru
+  origin:
+  - en
+Джордж:
+  is_equivalent_to:
+  - George
+  lang:
+  - ru
+Джослин:
+  gender_flag: 7
+  is_equivalent_to:
+  - Jocelyn
+  lang:
+  - bg
+Дзвенислава:
+  gender_flag: 1
+  lang:
+  - uk
+Дзмітрый:
+  gender_flag: 2
+  lang:
+  - be
+Дзяніс:
+  gender_flag: 2
+  lang:
+  - be
+Диана:
+  gender_flag: 1
+  is_equivalent_to:
+  - Diana
+  lang:
+  - ru
+Дилбәр:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - fa
+Дим:
+  gender_flag: 2
+  lang:
+  - ba
+Дима:
+  gender_flag: 2
+  lang:
+  - ru
+Димитар:
+  gender_flag: 2
+  is_equivalent_to:
+  - Demetrius
+  lang:
+  - mk
+Димитрија:
+  gender_flag: 2
+  lang:
+  - mk
+Димитър:
+  gender_flag: 2
+  is_equivalent_to:
+  - Demetrius
+  lang:
+  - bg
+Димон:
+  gender_flag: 2
+  lang:
+  - ru
+Димче:
+  gender_flag: 2
+  lang:
+  - mk
+Дина:
+  gender_flag: 1
+  is_equivalent_to:
+  - Dina
+  lang:
+  - kk
+  - ru
+Динара:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Динмөхәмәт:
+  gender_flag: 2
+  lang:
+  - ba
+Дмитрий:
+  gender_flag: 2
+  lang:
+  - ru
+Дмитро:
+  gender_flag: 2
+  lang:
+  - uk
+Добриня:
+  gender_flag: 2
+  lang:
+  - bg
+Добромира:
+  gender_flag: 1
+  lang:
+  - bg
+Довуд:
+  gender_flag: 2
+  lang:
+  - tg
+Домініка:
+  gender_flag: 1
+  lang:
+  - uk
+Донка:
+  gender_flag: 1
+  lang:
+  - mk
+Дончо:
+  gender_flag: 2
+  lang:
+  - mk
+Дорж:
+  gender_flag: 2
+  lang:
+  - mn
+Доржо:
+  gender_flag: 2
+  lang:
+  - bua
+Доржу:
+  gender_flag: 2
+  lang:
+  - tyv
+Дорофей:
+  gender_flag: 2
+  lang:
+  - ru
+Дос:
+  gender_flag: 2
+  lang:
+  - kk
+Досай:
+  gender_flag: 2
+  lang:
+  - kk
+Драган:
+  gender_flag: 2
+  lang:
+  - bg
+  - mk
+  - sh
+Драгана:
+  gender_flag: 1
+  lang:
+  - mk
+Драгой:
+  gender_flag: 2
+  lang:
+  - bg
+Драгољуб:
+  gender_flag: 2
+  lang:
+  - sh
+Дражен:
+  gender_flag: 2
+  lang:
+  - sh
+Дуна:
+  gender_flag: 1
+  lang:
+  - mk
+Дунавка:
+  gender_flag: 1
+  lang:
+  - mk
+Душан:
+  gender_flag: 2
+  lang:
+  - bg
+  - mk
+Душица:
+  gender_flag: 1
+  lang:
+  - mk
+Душко:
+  gender_flag: 2
+  is_short_for:
+  - Душан
+  lang:
+  - mk
+Дуња:
+  gender_flag: 1
+  lang:
+  - mk
+Дэвид:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - ru
+Діана:
+  gender_flag: 1
+  is_equivalent_to:
+  - Diana
+  lang:
+  - uk
+Ділдә:
+  gender_flag: 1
+  lang:
+  - kk
+Діма:
+  gender_flag: 2
+  lang:
+  - uk
+Дінмұхамед:
+  gender_flag: 2
+  lang:
+  - kk
+Дінмұхаммед:
+  gender_flag: 2
+  lang:
+  - kk
+Діонісій:
+  gender_flag: 2
+  lang:
+  - uk
+Дүйсен:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - fa
+Дүйсенғазы:
+  gender_flag: 2
+  lang:
+  - kk
+Дәлелхан:
+  gender_flag: 2
+  lang:
+  - kk
+Дәлила:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Дәнеш:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - fa
+Дәулет:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - fa
+Дәуіт:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Ебзыш:
+  gender_flag: 2
+  lang:
+  - uby
+Ебырҳам:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - ab
+Ева:
+  gender_flag: 1
+  lang:
+  - be
+  - mk
+  - ru
+Евгений:
+  gender_flag: 2
+  is_equivalent_to:
+  - Eugene
+  lang:
+  - ru
+Евгения:
+  gender_flag: 1
+  lang:
+  - ru
+Евгениј:
+  gender_flag: 2
+  is_equivalent_to:
+  - Eugene
+  lang:
+  - mk
+Евдоким:
+  gender_flag: 2
+  lang:
+  - ru
+Евдокия:
+  gender_flag: 1
+  lang:
+  - ru
+Евелина:
+  gender_flag: 1
+  lang:
+  - bg
+Евсей:
+  gender_flag: 2
+  lang:
+  - ru
+Егор:
+  gender_flag: 2
+  lang:
+  - ru
+Едвард:
+  gender_flag: 2
+  lang:
+  - uk
+Едуард:
+  gender_flag: 2
+  lang:
+  - uk
+Еділ:
+  gender_flag: 2
+  lang:
+  - kk
+Едіта:
+  gender_flag: 1
+  is_equivalent_to:
+  - Edith
+  lang:
+  - uk
+  origin:
+  - en
+Езаҭ:
+  gender_flag: 2
+  lang:
+  - ab
+Ейприл:
+  gender_flag: 1
+  is_equivalent_to:
+  - April
+  lang:
+  - bg
+Екатерина:
+  gender_flag: 1
+  lang:
+  - ru
+  - sh
+Елбиздико:
+  gender_flag: 2
+  lang:
+  - ru
+Елвін:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alvin
+  - Elvin
+  lang:
+  - uk
+  origin:
+  - ang
+  - en
+Елена:
+  gender_flag: 1
+  lang:
+  - bg
+  - mk
+  - ru
+Елерке:
+  gender_flag: 1
+  lang:
+  - kk
+Елизабета:
+  gender_flag: 1
+  is_equivalent_to:
+  - Elizabeth
+  lang:
+  - mk
+Елизавета:
+  gender_flag: 1
+  lang:
+  - ru
+Елисавета:
+  gender_flag: 1
+  is_equivalent_to:
+  - Elisabeth
+  lang:
+  - bg
+  - mk
+Елнұр:
+  gender_flag: 2
+  lang:
+  - kk
+Елізавета:
+  gender_flag: 1
+  lang:
+  - be
+Елҟан:
+  gender_flag: 2
+  lang:
+  - ab
+  - uby
+Емил:
+  gender_flag: 2
+  is_equivalent_to:
+  - Emil
+  lang:
+  - mk
+Емилија:
+  gender_flag: 1
+  is_equivalent_to:
+  - Emily
+  lang:
+  - mk
+Емілія:
+  gender_flag: 1
+  lang:
+  - uk
+Ена:
+  gender_flag: 1
+  lang:
+  - mk
+Еней:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aeneas
+  lang:
+  - uk
+  origin:
+  - grc
+Ербол:
+  gender_flag: 2
+  lang:
+  - kk
+Ерболат:
+  gender_flag: 2
+  lang:
+  - kk
+Ербосын:
+  gender_flag: 2
+  lang:
+  - kk
+Ережеп:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Ерекен:
+  gender_flag: 2
+  lang:
+  - kk
+Ериуара:
+  gender_flag: 1
+  lang:
+  - ab
+Еркебұлан:
+  gender_flag: 2
+  lang:
+  - kk
+Еркін:
+  gender_flag: 2
+  lang:
+  - kk
+Ерлан:
+  gender_flag: 2
+  lang:
+  - kk
+Ермак:
+  gender_flag: 2
+  lang:
+  - ru
+Ермек:
+  gender_flag: 2
+  lang:
+  - kk
+Ермолай:
+  gender_flag: 2
+  lang:
+  - ru
+Ермұхамет:
+  gender_flag: 2
+  lang:
+  - kk
+Ерік:
+  gender_flag: 2
+  lang:
+  - kk
+Есбосын:
+  gender_flag: 2
+  lang:
+  - kk
+Есенгелді:
+  gender_flag: 2
+  lang:
+  - kk
+Ескендір:
+  gender_flag: 2
+  lang:
+  - kk
+Еслам:
+  gender_flag: 2
+  lang:
+  - ab
+Есфирь:
+  gender_flag: 1
+  lang:
+  - ru
+Есыф:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - ab
+Есҳаҟ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaac
+  lang:
+  - ab
+Ефим:
+  gender_flag: 2
+  lang:
+  - ru
+Ешсоу:
+  gender_flag: 2
+  lang:
+  - ab
+Еўдакім:
+  gender_flag: 2
+  lang:
+  - be
+Еўдакія:
+  gender_flag: 1
+  lang:
+  - be
+Еқәыԥ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - ab
+Жабайхан:
+  gender_flag: 2
+  lang:
+  - kk
+Жазира:
+  gender_flag: 1
+  lang:
+  - kk
+Жаклина:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jacqueline
+  lang:
+  - mk
+Жакып:
+  gender_flag: 2
+  lang:
+  - ky
+  origin:
+  - ar
+Жамал:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Жамалбек:
+  gender_flag: 2
+  lang:
+  - kk
+Жамъян:
+  gender_flag: 2
+  lang:
+  - mn
+  origin:
+  - xct
+Жан:
+  gender_flag: 2
+  lang:
+  - mk
+Жана:
+  gender_flag: 1
+  lang:
+  - be
+  - mk
+Жанар:
+  gender_flag: 1
+  lang:
+  - kk
+Жанбек:
+  gender_flag: 2
+  lang:
+  - kk
+Жанболат:
+  gender_flag: 2
+  lang:
+  - kk
+Жанболот:
+  gender_flag: 2
+  lang:
+  - ky
+Жандос:
+  gender_flag: 2
+  lang:
+  - kk
+Жанета:
+  gender_flag: 1
+  lang:
+  - be
+Жанка:
+  gender_flag: 1
+  lang:
+  - mk
+Жанко:
+  gender_flag: 2
+  lang:
+  - mk
+Жанна:
+  gender_flag: 1
+  lang:
+  - ru
+  - uk
+Жаннұр:
+  gender_flag: 1
+  lang:
+  - kk
+Жанпейіс:
+  gender_flag: 2
+  lang:
+  - kk
+Жансая:
+  gender_flag: 1
+  lang:
+  - kk
+Жанқуат:
+  gender_flag: 2
+  lang:
+  - kk
+Жарасбай:
+  gender_flag: 2
+  lang:
+  - kk
+Жарасқан:
+  gender_flag: 2
+  lang:
+  - kk
+Жарко:
+  gender_flag: 2
+  lang:
+  - mk
+Жармұхамед:
+  gender_flag: 2
+  lang:
+  - kk
+Жармұхамет:
+  gender_flag: 2
+  lang:
+  - kk
+Жармұқамет:
+  gender_flag: 2
+  lang:
+  - kk
+Жауынбай:
+  gender_flag: 2
+  lang:
+  - kk
+Жақия:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Жақсыбек:
+  gender_flag: 2
+  lang:
+  - kk
+Жақып:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Жақыпбек:
+  gender_flag: 2
+  lang:
+  - kk
+Жаңабай:
+  gender_flag: 2
+  lang:
+  - kk
+Жаңабек:
+  gender_flag: 2
+  lang:
+  - kk
+Жеменей:
+  gender_flag: 2
+  lang:
+  - kk
+Женя:
+  gender_flag: 3
+  lang:
+  - ru
+Жеңіс:
+  gender_flag: 2
+  lang:
+  - kk
+Жибек:
+  gender_flag: 1
+  lang:
+  - ky
+Живка:
+  gender_flag: 1
+  lang:
+  - bg
+Живко:
+  gender_flag: 2
+  lang:
+  - mk
+Жиꙁнобоуде:
+  gender_flag: 2
+  lang:
+  - zle-ono
+Жозефина:
+  gender_flag: 1
+  lang:
+  - ru
+Жолбарыс:
+  gender_flag: 2
+  lang:
+  - kk
+Жолжақсы:
+  gender_flag: 7
+  lang:
+  - kk
+Жомарт:
+  gender_flag: 2
+  lang:
+  - kk
+Жомартбай:
+  gender_flag: 2
+  lang:
+  - kk
+Жора:
+  gender_flag: 2
+  lang:
+  - ru
+Жылқыбек:
+  gender_flag: 2
+  lang:
+  - kk
+Жыґимонтъ:
+  gender_flag: 2
+  lang:
+  - zle-ort
+  origin:
+  - lt
+Жібек:
+  gender_flag: 1
+  lang:
+  - kk
+Жүніс:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Жүсіп:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Жүсіпбек:
+  gender_flag: 2
+  lang:
+  - kk
+Жұлдыз:
+  gender_flag: 1
+  lang:
+  - kk
+Жұмабай:
+  gender_flag: 2
+  lang:
+  - kk
+Жұмамұрат:
+  gender_flag: 2
+  lang:
+  - kk
+Жұманазар:
+  gender_flag: 2
+  lang:
+  - kk
+Жұмағали:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Жұмақан:
+  gender_flag: 2
+  lang:
+  - kk
+Жұмекен:
+  gender_flag: 2
+  lang:
+  - kk
+Жәмила:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Жәраб:
+  gender_flag: 2
+  lang:
+  - ab
+Загир:
+  gender_flag: 2
+  lang:
+  - ru
+  origin:
+  - ar
+Замиля:
+  gender_flag: 1
+  lang:
+  - ru
+  origin:
+  - ar
+Зара:
+  gender_flag: 1
+  is_short_for:
+  - Захарина
+  lang:
+  - bg
+Зарема:
+  gender_flag: 1
+  lang:
+  - ru
+Зарина:
+  gender_flag: 1
+  lang:
+  - ru
+Зарҭыжә:
+  gender_flag: 2
+  lang:
+  - ab
+Зафас:
+  gender_flag: 2
+  lang:
+  - ab
+Зафҟара:
+  gender_flag: 2
+  lang:
+  - ab
+  - uby
+  origin:
+  - ady
+Захар:
+  gender_flag: 2
+  lang:
+  - ru
+  - uk
+Захарина:
+  gender_flag: 1
+  lang:
+  - bg
+Захарій:
+  gender_flag: 2
+  lang:
+  - uk
+Захра:
+  gender_flag: 1
+  lang:
+  - ru
+  origin:
+  - ar
+Заһир:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Здравка:
+  gender_flag: 1
+  lang:
+  - mk
+Здравко:
+  gender_flag: 2
+  lang:
+  - mk
+Зейнекүл:
+  gender_flag: 1
+  lang:
+  - kk
+Земфира:
+  gender_flag: 1
+  lang:
+  - ba
+  - ru
+Земфіра:
+  gender_flag: 1
+  lang:
+  - be
+  - uk
+Зенон:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zeno
+  lang:
+  - sh
+Зереԥс:
+  gender_flag: 2
+  lang:
+  - ab
+Зина:
+  gender_flag: 1
+  lang:
+  - ru
+Зинаида:
+  gender_flag: 1
+  lang:
+  - ru
+Зиновий:
+  gender_flag: 2
+  lang:
+  - ru
+Зиновій:
+  gender_flag: 2
+  lang:
+  - uk
+Зиновія:
+  gender_flag: 1
+  lang:
+  - uk
+Зифа:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - fa
+Зияда:
+  gender_flag: 1
+  lang:
+  - kk
+Злата:
+  gender_flag: 1
+  is_a_variant_of:
+  - Златка
+  lang:
+  - mk
+Златана:
+  gender_flag: 1
+  lang:
+  - mk
+Злате:
+  gender_flag: 2
+  is_a_variant_of:
+  - Златко
+  lang:
+  - mk
+Златка:
+  gender_flag: 1
+  is_a_variant_of:
+  - Злата
+  lang:
+  - mk
+Златко:
+  gender_flag: 2
+  is_a_variant_of:
+  - Злате
+  lang:
+  - mk
+Зоки:
+  gender_flag: 2
+  is_short_for:
+  - Зоран
+  lang:
+  - mk
+Зол:
+  gender_flag: 2
+  lang:
+  - tg
+Зора:
+  gender_flag: 1
+  lang:
+  - bg
+  - mk
+Зоран:
+  gender_flag: 2
+  lang:
+  - mk
+  - sh
+Зореслав:
+  gender_flag: 2
+  lang:
+  - uk
+Зореслава:
+  gender_flag: 1
+  lang:
+  - uk
+Зорица:
+  gender_flag: 1
+  lang:
+  - mk
+Зорян:
+  gender_flag: 2
+  lang:
+  - uk
+Зоряна:
+  gender_flag: 1
+  lang:
+  - uk
+Зося:
+  gender_flag: 1
+  lang:
+  - be
+  - ru
+  - uk
+Зоя:
+  gender_flag: 1
+  lang:
+  - ru
+  - uk
+Зуфар:
+  gender_flag: 2
+  lang:
+  - ru
+  origin:
+  - ar
+Зылиха:
+  gender_flag: 1
+  lang:
+  - kk
+Зіновій:
+  gender_flag: 2
+  lang:
+  - uk
+Зіновія:
+  gender_flag: 1
+  is_equivalent_to:
+  - Zenobia
+  lang:
+  - be
+  - uk
+  origin:
+  - grc
+Зұлпықар:
+  gender_flag: 2
+  lang:
+  - kk
+Зәйнулла:
+  gender_flag: 2
+  lang:
+  - ba
+Зәйнәб:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Зәйнәп:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Зәйтүнә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Зәкария:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Зәкәрия:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Зәкәриә:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Зөлфиә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - fa
+Зөлхизә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Зөләйха:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Зөләйхә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Зөфәр:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Зөһрә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Ибрахим:
+  gender_flag: 2
+  lang:
+  - kk
+  - sh
+  origin:
+  - ar
+Ибраһим:
+  gender_flag: 2
+  lang:
+  - ba
+  - kk
+  origin:
+  - ar
+Иброҳим:
+  gender_flag: 2
+  lang:
+  - tg
+Иван:
+  gender_flag: 2
+  lang:
+  - bg
+  - mk
+  - ru
+  - sh
+Ивана:
+  gender_flag: 1
+  lang:
+  - bg
+  - mk
+  - sh
+Ивка:
+  gender_flag: 1
+  lang:
+  - bg
+Ивона:
+  gender_flag: 1
+  is_equivalent_to:
+  - Yvonne
+  lang:
+  - mk
+Игнат:
+  gender_flag: 2
+  lang:
+  - ru
+Игнатий:
+  gender_flag: 2
+  lang:
+  - ru
+Игнато:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ignatius
+  lang:
+  - zle-ono
+Игор:
+  gender_flag: 2
+  is_equivalent_to:
+  - Igor
+  lang:
+  - mk
+Игорь:
+  gender_flag: 2
+  lang:
+  - orv
+  - ru
+Идрис:
+  gender_flag: 2
+  lang:
+  - tg
+Иессей:
+  gender_flag: 2
+  lang:
+  - ru
+Изабела:
+  gender_flag: 1
+  is_equivalent_to:
+  - Isabelle
+  lang:
+  - mk
+Изабелла:
+  gender_flag: 1
+  lang:
+  - ru
+Израиль:
+  gender_flag: 2
+  lang:
+  - ru
+Илдар:
+  gender_flag: 2
+  lang:
+  - ba
+Илина:
+  gender_flag: 1
+  lang:
+  - mk
+Илинден:
+  gender_flag: 2
+  lang:
+  - mk
+Илия:
+  gender_flag: 2
+  lang:
+  - ru
+Илияна:
+  gender_flag: 1
+  lang:
+  - bg
+Илија:
+  gender_flag: 2
+  is_equivalent_to:
+  - Elias
+  - Elijah
+  lang:
+  - mk
+  - sh
+Илка:
+  gender_flag: 1
+  lang:
+  - mk
+Илко:
+  gender_flag: 2
+  lang:
+  - mk
+Иллеп:
+  gender_flag: 2
+  lang:
+  - sia
+Илнур:
+  gender_flag: 2
+  lang:
+  - ba
+Илона:
+  gender_flag: 1
+  lang:
+  - ru
+Илья:
+  gender_flag: 2
+  lang:
+  - ru
+Ильяс:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Илёс:
+  gender_flag: 2
+  lang:
+  - tg
+  origin:
+  - ar
+  - he
+Илһам:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Иммануил:
+  gender_flag: 2
+  lang:
+  - ru
+Ина:
+  gender_flag: 1
+  is_short_for:
+  - Ивана
+  - Илина
+  lang:
+  - mk
+Инга:
+  gender_flag: 1
+  lang:
+  - ru
+Инесса:
+  gender_flag: 1
+  lang:
+  - ru
+Инна:
+  gender_flag: 1
+  lang:
+  - ru
+Иоанн:
+  gender_flag: 2
+  lang:
+  - ru
+Иоанна:
+  gender_flag: 1
+  lang:
+  - ru
+Иосиф:
+  gender_flag: 2
+  lang:
+  - ru
+Ипполит:
+  gender_flag: 2
+  lang:
+  - ru
+Ира:
+  gender_flag: 1
+  is_short_for:
+  - Ирина
+  lang:
+  - ru
+Ирена:
+  gender_flag: 1
+  is_equivalent_to:
+  - Irene
+  lang:
+  - mk
+Ирина:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ирена
+  is_equivalent_to:
+  - Irene
+  lang:
+  - mk
+  - ru
+Ириней:
+  gender_flag: 2
+  is_equivalent_to:
+  - Irenaeus
+  lang:
+  - ru
+Иса:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Исаак:
+  gender_flag: 2
+  lang:
+  - ru
+Исидора:
+  gender_flag: 1
+  lang:
+  - mk
+Искра:
+  gender_flag: 1
+  lang:
+  - mk
+Искәндәр:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Ислам:
+  gender_flag: 2
+  lang:
+  - kk
+  - mk
+Исламбек:
+  gender_flag: 2
+  lang:
+  - kk
+Исмаил:
+  gender_flag: 2
+  lang:
+  - mk
+Исрафил:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Исхақ:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Исҳоқ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaac
+  lang:
+  - tg
+Иштван:
+  gender_flag: 2
+  lang:
+  - sh
+Ия:
+  gender_flag: 1
+  lang:
+  - ru
+Иљбер: {}
+Иҙел:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - trk
+Иҙрис:
+  gender_flag: 2
+  lang:
+  - ba
+Йомабай:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - trk
+Йомабикә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - trk
+Йосип:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - uk
+Йосипа:
+  gender_flag: 1
+  is_equivalent_to:
+  - Josephine
+  lang:
+  - uk
+Йосоп:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Йыһанур:
+  gender_flag: 2
+  lang:
+  - ba
+Йәмил:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Йәмилә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Йәғәфәр:
+  gender_flag: 2
+  lang:
+  - ba
+Йәүҙәт:
+  gender_flag: 2
+  lang:
+  - ba
+Казімір:
+  gender_flag: 2
+  lang:
+  - be
+Калина:
+  gender_flag: 1
+  lang:
+  - bg
+  - mk
+Камол:
+  gender_flag: 2
+  lang:
+  - tg
+Кан: {}
+Кандрат:
+  gender_flag: 2
+  lang:
+  - be
+Канстанцін:
+  gender_flag: 2
+  lang:
+  - be
+Капитолина:
+  gender_flag: 1
+  lang:
+  - ru
+Кара-оол:
+  gender_flag: 2
+  lang:
+  - tyv
+Караліна:
+  gender_flag: 1
+  lang:
+  - be
+Карим:
+  gender_flag: 2
+  lang:
+  - tg
+Карина:
+  gender_flag: 1
+  lang:
+  - ru
+Карл:
+  gender_flag: 2
+  lang:
+  - be
+Каролина:
+  gender_flag: 1
+  lang:
+  - ru
+Касијан:
+  gender_flag: 2
+  lang:
+  - sh
+Катарина:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - sh
+Кате:
+  gender_flag: 1
+  is_equivalent_to:
+  - Kate
+  is_short_for:
+  - Катерина
+  lang:
+  - mk
+Катенька:
+  gender_flag: 1
+  lang:
+  - ru
+Катерина:
+  gender_flag: 1
+  lang:
+  - bg
+  - mk
+  - ru
+  - uk
+Катруся:
+  gender_flag: 1
+  lang:
+  - uk
+Катюша:
+  gender_flag: 1
+  lang:
+  - ru
+Катя:
+  gender_flag: 1
+  lang:
+  - ru
+Кацярына:
+  gender_flag: 1
+  lang:
+  - be
+Кейтлин:
+  gender_flag: 1
+  is_equivalent_to:
+  - Caitlin
+  lang:
+  - bg
+Кенжеғұл:
+  gender_flag: 2
+  lang:
+  - kk
+Керімбай:
+  gender_flag: 2
+  lang:
+  - kk
+Кеңгірбай:
+  gender_flag: 2
+  lang:
+  - kk
+Кизмида:
+  gender_flag: 1
+  lang:
+  - ru
+Кика:
+  gender_flag: 1
+  is_short_for:
+  - Кристина
+  lang:
+  - mk
+Кико:
+  gender_flag: 2
+  is_short_for:
+  - Христијан
+  lang:
+  - mk
+Ким:
+  gender_flag: 2
+  is_equivalent_to:
+  - Kim
+  lang:
+  - ru
+Кимет:
+  gender_flag: 2
+  lang:
+  - mk
+Кира:
+  gender_flag: 1
+  lang:
+  - ru
+Кире:
+  gender_flag: 2
+  is_short_for:
+  - Кирил
+  lang:
+  - mk
+Кирил:
+  gender_flag: 2
+  lang:
+  - mk
+Кирилл:
+  gender_flag: 2
+  lang:
+  - ru
+Кирило:
+  gender_flag: 2
+  lang:
+  - uk
+Клавдия:
+  gender_flag: 1
+  lang:
+  - ru
+Клавдія:
+  gender_flag: 1
+  lang:
+  - uk
+Клара:
+  gender_flag: 1
+  lang:
+  - ru
+Клим:
+  gender_flag: 2
+  lang:
+  - uk
+Климент:
+  gender_flag: 2
+  lang:
+  - mk
+Климентина:
+  gender_flag: 1
+  lang:
+  - mk
+Ко̄мыш:
+  gender_flag: 2
+  lang:
+  - sia
+Коля:
+  gender_flag: 2
+  lang:
+  - ru
+Колян:
+  gender_flag: 2
+  lang:
+  - ru
+Константин:
+  gender_flag: 2
+  is_equivalent_to:
+  - Constantine
+  lang:
+  - mk
+  - ru
+Коста:
+  gender_flag: 2
+  is_short_for:
+  - Костадин
+  lang:
+  - mk
+Костадин:
+  gender_flag: 2
+  is_equivalent_to:
+  - Constantine
+  lang:
+  - mk
+Костя:
+  gender_flag: 2
+  lang:
+  - ru
+Костянтин:
+  gender_flag: 2
+  lang:
+  - uk
+Кочо:
+  gender_flag: 2
+  lang:
+  - mk
+Кристина:
+  gender_flag: 1
+  lang:
+  - bg
+  - mk
+  - ru
+Кристијан:
+  gender_flag: 2
+  lang:
+  - mk
+Кръстан:
+  gender_flag: 2
+  lang:
+  - bg
+Крысціна:
+  gender_flag: 1
+  lang:
+  - be
+Ксена:
+  gender_flag: 1
+  lang:
+  - ru
+Ксения:
+  gender_flag: 1
+  lang:
+  - ru
+Ксенія:
+  gender_flag: 1
+  lang:
+  - be
+Кузьма:
+  gender_flag: 2
+  lang:
+  - be
+  - ru
+Курманбек:
+  gender_flag: 2
+  lang:
+  - ky
+Курманжан:
+  gender_flag: 1
+  lang:
+  - ky
+Къызбэч:
+  gender_flag: 2
+  lang:
+  - ady
+Кыдат:
+  gender_flag: 7
+  lang:
+  - alt
+Кьаб'ышәы:
+  gender_flag: 2
+  lang:
+  - uby
+Кьаӷәса:
+  gender_flag: 2
+  lang:
+  - ab
+Кэйсукэ:
+  gender_flag: 2
+  lang:
+  - ru
+  origin:
+  - ja
+Кірыл:
+  gender_flag: 2
+  lang:
+  - be
+Күнесхан:
+  gender_flag: 2
+  lang:
+  - kk
+Күнсұлу:
+  gender_flag: 1
+  lang:
+  - kk
+Кәбир:
+  gender_flag: 2
+  lang:
+  - ba
+Кәрім:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Лаврентій:
+  gender_flag: 2
+  lang:
+  - uk
+Лада:
+  gender_flag: 1
+  lang:
+  - ru
+Лазар:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lazarus
+  lang:
+  - mk
+  - sh
+Лара:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lara
+  lang:
+  - ru
+Лариса:
+  gender_flag: 1
+  lang:
+  - ru
+  - sh
+  - uk
+Ларыса:
+  gender_flag: 1
+  lang:
+  - be
+Латип:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Латипбай:
+  gender_flag: 2
+  lang:
+  - kk
+Латиф:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Лаўрэнцій:
+  gender_flag: 2
+  lang:
+  - be
+Лаҿыс:
+  gender_flag: 2
+  lang:
+  - ab
+Леанід:
+  gender_flag: 2
+  lang:
+  - be
+Лев:
+  gender_flag: 2
+  lang:
+  - ru
+  - uk
+Лейла:
+  gender_flag: 1
+  is_equivalent_to:
+  - Leila
+  lang:
+  - kk
+  - ru
+  origin:
+  - ar
+Лена:
+  gender_flag: 1
+  lang:
+  - mk
+  - ru
+Ленка:
+  gender_flag: 1
+  lang:
+  - mk
+Ленче:
+  gender_flag: 1
+  is_short_for:
+  - Ленка
+  lang:
+  - mk
+Леон:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leon
+  lang:
+  - ab
+Леона:
+  gender_flag: 1
+  lang:
+  - mk
+Леонид:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leonidas
+  lang:
+  - mk
+  - ru
+Леонтій:
+  gender_flag: 2
+  lang:
+  - uk
+Леонід:
+  gender_flag: 2
+  lang:
+  - uk
+Лида:
+  gender_flag: 1
+  lang:
+  - ru
+Лидия:
+  gender_flag: 1
+  lang:
+  - ru
+Лидија:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lydia
+  lang:
+  - mk
+Лила:
+  gender_flag: 1
+  lang:
+  - mk
+Лиле:
+  gender_flag: 1
+  lang:
+  - mk
+Лилиана:
+  gender_flag: 1
+  lang:
+  - ru
+Лилия:
+  gender_flag: 1
+  lang:
+  - ru
+Лилиә:
+  gender_flag: 1
+  lang:
+  - ba
+Лилјана:
+  gender_flag: 1
+  lang:
+  - mk
+Линдит: {}
+Линдита: {}
+Лиридона: {}
+Лирие: {}
+Логан:
+  gender_flag: 2
+  is_equivalent_to:
+  - Logan
+  lang:
+  - bg
+Лола:
+  gender_flag: 1
+  lang:
+  - tg
+Лопсаң:
+  gender_flag: 2
+  lang:
+  - tyv
+Лора:
+  gender_flag: 1
+  lang:
+  - ru
+Лоуис:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lois
+  lang:
+  - bg
+Луиджи: {}
+Лук'ян:
+  gender_flag: 2
+  lang:
+  - uk
+Лука:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lucas
+  - Lukas
+  - Luke
+  lang:
+  - mk
+  - ru
+  - sh
+  - uk
+Лукаш:
+  gender_flag: 2
+  lang:
+  - uk
+Лукія:
+  gender_flag: 1
+  lang:
+  - uk
+Луқмон:
+  gender_flag: 2
+  lang:
+  - tg
+  origin:
+  - ar
+Лхагва:
+  gender_flag: 2
+  lang:
+  - mn
+Лхама:
+  gender_flag: 1
+  lang:
+  - mn
+Люба:
+  gender_flag: 1
+  lang:
+  - ru
+Любов:
+  gender_flag: 1
+  lang:
+  - uk
+Любовь:
+  gender_flag: 1
+  lang:
+  - ru
+Людмила:
+  gender_flag: 1
+  lang:
+  - ru
+  - uk
+Люся:
+  gender_flag: 1
+  lang:
+  - ru
+Лёня:
+  gender_flag: 2
+  lang:
+  - ru
+Лёха:
+  gender_flag: 2
+  lang:
+  - ru
+Лёша:
+  gender_flag: 2
+  lang:
+  - ru
+Лідзія:
+  gender_flag: 1
+  lang:
+  - be
+Лідія:
+  gender_flag: 1
+  lang:
+  - uk
+Лілія:
+  gender_flag: 1
+  lang:
+  - uk
+Ләбиб:
+  gender_flag: 2
+  lang:
+  - ba
+Ләззат:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Ләйлә:
+  gender_flag: 1
+  lang:
+  - ba
+Ләйсән:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Ләтипа:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Магдалена:
+  gender_flag: 1
+  lang:
+  - be
+Магомет:
+  gender_flag: 2
+  lang:
+  - ru
+Мазҳар:
+  gender_flag: 2
+  lang:
+  - uby
+Мазҳаԥ:
+  gender_flag: 2
+  lang:
+  - uby
+Майк:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mike
+  lang:
+  - ru
+  origin:
+  - en
+Майка:
+  gender_flag: 1
+  is_short_for:
+  - Майя
+  lang:
+  - ru
+Майкл:
+  gender_flag: 2
+  lang:
+  - ru
+Майя:
+  gender_flag: 1
+  lang:
+  - ru
+  - uk
+Макар:
+  gender_flag: 2
+  lang:
+  - ru
+Макарий:
+  gender_flag: 2
+  lang:
+  - ru
+Македон:
+  gender_flag: 2
+  lang:
+  - mk
+Македонка:
+  gender_flag: 1
+  lang:
+  - mk
+Макс:
+  gender_flag: 2
+  lang:
+  - ru
+Максим:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maximus
+  lang:
+  - mk
+  - ru
+  - uk
+Максім:
+  gender_flag: 2
+  lang:
+  - be
+Малина:
+  gender_flag: 1
+  lang:
+  - mk
+Мамбет:
+  gender_flag: 2
+  lang:
+  - ky
+  origin:
+  - ar
+Мамбетаалы:
+  gender_flag: 2
+  lang:
+  - ky
+Мамбетказы:
+  gender_flag: 2
+  lang:
+  - ky
+Маня:
+  gender_flag: 1
+  lang:
+  - ru
+Мар'ян:
+  gender_flag: 2
+  lang:
+  - uk
+Мар'яна:
+  gender_flag: 1
+  lang:
+  - uk
+Мара:
+  gender_flag: 1
+  lang:
+  - mk
+Марат:
+  gender_flag: 2
+  lang:
+  - ba
+  - kk
+  origin:
+  - ar
+Маргарита:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  - Margarita
+  lang:
+  - ru
+Маргарыта:
+  gender_flag: 1
+  lang:
+  - be
+Марджана:
+  gender_flag: 1
+  lang:
+  - ru
+  origin:
+  - ar
+Марийка:
+  gender_flag: 1
+  lang:
+  - bg
+Марика:
+  gender_flag: 1
+  lang:
+  - mk
+Марина:
+  gender_flag: 1
+  is_equivalent_to:
+  - Marina
+  lang:
+  - mk
+  - ru
+Марио: {}
+Марица:
+  gender_flag: 1
+  lang:
+  - sh
+Мария:
+  gender_flag: 1
+  lang:
+  - ru
+Марияш:
+  gender_flag: 1
+  lang:
+  - kk
+Марија:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - mk
+  - sh
+Марк:
+  gender_flag: 2
+  lang:
+  - ru
+Марко:
+  gender_flag: 2
+  is_equivalent_to:
+  - Marcus
+  - Mark
+  lang:
+  - mk
+  - uk
+Маркс:
+  gender_flag: 2
+  lang:
+  - ru
+  origin:
+  - de
+Марта:
+  gender_flag: 1
+  is_equivalent_to:
+  - Martha
+  lang:
+  - mk
+  - uk
+Мартин:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - mk
+  - uk
+Мартина:
+  gender_flag: 1
+  is_equivalent_to:
+  - Martine
+  lang:
+  - mk
+Маруся:
+  gender_flag: 1
+  lang:
+  - uk
+Марфа:
+  gender_flag: 1
+  lang:
+  - ru
+Марына:
+  gender_flag: 1
+  lang:
+  - be
+Марыя:
+  gender_flag: 1
+  lang:
+  - be
+Марья:
+  gender_flag: 1
+  lang:
+  - ru
+Маріа:
+  gender_flag: 1
+  is_equivalent_to:
+  - Maria
+  - Mary
+  lang:
+  - cu
+Марічка:
+  gender_flag: 1
+  lang:
+  - uk
+Марія:
+  gender_flag: 1
+  lang:
+  - uk
+Марјан:
+  gender_flag: 2
+  lang:
+  - mk
+Марјана:
+  gender_flag: 1
+  is_equivalent_to:
+  - Marianne
+  lang:
+  - mk
+Матвей:
+  gender_flag: 2
+  lang:
+  - be
+  - ru
+Матвій:
+  gender_flag: 2
+  lang:
+  - uk
+Матеа:
+  gender_flag: 1
+  lang:
+  - mk
+Матеј:
+  gender_flag: 2
+  lang:
+  - mk
+Матильда:
+  gender_flag: 1
+  is_equivalent_to:
+  - Matilda
+  lang:
+  - ru
+Матија:
+  gender_flag: 2
+  lang:
+  - sh
+Матрёна:
+  gender_flag: 1
+  lang:
+  - ru
+Матфей:
+  gender_flag: 2
+  lang:
+  - ru
+Махамбет:
+  gender_flag: 2
+  lang:
+  - kk
+Махмұт:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мацвей:
+  gender_flag: 2
+  lang:
+  - be
+Маша:
+  gender_flag: 1
+  lang:
+  - ru
+Маја:
+  gender_flag: 1
+  is_equivalent_to:
+  - Maya
+  lang:
+  - mk
+Мајкл: {}
+Мағамбет:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мағауия:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мағжан:
+  gender_flag: 2
+  lang:
+  - kk
+Мақпал:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Маҳмаҭқьери:
+  gender_flag: 2
+  lang:
+  - ab
+Маҳмуд:
+  gender_flag: 2
+  lang:
+  - tg
+Медет:
+  gender_flag: 2
+  lang:
+  - kk
+Медина: {}
+Медуза:
+  gender_flag: 1
+  lang:
+  - ru
+Меланія:
+  gender_flag: 1
+  lang:
+  - uk
+Мелетий:
+  gender_flag: 2
+  lang:
+  - ru
+Мелетій:
+  gender_flag: 2
+  is_equivalent_to:
+  - Meletius
+  lang:
+  - uk
+  origin:
+  - la
+Мелисса:
+  gender_flag: 1
+  is_equivalent_to:
+  - Melissa
+  lang:
+  - ru
+  origin:
+  - grc
+Менәүрә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Мерген:
+  gender_flag: 2
+  lang:
+  - kk
+Мерседес:
+  gender_flag: 1
+  lang:
+  - ru
+  origin:
+  - es
+Методиј:
+  gender_flag: 2
+  is_equivalent_to:
+  - Methodius
+  lang:
+  - mk
+Мефодий:
+  gender_flag: 2
+  lang:
+  - ru
+Мехмед:
+  gender_flag: 2
+  is_a_variant_of:
+  - Muhammad
+  lang:
+  - sh
+Миа:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mia
+  lang:
+  - mk
+Микита:
+  gender_flag: 2
+  lang:
+  - uk
+Микола:
+  gender_flag: 2
+  is_equivalent_to:
+  - Nicholas
+  lang:
+  - uk
+Миколай:
+  gender_flag: 2
+  is_equivalent_to:
+  - Nicholas
+  lang:
+  - uk
+Мила:
+  gender_flag: 1
+  lang:
+  - bg
+  - mk
+  - ru
+Милан:
+  gender_flag: 2
+  is_equivalent_to:
+  - Milan
+  lang:
+  - bg
+  - mk
+  - sh
+Милана:
+  gender_flag: 1
+  is_a_variant_of:
+  - Миланка
+  lang:
+  - mk
+Миланка:
+  gender_flag: 1
+  is_a_variant_of:
+  - Милана
+  lang:
+  - mk
+Миланко:
+  gender_flag: 2
+  lang:
+  - mk
+Миланче:
+  gender_flag: 2
+  lang:
+  - mk
+Миланчо:
+  gender_flag: 2
+  lang:
+  - mk
+Миле:
+  gender_flag: 2
+  lang:
+  - mk
+Милица:
+  gender_flag: 1
+  lang:
+  - ru
+  - sh
+  origin:
+  - sh
+Милка:
+  gender_flag: 1
+  lang:
+  - mk
+  - sh
+Милко:
+  gender_flag: 2
+  lang:
+  - mk
+Милой:
+  gender_flag: 2
+  lang:
+  - bg
+Милорад:
+  gender_flag: 2
+  lang:
+  - sh
+Милослава:
+  gender_flag: 1
+  lang:
+  - ru
+Милош:
+  gender_flag: 2
+  lang:
+  - sh
+Миләүшә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - fa
+Мира:
+  gender_flag: 1
+  is_a_variant_of:
+  - Мирка
+  lang:
+  - mk
+Мире:
+  gender_flag: 2
+  is_a_variant_of:
+  - Мирко
+  - Мирче
+  - Мирчо
+  lang:
+  - mk
+Мирка:
+  gender_flag: 1
+  is_a_variant_of:
+  - Мира
+  lang:
+  - mk
+Мирко:
+  gender_flag: 2
+  is_a_variant_of:
+  - Мире
+  - Мирче
+  - Мирчо
+  lang:
+  - mk
+  - sh
+Мирослав:
+  gender_flag: 2
+  lang:
+  - mk
+  - sh
+  - uk
+Мирослава:
+  gender_flag: 1
+  lang:
+  - uk
+Мирче:
+  gender_flag: 2
+  is_a_variant_of:
+  - Мире
+  - Мирко
+  - Мирчо
+  lang:
+  - mk
+Мирчо:
+  gender_flag: 2
+  is_a_variant_of:
+  - Мире
+  - Мирко
+  - Мирче
+  lang:
+  - mk
+Мирјана:
+  gender_flag: 1
+  lang:
+  - mk
+  - sh
+Митре:
+  gender_flag: 2
+  lang:
+  - mk
+Митрофан:
+  gender_flag: 2
+  lang:
+  - ru
+Митя:
+  gender_flag: 2
+  lang:
+  - ru
+Михаел: {}
+Михаил:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - mk
+  - ru
+Михайло:
+  gender_flag: 2
+  lang:
+  - uk
+Михај:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - mk
+Мице:
+  gender_flag: 2
+  is_short_for:
+  - Мицко
+  lang:
+  - mk
+Мицко:
+  gender_flag: 2
+  lang:
+  - mk
+Миша:
+  gender_flag: 2
+  lang:
+  - ru
+Молдағали:
+  gender_flag: 2
+  lang:
+  - kk
+Моника:
+  gender_flag: 1
+  is_equivalent_to:
+  - Monica
+  lang:
+  - mk
+Морат:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Мортаза:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Мсоусҭ:
+  gender_flag: 2
+  lang:
+  - ab
+Мсціслаў:
+  gender_flag: 2
+  lang:
+  - be
+Муаззам:
+  gender_flag: 1
+  lang:
+  - tg
+  origin:
+  - ar
+Муллайән:
+  gender_flag: 2
+  lang:
+  - ba
+Муниса:
+  gender_flag: 1
+  lang:
+  - tg
+Муса:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Мусо:
+  gender_flag: 2
+  lang:
+  - tg
+Мустафо:
+  gender_flag: 2
+  lang:
+  - tg
+Муҳаммад:
+  gender_flag: 2
+  lang:
+  - tg
+  origin:
+  - ar
+Мырзайым:
+  gender_flag: 1
+  lang:
+  - ky
+Мырзатай:
+  gender_flag: 2
+  lang:
+  - kk
+Мырҙан:
+  gender_flag: 2
+  lang:
+  - ba
+Мыцҳәаркьыжьоу:
+  gender_flag: 2
+  lang:
+  - ab
+Мыңжасар:
+  gender_flag: 2
+  lang:
+  - kk
+Мьстиславъ:
+  gender_flag: 2
+  lang:
+  - orv
+Мэлс:
+  gender_flag: 2
+  lang:
+  - ru
+Мікалай:
+  gender_flag: 2
+  lang:
+  - be
+Мікіта:
+  gender_flag: 2
+  lang:
+  - be
+Мірон:
+  gender_flag: 2
+  lang:
+  - be
+Міхаіл:
+  gender_flag: 2
+  lang:
+  - be
+Мүбәрәк:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мүрсәлім:
+  gender_flag: 2
+  lang:
+  - kk
+Мүсілім:
+  gender_flag: 2
+  lang:
+  - kk
+Мүсірбек:
+  gender_flag: 2
+  lang:
+  - kk
+Мүсірәлі:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мүтәл:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мұртаза:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мұса:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мұсабек:
+  gender_flag: 2
+  lang:
+  - kk
+Мұсағали:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мұстафа:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мұхамбет:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мұхамбетжан:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мұхамбетқали:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мұхамбетқасым:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мұхамеджан:
+  gender_flag: 2
+  lang:
+  - kk
+Мұхтар:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мұқаметжан:
+  gender_flag: 2
+  lang:
+  - kk
+Мұқан:
+  gender_flag: 2
+  lang:
+  - kk
+Мұқағали:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мұқият:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мұңалбай:
+  gender_flag: 2
+  lang:
+  - kk
+Мәжит:
+  gender_flag: 2
+  lang:
+  - ba
+Мәлік:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мәнен:
+  gender_flag: 2
+  lang:
+  - kk
+Мәнсүр:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Мәриям:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Мәрйәм:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Мәсім:
+  gender_flag: 2
+  lang:
+  - kk
+Мәсімжан:
+  gender_flag: 2
+  lang:
+  - kk
+Мәхмүзә:
+  gender_flag: 1
+  lang:
+  - ba
+Мәхмүт:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Мәғәсүм:
+  gender_flag: 2
+  lang:
+  - ba
+Мәҙинә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Мөнир:
+  gender_flag: 2
+  lang:
+  - ba
+Мөхәммәт:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Мөғәтәсим:
+  gender_flag: 2
+  lang:
+  - ba
+Нада:
+  gender_flag: 1
+  lang:
+  - mk
+Надежда:
+  gender_flag: 1
+  lang:
+  - bg
+  - ru
+Надя:
+  gender_flag: 1
+  lang:
+  - bg
+  - ru
+Надія:
+  gender_flag: 1
+  lang:
+  - uk
+Назар:
+  gender_flag: 2
+  lang:
+  - uk
+Назарій:
+  gender_flag: 2
+  lang:
+  - uk
+Нарт:
+  gender_flag: 2
+  lang:
+  - ady
+Насир:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Настя:
+  gender_flag: 1
+  lang:
+  - ru
+  - uk
+Наталля:
+  gender_flag: 1
+  lang:
+  - be
+Наталья:
+  gender_flag: 1
+  lang:
+  - ru
+Наталя:
+  gender_flag: 1
+  lang:
+  - uk
+Наталія:
+  gender_flag: 1
+  lang:
+  - uk
+Наташа:
+  gender_flag: 1
+  is_equivalent_to:
+  - Natasha
+  lang:
+  - mk
+  - ru
+Наум:
+  gender_flag: 2
+  lang:
+  - mk
+Наумка:
+  gender_flag: 1
+  lang:
+  - mk
+Нашьгостъ:
+  gender_flag: 2
+  lang:
+  - zle-ono
+Невен:
+  gender_flag: 2
+  lang:
+  - mk
+Невена:
+  gender_flag: 1
+  is_a_variant_of:
+  - Невенка
+  lang:
+  - mk
+Невенка:
+  gender_flag: 1
+  is_a_variant_of:
+  - Невена
+  lang:
+  - mk
+Неделя:
+  gender_flag: 1
+  lang:
+  - bg
+Нели:
+  gender_flag: 1
+  lang:
+  - bg
+Ненад:
+  gender_flag: 2
+  lang:
+  - mk
+Неоніла:
+  gender_flag: 1
+  lang:
+  - uk
+Нестор:
+  gender_flag: 2
+  lang:
+  - uk
+  origin:
+  - el
+Ника:
+  gender_flag: 5
+  lang:
+  - ru
+  - sh
+Никита:
+  gender_flag: 2
+  lang:
+  - ru
+Никифор:
+  gender_flag: 2
+  lang:
+  - ru
+Никола:
+  gender_flag: 2
+  lang:
+  - mk
+  - sh
+Николай:
+  gender_flag: 2
+  lang:
+  - ru
+Николина:
+  gender_flag: 1
+  lang:
+  - bg
+  - mk
+Нилуфар:
+  gender_flag: 1
+  lang:
+  - tg
+Нина:
+  gender_flag: 1
+  is_equivalent_to:
+  - Nina
+  lang:
+  - mk
+  - ru
+Ниязбай:
+  gender_flag: 2
+  lang:
+  - kk
+Ниязбек:
+  gender_flag: 2
+  lang:
+  - kk
+Ниғмәт:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Ниғмәтулла:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Ноеминь:
+  gender_flag: 1
+  lang:
+  - ru
+Носир:
+  gender_flag: 2
+  lang:
+  - tg
+  origin:
+  - ar
+Ноурыз:
+  gender_flag: 2
+  is_equivalent_to:
+  - Elias
+  lang:
+  - ab
+Нурбек:
+  gender_flag: 2
+  lang:
+  - ky
+Нургюл:
+  gender_flag: 1
+  lang:
+  - bg
+Нуржан:
+  gender_flag: 2
+  lang:
+  - ky
+Нури:
+  gender_flag: 2
+  lang:
+  - tt
+  origin:
+  - ar
+Нурсултан:
+  gender_flag: 2
+  lang:
+  - ky
+Нығмет:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Нікіта:
+  gender_flag: 2
+  lang:
+  - uk
+Ніна:
+  gender_flag: 1
+  is_equivalent_to:
+  - Nina
+  lang:
+  - be
+  - uk
+Нүсіп:
+  gender_flag: 2
+  lang:
+  - kk
+Нүсіпбек:
+  gender_flag: 2
+  lang:
+  - kk
+Нүсіпжан:
+  gender_flag: 2
+  lang:
+  - kk
+Нұрбақыт:
+  gender_flag: 1
+  lang:
+  - kk
+Нұргелді:
+  gender_flag: 2
+  lang:
+  - kk
+Нұржан:
+  gender_flag: 2
+  lang:
+  - kk
+Нұрзада:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Нұрислам:
+  gender_flag: 2
+  lang:
+  - kk
+Нұрлан:
+  gender_flag: 2
+  lang:
+  - kk
+Нұрмахан:
+  gender_flag: 2
+  lang:
+  - kk
+Нұрмағамбет:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Нұрмұхамбет:
+  gender_flag: 2
+  lang:
+  - kk
+Нұрмұхаммед:
+  gender_flag: 2
+  lang:
+  - kk
+Нұрсауле:
+  gender_flag: 1
+  lang:
+  - kk
+Нұрсұлтан:
+  gender_flag: 2
+  lang:
+  - kk
+Нұрсұлу:
+  gender_flag: 1
+  lang:
+  - kk
+Нұртөре:
+  gender_flag: 2
+  lang:
+  - kk
+Нұрғали:
+  gender_flag: 2
+  lang:
+  - kk
+Нәжибә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Нәжип:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Нәзерке:
+  gender_flag: 1
+  lang:
+  - kk
+Нәркәс:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - fa
+Огнен:
+  gender_flag: 2
+  lang:
+  - mk
+Оксана:
+  gender_flag: 1
+  lang:
+  - ru
+  - uk
+Олег:
+  gender_flag: 2
+  lang:
+  - ru
+  - uk
+Олекса:
+  gender_flag: 2
+  lang:
+  - uk
+Олександр:
+  gender_flag: 2
+  lang:
+  - uk
+Олександра:
+  gender_flag: 1
+  lang:
+  - uk
+Олексій:
+  gender_flag: 2
+  lang:
+  - uk
+Олена:
+  gender_flag: 1
+  lang:
+  - uk
+Олесь:
+  gender_flag: 2
+  lang:
+  - uk
+Олеся:
+  gender_flag: 1
+  lang:
+  - uk
+Олжобай:
+  gender_flag: 2
+  lang:
+  - ky
+Оливер:
+  gender_flag: 2
+  is_equivalent_to:
+  - Oliver
+  lang:
+  - mk
+Оливера:
+  gender_flag: 1
+  lang:
+  - mk
+Ольга:
+  gender_flag: 1
+  lang:
+  - ru
+  - uk
+  - zle-ort
+Оля:
+  gender_flag: 1
+  lang:
+  - ru
+Олімпіада:
+  gender_flag: 1
+  lang:
+  - uk
+Омар:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - fa
+Онѳиме:
+  gender_flag: 2
+  lang:
+  - zle-ono
+Опанас:
+  gender_flag: 2
+  lang:
+  - uk
+Ораз:
+  gender_flag: 2
+  lang:
+  - kk
+Оразбек:
+  gender_flag: 2
+  lang:
+  - kk
+Орест:
+  gender_flag: 2
+  lang:
+  - uk
+Ориф:
+  gender_flag: 2
+  lang:
+  - tg
+Орынбек:
+  gender_flag: 2
+  lang:
+  - kk
+Оспан:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Остап:
+  gender_flag: 2
+  lang:
+  - uk
+Остін: {}
+Оңғарбай:
+  gender_flag: 2
+  lang:
+  - kk
+Оңғарбек:
+  gender_flag: 2
+  lang:
+  - kk
+П'ап'ыжә:
+  gender_flag: 2
+  lang:
+  - uby
+Павел:
+  gender_flag: 2
+  lang:
+  - be
+  - ru
+Павелъ:
+  gender_flag: 2
+  lang:
+  - zle-ort
+Павле:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - mk
+Павло:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - uk
+Паліна:
+  gender_flag: 1
+  lang:
+  - be
+Панас:
+  gender_flag: 2
+  lang:
+  - uk
+Параска:
+  gender_flag: 1
+  lang:
+  - uk
+Параскева:
+  gender_flag: 1
+  is_equivalent_to:
+  - Paraskevi
+  lang:
+  - mk
+Парасковія:
+  gender_flag: 1
+  lang:
+  - uk
+Паул: {}
+Паша:
+  gender_flag: 2
+  lang:
+  - ru
+Пелагея:
+  gender_flag: 1
+  lang:
+  - ru
+Перизат:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - fa
+Перса:
+  gender_flag: 1
+  lang:
+  - mk
+Петар:
+  gender_flag: 2
+  lang:
+  - mk
+  - sh
+Петка:
+  gender_flag: 1
+  lang:
+  - mk
+Петко:
+  gender_flag: 2
+  is_short_for:
+  - Петар
+  lang:
+  - mk
+Петр:
+  gender_flag: 2
+  lang:
+  - mn
+  origin:
+  - ru
+Петра:
+  gender_flag: 1
+  lang:
+  - mk
+Петре:
+  gender_flag: 2
+  lang:
+  - mk
+Петро:
+  gender_flag: 2
+  lang:
+  - uk
+Петър:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - bg
+Петя:
+  gender_flag: 2
+  lang:
+  - ru
+Пејо:
+  gender_flag: 2
+  lang:
+  - mk
+Пилип:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - uk
+Пилипа:
+  gender_flag: 1
+  is_equivalent_to:
+  - Philippa
+  lang:
+  - uk
+  origin:
+  - grc
+Питер:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - ru
+  origin:
+  - en
+Пламен:
+  gender_flag: 2
+  lang:
+  - bg
+Пламена:
+  gender_flag: 1
+  lang:
+  - bg
+Платон:
+  gender_flag: 2
+  lang:
+  - ru
+Пол: {}
+Полет:
+  gender_flag: 1
+  is_equivalent_to:
+  - Paulette
+  lang:
+  - bg
+Полетт:
+  gender_flag: 1
+  is_equivalent_to:
+  - Paulette
+  lang:
+  - ru
+  origin:
+  - fr
+Полина:
+  gender_flag: 1
+  lang:
+  - ru
+Поліна:
+  gender_flag: 1
+  lang:
+  - uk
+Порфирий:
+  gender_flag: 2
+  lang:
+  - ru
+Пракофій:
+  gender_flag: 2
+  lang:
+  - be
+Прасковья:
+  gender_flag: 1
+  lang:
+  - ru
+Прокіп:
+  gender_flag: 2
+  lang:
+  - uk
+Пульхерия:
+  gender_flag: 1
+  lang:
+  - ru
+Първан:
+  gender_flag: 2
+  lang:
+  - bg
+Пятро:
+  gender_flag: 2
+  lang:
+  - be
+Пётр:
+  gender_flag: 2
+  lang:
+  - ru
+Рада:
+  gender_flag: 1
+  lang:
+  - bg
+Радан:
+  gender_flag: 2
+  lang:
+  - bg
+Радзівон:
+  gender_flag: 2
+  lang:
+  - be
+Радий:
+  gender_flag: 2
+  lang:
+  - ba
+Радица:
+  gender_flag: 1
+  lang:
+  - mk
+Радмила:
+  gender_flag: 1
+  lang:
+  - mk
+Радован:
+  gender_flag: 2
+  lang:
+  - sh
+Радой:
+  gender_flag: 2
+  lang:
+  - bg
+Радомир:
+  gender_flag: 2
+  lang:
+  - sh
+Радостина:
+  gender_flag: 1
+  lang:
+  - bg
+Разақ:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Раиса:
+  gender_flag: 1
+  lang:
+  - ru
+Райана:
+  gender_flag: 1
+  lang:
+  - kk
+Райна:
+  gender_flag: 1
+  lang:
+  - bg
+Райхан:
+  gender_flag: 7
+  lang:
+  - kk
+  - ru
+Райымбек:
+  gender_flag: 2
+  lang:
+  - kk
+Ралица:
+  gender_flag: 1
+  lang:
+  - bg
+Рамазан:
+  gender_flag: 2
+  lang:
+  - kk
+  - mk
+  - ru
+Раман:
+  gender_flag: 2
+  lang:
+  - be
+Рарира:
+  gender_flag: 1
+  lang:
+  - ab
+Расціслаў:
+  gender_flag: 2
+  lang:
+  - be
+Ратка:
+  gender_flag: 1
+  lang:
+  - mk
+Ратко:
+  gender_flag: 2
+  lang:
+  - mk
+Рахат:
+  gender_flag: 2
+  lang:
+  - kk
+Рахиль:
+  gender_flag: 1
+  lang:
+  - ru
+Рахым:
+  gender_flag: 2
+  lang:
+  - kk
+Рашид:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Раяна:
+  gender_flag: 1
+  lang:
+  - kk
+Раіса:
+  gender_flag: 1
+  lang:
+  - be
+Рақымжан:
+  gender_flag: 2
+  lang:
+  - kk
+Раҿыс:
+  gender_flag: 2
+  lang:
+  - ab
+Регина:
+  gender_flag: 1
+  is_equivalent_to:
+  - Regina
+  lang:
+  - ru
+  origin:
+  - la
+Ренат:
+  gender_flag: 2
+  lang:
+  - uk
+Рената:
+  gender_flag: 1
+  lang:
+  - uk
+Риза:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Римма:
+  gender_flag: 1
+  lang:
+  - ru
+  - uk
+Ринат:
+  gender_flag: 2
+  lang:
+  - ba
+Ристе:
+  gender_flag: 2
+  lang:
+  - mk
+Ристо:
+  gender_flag: 2
+  lang:
+  - mk
+Рита:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rita
+  lang:
+  - ru
+Рифҡәт:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Ричард:
+  gender_flag: 2
+  lang:
+  - ru
+Ришат:
+  gender_flag: 2
+  lang:
+  - ba
+Роберт:
+  gender_flag: 2
+  lang:
+  - ru
+Роберта:
+  gender_flag: 1
+  is_equivalent_to:
+  - Roberta
+  lang:
+  - mk
+Робин:
+  gender_flag: 3
+  is_equivalent_to:
+  - Robin
+  lang:
+  - ru
+  origin:
+  - en
+Родион:
+  gender_flag: 2
+  lang:
+  - ru
+Роза:
+  gender_flag: 1
+  lang:
+  - kk
+  - mk
+  - ru
+Роксана:
+  gender_flag: 1
+  lang:
+  - ru
+Роксолана:
+  gender_flag: 1
+  lang:
+  - uk
+Роман:
+  gender_flag: 2
+  lang:
+  - ru
+  - uk
+Ромео:
+  gender_flag: 2
+  is_equivalent_to:
+  - Romeo
+  lang:
+  - mk
+Ростислав:
+  gender_flag: 2
+  lang:
+  - ru
+  - uk
+Рубен:
+  gender_flag: 2
+  lang:
+  - sh
+Ружа:
+  gender_flag: 1
+  lang:
+  - bg
+  - mk
+Руслан:
+  gender_flag: 2
+  lang:
+  - ru
+  - uk
+Руслана:
+  gender_flag: 1
+  lang:
+  - ru
+  - uk
+Рустам:
+  gender_flag: 2
+  lang:
+  - tg
+Руфь:
+  gender_flag: 1
+  lang:
+  - ru
+Рыгор:
+  gender_flag: 2
+  lang:
+  - be
+Рымбай:
+  gender_flag: 2
+  lang:
+  - kk
+Рэгіна:
+  gender_flag: 1
+  lang:
+  - be
+Рюрик:
+  gender_flag: 2
+  lang:
+  - ru
+Рүстем:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - fa
+Рәбис:
+  gender_flag: 2
+  lang:
+  - ba
+Рәбиға:
+  gender_flag: 1
+  lang:
+  - kk
+Рәжәп:
+  gender_flag: 2
+  lang:
+  - ba
+Рәйес:
+  gender_flag: 2
+  lang:
+  - ba
+Рәйхана:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Рәмзи:
+  gender_flag: 2
+  lang:
+  - tt
+  origin:
+  - ar
+Рәмил:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Рәсимә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Рәсих:
+  gender_flag: 2
+  lang:
+  - ba
+Рәүеф:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Рөстәм:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - fa
+Сааҭбеи:
+  gender_flag: 2
+  lang:
+  - ab
+Сааҭқьери:
+  gender_flag: 2
+  lang:
+  - ab
+Сабина:
+  gender_flag: 1
+  lang:
+  - kk
+Сабира:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Сабыр:
+  gender_flag: 2
+  lang:
+  - ky
+Сава:
+  gender_flag: 2
+  lang:
+  - sh
+  - uk
+Савелий:
+  gender_flag: 2
+  lang:
+  - ru
+Сайрагүл:
+  gender_flag: 1
+  lang:
+  - kk
+Салауат:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Салтанат:
+  gender_flag: 1
+  lang:
+  - kk
+Самал:
+  gender_flag: 7
+  lang:
+  - kk
+  origin:
+  - ar
+Самвел:
+  gender_flag: 2
+  lang:
+  - uk
+Самир:
+  gender_flag: 2
+  lang:
+  - tg
+Самуил:
+  gender_flag: 2
+  lang:
+  - mk
+  - ru
+Самійло:
+  gender_flag: 2
+  lang:
+  - uk
+Сандра:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sandra
+  lang:
+  - mk
+Санжар:
+  gender_flag: 2
+  lang:
+  - ky
+Сания:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Саня:
+  gender_flag: 3
+  lang:
+  - ru
+Сара:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sarah
+  lang:
+  - ba
+  - kk
+  - mk
+  - uk
+  origin:
+  - ar
+  - he
+Сауытбай:
+  gender_flag: 2
+  lang:
+  - kk
+Саша:
+  gender_flag: 3
+  lang:
+  - ru
+  - sh
+Сашка:
+  gender_flag: 1
+  is_short_for:
+  - Alexandra
+  lang:
+  - mk
+Сашо:
+  gender_flag: 2
+  is_short_for:
+  - Александар
+  lang:
+  - mk
+Сања:
+  gender_flag: 1
+  lang:
+  - mk
+  - sh
+Сағадат:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - fa
+Света:
+  gender_flag: 1
+  lang:
+  - ru
+Светлана:
+  gender_flag: 1
+  lang:
+  - bg
+  - mk
+  - ru
+Святлана:
+  gender_flag: 1
+  lang:
+  - be
+Святослав:
+  gender_flag: 2
+  lang:
+  - ru
+  - uk
+Світлана:
+  gender_flag: 1
+  lang:
+  - uk
+Севда:
+  gender_flag: 1
+  lang:
+  - mk
+Север:
+  gender_flag: 2
+  lang:
+  - ru
+Седен:
+  gender_flag: 2
+  lang:
+  - tyv
+Сейдахмет:
+  gender_flag: 2
+  lang:
+  - kk
+Сейил:
+  gender_flag: 1
+  lang:
+  - ky
+Сейфолла:
+  gender_flag: 2
+  lang:
+  - kk
+Сейілхан:
+  gender_flag: 2
+  lang:
+  - kk
+Сейіт:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Селена:
+  gender_flag: 1
+  is_equivalent_to:
+  - Selena
+  - Selene
+  lang:
+  - ru
+  - sh
+  origin:
+  - grc
+Селма:
+  gender_flag: 1
+  lang:
+  - sh
+Сем: {}
+Семен:
+  gender_flag: 2
+  lang:
+  - uk
+Семён:
+  gender_flag: 2
+  lang:
+  - ru
+Сервер:
+  gender_flag: 2
+  lang:
+  - uk
+Сергей:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sergius
+  lang:
+  - ru
+Сергеј:
+  gender_flag: 2
+  lang:
+  - mk
+Сергій:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sergius
+  lang:
+  - uk
+Серёжа:
+  gender_flag: 2
+  lang:
+  - ru
+Серік:
+  gender_flag: 2
+  lang:
+  - kk
+Серікболсын:
+  gender_flag: 2
+  lang:
+  - kk
+Серікжан:
+  gender_flag: 2
+  lang:
+  - kk
+Сигмунд:
+  gender_flag: 2
+  lang:
+  - sh
+Сидор:
+  gender_flag: 2
+  lang:
+  - ru
+Силвија:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sylvia
+  lang:
+  - mk
+Сильвия:
+  gender_flag: 1
+  lang:
+  - ru
+Симон:
+  gender_flag: 2
+  is_equivalent_to:
+  - Simon
+  lang:
+  - mk
+  - uk
+Симона:
+  gender_flag: 1
+  is_equivalent_to:
+  - Simone
+  lang:
+  - bg
+  - mk
+Синдзи:
+  gender_flag: 2
+  lang:
+  - ru
+  origin:
+  - ja
+Синоличка:
+  gender_flag: 1
+  lang:
+  - mk
+Синтия:
+  gender_flag: 1
+  lang:
+  - ru
+Сирил:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cyril
+  lang:
+  - ru
+  origin:
+  - en
+Слава:
+  gender_flag: 2
+  lang:
+  - ru
+Славен:
+  gender_flag: 2
+  lang:
+  - sh
+Славица:
+  gender_flag: 1
+  lang:
+  - mk
+Славка:
+  gender_flag: 1
+  is_a_variant_of:
+  - Славица
+  lang:
+  - mk
+Славко:
+  gender_flag: 2
+  lang:
+  - mk
+Славчо:
+  gender_flag: 2
+  lang:
+  - mk
+Сламжан:
+  gender_flag: 2
+  lang:
+  - kk
+Слободан:
+  gender_flag: 2
+  lang:
+  - mk
+  - sh
+Смағұл:
+  gender_flag: 2
+  lang:
+  - kk
+Снежа:
+  gender_flag: 1
+  is_a_variant_of:
+  - Снежана
+  - Снеже
+  - Снешка
+  lang:
+  - mk
+Снежана:
+  gender_flag: 1
+  is_a_variant_of:
+  - Снежа
+  - Снеже
+  - Снешка
+  lang:
+  - mk
+  - ru
+Снеже:
+  gender_flag: 1
+  is_a_variant_of:
+  - Снежа
+  - Снежана
+  - Снешка
+  lang:
+  - mk
+Снешка:
+  gender_flag: 1
+  is_a_variant_of:
+  - Снежа
+  - Снежана
+  - Снеже
+  lang:
+  - mk
+Соломія:
+  gender_flag: 1
+  lang:
+  - uk
+Сомия:
+  gender_flag: 1
+  lang:
+  - tg
+Сомӣ:
+  gender_flag: 2
+  lang:
+  - tg
+Сончица:
+  gender_flag: 1
+  lang:
+  - mk
+Соня:
+  gender_flag: 1
+  lang:
+  - ru
+Сотир:
+  gender_flag: 2
+  lang:
+  - mk
+Соулаҳә:
+  gender_flag: 2
+  lang:
+  - ab
+Соусран:
+  gender_flag: 2
+  lang:
+  - ab
+Соуфыџь:
+  gender_flag: 2
+  lang:
+  - ab
+Соф'я:
+  gender_flag: 1
+  lang:
+  - be
+София:
+  gender_flag: 1
+  lang:
+  - bg
+  - ru
+Софија:
+  gender_flag: 1
+  lang:
+  - mk
+  - sh
+Софья:
+  gender_flag: 1
+  lang:
+  - ru
+Софія:
+  gender_flag: 1
+  lang:
+  - uk
+Соња:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sonya
+  lang:
+  - mk
+Соӷәым:
+  gender_flag: 2
+  lang:
+  - ab
+Спаса:
+  gender_flag: 1
+  is_a_variant_of:
+  - Спасена
+  - Спасенка
+  - Спаска
+  lang:
+  - mk
+Спасе:
+  gender_flag: 2
+  is_a_variant_of:
+  - Спасен
+  - Спаско
+  lang:
+  - mk
+Спасен:
+  gender_flag: 2
+  is_a_variant_of:
+  - Спасе
+  - Спаско
+  lang:
+  - mk
+Спасена:
+  gender_flag: 1
+  is_a_variant_of:
+  - Спаса
+  - Спасенка
+  - Спаска
+  lang:
+  - mk
+Спасенка:
+  gender_flag: 1
+  is_a_variant_of:
+  - Спаса
+  - Спасена
+  - Спаска
+  lang:
+  - mk
+Спаска:
+  gender_flag: 1
+  is_a_variant_of:
+  - Спаса
+  - Спасена
+  - Спасенка
+  lang:
+  - mk
+Спаско:
+  gender_flag: 2
+  is_a_variant_of:
+  - Спасе
+  - Спасен
+  lang:
+  - mk
+Спиридон:
+  gender_flag: 2
+  lang:
+  - ru
+Споменка:
+  gender_flag: 1
+  lang:
+  - mk
+Сребра:
+  gender_flag: 1
+  lang:
+  - mk
+Сребре:
+  gender_flag: 2
+  lang:
+  - mk
+Срна:
+  gender_flag: 1
+  lang:
+  - mk
+Срђан:
+  gender_flag: 2
+  lang:
+  - sh
+  origin:
+  - la
+Сталин:
+  gender_flag: 2
+  lang:
+  - mk
+Станислав:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stanislav
+  lang:
+  - ru
+Станислава:
+  gender_flag: 1
+  lang:
+  - ru
+Станка:
+  gender_flag: 1
+  lang:
+  - bg
+Станой:
+  gender_flag: 2
+  lang:
+  - bg
+Станіслав:
+  gender_flag: 2
+  lang:
+  - uk
+Станіслаў:
+  gender_flag: 2
+  lang:
+  - be
+Стася:
+  gender_flag: 1
+  lang:
+  - ru
+Стеван:
+  gender_flag: 2
+  lang:
+  - mk
+  - sh
+Стела:
+  gender_flag: 1
+  is_equivalent_to:
+  - Stella
+  lang:
+  - mk
+Степан:
+  gender_flag: 2
+  lang:
+  - ru
+  - uk
+Степанія:
+  gender_flag: 1
+  lang:
+  - uk
+Стерјо:
+  gender_flag: 2
+  lang:
+  - mk
+Стефан:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephan
+  - Stephen
+  - Steven
+  lang:
+  - bg
+  - mk
+Стефанија:
+  gender_flag: 1
+  is_equivalent_to:
+  - Stephanie
+  lang:
+  - mk
+Стефанія:
+  gender_flag: 1
+  lang:
+  - uk
+Стефка:
+  gender_flag: 1
+  lang:
+  - bg
+Стивен: {}
+Стоян:
+  gender_flag: 2
+  lang:
+  - bg
+Стојан:
+  gender_flag: 2
+  lang:
+  - mk
+Стојанка:
+  lang:
+  - mk
+  - sh
+Стојанче:
+  gender_flag: 2
+  is_short_for:
+  - Стојан
+  lang:
+  - mk
+Стојна:
+  gender_flag: 1
+  lang:
+  - mk
+Стёпа:
+  gender_flag: 3
+  lang:
+  - ru
+Сузана:
+  gender_flag: 1
+  is_equivalent_to:
+  - Suzanne
+  lang:
+  - mk
+Сулејман:
+  gender_flag: 2
+  lang:
+  - mk
+Сулиман:
+  gender_flag: 2
+  lang:
+  - mk
+Сулпан:
+  gender_flag: 1
+  lang:
+  - ba
+Сурайё:
+  gender_flag: 1
+  lang:
+  - tg
+  origin:
+  - ar
+Сусанна:
+  gender_flag: 1
+  is_equivalent_to:
+  - Susan
+  - Susanna
+  lang:
+  - ru
+  - uk
+Суфиян:
+  gender_flag: 2
+  lang:
+  - ba
+  - ru
+  origin:
+  - ar
+Сцяпан:
+  gender_flag: 2
+  lang:
+  - be
+Сымайыл:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Сыржан:
+  gender_flag: 2
+  lang:
+  - kk
+Сыңғыҙ:
+  gender_flag: 2
+  lang:
+  - ba
+Сямён:
+  gender_flag: 2
+  lang:
+  - be
+Сяргей:
+  gender_flag: 2
+  lang:
+  - be
+Сүлеймен:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Сүхбаатар:
+  gender_flag: 2
+  lang:
+  - mn
+Сұлтанәлі:
+  gender_flag: 2
+  lang:
+  - kk
+Сәбит:
+  gender_flag: 2
+  lang:
+  - kk
+Сәйет:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Сәкен:
+  gender_flag: 2
+  lang:
+  - kk
+Сәкинә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Сәлим:
+  gender_flag: 2
+  lang:
+  - ba
+Сәлимә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Сәлиә:
+  gender_flag: 1
+  lang:
+  - ba
+Сәнімгүл:
+  gender_flag: 1
+  lang:
+  - kk
+Сәрсенбай:
+  gender_flag: 2
+  lang:
+  - kk
+Сәуле:
+  gender_flag: 1
+  lang:
+  - kk
+Сәғит:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Таалай:
+  gender_flag: 2
+  lang:
+  - ky
+Тадеј:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thaddeus
+  lang:
+  - mk
+Таисия:
+  gender_flag: 1
+  lang:
+  - ru
+Тайфур:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - fa
+Тайыр:
+  gender_flag: 2
+  lang:
+  - kk
+Талат: {}
+Талха:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Талғат:
+  gender_flag: 2
+  lang:
+  - ba
+  - kk
+  origin:
+  - ar
+Тамара:
+  gender_flag: 1
+  is_equivalent_to:
+  - Tamara
+  lang:
+  - be
+  - mk
+  - ru
+  - sh
+Таня:
+  gender_flag: 1
+  lang:
+  - ru
+Тарас:
+  gender_flag: 2
+  lang:
+  - uk
+Татьяна:
+  gender_flag: 1
+  lang:
+  - ru
+Татјана:
+  gender_flag: 1
+  is_equivalent_to:
+  - Tatiana
+  lang:
+  - mk
+Татꙗна:
+  gender_flag: 1
+  lang:
+  - zle-ort
+Таццяна:
+  gender_flag: 1
+  lang:
+  - be
+Тая:
+  gender_flag: 1
+  lang:
+  - ru
+Таїсія:
+  gender_flag: 1
+  lang:
+  - uk
+Тајана:
+  gender_flag: 1
+  lang:
+  - sh
+Таљат: {}
+Тања:
+  gender_flag: 1
+  is_equivalent_to:
+  - Tanya
+  is_short_for:
+  - Татјана
+  lang:
+  - mk
+Таңатар:
+  gender_flag: 2
+  lang:
+  - kk
+Таңсулпан:
+  gender_flag: 1
+  lang:
+  - ba
+Таңшолпан:
+  gender_flag: 1
+  lang:
+  - kk
+Таңһылыу:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - trk
+Таһир:
+  gender_flag: 2
+  lang:
+  - ba
+Темиркул:
+  gender_flag: 2
+  lang:
+  - ky
+Темір:
+  gender_flag: 2
+  lang:
+  - kk
+Темірболат:
+  gender_flag: 2
+  lang:
+  - kk
+Темірлан:
+  gender_flag: 2
+  lang:
+  - kk
+Теодор:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodore
+  lang:
+  - mk
+Теодора:
+  gender_flag: 1
+  is_equivalent_to:
+  - Theodora
+  lang:
+  - mk
+Теона:
+  gender_flag: 1
+  lang:
+  - mk
+Тереза:
+  gender_flag: 1
+  lang:
+  - ru
+  - sh
+Терентий:
+  gender_flag: 2
+  lang:
+  - ru
+Тетяна:
+  gender_flag: 1
+  lang:
+  - uk
+Тимофей:
+  gender_flag: 2
+  lang:
+  - ru
+Тимофій:
+  gender_flag: 2
+  lang:
+  - uk
+Тимоѳей:
+  gender_flag: 2
+  lang:
+  - zle-ort
+Тимур:
+  gender_flag: 2
+  lang:
+  - kk
+Тиміш:
+  gender_flag: 2
+  lang:
+  - uk
+Тихомир:
+  gender_flag: 2
+  lang:
+  - mk
+  - sh
+Тихон:
+  gender_flag: 2
+  lang:
+  - ru
+Тијана:
+  gender_flag: 1
+  is_equivalent_to:
+  - Tiana
+  lang:
+  - mk
+Тодор:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodore
+  lang:
+  - mk
+Тодорка:
+  gender_flag: 1
+  is_equivalent_to:
+  - Theodora
+  lang:
+  - mk
+Токтогул:
+  gender_flag: 2
+  lang:
+  - ky
+Толик:
+  lang:
+  - ru
+Толя:
+  gender_flag: 2
+  lang:
+  - ru
+Толян:
+  gender_flag: 2
+  lang:
+  - ru
+Томислав:
+  gender_flag: 2
+  lang:
+  - sh
+Тоня:
+  gender_flag: 1
+  lang:
+  - ru
+Торьһим:
+  gender_flag: 2
+  lang:
+  - sia
+Тоулаҳә:
+  gender_flag: 2
+  lang:
+  - ab
+Тофанија:
+  gender_flag: 1
+  lang:
+  - mk
+Тоше:
+  gender_flag: 2
+  lang:
+  - mk
+Тоқбай:
+  gender_flag: 2
+  lang:
+  - kk
+Тоқтар:
+  gender_flag: 2
+  lang:
+  - kk
+Траян:
+  gender_flag: 2
+  lang:
+  - bg
+Трајан:
+  gender_flag: 2
+  is_a_variant_of:
+  - Трајко
+  - Трајче
+  lang:
+  - mk
+Трајанка:
+  gender_flag: 1
+  is_a_variant_of:
+  - Трајка
+  lang:
+  - mk
+Трајка:
+  gender_flag: 1
+  is_a_variant_of:
+  - Трајанка
+  lang:
+  - mk
+Трајко:
+  gender_flag: 2
+  is_a_variant_of:
+  - Трајан
+  - Трајче
+  lang:
+  - mk
+Трајче:
+  gender_flag: 2
+  is_a_variant_of:
+  - Трајан
+  - Трајко
+  lang:
+  - mk
+Трендафил:
+  gender_flag: 2
+  lang:
+  - mk
+Трендафила:
+  gender_flag: 1
+  lang:
+  - mk
+Трендафилка:
+  gender_flag: 1
+  lang:
+  - mk
+Трифун:
+  gender_flag: 2
+  lang:
+  - mk
+Трохим:
+  gender_flag: 2
+  lang:
+  - uk
+Трпа:
+  gender_flag: 1
+  lang:
+  - mk
+Трпана:
+  gender_flag: 1
+  lang:
+  - mk
+Трпе:
+  gender_flag: 2
+  lang:
+  - mk
+Трпка:
+  gender_flag: 1
+  lang:
+  - mk
+Трпко:
+  gender_flag: 2
+  lang:
+  - mk
+Трпо:
+  gender_flag: 2
+  lang:
+  - mk
+Трпче:
+  gender_flag: 2
+  lang:
+  - mk
+Туфан:
+  gender_flag: 2
+  lang:
+  - ba
+Тынышбек:
+  gender_flag: 2
+  lang:
+  - kk
+Тяһпан:
+  gender_flag: 2
+  lang:
+  - sia
+Түсіп:
+  gender_flag: 2
+  lang:
+  - kk
+Тұманбай:
+  gender_flag: 2
+  lang:
+  - kk
+Тұрсынбек:
+  gender_flag: 2
+  lang:
+  - kk
+Тұрсынжан:
+  gender_flag: 2
+  lang:
+  - kk
+Тұрғанбай:
+  gender_flag: 2
+  lang:
+  - kk
+Тұяқбай:
+  gender_flag: 2
+  lang:
+  - kk
+Тәжмұхамбет:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Тәлғәт:
+  gender_flag: 2
+  lang:
+  - ba
+Тәнзилә:
+  gender_flag: 1
+  lang:
+  - ba
+Тәуке:
+  gender_flag: 2
+  lang:
+  - kk
+Төлеген:
+  gender_flag: 2
+  lang:
+  - kk
+Уақит:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Убавка:
+  gender_flag: 1
+  lang:
+  - mk
+Уильям:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - ru
+  origin:
+  - en
+Уйылдан:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Уладзімер:
+  gender_flag: 2
+  lang:
+  - be
+Уладзіслаў:
+  gender_flag: 2
+  lang:
+  - be
+Улляна:
+  gender_flag: 1
+  lang:
+  - be
+Ульяна:
+  gender_flag: 1
+  lang:
+  - ru
+Уолдо:
+  gender_flag: 2
+  is_equivalent_to:
+  - Waldo
+  lang:
+  - bg
+Урал:
+  gender_flag: 2
+  lang:
+  - ba
+Урош:
+  gender_flag: 2
+  lang:
+  - sh
+Уәлихан:
+  gender_flag: 2
+  lang:
+  - kk
+Фазылағзам:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Фаина:
+  gender_flag: 1
+  lang:
+  - ru
+Файди:
+  gender_flag: 2
+  lang:
+  - sia
+Файсал:
+  gender_flag: 2
+  lang:
+  - tg
+Фарида:
+  gender_flag: 1
+  lang:
+  - ru
+Фархад:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - fa
+Фархат:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - fa
+Фатима:
+  gender_flag: 1
+  is_equivalent_to:
+  - Fatima
+  lang:
+  - ba
+  - kk
+  - ru
+  origin:
+  - ar
+Фатих:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Фатмир: {}
+Фатмире: {}
+Фаҭқьери:
+  gender_flag: 2
+  lang:
+  - ab
+Федя:
+  gender_flag: 2
+  lang:
+  - ru
+Федір:
+  gender_flag: 2
+  lang:
+  - uk
+Фелькь:
+  gender_flag: 2
+  lang:
+  - sia
+Феӈьк:
+  gender_flag: 1
+  lang:
+  - sia
+Филимена:
+  gender_flag: 1
+  is_equivalent_to:
+  - Philomena
+  lang:
+  - mk
+Филип:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - mk
+  - sh
+  origin:
+  - grc
+Филипп:
+  gender_flag: 2
+  lang:
+  - ru
+Филипче:
+  gender_flag: 2
+  is_short_for:
+  - Филип
+  lang:
+  - mk
+Фичо:
+  gender_flag: 2
+  is_short_for:
+  - Филип
+  lang:
+  - mk
+Флорида:
+  gender_flag: 1
+  lang:
+  - ru
+Фо̄к:
+  gender_flag: 2
+  lang:
+  - sia
+Фокс:
+  gender_flag: 2
+  is_equivalent_to:
+  - Fox
+  lang:
+  - ru
+  origin:
+  - en
+Фома:
+  gender_flag: 2
+  lang:
+  - ru
+Фотима:
+  gender_flag: 1
+  lang:
+  - tg
+Франкьыл:
+  gender_flag: 2
+  lang:
+  - ab
+Франц:
+  gender_flag: 2
+  lang:
+  - uk
+Франциск:
+  gender_flag: 2
+  lang:
+  - ru
+  - uk
+Франциска:
+  gender_flag: 1
+  lang:
+  - uk
+Францыск:
+  gender_flag: 2
+  lang:
+  - be
+Фридман:
+  gender_flag: 2
+  lang:
+  - ru
+  origin:
+  - de
+Фросина:
+  gender_flag: 1
+  lang:
+  - mk
+Фёдар:
+  gender_flag: 2
+  lang:
+  - be
+Фёдор:
+  gender_flag: 2
+  lang:
+  - ru
+Фёдот:
+  gender_flag: 2
+  lang:
+  - sia
+Фёкла:
+  gender_flag: 1
+  lang:
+  - be
+  - ru
+Філіп:
+  gender_flag: 2
+  lang:
+  - be
+Фљамур: {}
+Фәйзулла:
+  gender_flag: 2
+  lang:
+  - ba
+Фәнүзә:
+  gender_flag: 1
+  lang:
+  - ba
+Фәрит:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Фәриҙә:
+  gender_flag: 1
+  lang:
+  - ba
+Фәрәх:
+  gender_flag: 2
+  lang:
+  - ba
+Фәттәх:
+  gender_flag: 2
+  lang:
+  - ba
+Хава:
+  gender_flag: 1
+  lang:
+  - be
+  - bg
+  - ru
+  - uk
+Хадиша:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Халида:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Ханнан:
+  gender_flag: 2
+  lang:
+  - ba
+Харалампие:
+  gender_flag: 2
+  lang:
+  - mk
+Харитон:
+  gender_flag: 2
+  lang:
+  - ru
+Хасан:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Хафиз:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Хајди: {}
+Хома:
+  gender_flag: 2
+  lang:
+  - uk
+Христина:
+  gender_flag: 1
+  lang:
+  - bg
+  - mk
+  - ru
+  - uk
+Христијан:
+  gender_flag: 2
+  lang:
+  - mk
+Христофор:
+  gender_flag: 2
+  lang:
+  - uk
+Хърсъ:
+  gender_flag: 2
+  lang:
+  - orv
+Хьрыԥс:
+  gender_flag: 2
+  lang:
+  - ab
+Хьырбеи:
+  gender_flag: 2
+  lang:
+  - ab
+Хьырԥыҫ:
+  gender_flag: 2
+  lang:
+  - uby
+Хьюберт: {}
+Хівря:
+  gender_flag: 1
+  lang:
+  - uk
+Хәажәарԥыс:
+  gender_flag: 2
+  lang:
+  - ab
+Хәбиб:
+  gender_flag: 2
+  lang:
+  - ba
+Хәйрулла:
+  gender_flag: 2
+  lang:
+  - ba
+Хәлил:
+  gender_flag: 2
+  lang:
+  - ba
+Хәмзә:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Хәмиҙулла:
+  gender_flag: 2
+  lang:
+  - ba
+Хәнифә:
+  gender_flag: 1
+  lang:
+  - ba
+Хәсән:
+  gender_flag: 2
+  lang:
+  - ba
+Хөсәйен:
+  gender_flag: 2
+  lang:
+  - ba
+Цвета:
+  gender_flag: 1
+  is_a_variant_of:
+  - Цветанка
+  - Цветка
+  lang:
+  - bg
+  - mk
+Цветан:
+  gender_flag: 2
+  is_a_variant_of:
+  - Цветко
+  lang:
+  - bg
+  - mk
+Цветанка:
+  gender_flag: 1
+  is_a_variant_of:
+  - Цвета
+  - Цветка
+  lang:
+  - mk
+Цветка:
+  gender_flag: 1
+  is_a_variant_of:
+  - Цвета
+  - Цветанка
+  lang:
+  - mk
+Цветко:
+  gender_flag: 2
+  is_a_variant_of:
+  - Цветан
+  lang:
+  - mk
+Цолак:
+  gender_flag: 2
+  lang:
+  - ru
+Цімафей:
+  gender_flag: 2
+  lang:
+  - be
+Ціхан:
+  gender_flag: 2
+  lang:
+  - be
+Чингис:
+  gender_flag: 2
+  lang:
+  - mn
+Чойбалсан:
+  gender_flag: 2
+  lang:
+  - mn
+Чолпон:
+  gender_flag: 1
+  lang:
+  - ky
+Чък:
+  gender_flag: 2
+  is_equivalent_to:
+  - Chuck
+  lang:
+  - bg
+Чыңгыз:
+  gender_flag: 2
+  lang:
+  - ky
+  origin:
+  - mn
+Шакир:
+  gender_flag: 2
+  lang:
+  - mk
+Шарапат:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Шарип:
+  gender_flag: 2
+  lang:
+  - ky
+Шарлотта:
+  gender_flag: 1
+  lang:
+  - ru
+Шарль: {}
+Шахарбек:
+  gender_flag: 2
+  lang:
+  - kk
+Шахзада:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - fa
+Шахизат:
+  gender_flag: 2
+  lang:
+  - kk
+Шахла:
+  gender_flag: 1
+  lang:
+  - ru
+Шахрияр:
+  gender_flag: 2
+  lang:
+  - ru
+Шаќир:
+  gender_flag: 2
+  lang:
+  - mk
+Шаҳло:
+  gender_flag: 1
+  lang:
+  - tg
+  origin:
+  - ar
+Шаҳрӯз:
+  gender_flag: 2
+  lang:
+  - tg
+Шаһизада:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - fa
+Шебешќен: {}
+Шкељзен: {}
+Шойгу:
+  gender_flag: 2
+  lang:
+  - ru
+  - tyv
+Шолпан:
+  gender_flag: 1
+  lang:
+  - kk
+Шоқан:
+  gender_flag: 2
+  lang:
+  - kk
+Штерјо:
+  gender_flag: 2
+  lang:
+  - mk
+Шура:
+  gender_flag: 3
+  lang:
+  - ru
+Шурик:
+  gender_flag: 2
+  lang:
+  - ru
+Шьаабан:
+  gender_flag: 2
+  lang:
+  - ab
+Шьарифа:
+  gender_flag: 1
+  lang:
+  - ab
+Шьақьыр:
+  gender_flag: 2
+  lang:
+  - ab
+Шұғайбек:
+  gender_flag: 2
+  lang:
+  - kk
+Шәкүр:
+  gender_flag: 2
+  lang:
+  - ba
+Шәмшия:
+  gender_flag: 1
+  lang:
+  - kk
+Шәрбану:
+  gender_flag: 1
+  lang:
+  - kk
+Шәріпхан:
+  gender_flag: 2
+  lang:
+  - kk
+Шәүрә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Ыбырайым:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Ыдырыс:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Ырыс:
+  gender_flag: 2
+  lang:
+  - ky
+  origin:
+  - ar
+Ырыскелди:
+  gender_flag: 2
+  lang:
+  - ky
+Ырысты:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Ысмайыл:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Ысқақ:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Эдик:
+  gender_flag: 2
+  lang:
+  - ru
+Эдуард:
+  gender_flag: 2
+  lang:
+  - be
+  - ru
+Эйбел:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abel
+  lang:
+  - ru
+  origin:
+  - en
+Эйбрахам:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - ru
+  origin:
+  - en
+Элвин:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alvin
+  - Elvin
+  lang:
+  - ru
+  origin:
+  - ang
+  - en
+Элеонора:
+  gender_flag: 1
+  lang:
+  - ru
+Элис:
+  gender_flag: 1
+  lang:
+  - ru
+Элла:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ella
+  lang:
+  - ru
+Эльвира:
+  gender_flag: 1
+  is_equivalent_to:
+  - Elvira
+  lang:
+  - ru
+  origin:
+  - es
+Эльдар:
+  gender_flag: 2
+  lang:
+  - ru
+Эмилия:
+  gender_flag: 1
+  lang:
+  - ru
+Эмма:
+  gender_flag: 1
+  is_equivalent_to:
+  - Emma
+  lang:
+  - ru
+Энгельс:
+  gender_flag: 2
+  lang:
+  - ru
+  origin:
+  - de
+Эндрю:
+  gender_flag: 2
+  lang:
+  - ru
+Энн:
+  gender_flag: 1
+  lang:
+  - ru
+Энтони:
+  gender_flag: 2
+  lang:
+  - ru
+Эржан:
+  gender_flag: 2
+  lang:
+  - ky
+Эсфирь:
+  gender_flag: 1
+  lang:
+  - ru
+Юлай:
+  gender_flag: 2
+  lang:
+  - ba
+Юлиан:
+  gender_flag: 2
+  lang:
+  - ru
+Юлиана:
+  gender_flag: 1
+  lang:
+  - ru
+Юлий:
+  gender_flag: 2
+  lang:
+  - ru
+Юлия:
+  gender_flag: 1
+  lang:
+  - ru
+Юлій:
+  gender_flag: 2
+  lang:
+  - uk
+Юлія:
+  gender_flag: 1
+  lang:
+  - be
+  - uk
+Юнона:
+  gender_flag: 1
+  lang:
+  - uk
+  origin:
+  - la
+Юныс:
+  gender_flag: 2
+  lang:
+  - ba
+Юра:
+  gender_flag: 2
+  lang:
+  - ru
+Юрий:
+  gender_flag: 2
+  lang:
+  - ru
+Юрый:
+  gender_flag: 2
+  lang:
+  - be
+Юрій:
+  gender_flag: 2
+  lang:
+  - uk
+Юстас:
+  gender_flag: 2
+  is_equivalent_to:
+  - Eustace
+  lang:
+  - ru
+  origin:
+  - en
+Юхим:
+  gender_flag: 2
+  lang:
+  - uk
+Ягор:
+  gender_flag: 2
+  lang:
+  - be
+Ядвига:
+  gender_flag: 1
+  lang:
+  - ru
+Ядвіга:
+  gender_flag: 1
+  lang:
+  - be
+Якаў:
+  gender_flag: 2
+  lang:
+  - be
+Яков:
+  gender_flag: 2
+  lang:
+  - ru
+Яків:
+  gender_flag: 2
+  lang:
+  - uk
+Ян:
+  gender_flag: 2
+  lang:
+  - be
+  - ru
+Яна:
+  gender_flag: 1
+  lang:
+  - bg
+  - ru
+  - uk
+Яніна:
+  gender_flag: 1
+  lang:
+  - uk
+Яраслаў:
+  gender_flag: 2
+  lang:
+  - be
+Ярема:
+  gender_flag: 2
+  lang:
+  - uk
+Ярина:
+  gender_flag: 1
+  lang:
+  - uk
+Ярополк:
+  gender_flag: 2
+  lang:
+  - ru
+Ярослав:
+  gender_flag: 2
+  lang:
+  - ru
+  - uk
+Ярослава:
+  gender_flag: 1
+  lang:
+  - ru
+  - uk
+Яфім:
+  gender_flag: 2
+  lang:
+  - be
+Яхъя:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Яша:
+  gender_flag: 2
+  lang:
+  - ru
+Яъқуб:
+  gender_flag: 2
+  lang:
+  - tg
+Яўген:
+  gender_flag: 2
+  lang:
+  - be
+Яўгеній:
+  gender_flag: 2
+  lang:
+  - be
+Яўгенія:
+  gender_flag: 1
+  lang:
+  - be
+Яҡуп:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+епифании:
+  gender_flag: 2
+  lang:
+  - cu
+  origin:
+  - grc
+соруш:
+  gender_flag: 1
+  lang:
+  - udi
+ѥсифъ:
+  gender_flag: 2
+  lang:
+  - orv
+Ѯенїѧ:
+  gender_flag: 1
+  lang:
+  - cu
+  origin:
+  - grc
+Ғабдрахман:
+  gender_flag: 2
+  lang:
+  - ba
+Ғабдулла:
+  gender_flag: 2
+  lang:
+  - ba
+  - kk
+  origin:
+  - ar
+Ғабдулхаҡ:
+  gender_flag: 2
+  lang:
+  - ba
+Ғабдұлла:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Ғабит:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Ғазиз:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Ғазизхан:
+  gender_flag: 2
+  lang:
+  - kk
+Ғайни:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Ғайса:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Ғалия:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Ғалымжан:
+  gender_flag: 2
+  lang:
+  - kk
+Ғани:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ghani
+  lang:
+  - kk
+  origin:
+  - ar
+Ғаппар:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Ғариф:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Ғарифулла:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Ғилемдар:
+  gender_flag: 2
+  lang:
+  - ba
+Ғилемхан:
+  gender_flag: 2
+  lang:
+  - ba
+Ғимран:
+  gender_flag: 2
+  lang:
+  - ba
+Ғиниәтулла:
+  gender_flag: 2
+  lang:
+  - ba
+Ғирфан:
+  gender_flag: 2
+  lang:
+  - ba
+Ғүмәр:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Ғұсман:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Ғәббәс:
+  gender_flag: 2
+  lang:
+  - ba
+Ғәзиз:
+  gender_flag: 2
+  lang:
+  - ba
+Ғәйшә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Ғәли:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Ғәфүр:
+  gender_flag: 2
+  lang:
+  - ba
+Ғөбәйҙулла:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Қабдолла:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Қабдула:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Қабдыкәрім:
+  gender_flag: 2
+  lang:
+  - kk
+Қабыл:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Қадиша:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Қажымқан:
+  gender_flag: 2
+  lang:
+  - kk
+Қайролла:
+  gender_flag: 2
+  lang:
+  - kk
+Қаламаҭ:
+  gender_flag: 2
+  lang:
+  - uby
+Қалихан:
+  gender_flag: 2
+  lang:
+  - kk
+Қалқаман:
+  gender_flag: 2
+  lang:
+  - kk
+Қанат:
+  gender_flag: 2
+  lang:
+  - kk
+Қанағат:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Қаныш:
+  gender_flag: 2
+  lang:
+  - kk
+Қарақат:
+  gender_flag: 1
+  lang:
+  - kk
+Қаржаубай:
+  gender_flag: 2
+  lang:
+  - kk
+Қасиет:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Қасым:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Қасымбек:
+  gender_flag: 2
+  lang:
+  - kk
+Қатшыбек:
+  gender_flag: 2
+  lang:
+  - kk
+Қияқбай:
+  gender_flag: 2
+  lang:
+  - kk
+Қойшыбек:
+  gender_flag: 2
+  lang:
+  - kk
+Қуан:
+  gender_flag: 2
+  lang:
+  - kk
+Қуаныш:
+  gender_flag: 2
+  lang:
+  - kk
+Қуат:
+  gender_flag: 2
+  lang:
+  - kk
+Қыдырхан:
+  gender_flag: 2
+  lang:
+  - kk
+Қылышбай:
+  gender_flag: 2
+  lang:
+  - kk
+Қырымбек:
+  gender_flag: 2
+  lang:
+  - kk
+Қьалышьбеи:
+  gender_flag: 2
+  lang:
+  - ab
+Құбыш:
+  gender_flag: 2
+  lang:
+  - kk
+Құдайберген:
+  gender_flag: 2
+  lang:
+  - kk
+Құдыс:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Құлымбет:
+  gender_flag: 2
+  lang:
+  - kk
+Құмарбек:
+  gender_flag: 2
+  lang:
+  - kk
+Құмаш:
+  gender_flag: 2
+  lang:
+  - kk
+Құнанбай:
+  gender_flag: 2
+  lang:
+  - kk
+Құранбек:
+  gender_flag: 2
+  lang:
+  - kk
+Құрманбек:
+  gender_flag: 2
+  lang:
+  - kk
+Құрманәлі:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Құрмаш:
+  gender_flag: 2
+  lang:
+  - kk
+Құсайын:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Қәышьықә:
+  gender_flag: 2
+  lang:
+  - uby
+Ҟамлаҭ:
+  gender_flag: 2
+  lang:
+  - ab
+  - uby
+Ҡасим:
+  gender_flag: 2
+  lang:
+  - ba
+Ҫоуԯьыхә:
+  gender_flag: 2
+  lang:
+  - uby
+  origin:
+  - ady
+Ҭҳасоу:
+  gender_flag: 2
+  lang:
+  - ab
+Үсен:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Ұлан:
+  gender_flag: 2
+  lang:
+  - kk
+Ұлбала:
+  gender_flag: 1
+  lang:
+  - kk
+Ұлбике:
+  gender_flag: 1
+  lang:
+  - kk
+Ұлболсын:
+  gender_flag: 1
+  lang:
+  - kk
+Ұлдана:
+  gender_flag: 1
+  lang:
+  - kk
+Ұлжан:
+  gender_flag: 1
+  lang:
+  - kk
+Ұлмекен:
+  gender_flag: 1
+  lang:
+  - kk
+Ҳанашхә:
+  gender_flag: 2
+  lang:
+  - uby
+  origin:
+  - ady
+Ҳанашә:
+  gender_flag: 2
+  lang:
+  - ab
+Ҳанаҫә:
+  gender_flag: 2
+  lang:
+  - ab
+  - uby
+  origin:
+  - ady
+Ҳасан:
+  gender_flag: 2
+  lang:
+  - tg
+Ҳусайн:
+  gender_flag: 2
+  lang:
+  - tg
+Ҷамил:
+  gender_flag: 2
+  lang:
+  - tg
+Ҷамшед:
+  gender_flag: 2
+  lang:
+  - tg
+Һаҙый:
+  gender_flag: 2
+  lang:
+  - ba
+Һягл:
+  gender_flag: 1
+  lang:
+  - sia
+Ӄ'әыҟ'әышә:
+  gender_flag: 2
+  lang:
+  - uby
+Ӓнишк:
+  gender_flag: 1
+  lang:
+  - sia
+Әбделғәлим:
+  gender_flag: 2
+  lang:
+  - ba
+Әбдуәли:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әбдіжаппар:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әбдіжәміл:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әбділда:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әбділхамит:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әбдімәлік:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әбдіразақ:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әбдірахман:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әбдірәсіл:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әбдішүкір:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әбдіғазиз:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әбдіғани:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әбдіғаппар:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әбдіқадыр:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әбиірбек:
+  gender_flag: 2
+  lang:
+  - kk
+Әбубәкір:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әбуғали:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әбілғазы:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - fa
+Әбілқайыр:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әбүбәкер:
+  gender_flag: 2
+  lang:
+  - ba
+Әдила:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Әдина:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - fa
+Әділ:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әділбек:
+  gender_flag: 2
+  lang:
+  - kk
+Әділхан:
+  gender_flag: 2
+  lang:
+  - kk
+Әдһәм:
+  gender_flag: 2
+  lang:
+  - tt
+  origin:
+  - ar
+Әйүп:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Әкежан:
+  gender_flag: 2
+  lang:
+  - kk
+Әкрәм:
+  gender_flag: 2
+  lang:
+  - ba
+Әлжан:
+  gender_flag: 2
+  lang:
+  - kk
+Әлжаппар:
+  gender_flag: 2
+  lang:
+  - kk
+Әли:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әлима:
+  gender_flag: 1
+  lang:
+  - kk
+Әлия:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Әлмирә:
+  gender_flag: 1
+  lang:
+  - ba
+Әлфиә:
+  gender_flag: 1
+  lang:
+  - ba
+  origin:
+  - ar
+Әлімжан:
+  gender_flag: 2
+  lang:
+  - kk
+Әлімқұл:
+  gender_flag: 2
+  lang:
+  - kk
+Әліхан:
+  gender_flag: 2
+  lang:
+  - kk
+Әләрә:
+  gender_flag: 1
+  lang:
+  - ba
+Әмир:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Әмірбек:
+  gender_flag: 2
+  lang:
+  - kk
+Әнес:
+  gender_flag: 2
+  lang:
+  - kk
+Әнүәр:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Әсел:
+  gender_flag: 1
+  lang:
+  - kk
+  origin:
+  - ar
+Әсемай:
+  gender_flag: 1
+  lang:
+  - kk
+Әсемгүл:
+  gender_flag: 1
+  lang:
+  - kk
+Әсет:
+  gender_flag: 2
+  lang:
+  - kk
+Әсғәт:
+  gender_flag: 2
+  lang:
+  - ba
+Әубәкір:
+  gender_flag: 2
+  lang:
+  - kk
+  origin:
+  - ar
+Әуелхан:
+  gender_flag: 2
+  lang:
+  - kk
+Әхмәт:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Әхмәҙиә:
+  gender_flag: 2
+  lang:
+  - ba
+Әхмәҙулла:
+  gender_flag: 2
+  lang:
+  - ba
+Әхнәф:
+  gender_flag: 2
+  lang:
+  - ba
+Әшрәф:
+  gender_flag: 2
+  lang:
+  - ba
+Әҙһәм:
+  gender_flag: 2
+  lang:
+  - ba
+  origin:
+  - ar
+Әҡсән:
+  gender_flag: 2
+  lang:
+  - ba
+Өгэдэй:
+  gender_flag: 2
+  lang:
+  - mn
+Өлфәт:
+  gender_flag: 2
+  lang:
+  - ba
+Өмірхан:
+  gender_flag: 2
+  lang:
+  - kk
+Өсербай:
+  gender_flag: 2
+  lang:
+  - kk
+Өскенбай:
+  gender_flag: 2
+  lang:
+  - kk
+Өтеген:
+  gender_flag: 2
+  lang:
+  - kk
+Өтеміс:
+  gender_flag: 2
+  lang:
+  - kk
+Өэлүн:
+  gender_flag: 1
+  lang:
+  - mn
+Өөлет:
+  gender_flag: 2
+  lang:
+  - tyv
+Ӷьатама:
+  gender_flag: 2
+  lang:
+  - ab
+Ԯаԥҫоу:
+  gender_flag: 2
+  lang:
+  - uby
+Ԯьыҵыкә:
+  gender_flag: 2
+  lang:
+  - uby
+Ꙗрославъ:
+  gender_flag: 2
+  lang:
+  - zle-ort

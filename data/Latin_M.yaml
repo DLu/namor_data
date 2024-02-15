@@ -1,0 +1,11653 @@
+M.ª:
+  gender_flag: 1
+  lang:
+  - es
+Ma'eakanga:
+  gender_flag: 2
+  lang:
+  - tpw
+Maaike:
+  gender_flag: 1
+  lang:
+  - nl
+Maaka:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mark
+  lang:
+  - mi
+Maalat:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Maali:
+  gender_flag: 1
+  lang:
+  - et
+Maalia:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Maaliaanna:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Maannguaq:
+  gender_flag: 3
+  lang:
+  - kl
+Maanus:
+  gender_flag: 2
+  lang:
+  - et
+Maaret:
+  gender_flag: 1
+  lang:
+  - fi
+Maaria:
+  gender_flag: 1
+  lang:
+  - fi
+  - kl
+  origin:
+  - da
+Maarika:
+  gender_flag: 1
+  is_a_variant_of:
+  - Marika
+  lang:
+  - et
+Maarit:
+  gender_flag: 1
+  lang:
+  - fi
+Maariu:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Maarja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - et
+Maarjo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Mario
+  lang:
+  - et
+Maarten:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - nl
+Maartje:
+  gender_flag: 1
+  lang:
+  - nl
+Maasi:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Maayl:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - gv
+Mab:
+  gender_flag: 1
+  lang:
+  - en
+Mabel:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - tl
+  origin:
+  - en
+  - la
+Mabelle:
+  gender_flag: 1
+  is_a_variant_of:
+  - Mabel
+  lang:
+  - en
+  origin:
+  - la
+Mabire:
+  gender_flag: 2
+  lang:
+  - nrf
+Mable:
+  gender_flag: 1
+  is_a_variant_of:
+  - Mabel
+  lang:
+  - en
+  origin:
+  - la
+Mac:
+  gender_flag: 2
+  is_short_for:
+  - Max
+  lang:
+  - en
+Maca:
+  gender_flag: 1
+  is_short_for:
+  - Macarena
+  lang:
+  - es
+Macaire:
+  gender_flag: 2
+  lang:
+  - fr
+Macammad:
+  gender_flag: 2
+  lang:
+  - aa
+Macarena:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - ar
+  - grc
+Macario:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+Macarius:
+  gender_flag: 2
+  lang:
+  - en
+Mace:
+  gender_flag: 2
+  lang:
+  - en
+Macedoni:
+  gender_flag: 2
+  lang:
+  - ca
+Macedonio:
+  gender_flag: 2
+  lang:
+  - it
+Macey:
+  gender_flag: 1
+  lang:
+  - en
+Machteld:
+  gender_flag: 1
+  lang:
+  - nl
+Maci:
+  gender_flag: 1
+  lang:
+  - en
+Macie:
+  gender_flag: 1
+  lang:
+  - en
+Maciej:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthias
+  lang:
+  - pl
+Maciek:
+  gender_flag: 2
+  is_short_for:
+  - Maciej
+  lang:
+  - pl
+Maciuś:
+  gender_flag: 2
+  is_short_for:
+  - Maciej
+  lang:
+  - pl
+Mack:
+  gender_flag: 2
+  is_short_for:
+  - Max
+  lang:
+  - en
+Mackendy:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ht
+Mackenzie:
+  gender_flag: 7
+  lang:
+  - en
+Maclovio:
+  gender_flag: 2
+  lang:
+  - it
+Macsen:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maximus
+  lang:
+  - cy
+Macsi:
+  gender_flag: 2
+  lang:
+  - wa
+Macsimiyin:
+  gender_flag: 2
+  lang:
+  - wa
+Macu:
+  gender_flag: 1
+  is_short_for:
+  - Inmaculada
+  lang:
+  - es
+Macy:
+  gender_flag: 1
+  lang:
+  - en
+Madalena:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - he
+Madalina:
+  gender_flag: 1
+  lang:
+  - ro
+Madalyn:
+  gender_flag: 1
+  lang:
+  - en
+Madalynn:
+  gender_flag: 1
+  lang:
+  - en
+Madara:
+  gender_flag: 1
+  lang:
+  - lv
+Madars:
+  gender_flag: 2
+  lang:
+  - lv
+Maddalena:
+  gender_flag: 1
+  is_equivalent_to:
+  - Madeleine
+  - Magdalene
+  lang:
+  - it
+Maddie:
+  gender_flag: 7
+  is_short_for:
+  - Madeleine
+  - Madison
+  lang:
+  - en
+Maddison:
+  gender_flag: 7
+  is_a_variant_of:
+  - Madison
+  lang:
+  - en
+Maddox:
+  gender_flag: 2
+  lang:
+  - en
+Maddux:
+  gender_flag: 2
+  lang:
+  - en
+Maddy:
+  gender_flag: 7
+  is_short_for:
+  - Madeleine
+  - Madison
+  lang:
+  - en
+Made:
+  gender_flag: 1
+  lang:
+  - et
+Madeleine:
+  gender_flag: 1
+  is_equivalent_to:
+  - Magdalene
+  lang:
+  - de
+  - en
+  - fr
+  - 'no'
+  - sv
+  origin:
+  - fr
+Madelen:
+  gender_flag: 1
+  is_a_variant_of:
+  - Madeleine
+  lang:
+  - 'no'
+Madelene:
+  gender_flag: 1
+  is_a_variant_of:
+  - Madeleine
+  lang:
+  - sv
+Madeleînne:
+  gender_flag: 1
+  lang:
+  - wa
+Madelief:
+  gender_flag: 1
+  lang:
+  - nl
+Madelina:
+  gender_flag: 1
+  lang:
+  - en
+Madeline:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+Madelyn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Madeline
+  lang:
+  - en
+  origin:
+  - fr
+Madelynn:
+  gender_flag: 1
+  lang:
+  - en
+Madge:
+  gender_flag: 1
+  is_short_for:
+  - Margaret
+  lang:
+  - en
+Madhav:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Madi:
+  gender_flag: 3
+  is_short_for:
+  - Madeleine
+  - Madison
+  lang:
+  - en
+  - et
+Madilyn:
+  gender_flag: 1
+  lang:
+  - en
+Madilynn:
+  gender_flag: 1
+  lang:
+  - en
+Madis:
+  gender_flag: 2
+  lang:
+  - et
+Madison:
+  gender_flag: 7
+  lang:
+  - en
+Madisyn:
+  gender_flag: 1
+  lang:
+  - en
+Madiya:
+  gender_flag: 1
+  lang:
+  - en
+Madjene:
+  gender_flag: 1
+  lang:
+  - wa
+Madjène:
+  gender_flag: 1
+  lang:
+  - wa
+Madleen:
+  gender_flag: 1
+  is_short_for:
+  - Magdalene
+  lang:
+  - de
+Madlen:
+  gender_flag: 1
+  is_short_for:
+  - Magdalene
+  lang:
+  - de
+Madlene:
+  gender_flag: 1
+  is_short_for:
+  - Magdalene
+  lang:
+  - de
+Madli:
+  gender_flag: 1
+  lang:
+  - et
+Madlinne:
+  gender_flag: 1
+  is_equivalent_to:
+  - Magdalene
+  lang:
+  - wa
+Madonna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - it
+Madora:
+  gender_flag: 1
+  lang:
+  - en
+Madrilene:
+  gender_flag: 1
+  lang:
+  - en
+Mads:
+  gender_flag: 2
+  lang:
+  - da
+  - 'no'
+  origin:
+  - da
+Madyson:
+  gender_flag: 1
+  lang:
+  - en
+Madzia:
+  gender_flag: 1
+  is_short_for:
+  - Magda
+  - Magdalena
+  lang:
+  - pl
+Mae:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - tl
+Maeldoi:
+  gender_flag: 2
+  lang:
+  - obt
+Maelgwn:
+  gender_flag: 2
+  lang:
+  - cy
+Maeva:
+  gender_flag: 1
+  lang:
+  - fr
+Maeve:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Mafalda:
+  gender_flag: 1
+  lang:
+  - ceb
+  - es
+  - pt
+Magaidh:
+  gender_flag: 1
+  is_equivalent_to:
+  - Maggie
+  is_short_for:
+  - Mairead
+  lang:
+  - gd
+Magaji:
+  gender_flag: 2
+  lang:
+  - ha
+Magajiya:
+  gender_flag: 1
+  lang:
+  - ha
+Magali:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - oc
+Magalie:
+  gender_flag: 1
+  lang:
+  - fr
+Magalí:
+  gender_flag: 1
+  lang:
+  - oc
+Magda:
+  gender_flag: 1
+  is_short_for:
+  - Magdalena
+  - Magdalene
+  lang:
+  - af
+  - cs
+  - da
+  - de
+  - fo
+  - hu
+  - pl
+  - pt
+Magdaleena:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Magdalen:
+  gender_flag: 1
+  is_a_variant_of:
+  - Magdalene
+  lang:
+  - en
+  origin:
+  - he
+Magdalena:
+  gender_flag: 1
+  is_equivalent_to:
+  - Magdalene
+  lang:
+  - cs
+  - de
+  - es
+  - fo
+  - lt
+  - 'no'
+  - pl
+  - sv
+Magdalene:
+  gender_flag: 1
+  is_a_variant_of:
+  - Magdalena
+  lang:
+  - da
+  - de
+  - en
+  origin:
+  - he
+Magdaléna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Magdalene
+  lang:
+  - cs
+  - sk
+Magdi:
+  gender_flag: 1
+  is_short_for:
+  - Magdolna
+  lang:
+  - hu
+Magdička:
+  gender_flag: 1
+  is_short_for:
+  - Magda
+  lang:
+  - cs
+Magdolna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Magdalene
+  lang:
+  - hu
+Magdusia:
+  gender_flag: 1
+  is_short_for:
+  - Magda
+  - Magdalena
+  lang:
+  - pl
+Magga:
+  gender_flag: 1
+  lang:
+  - fo
+  - 'no'
+Maggi:
+  gender_flag: 2
+  is_short_for:
+  - Magnús
+  lang:
+  - is
+Maggie:
+  gender_flag: 1
+  is_short_for:
+  - Margaret
+  lang:
+  - en
+Maggiorino:
+  gender_flag: 2
+  lang:
+  - it
+Maggy:
+  gender_flag: 1
+  is_short_for:
+  - Margaret
+  lang:
+  - en
+Maglocune:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cel-bry-pro
+Maglocunus:
+  lang:
+  - la
+Magna:
+  gender_flag: 1
+  lang:
+  - da
+  - fo
+  - 'no'
+  - sv
+Magnar:
+  gender_flag: 2
+  lang:
+  - fo
+  - 'no'
+Magndís:
+  gender_flag: 1
+  lang:
+  - is
+Magne:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Magnea:
+  gender_flag: 1
+  lang:
+  - is
+Magnhild:
+  gender_flag: 1
+  lang:
+  - fo
+  - 'no'
+Magni:
+  gender_flag: 2
+  lang:
+  - fo
+Magnolia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Magnus:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - fo
+  - 'no'
+  - sv
+Magnús:
+  gender_flag: 2
+  is_equivalent_to:
+  - Magnus
+  lang:
+  - is
+  - non
+  origin:
+  - la
+Magnúsína:
+  gender_flag: 1
+  lang:
+  - is
+Magnþór:
+  gender_flag: 2
+  lang:
+  - is
+Magor:
+  gender_flag: 2
+  lang:
+  - hu
+Magriet:
+  gender_flag: 1
+  lang:
+  - af
+Magrit:
+  gender_flag: 1
+  lang:
+  - 'no'
+Magrite:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - wa
+Mags:
+  gender_flag: 1
+  lang:
+  - en
+Magtalît:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Magtanggol:
+  gender_flag: 2
+  lang:
+  - tl
+Mahalia:
+  gender_flag: 1
+  lang:
+  - en
+Mahamudu:
+  gender_flag: 2
+  lang:
+  - fr
+Mahaut:
+  gender_flag: 1
+  is_equivalent_to:
+  - Maud
+  lang:
+  - fr
+  origin:
+  - fro
+Mahavir:
+  gender_flag: 2
+  lang:
+  - en
+Mahdiqoli: {}
+Mahelona:
+  gender_flag: 2
+  lang:
+  - haw
+Mahelt:
+  gender_flag: 1
+  is_equivalent_to:
+  - Matilda
+  lang:
+  - fro
+Mahendra:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Maheshwari:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Mahina:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Mahir:
+  gender_flag: 2
+  lang:
+  - tr
+Mahiʻai:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Mahlon:
+  gender_flag: 2
+  lang:
+  - en
+Mahmoud:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Mahmud:
+  gender_flag: 2
+  lang:
+  - az
+  - en
+  - id
+  origin:
+  - ar
+Mahmudu:
+  gender_flag: 2
+  lang:
+  - ha
+Mahmut:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Mahomed:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Mahommed:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Mahsa: {}
+Mahulena:
+  gender_flag: 1
+  lang:
+  - cs
+Mahulenka:
+  gender_flag: 1
+  is_short_for:
+  - Mahulena
+  lang:
+  - cs
+Mai:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maj
+  lang:
+  - da
+  - en
+  - et
+  - 'no'
+  - vi
+  origin:
+  - zh
+Mai-Britt:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maj-Britt
+  lang:
+  - da
+Maia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Maya
+  lang:
+  - en
+  - et
+  - fo
+  - fr
+  - mul
+  origin:
+  - la
+Maiara:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Maibrit:
+  gender_flag: 1
+  is_a_variant_of:
+  - May-Britt
+  lang:
+  - da
+  - fo
+  - 'no'
+Maibritt:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maj-Britt
+  lang:
+  - da
+  - 'no'
+Maicol:
+  gender_flag: 2
+  lang:
+  - pt
+Maicon:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - en
+Maidie:
+  gender_flag: 1
+  lang:
+  - en
+Maido:
+  gender_flag: 2
+  lang:
+  - et
+Maie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maia
+  lang:
+  - et
+Maifríð:
+  gender_flag: 1
+  lang:
+  - fo
+Maiga:
+  gender_flag: 1
+  lang:
+  - lv
+Maigado:
+  gender_flag: 1
+  lang:
+  - ha
+Maigari:
+  gender_flag: 2
+  lang:
+  - ha
+Maighread:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - gd
+Maigonis:
+  gender_flag: 2
+  lang:
+  - lv
+Maigunn:
+  gender_flag: 1
+  lang:
+  - 'no'
+Maija:
+  gender_flag: 1
+  lang:
+  - fi
+  - lv
+Maija-Leena:
+  gender_flag: 1
+  lang:
+  - fi
+Maija-Liisa:
+  gender_flag: 1
+  lang:
+  - fi
+Maiju:
+  gender_flag: 1
+  lang:
+  - fi
+Maik:
+  gender_flag: 2
+  lang:
+  - de
+Maika:
+  gender_flag: 1
+  lang:
+  - fo
+Maikaʻi:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Maike:
+  gender_flag: 1
+  is_short_for:
+  - Maria
+  lang:
+  - de
+  origin:
+  - fy
+  - nds
+Maiken:
+  gender_flag: 1
+  lang:
+  - da
+  - et
+  - 'no'
+Maikki:
+  gender_flag: 1
+  lang:
+  - fi
+Maikls:
+  gender_flag: 2
+  lang:
+  - lv
+Maikuɗi:
+  gender_flag: 2
+  lang:
+  - ha
+Maila:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Maile:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Maili:
+  gender_flag: 1
+  lang:
+  - fi
+Mailill:
+  gender_flag: 1
+  lang:
+  - 'no'
+Mailis:
+  gender_flag: 1
+  lang:
+  - fi
+  - 'no'
+Mailiss:
+  gender_flag: 1
+  lang:
+  - 'no'
+Maimu:
+  gender_flag: 1
+  lang:
+  - et
+Maina:
+  gender_flag: 2
+  lang:
+  - ha
+Mainardo:
+  gender_flag: 2
+  lang:
+  - it
+Maine:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sga
+Maini:
+  gender_flag: 1
+  lang:
+  - fi
+Mainy:
+  gender_flag: 1
+  lang:
+  - 'no'
+Maiolo:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - fr
+Mair:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - cy
+Maira:
+  gender_flag: 1
+  lang:
+  - lv
+Maire:
+  gender_flag: 1
+  lang:
+  - en
+  - et
+  - fi
+  origin:
+  - ga
+Mairead:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - gd
+Mairiga:
+  gender_flag: 2
+  lang:
+  - ha
+Mairis:
+  gender_flag: 2
+  lang:
+  - lv
+Mairita:
+  gender_flag: 1
+  lang:
+  - lv
+Mairo:
+  gender_flag: 2
+  lang:
+  - et
+Mairsile:
+  gender_flag: 1
+  is_equivalent_to:
+  - Marcella
+  lang:
+  - ga
+Maisa:
+  gender_flag: 1
+  lang:
+  - fi
+Maisie:
+  gender_flag: 1
+  lang:
+  - en
+Maison:
+  gender_flag: 2
+  lang:
+  - en
+Maissenç:
+  gender_flag: 2
+  lang:
+  - oc
+Maisól:
+  gender_flag: 1
+  lang:
+  - fo
+Mait:
+  gender_flag: 2
+  lang:
+  - et
+Maitama:
+  gender_flag: 2
+  lang:
+  - ha
+Maite:
+  gender_flag: 1
+  lang:
+  - es
+  - eu
+Maitias:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - ga
+Maitiú:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - ga
+Maitreyi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Maitê:
+  gender_flag: 1
+  lang:
+  - pt
+Maivor:
+  gender_flag: 1
+  lang:
+  - 'no'
+  - sv
+Maiwada:
+  gender_flag: 2
+  lang:
+  - ha
+Maixăl:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - pox
+  origin:
+  - he
+Maize:
+  gender_flag: 3
+  lang:
+  - en
+Maiɗaki:
+  gender_flag: 1
+  lang:
+  - ha
+Maj:
+  gender_flag: 3
+  lang:
+  - en
+  - fr
+  - sl
+  - sv
+Maj-Britt:
+  gender_flag: 1
+  is_a_variant_of:
+  - May-Britt
+  lang:
+  - da
+  - 'no'
+  - sv
+Maj-Lis:
+  gender_flag: 1
+  lang:
+  - sv
+Maja:
+  gender_flag: 1
+  is_short_for:
+  - Maria
+  lang:
+  - da
+  - de
+  - hu
+  - 'no'
+  - pl
+  - sl
+  - sv
+Majbrit:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maj-Britt
+  lang:
+  - da
+  - 'no'
+Majbritt:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maj-Britt
+  lang:
+  - da
+  - 'no'
+  - sv
+Majel:
+  gender_flag: 1
+  lang:
+  - en
+Majenne:
+  gender_flag: 1
+  lang:
+  - wa
+Majka:
+  gender_flag: 1
+  is_short_for:
+  - Maja
+  lang:
+  - pl
+Majken:
+  gender_flag: 1
+  lang:
+  - sv
+Majlis:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maj-Lis
+  lang:
+  - en
+  - 'no'
+  - sv
+Majo:
+  gender_flag: 1
+  is_short_for:
+  - María José
+  lang:
+  - es
+Majvor:
+  gender_flag: 1
+  lang:
+  - 'no'
+  - sv
+Maka:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Makai:
+  gender_flag: 2
+  lang:
+  - en
+Makaio:
+  gender_flag: 2
+  lang:
+  - haw
+Makaleka:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Makalika:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Makamae:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Makana:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Makanui:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Makara:
+  gender_flag: 2
+  is_equivalent_to:
+  - Macarius
+  lang:
+  - izh
+Makary:
+  gender_flag: 2
+  is_equivalent_to:
+  - Macarius
+  lang:
+  - pl
+Makayla:
+  gender_flag: 1
+  is_a_variant_of:
+  - Michaela
+  lang:
+  - en
+  origin:
+  - he
+Makbule:
+  gender_flag: 1
+  lang:
+  - tr
+Make:
+  gender_flag: 2
+  is_short_for:
+  - Markus
+  lang:
+  - fi
+Makedon: {}
+Makedonka: {}
+Makenna:
+  gender_flag: 1
+  lang:
+  - en
+Makensy:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ht
+Makenzi:
+  gender_flag: 1
+  lang:
+  - en
+Makenzie:
+  gender_flag: 1
+  lang:
+  - en
+Makenzy:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ht
+Makepeace:
+  gender_flag: 2
+  lang:
+  - en
+Makhi:
+  gender_flag: 2
+  lang:
+  - en
+Makia:
+  gender_flag: 2
+  lang:
+  - haw
+Makiko:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Makisig:
+  gender_flag: 2
+  lang:
+  - tl
+Makka:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Makkak:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Makkalitta:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Makki:
+  gender_flag: 2
+  lang:
+  - aa
+Makoa:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Makring:
+  gender_flag: 1
+  lang:
+  - ceb
+Maks:
+  gender_flag: 2
+  lang:
+  - fo
+Maksims:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - la
+Maksymilian:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maximilian
+  lang:
+  - pl
+Malachi:
+  gender_flag: 2
+  lang:
+  - en
+Malachia:
+  gender_flag: 2
+  lang:
+  - it
+Malaea:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Malakai:
+  gender_flag: 2
+  lang:
+  - en
+Malake:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Malaki:
+  gender_flag: 2
+  lang:
+  - haw
+  - kl
+  origin:
+  - da
+Malakias:
+  gender_flag: 2
+  lang:
+  - fi
+Malan:
+  gender_flag: 1
+  lang:
+  - fo
+Malaury:
+  gender_flag: 2
+  lang:
+  - fr
+Malc:
+  gender_flag: 2
+  is_short_for:
+  - Malcolm
+  lang:
+  - en
+Malcheen:
+  gender_flag: 1
+  is_equivalent_to:
+  - Molly
+  lang:
+  - yol
+Malcku:
+  gender_flag: 2
+  lang:
+  - ceb
+Malco:
+  gender_flag: 2
+  lang:
+  - it
+Malcolm:
+  gender_flag: 2
+  lang:
+  - en
+Maleah:
+  gender_flag: 1
+  lang:
+  - en
+Maleka:
+  gender_flag: 1
+  lang:
+  - haw
+Maleko:
+  gender_flag: 2
+  lang:
+  - haw
+Malena:
+  gender_flag: 1
+  lang:
+  - es
+  - fo
+Malene:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Malfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Mali:
+  gender_flag: 1
+  lang:
+  - es
+  - fi
+  - 'no'
+Malia:
+  gender_flag: 1
+  lang:
+  - en
+  - haw
+  origin:
+  - haw
+Maliah:
+  gender_flag: 1
+  lang:
+  - en
+Malicia:
+  gender_flag: 1
+  lang:
+  - fr
+Maliina:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Malik:
+  gender_flag: 2
+  lang:
+  - en
+  - kl
+  origin:
+  - ar
+Malika:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Maliksi:
+  gender_flag: 2
+  lang:
+  - tl
+Malin:
+  gender_flag: 1
+  lang:
+  - nn
+  - 'no'
+  - sv
+Malina:
+  gender_flag: 1
+  lang:
+  - pl
+Malinda:
+  gender_flag: 1
+  is_a_variant_of:
+  - Melinda
+  lang:
+  - en
+Maliyah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - haw
+Malja:
+  gender_flag: 1
+  lang:
+  - fo
+Malla:
+  gender_flag: 1
+  is_short_for:
+  - Maria
+  lang:
+  - fi
+  - fo
+  - is
+Malle:
+  gender_flag: 1
+  lang:
+  - et
+Mallika:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Mallory:
+  gender_flag: 7
+  lang:
+  - en
+Malo:
+  gender_flag: 2
+  lang:
+  - sq
+Malou:
+  gender_flag: 1
+  is_short_for:
+  - Marie-Louise
+  lang:
+  - da
+  - fr
+Malte:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - sv
+Malthe:
+  gender_flag: 2
+  is_a_variant_of:
+  - Malte
+  lang:
+  - da
+Malviina:
+  gender_flag: 1
+  lang:
+  - fi
+Malvina:
+  gender_flag: 1
+  lang:
+  - fo
+  - it
+  - wa
+Malvinus:
+  gender_flag: 2
+  lang:
+  - fo
+Malvína:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Malwina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Malvina
+  lang:
+  - pl
+Malîna:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Malọmọ:
+  gender_flag: 1
+  lang:
+  - yo
+Mamadu:
+  gender_flag: 2
+  lang:
+  - en
+Mamata:
+  gender_flag: 1
+  lang:
+  - en
+Mamduh:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Mamen:
+  gender_flag: 1
+  lang:
+  - es
+Mamertas:
+  gender_flag: 2
+  lang:
+  - lt
+Mami:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Mamie:
+  gender_flag: 1
+  lang:
+  - en
+Mamiko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Mamiliano:
+  gender_flag: 2
+  lang:
+  - it
+Mamoudou:
+  gender_flag: 2
+  lang:
+  - fr
+Mamta:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - hi
+Manal:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Manami:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Manas:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Manasse:
+  gender_flag: 2
+  lang:
+  - it
+Manasseh:
+  gender_flag: 2
+  lang:
+  - en
+Manasses:
+  gender_flag: 2
+  lang:
+  - la
+Mance:
+  gender_flag: 2
+  lang:
+  - en
+Manci:
+  gender_flag: 1
+  is_short_for:
+  - Magdolna
+  - Margit
+  - Mária
+  lang:
+  - hu
+Manda:
+  gender_flag: 1
+  is_short_for:
+  - Amanda
+  lang:
+  - en
+Mandia:
+  gender_flag: 1
+  is_short_for:
+  - Adamandia
+  lang:
+  - en
+  origin:
+  - el
+Mandip:
+  gender_flag: 2
+  lang:
+  - en
+Mando:
+  gender_flag: 2
+  is_short_for:
+  - Armando
+  lang:
+  - ceb
+  - tl
+Mandy:
+  gender_flag: 1
+  is_short_for:
+  - Amanda
+  lang:
+  - en
+Maneco:
+  gender_flag: 2
+  is_short_for:
+  - Manoel
+  lang:
+  - gl
+Manervia:
+  gender_flag: 1
+  lang:
+  - en
+Manfred:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+Manfredo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Manfred
+  lang:
+  - it
+  origin:
+  - gem-pro
+Mange:
+  gender_flag: 2
+  is_short_for:
+  - Magnus
+  lang:
+  - sv
+Manilyn:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - ceb
+Maning:
+  gender_flag: 2
+  is_short_for:
+  - Manolo
+  - Manuel
+  lang:
+  - tl
+Manisha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Manja:
+  gender_flag: 1
+  lang:
+  - izh
+Manju:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Manlio:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+  origin:
+  - la
+Manman:
+  gender_flag: 2
+  lang:
+  - ceb
+Mannarsi:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Mannbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Manne:
+  gender_flag: 2
+  lang:
+  - fi
+Manni:
+  gender_flag: 2
+  lang:
+  - fo
+Mannie:
+  gender_flag: 2
+  is_short_for:
+  - Emmanuel
+  lang:
+  - en
+Manno:
+  gender_flag: 2
+  lang:
+  - it
+Manny:
+  gender_flag: 2
+  is_short_for:
+  - Emmanuel
+  - Manfred
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Manoel:
+  gender_flag: 2
+  lang:
+  - gl
+Manoela:
+  gender_flag: 1
+  lang:
+  - gl
+Manohar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Manola:
+  gender_flag: 1
+  is_short_for:
+  - Manoela
+  - Manuela
+  lang:
+  - es
+  - gl
+Manoli:
+  gender_flag: 1
+  is_short_for:
+  - Manuela
+  lang:
+  - es
+Manoliña:
+  gender_flag: 1
+  is_short_for:
+  - Manoela
+  lang:
+  - gl
+Manoliño:
+  gender_flag: 2
+  is_short_for:
+  - Manoel
+  lang:
+  - gl
+Manolo:
+  gender_flag: 2
+  is_short_for:
+  - Manoel
+  - Manuel
+  lang:
+  - es
+  - gl
+  - it
+  origin:
+  - es
+Manon:
+  gender_flag: 1
+  lang:
+  - fr
+  - nl
+Manoun:
+  gender_flag: 1
+  lang:
+  - nrf
+Manrico:
+  gender_flag: 2
+  lang:
+  - it
+Mansueto:
+  gender_flag: 2
+  lang:
+  - it
+Manta:
+  gender_flag: 1
+  lang:
+  - fi
+Mantas:
+  gender_flag: 2
+  lang:
+  - lt
+Mantau:
+  gender_flag: 2
+  lang:
+  - ha
+Manu:
+  gender_flag: 3
+  is_short_for:
+  - Manuel
+  lang:
+  - en
+  - es
+  - fi
+  - haw
+  - mi
+  - wa
+  origin:
+  - haw
+  - sa
+Manual:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - es
+Manuel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Emmanuel
+  lang:
+  - ca
+  - de
+  - en
+  - es
+  - fr
+  - pt
+  origin:
+  - es
+  - pt
+Manuela:
+  gender_flag: 3
+  lang:
+  - de
+  - en
+  - es
+  - haw
+  - pt
+Manuelita:
+  gender_flag: 1
+  is_short_for:
+  - Manuela
+  lang:
+  - es
+Manuwèl:
+  gender_flag: 2
+  lang:
+  - wa
+Manúel:
+  gender_flag: 2
+  lang:
+  - is
+Manúela:
+  gender_flag: 1
+  lang:
+  - is
+Maoilios:
+  gender_flag: 2
+  is_equivalent_to:
+  - Miles
+  lang:
+  - gd
+  origin:
+  - sga
+Maoldòmhnaich:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ludovic
+  lang:
+  - gd
+Maoldúin:
+  gender_flag: 2
+  lang:
+  - ga
+Maorolf:
+  gender_flag: 2
+  lang:
+  - goh
+Mar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mark
+  lang:
+  - nrf
+Mara:
+  gender_flag: 3
+  is_short_for:
+  - Martti
+  lang:
+  - en
+  - fi
+  - ro
+  origin:
+  - he
+Marah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+  - he
+Marakaîagûasu:
+  gender_flag: 2
+  lang:
+  - tpw
+Maralampuwi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - tiw
+Marc:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mark
+  lang:
+  - ca
+  - da
+  - de
+  - en
+  - fr
+  - fro
+  - gd
+  origin:
+  - fr
+  - la
+Marc-Antoine:
+  gender_flag: 2
+  lang:
+  - fr
+Marcantonio:
+  gender_flag: 2
+  lang:
+  - it
+Marcas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Marcus
+  - Mark
+  lang:
+  - ga
+  - gd
+  origin:
+  - la
+Marcee:
+  gender_flag: 1
+  is_short_for:
+  - Marcella
+  lang:
+  - en
+Marcel:
+  gender_flag: 2
+  lang:
+  - ca
+  - cs
+  - de
+  - en
+  - fr
+  - nl
+  - pl
+  - ro
+  - sk
+  origin:
+  - fr
+  - la
+Marcela:
+  gender_flag: 1
+  is_equivalent_to:
+  - Marcella
+  lang:
+  - cs
+  - es
+  - pt
+  - sk
+Marceli:
+  gender_flag: 2
+  is_equivalent_to:
+  - Marcel
+  lang:
+  - pl
+Marcelijus:
+  gender_flag: 2
+  lang:
+  - lt
+Marcelin:
+  gender_flag: 2
+  lang:
+  - fr
+Marcelina:
+  gender_flag: 1
+  lang:
+  - ceb
+  - es
+  - pl
+  origin:
+  - es
+  - la
+Marceline:
+  gender_flag: 1
+  lang:
+  - fr
+Marcelino:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+  origin:
+  - es
+Marcelka:
+  gender_flag: 1
+  is_short_for:
+  - Marcela
+  lang:
+  - cs
+Marcell:
+  gender_flag: 2
+  lang:
+  - hu
+Marcella:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Marcelle:
+  gender_flag: 1
+  lang:
+  - fr
+Marcellin:
+  gender_flag: 2
+  lang:
+  - fr
+Marcelline:
+  gender_flag: 1
+  lang:
+  - fr
+Marcello:
+  gender_flag: 2
+  is_a_variant_of:
+  - Marcelo
+  is_equivalent_to:
+  - Marcel
+  - Marcellus
+  lang:
+  - it
+  - pt
+Marcellus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Marcelo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Marcel
+  - Marcellus
+  lang:
+  - es
+  - pt
+March:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - en
+Marchmont:
+  gender_flag: 2
+  lang:
+  - en
+Marci:
+  gender_flag: 3
+  is_short_for:
+  - Marcell
+  - Márton
+  lang:
+  - en
+  - hu
+Marcia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Marcial:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martial
+  lang:
+  - es
+  - tl
+  origin:
+  - es
+Marciano:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+Marcie:
+  gender_flag: 1
+  lang:
+  - en
+Marcin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - pl
+Marcinek:
+  gender_flag: 2
+  is_short_for:
+  - Marcin
+  lang:
+  - pl
+Marcion:
+  gender_flag: 2
+  is_a_variant_of:
+  - Marc
+  - Mark
+  is_short_for:
+  - Marcus
+  lang:
+  - en
+  - la
+  origin:
+  - grc
+  - itc-ola
+  - la
+Marción:
+  gender_flag: 2
+  is_equivalent_to:
+  - Marcion
+  is_short_for:
+  - Marcos
+  lang:
+  - es
+  origin:
+  - grc
+  - la
+Marcjanna:
+  gender_flag: 1
+  lang:
+  - pl
+Marco:
+  gender_flag: 2
+  is_equivalent_to:
+  - Marcus
+  - Mark
+  lang:
+  - de
+  - en
+  - es
+  - it
+  - pt
+  origin:
+  - es
+  - it
+  - la
+  - pt
+  - roa
+Marcos:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mark
+  lang:
+  - ast
+  - ceb
+  - en
+  - es
+  - pt
+  origin:
+  - es
+  - la
+  - pt
+Marcou:
+  gender_flag: 2
+  lang:
+  - wa
+Marcu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mark
+  lang:
+  - ro
+  origin:
+  - la
+Marcus:
+  gender_flag: 2
+  is_a_variant_of:
+  - Markus
+  lang:
+  - da
+  - de
+  - en
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - la
+Marcy:
+  gender_flag: 1
+  lang:
+  - en
+Mardjo:
+  gender_flag: 1
+  lang:
+  - wa
+Mardjôzef:
+  gender_flag: 1
+  lang:
+  - wa
+Mardonio:
+  gender_flag: 2
+  lang:
+  - it
+Mardís:
+  gender_flag: 1
+  lang:
+  - is
+Mare:
+  gender_flag: 1
+  lang:
+  - et
+  - kl
+  origin:
+  - da
+Mareczek:
+  gender_flag: 2
+  is_short_for:
+  - Marek
+  lang:
+  - pl
+Maree:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - yol
+Mareike:
+  gender_flag: 1
+  is_short_for:
+  - Maria
+  lang:
+  - de
+  origin:
+  - nds
+Marek:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mark
+  lang:
+  - cs
+  - et
+  - pl
+  - sk
+  origin:
+  - la
+Mareks:
+  gender_flag: 2
+  lang:
+  - lv
+Marel:
+  gender_flag: 2
+  lang:
+  - is
+Maren:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - 'no'
+  - sv
+  origin:
+  - da
+Marenglen:
+  gender_flag: 2
+  lang:
+  - sq
+Maret:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - et
+Marey:
+  gender_flag: 1
+  lang:
+  - is
+Mareye:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - wa
+Mareček:
+  gender_flag: 2
+  is_short_for:
+  - Marek
+  lang:
+  - cs
+Marfa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Martha
+  lang:
+  - izh
+Marfisa:
+  gender_flag: 1
+  lang:
+  - it
+Marga:
+  gender_flag: 1
+  is_equivalent_to:
+  - Marge
+  is_short_for:
+  - Margarete
+  - Margarida
+  lang:
+  - de
+  - gl
+Margaery:
+  gender_flag: 1
+  lang:
+  - en
+Margaid:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - gv
+  origin:
+  - grc
+Margareeta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - et
+  - fi
+Margareetta:
+  gender_flag: 1
+  lang:
+  - fi
+Margaret:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - et
+  - 'no'
+  origin:
+  - en
+  - grc
+Margareta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - de
+  - 'no'
+  - sv
+Margarete:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - de
+Margareth:
+  gender_flag: 1
+  is_a_variant_of:
+  - Margaret
+  lang:
+  - 'no'
+Margaretha:
+  gender_flag: 1
+  is_a_variant_of:
+  - Margareta
+  lang:
+  - de
+  - sv
+Margarethe:
+  gender_flag: 1
+  is_a_variant_of:
+  - Margarete
+  lang:
+  - de
+Margareto:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - eo
+  origin:
+  - grc
+Margarett:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Margaretta:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Margarida:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - ca
+  - gl
+  - pt
+Margarita:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - en
+  - es
+  - lt
+  - lv
+  origin:
+  - grc
+Margaréta:
+  gender_flag: 1
+  lang:
+  - sk
+Margaux:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Marge:
+  gender_flag: 1
+  lang:
+  - en
+  - et
+Margeir:
+  gender_flag: 2
+  lang:
+  - fo
+Margerie:
+  gender_flag: 1
+  lang:
+  - nrf
+Margery:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Margherita:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - it
+Margie:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Margilyn:
+  gender_flag: 1
+  lang:
+  - ceb
+Margit:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - da
+  - de
+  - et
+  - fo
+  - hu
+  - 'no'
+  - sv
+Margita:
+  gender_flag: 1
+  lang:
+  - lv
+  - sk
+  - sv
+Margith:
+  gender_flag: 1
+  is_a_variant_of:
+  - Margit
+  lang:
+  - 'no'
+Margitka:
+  gender_flag: 1
+  is_short_for:
+  - Margit
+  lang:
+  - hu
+Margitt:
+  gender_flag: 1
+  is_a_variant_of:
+  - Margit
+  lang:
+  - 'no'
+Margo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Markus
+  lang:
+  - et
+Margot:
+  gender_flag: 1
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - et
+  - fr
+  - 'no'
+  - nrf
+  - sv
+  origin:
+  - fr
+Margotton:
+  gender_flag: 1
+  is_short_for:
+  - Margot
+  lang:
+  - nrf
+Margraate:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - yol
+Margreet:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - nl
+Margret:
+  gender_flag: 1
+  is_a_variant_of:
+  - Margarete
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - de
+  - fo
+  - sv
+Margreta:
+  gender_flag: 1
+  lang:
+  - fo
+  - sv
+Margrete:
+  gender_flag: 1
+  is_a_variant_of:
+  - Margrethe
+  lang:
+  - da
+  - 'no'
+Margrethe:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - da
+  - 'no'
+Margriet:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - nl
+Margrieta:
+  gender_flag: 1
+  lang:
+  - lv
+Margrit:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - de
+Margrét:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - is
+Marguerite:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - en
+  - fr
+  - nrf
+  origin:
+  - fr
+Margunn:
+  gender_flag: 1
+  lang:
+  - fo
+Margus:
+  gender_flag: 2
+  lang:
+  - et
+Margwardus:
+  gender_flag: 2
+  lang:
+  - gmh
+Margó:
+  gender_flag: 1
+  is_short_for:
+  - Margit
+  lang:
+  - hu
+Mari:
+  gender_flag: 3
+  is_equivalent_to:
+  - Mary
+  is_short_for:
+  - Mária
+  lang:
+  - br
+  - cy
+  - en
+  - et
+  - fi
+  - hu
+  - is
+  - kl
+  - 'no'
+  - sv
+  origin:
+  - he
+  - ja
+Mari-Liis:
+  gender_flag: 1
+  lang:
+  - et
+Maria:
+  gender_flag: 3
+  is_equivalent_to:
+  - Mary
+  lang:
+  - ca
+  - ceb
+  - cim
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - fo
+  - fr
+  - haw
+  - it
+  - la
+  - nl
+  - 'no'
+  - nrf
+  - osx
+  - pl
+  - pt
+  - ro
+  - sv
+  - tl
+  - yo
+Maria Chiara:
+  gender_flag: 1
+  lang:
+  - it
+Maria Cristina:
+  gender_flag: 1
+  lang:
+  - tl
+  origin:
+  - es
+Maria Joana:
+  gender_flag: 1
+  lang:
+  - pt
+Maria Juana:
+  gender_flag: 1
+  lang:
+  - pt
+Maria Luisa:
+  gender_flag: 1
+  lang:
+  - it
+  origin:
+  - la
+Mariah:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maria
+  lang:
+  - en
+  origin:
+  - he
+Mariamu:
+  gender_flag: 1
+  lang:
+  - sw
+Marian:
+  gender_flag: 3
+  lang:
+  - ca
+  - de
+  - en
+  - fr
+  - pl
+  origin:
+  - he
+Mariana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Marian
+  - Marianne
+  lang:
+  - ca
+  - cs
+  - en
+  - es
+  - pt
+  - ro
+  - sv
+  origin:
+  - he
+Mariane:
+  gender_flag: 1
+  is_a_variant_of:
+  - Marianne
+  lang:
+  - da
+Mariangela:
+  gender_flag: 1
+  lang:
+  - it
+Marianing:
+  gender_flag: 1
+  lang:
+  - ceb
+Mariann:
+  gender_flag: 1
+  is_a_variant_of:
+  - Marianne
+  lang:
+  - 'no'
+  - sv
+Marianna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Marian
+  lang:
+  - en
+  - fi
+  - fo
+  - it
+  - pl
+  - sk
+  origin:
+  - it
+Marianne:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - fi
+  - fr
+  - 'no'
+  - sv
+  origin:
+  - fr
+Mariano:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+  - it
+  - tl
+  origin:
+  - es
+  - la
+Maribel:
+  gender_flag: 1
+  lang:
+  - ceb
+  - es
+  - tl
+  origin:
+  - es
+Marica:
+  gender_flag: 1
+  lang:
+  - sh
+Maricar:
+  gender_flag: 1
+  lang:
+  - tl
+  origin:
+  - es
+Maricel:
+  gender_flag: 1
+  lang:
+  - ceb
+Marichu:
+  gender_flag: 1
+  is_short_for:
+  - María Jesús
+  lang:
+  - tl
+  origin:
+  - es
+Maricris:
+  gender_flag: 1
+  is_short_for:
+  - Maria Cristina
+  lang:
+  - tl
+  origin:
+  - es
+Maridel:
+  gender_flag: 1
+  lang:
+  - ceb
+Marie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - ceb
+  - cs
+  - da
+  - de
+  - en
+  - fr
+  - fro
+  - mwl
+  - nl
+  - 'no'
+  - nrf
+  - sv
+  origin:
+  - en
+  - fr
+  - he
+Marie-Alexandra:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-André:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Andrée:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Ange:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Anne:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Audrey:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Caroline:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Christine:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Claire:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Claude:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-France:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Françoise:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Hélène:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Jeanne:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-José:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Karine:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Laure:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Laurence:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Line:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Lise:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Louise:
+  gender_flag: 1
+  lang:
+  - fr
+  - sv
+Marie-Lyne:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Madeleine:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Madelène:
+  gender_flag: 1
+  lang:
+  - nrf
+Marie-Martine:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Noëlle:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Odile:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Paule:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Pier:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Pierre:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Soleil:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Theres:
+  gender_flag: 1
+  is_a_variant_of:
+  - Marie-Therese
+  lang:
+  - de
+Marie-Therese:
+  gender_flag: 1
+  lang:
+  - de
+Marie-Thérèse:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Ève:
+  gender_flag: 1
+  lang:
+  - fr
+Marie-Élaine:
+  gender_flag: 1
+  lang:
+  - fr
+Mariechen:
+  gender_flag: 1
+  is_short_for:
+  - Marie
+  lang:
+  - de
+Marieke:
+  gender_flag: 1
+  lang:
+  - nl
+Mariel:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - es
+Mariela:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+Mariele:
+  gender_flag: 1
+  lang:
+  - en
+Mariella:
+  gender_flag: 1
+  is_short_for:
+  - Maria
+  lang:
+  - en
+  - it
+Marielle:
+  gender_flag: 1
+  is_short_for:
+  - Marie
+  lang:
+  - ceb
+  - en
+  - fr
+Marietje:
+  gender_flag: 1
+  lang:
+  - nl
+Marietta:
+  gender_flag: 1
+  is_short_for:
+  - Maria
+  lang:
+  - en
+  - it
+  origin:
+  - it
+Mariette:
+  gender_flag: 1
+  is_short_for:
+  - Marie
+  lang:
+  - fr
+Marife:
+  gender_flag: 1
+  lang:
+  - tl
+  origin:
+  - es
+Marigel:
+  gender_flag: 1
+  lang:
+  - ceb
+Marigo:
+  gender_flag: 1
+  lang:
+  - sq
+Marigold:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Mariia:
+  gender_flag: 1
+  lang:
+  - fi
+Mariitta:
+  gender_flag: 1
+  lang:
+  - fi
+Marij:
+  gender_flag: 1
+  lang:
+  - nl
+Marija:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - lt
+  - lv
+  - mt
+  - sh
+  - sl
+  origin:
+  - arc
+  - grc
+  - la
+  - scn
+Marije:
+  gender_flag: 1
+  lang:
+  - nl
+Marijke:
+  gender_flag: 1
+  lang:
+  - nl
+Marijona:
+  gender_flag: 1
+  lang:
+  - lt
+Marijonas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Marion
+  lang:
+  - lt
+Marijoy:
+  gender_flag: 1
+  lang:
+  - ceb
+Marijus:
+  gender_flag: 2
+  lang:
+  - lt
+Marika:
+  gender_flag: 1
+  is_short_for:
+  - Mária
+  lang:
+  - cs
+  - et
+  - fi
+  - hu
+  - lv
+  - sv
+Mariko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - ja
+Mariliis:
+  gender_flag: 1
+  is_a_variant_of:
+  - Mari-Liis
+  lang:
+  - et
+Marilla:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Marilou:
+  gender_flag: 1
+  lang:
+  - fr
+  - tl
+  origin:
+  - es
+Marilyn:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Marilys:
+  gender_flag: 1
+  lang:
+  - en
+Marimar:
+  gender_flag: 1
+  lang:
+  - ceb
+Marimel:
+  gender_flag: 1
+  lang:
+  - ceb
+Marin:
+  gender_flag: 7
+  lang:
+  - en
+  - fo
+  - sh
+  origin:
+  - la
+  - sh
+Marina:
+  gender_flag: 1
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - es
+  - et
+  - fr
+  - it
+  - lv
+  - pt
+  - sh
+  - sv
+  origin:
+  - la
+Marine:
+  gender_flag: 1
+  is_equivalent_to:
+  - Marina
+  lang:
+  - fr
+Marinel:
+  gender_flag: 1
+  lang:
+  - ceb
+Marinela:
+  gender_flag: 1
+  lang:
+  - sh
+  origin:
+  - it
+Marinette:
+  gender_flag: 1
+  lang:
+  - fr
+Maring:
+  gender_flag: 1
+  is_short_for:
+  - Mari
+  - Maria
+  lang:
+  - tl
+  origin:
+  - es
+Marinko:
+  gender_flag: 2
+  lang:
+  - sh
+Marino:
+  gender_flag: 2
+  lang:
+  - it
+Marinus:
+  gender_flag: 2
+  lang:
+  - da
+Marinó:
+  gender_flag: 2
+  lang:
+  - is
+Mario:
+  gender_flag: 3
+  is_equivalent_to:
+  - Marius
+  - Mary
+  lang:
+  - de
+  - en
+  - eo
+  - es
+  - et
+  - it
+  - nl
+  - sh
+  - tl
+  origin:
+  - es
+  - he
+  - it
+  - la
+Marioara:
+  gender_flag: 1
+  lang:
+  - ro
+Mariola:
+  gender_flag: 1
+  lang:
+  - pl
+Mariolka:
+  gender_flag: 1
+  is_short_for:
+  - Mariola
+  lang:
+  - pl
+Marion:
+  gender_flag: 7
+  lang:
+  - da
+  - de
+  - en
+  - fr
+  - frm
+  - fro
+  - 'no'
+  - sv
+  origin:
+  - he
+Mariona:
+  gender_flag: 1
+  lang:
+  - ca
+Maripier:
+  gender_flag: 1
+  lang:
+  - fr
+Maris:
+  gender_flag: 1
+  is_short_for:
+  - Mária
+  lang:
+  - et
+  - hu
+Marisa:
+  gender_flag: 1
+  is_a_variant_of:
+  - Marissa
+  lang:
+  - en
+  origin:
+  - es
+Marise:
+  gender_flag: 1
+  lang:
+  - en
+Mariska:
+  gender_flag: 1
+  is_short_for:
+  - Mária
+  lang:
+  - hu
+Marisol:
+  gender_flag: 1
+  lang:
+  - es
+  - tl
+Marissa:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - es
+Maristela:
+  gender_flag: 1
+  lang:
+  - pt
+Marit:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - et
+  - fo
+  - 'no'
+  - sv
+Marita:
+  gender_flag: 1
+  lang:
+  - en
+  - fi
+  - fo
+  - lv
+  - 'no'
+  - sv
+  origin:
+  - grc
+Marite:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - es
+  - fr
+Marites:
+  gender_flag: 1
+  lang:
+  - ceb
+  - tl
+  origin:
+  - es
+Maritje:
+  gender_flag: 1
+  lang:
+  - nl
+Marits:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maurice
+  lang:
+  - gsw
+  origin:
+  - la
+Maritta:
+  gender_flag: 1
+  is_a_variant_of:
+  - Marita
+  lang:
+  - fi
+Marité:
+  gender_flag: 1
+  is_short_for:
+  - Marie-Thérèse
+  lang:
+  - es
+  - fr
+  origin:
+  - fr
+Marius:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  - fo
+  - fr
+  - lt
+  - nl
+  - 'no'
+  - ro
+  origin:
+  - la
+Mariusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Marius
+  lang:
+  - pl
+Marivic:
+  gender_flag: 1
+  lang:
+  - tl
+  origin:
+  - es
+Mariyah:
+  gender_flag: 1
+  lang:
+  - en
+Marià:
+  gender_flag: 2
+  lang:
+  - ca
+Marián:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+  origin:
+  - la
+Mariëlle:
+  gender_flag: 1
+  lang:
+  - nl
+Marið:
+  gender_flag: 1
+  lang:
+  - fo
+Marj:
+  gender_flag: 1
+  is_short_for:
+  - Marjorie
+  lang:
+  - en
+Marja:
+  gender_flag: 1
+  lang:
+  - fi
+  - fo
+  - nl
+  - sv
+Marja-Leena:
+  gender_flag: 1
+  lang:
+  - fi
+Marja-Liisa:
+  gender_flag: 1
+  lang:
+  - fi
+Marja-Riitta:
+  gender_flag: 1
+  lang:
+  - fi
+Marja-Terttu:
+  gender_flag: 1
+  lang:
+  - fi
+Marjaana:
+  gender_flag: 1
+  lang:
+  - fi
+Marjan:
+  gender_flag: 3
+  lang:
+  - nl
+  - sl
+Marjana:
+  gender_flag: 1
+  lang:
+  - sl
+Marjatta:
+  gender_flag: 1
+  lang:
+  - fi
+Marje:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maarja
+  - Mari
+  lang:
+  - et
+Marjing:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Marjo:
+  gender_flag: 1
+  lang:
+  - fi
+Marjo-Riitta:
+  gender_flag: 1
+  lang:
+  - fi
+Marjolaine:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Marjolène:
+  gender_flag: 1
+  is_a_variant_of:
+  - Marjolaine
+  lang:
+  - fr
+  - nrf
+  origin:
+  - fr
+Marjoret:
+  gender_flag: 1
+  lang:
+  - ceb
+Marjorie:
+  gender_flag: 3
+  lang:
+  - ceb
+  - en
+  - fr
+  origin:
+  - en
+  - grc
+Marjory:
+  gender_flag: 1
+  is_a_variant_of:
+  - Margery
+  lang:
+  - en
+  origin:
+  - grc
+Marju:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maarja
+  - Mari
+  lang:
+  - et
+Marjukka:
+  gender_flag: 1
+  lang:
+  - fi
+Marjun:
+  gender_flag: 1
+  is_equivalent_to:
+  - Marion
+  lang:
+  - fo
+Marjus:
+  gender_flag: 2
+  lang:
+  - fo
+Marjut:
+  gender_flag: 1
+  lang:
+  - fi
+Marjón:
+  gender_flag: 2
+  lang:
+  - is
+Mark:
+  gender_flag: 2
+  is_a_variant_of:
+  - Markus
+  is_equivalent_to:
+  - Marc
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - nl
+  - sq
+  origin:
+  - la
+Markas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mark
+  lang:
+  - lt
+Marketta:
+  gender_flag: 1
+  lang:
+  - fi
+Marki:
+  gender_flag: 2
+  is_equivalent_to:
+  - Marc
+  lang:
+  - sq
+  origin:
+  - la
+Markie:
+  gender_flag: 2
+  lang:
+  - en
+Markku:
+  gender_flag: 2
+  lang:
+  - fi
+Marko:
+  gender_flag: 2
+  is_a_variant_of:
+  - Marco
+  is_equivalent_to:
+  - Mark
+  lang:
+  - de
+  - en
+  - et
+  - fi
+  - sh
+  - sk
+  - sl
+  - sw
+Marks:
+  gender_flag: 2
+  lang:
+  - lv
+Marku:
+  gender_flag: 2
+  is_equivalent_to:
+  - Marc
+  lang:
+  - sq
+  origin:
+  - la
+Markus:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - fo
+  - 'no'
+  - sv
+  origin:
+  - la
+Markuss:
+  gender_flag: 2
+  lang:
+  - lv
+Marky:
+  gender_flag: 2
+  is_short_for:
+  - Mark
+  lang:
+  - en
+Markys:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mark
+  lang:
+  - gv
+Markéta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - cs
+Markétka:
+  gender_flag: 1
+  is_short_for:
+  - Markéta
+  lang:
+  - cs
+Markús:
+  gender_flag: 2
+  lang:
+  - is
+Marla:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Marlaug:
+  gender_flag: 1
+  lang:
+  - 'no'
+Marlee:
+  gender_flag: 1
+  lang:
+  - en
+Marleen:
+  gender_flag: 1
+  is_a_variant_of:
+  - Marlene
+  lang:
+  - de
+  - en
+  - et
+  - nl
+  origin:
+  - he
+Marleena:
+  gender_flag: 1
+  lang:
+  - fi
+Marleigh:
+  gender_flag: 1
+  lang:
+  - en
+Marlen:
+  gender_flag: 1
+  is_a_variant_of:
+  - Marlene
+  lang:
+  - de
+Marlena:
+  gender_flag: 1
+  is_equivalent_to:
+  - Marlene
+  lang:
+  - ca
+  - en
+  - fo
+  - pl
+Marlene:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - sv
+  origin:
+  - he
+Marley:
+  gender_flag: 7
+  lang:
+  - en
+Marlies:
+  gender_flag: 1
+  lang:
+  - de
+Marlin:
+  gender_flag: 2
+  is_a_variant_of:
+  - Merlin
+  lang:
+  - en
+Marlis:
+  gender_flag: 1
+  lang:
+  - de
+Marlise:
+  gender_flag: 1
+  lang:
+  - en
+Marllon:
+  gender_flag: 2
+  lang:
+  - en
+Marlo:
+  gender_flag: 2
+  lang:
+  - en
+Marlon:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Marlène:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - de
+Marmaduke:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Marna:
+  gender_flag: 1
+  lang:
+  - fo
+Marnar:
+  gender_flag: 2
+  lang:
+  - fo
+Marnell:
+  gender_flag: 2
+  lang:
+  - en
+Marnhild:
+  gender_flag: 1
+  lang:
+  - fo
+Marni:
+  gender_flag: 3
+  lang:
+  - en
+  - fo
+Marnie:
+  gender_flag: 1
+  lang:
+  - en
+Maron:
+  gender_flag: 2
+  lang:
+  - is
+Marotte:
+  gender_flag: 1
+  lang:
+  - nrf
+Marotène:
+  gender_flag: 1
+  lang:
+  - nrf
+Maroussia:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - uk
+Maroš:
+  gender_flag: 2
+  lang:
+  - sk
+Marq:
+  gender_flag: 2
+  is_a_variant_of:
+  - Mark
+  lang:
+  - en
+Marquito:
+  gender_flag: 2
+  is_short_for:
+  - Marcos
+  lang:
+  - es
+Marsaili:
+  gender_flag: 1
+  lang:
+  - gd
+Marse:
+  gender_flag: 1
+  lang:
+  - en
+Marsha:
+  gender_flag: 1
+  is_a_variant_of:
+  - Marcia
+  lang:
+  - en
+  origin:
+  - la
+Marshal:
+  gender_flag: 2
+  lang:
+  - en
+Marshalie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Marjory
+  lang:
+  - gv
+  origin:
+  - grc
+Marshall:
+  gender_flag: 7
+  lang:
+  - en
+Marshawn:
+  gender_flag: 2
+  lang:
+  - en
+Marsilio:
+  gender_flag: 2
+  lang:
+  - it
+Marsing:
+  gender_flag: 3
+  lang:
+  - ceb
+Mart:
+  gender_flag: 2
+  is_short_for:
+  - Martin
+  lang:
+  - en
+Marta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Martha
+  lang:
+  - ca
+  - cs
+  - de
+  - en
+  - es
+  - et
+  - fo
+  - is
+  - it
+  - lv
+  - 'no'
+  - oc
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - sv
+  origin:
+  - arc
+Martaja:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Marte:
+  gender_flag: 1
+  is_a_variant_of:
+  - Margareta
+  - Marta
+  lang:
+  - 'no'
+Marteen:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - yol
+Marteinn:
+  gender_flag: 2
+  lang:
+  - is
+  origin:
+  - la
+Marten:
+  gender_flag: 2
+  is_a_variant_of:
+  - Martin
+  lang:
+  - et
+Martha:
+  gender_flag: 1
+  is_a_variant_of:
+  - Marta
+  lang:
+  - da
+  - de
+  - en
+  - 'no'
+  - pt
+  origin:
+  - arc
+Marthe:
+  gender_flag: 1
+  is_a_variant_of:
+  - Margareta
+  - Marta
+  is_equivalent_to:
+  - Martha
+  lang:
+  - en
+  - fr
+  - 'no'
+  origin:
+  - fr
+  - 'no'
+Marthey:
+  gender_flag: 1
+  is_equivalent_to:
+  - Martha
+  lang:
+  - gv
+  origin:
+  - arc
+Marti:
+  gender_flag: 2
+  is_a_variant_of:
+  - Martin
+  lang:
+  - et
+Martial:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+Martie:
+  gender_flag: 1
+  lang:
+  - en
+Martijn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - nl
+Martim:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - pt
+  origin:
+  - la
+Martin:
+  gender_flag: 2
+  lang:
+  - ceb
+  - cs
+  - da
+  - de
+  - en
+  - et
+  - fo
+  - fr
+  - fro
+  - 'no'
+  - sk
+  - sq
+  - sv
+  origin:
+  - es
+  - la
+Martina:
+  gender_flag: 1
+  lang:
+  - cs
+  - de
+  - en
+  - es
+  - fo
+  - it
+  - la
+  - sk
+  - sv
+  origin:
+  - la
+Martine:
+  gender_flag: 1
+  is_equivalent_to:
+  - Martina
+  lang:
+  - da
+  - en
+  - fr
+  - 'no'
+Martinho:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - pt
+  - roa-opt
+Martini:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - sq
+  origin:
+  - la
+Martinka:
+  gender_flag: 1
+  is_short_for:
+  - Martina
+  lang:
+  - cs
+Martino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - it
+Martinus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - la
+  - nl
+Martita:
+  gender_flag: 1
+  is_short_for:
+  - Marta
+  lang:
+  - es
+Martiño:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - gl
+Martička:
+  gender_flag: 1
+  is_short_for:
+  - Marta
+  lang:
+  - cs
+Martta:
+  gender_flag: 1
+  lang:
+  - fi
+  origin:
+  - arc
+Martti:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - fi
+Martus:
+  gender_flag: 2
+  lang:
+  - ceb
+Martusia:
+  gender_flag: 1
+  is_short_for:
+  - Marta
+  lang:
+  - pl
+Marty:
+  gender_flag: 7
+  is_short_for:
+  - Marten
+  - Martha
+  - Martin
+  lang:
+  - en
+Martyn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - en
+  - gv
+Martyna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Martina
+  lang:
+  - pl
+Martynas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - lt
+Martèin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - egl
+  origin:
+  - la
+Martí:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - ca
+  origin:
+  - la
+Martín:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - es
+Martínek:
+  gender_flag: 2
+  is_short_for:
+  - Martin
+  lang:
+  - cs
+Martîn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - nrf
+Maruta:
+  gender_flag: 1
+  lang:
+  - lv
+Maruthini:
+  gender_flag: 1
+  lang:
+  - en
+Maruxa:
+  gender_flag: 1
+  is_short_for:
+  - María
+  lang:
+  - gl
+Maruš:
+  gender_flag: 1
+  is_short_for:
+  - Marie
+  lang:
+  - cs
+Maruška:
+  gender_flag: 1
+  lang:
+  - cs
+Marv:
+  gender_flag: 2
+  is_short_for:
+  - Marvin
+  lang:
+  - en
+Marve:
+  gender_flag: 1
+  lang:
+  - et
+Marvin:
+  gender_flag: 2
+  lang:
+  - ceb
+  - de
+  - en
+  origin:
+  - cy
+Marvis:
+  gender_flag: 2
+  lang:
+  - en
+Marwig:
+  gender_flag: 2
+  lang:
+  - de
+Marwin:
+  gender_flag: 2
+  lang:
+  - de
+Mary:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - en
+  - 'no'
+  - sv
+  - tl
+  origin:
+  - arc
+  - en
+  - he
+Mary Ann:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Mary Anne:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Mary Jane:
+  gender_flag: 1
+  lang:
+  - en
+Mary Joy:
+  gender_flag: 1
+  lang:
+  - ceb
+Mary Lou:
+  gender_flag: 1
+  lang:
+  - en
+Maryam:
+  gender_flag: 1
+  lang:
+  - en
+  - id
+  origin:
+  - ar
+Maryamu:
+  gender_flag: 1
+  lang:
+  - ha
+Maryann:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Maryanne:
+  gender_flag: 1
+  lang:
+  - en
+Marybeth:
+  gender_flag: 1
+  lang:
+  - en
+Marycha:
+  gender_flag: 1
+  lang:
+  - pl
+Maryja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - pl
+  origin:
+  - arc
+  - grc
+  - la
+Maryjane:
+  gender_flag: 1
+  lang:
+  - en
+Maryla:
+  gender_flag: 1
+  is_equivalent_to:
+  - Meryl
+  lang:
+  - pl
+Marylka:
+  gender_flag: 1
+  is_short_for:
+  - Maryla
+  lang:
+  - pl
+Marylou:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+Marylouise:
+  gender_flag: 1
+  lang:
+  - en
+Marylyn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Marilyn
+  lang:
+  - en
+Marylène:
+  gender_flag: 1
+  lang:
+  - fr
+Maryono:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Maryrose:
+  gender_flag: 1
+  lang:
+  - en
+Maryse:
+  gender_flag: 1
+  lang:
+  - fr
+Marysia:
+  gender_flag: 1
+  is_short_for:
+  - Maria
+  lang:
+  - pl
+Maryssa:
+  gender_flag: 1
+  is_a_variant_of:
+  - Marissa
+  lang:
+  - en
+  origin:
+  - es
+Marytė:
+  gender_flag: 1
+  lang:
+  - lt
+Maryvonne:
+  gender_flag: 1
+  lang:
+  - fr
+Marzanna:
+  gender_flag: 1
+  lang:
+  - pl
+Marzena:
+  gender_flag: 1
+  lang:
+  - pl
+Marzia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Marcia
+  lang:
+  - it
+Marziale:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martial
+  lang:
+  - it
+Marzio:
+  gender_flag: 2
+  lang:
+  - it
+María:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - ast
+  - cs
+  - es
+  - gl
+  - is
+  origin:
+  - he
+María Jesús:
+  gender_flag: 1
+  lang:
+  - es
+María José:
+  gender_flag: 1
+  lang:
+  - es
+María Juana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary Jane
+  lang:
+  - es
+María Magdalena:
+  gender_flag: 1
+  lang:
+  - es
+Maríana:
+  gender_flag: 2
+  lang:
+  - is
+Marín:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - la
+Marína:
+  gender_flag: 1
+  lang:
+  - sk
+Marý:
+  gender_flag: 1
+  lang:
+  - fo
+Marťa:
+  gender_flag: 1
+  is_short_for:
+  - Martina
+  lang:
+  - cs
+Masa:
+  gender_flag: 3
+  lang:
+  - en
+  - fi
+  - fo
+  origin:
+  - ja
+Masaana:
+  gender_flag: 2
+  lang:
+  - kl
+Masaatsiaq:
+  gender_flag: 2
+  lang:
+  - kl
+Masahiro:
+  gender_flag: 2
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Masahisa:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Masaitsiaq:
+  gender_flag: 2
+  lang:
+  - kl
+Masami:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ja
+Masao:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Masaru:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Masateru:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Masauna:
+  gender_flag: 2
+  lang:
+  - kl
+Mase:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Masha:
+  gender_flag: 1
+  lang:
+  - en
+Mashallah:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Masinë:
+  gender_flag: 2
+  lang:
+  - sq
+Masiye:
+  gender_flag: 7
+  lang:
+  - ny
+Mason:
+  gender_flag: 2
+  lang:
+  - en
+Masoro:
+  gender_flag: 1
+  lang:
+  - ha
+Masoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Mass:
+  gender_flag: 2
+  lang:
+  - en
+  - fo
+Massimiliano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maximilian
+  lang:
+  - it
+  origin:
+  - la
+Massimino:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Massimo:
+  gender_flag: 2
+  lang:
+  - it
+Masum:
+  gender_flag: 2
+  lang:
+  - tr
+Mat:
+  gender_flag: 2
+  is_short_for:
+  - Matthew
+  lang:
+  - en
+Mata:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - gd
+Matahom:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - ceb
+Mataleena:
+  gender_flag: 1
+  lang:
+  - fi
+Matas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - lt
+Matchi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - nrf
+Mate:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Matea:
+  gender_flag: 1
+  lang:
+  - ceb
+Matei:
+  gender_flag: 2
+  lang:
+  - ro
+Matej:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - sh
+  - sk
+  - sl
+Mateja:
+  gender_flag: 1
+  lang:
+  - sl
+Matejs:
+  gender_flag: 2
+  lang:
+  - lv
+Mateo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - ceb
+  - en
+  - eo
+  - es
+  - tl
+  origin:
+  - es
+  - he
+Mates:
+  gender_flag: 2
+  is_short_for:
+  - Matěj
+  lang:
+  - cs
+Mateu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - ca
+Mateus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - pt
+  origin:
+  - he
+Mateusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - pl
+Matevž:
+  gender_flag: 2
+  lang:
+  - sl
+Mathe:
+  gender_flag: 2
+  lang:
+  - sq
+Mathea:
+  gender_flag: 1
+  lang:
+  - 'no'
+Matheo:
+  gender_flag: 2
+  lang:
+  - 'no'
+Mather:
+  gender_flag: 2
+  lang:
+  - en
+Mathew:
+  gender_flag: 2
+  is_a_variant_of:
+  - Matthew
+  lang:
+  - en
+Mathias:
+  gender_flag: 2
+  is_a_variant_of:
+  - Matias
+  - Matthias
+  - Mattias
+  is_equivalent_to:
+  - Matthew
+  - Matthias
+  lang:
+  - da
+  - de
+  - fr
+  - 'no'
+  - pt
+  - sv
+Mathide:
+  gender_flag: 1
+  is_equivalent_to:
+  - Matilda
+  lang:
+  - nrf
+Mathie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - nrf
+Mathies:
+  gender_flag: 2
+  lang:
+  - da
+Mathieu:
+  gender_flag: 2
+  is_a_variant_of:
+  - Matthieu
+  lang:
+  - fr
+Mathilda:
+  gender_flag: 1
+  lang:
+  - en
+  - sv
+  origin:
+  - gem
+Mathilde:
+  gender_flag: 1
+  is_equivalent_to:
+  - Matilda
+  lang:
+  - da
+  - de
+  - fr
+  - 'no'
+Mathis:
+  gender_flag: 2
+  lang:
+  - fr
+  - 'no'
+Mathurin:
+  gender_flag: 2
+  lang:
+  - nrf
+Mathéo:
+  gender_flag: 2
+  lang:
+  - fr
+Mathías:
+  gender_flag: 2
+  lang:
+  - is
+Mathúin:
+  gender_flag: 2
+  lang:
+  - ga
+  origin:
+  - sga
+Mati:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthias
+  is_short_for:
+  - Mateo
+  - Matías
+  lang:
+  - es
+  - et
+  - kl
+  origin:
+  - da
+Matia:
+  gender_flag: 2
+  lang:
+  - ro
+  origin:
+  - la
+Matias:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthias
+  lang:
+  - fi
+  - pt
+Matija:
+  gender_flag: 7
+  lang:
+  - sh
+Matilda:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - fi
+  - fo
+  - pt
+  - sk
+  - sv
+  origin:
+  - gem
+Matilde:
+  gender_flag: 1
+  is_equivalent_to:
+  - Matilda
+  lang:
+  - da
+  - es
+  - it
+  - pt
+Matile:
+  gender_flag: 1
+  is_equivalent_to:
+  - Matilda
+  lang:
+  - wa
+Matina:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - mg
+Mating:
+  gender_flag: 1
+  lang:
+  - ceb
+Matis:
+  gender_flag: 2
+  lang:
+  - et
+Matiu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - mi
+  - yo
+Matius:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - la
+Matko:
+  gender_flag: 2
+  is_short_for:
+  - Matej
+  lang:
+  - sh
+Matleena:
+  gender_flag: 1
+  lang:
+  - fi
+Matosh:
+  gender_flag: 2
+  lang:
+  - sq
+Matouš:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - cs
+  origin:
+  - he
+Matrona:
+  lang:
+  - pl
+Mats:
+  gender_flag: 2
+  lang:
+  - et
+  - fo
+  - 'no'
+  - sv
+Matsvei: {}
+Matsvey: {}
+Matt:
+  gender_flag: 2
+  is_short_for:
+  - Matthew
+  - Matthias
+  lang:
+  - en
+Matta:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Mattaliit:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Mattas:
+  gender_flag: 2
+  lang:
+  - fo
+Mattathias:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - he
+Mattatia:
+  gender_flag: 2
+  lang:
+  - it
+Mattea:
+  gender_flag: 1
+  lang:
+  - it
+Matteo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - it
+  origin:
+  - he
+Matteus:
+  gender_flag: 2
+  is_a_variant_of:
+  - Mateus
+  lang:
+  - et
+  - fi
+  - fo
+  - 'no'
+  - pt
+  - sv
+Matthaeus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - he
+Mattheas:
+  gender_flag: 2
+  is_a_variant_of:
+  - Matthias
+  lang:
+  - en
+Mattheus:
+  gender_flag: 2
+  is_a_variant_of:
+  - Mateus
+  lang:
+  - pt
+Matthew:
+  gender_flag: 2
+  lang:
+  - en
+Matthias:
+  gender_flag: 2
+  is_a_variant_of:
+  - Mathias
+  - Matias
+  - Mattias
+  lang:
+  - da
+  - de
+  - en
+  - fr
+  - pt
+Matthieu:
+  gender_flag: 2
+  lang:
+  - fr
+Matthijs:
+  gender_flag: 2
+  lang:
+  - nl
+Matthild:
+  gender_flag: 1
+  lang:
+  - fo
+Matthäus:
+  gender_flag: 2
+  lang:
+  - de
+Matthæus:
+  gender_flag: 2
+  lang:
+  - da
+  - la
+Matti:
+  gender_flag: 2
+  lang:
+  - fi
+  origin:
+  - he
+Mattia:
+  gender_flag: 2
+  lang:
+  - it
+Mattias:
+  gender_flag: 2
+  is_a_variant_of:
+  - Matias
+  lang:
+  - et
+  - fi
+  - fo
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - he
+Mattie:
+  gender_flag: 1
+  is_short_for:
+  - Martha
+  - Matilda
+  lang:
+  - en
+Mattis:
+  gender_flag: 2
+  lang:
+  - 'no'
+  - sv
+Mattison:
+  gender_flag: 1
+  lang:
+  - en
+Matts:
+  gender_flag: 2
+  lang:
+  - sv
+Matty:
+  gender_flag: 7
+  is_a_variant_of:
+  - Mattie
+  is_short_for:
+  - Martha
+  - Matilda
+  - Matthew
+  lang:
+  - en
+Mattína:
+  gender_flag: 1
+  lang:
+  - is
+Matuk:
+  gender_flag: 2
+  lang:
+  - tr
+Matyi:
+  gender_flag: 2
+  is_short_for:
+  - Mátyás
+  lang:
+  - hu
+Matylda:
+  gender_flag: 1
+  is_equivalent_to:
+  - Matilda
+  lang:
+  - cs
+  - pl
+Matyáš:
+  gender_flag: 2
+  lang:
+  - cs
+Matz:
+  gender_flag: 2
+  is_short_for:
+  - Matthias
+  lang:
+  - de
+Matéu:
+  gender_flag: 2
+  lang:
+  - ast
+Matéùsz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - csb
+Matìa:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - egl
+  origin:
+  - he
+Matías:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - grc
+  - la
+Matî:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - wa
+Matúš:
+  gender_flag: 2
+  lang:
+  - sk
+Matýsek:
+  gender_flag: 2
+  lang:
+  - cs
+Matěj:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - cs
+Matīss:
+  gender_flag: 2
+  lang:
+  - lv
+Maud:
+  gender_flag: 1
+  is_a_variant_of:
+  - Mathilde
+  lang:
+  - en
+  - fo
+  - fr
+  - nl
+  - sv
+  origin:
+  - gem
+Maude:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maud
+  is_equivalent_to:
+  - Maud
+  is_short_for:
+  - Mathilde
+  lang:
+  - en
+  - fr
+Maudie:
+  gender_flag: 1
+  lang:
+  - en
+Maulana:
+  gender_flag: 2
+  lang:
+  - id
+  - sw
+  origin:
+  - ar
+Mauno:
+  gender_flag: 2
+  lang:
+  - fi
+Maunu:
+  gender_flag: 2
+  lang:
+  - fi
+Maura:
+  gender_flag: 1
+  is_a_variant_of:
+  - Mary
+  lang:
+  - en
+  - it
+Maureen:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Mauri:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maurice
+  lang:
+  - fi
+Maurice:
+  gender_flag: 2
+  is_equivalent_to:
+  - Morris
+  lang:
+  - en
+  - fr
+Mauricette:
+  gender_flag: 1
+  lang:
+  - nrf
+Maurici:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maurice
+  lang:
+  - ca
+Mauricio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maurice
+  lang:
+  - es
+Mauriciu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maurice
+  lang:
+  - ro
+  origin:
+  - la
+Maurits:
+  gender_flag: 2
+  is_equivalent_to:
+  - Morris
+  lang:
+  - nl
+Mauritz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maurice
+  lang:
+  - sv
+Maurizio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maurice
+  lang:
+  - it
+Mauro:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+  - pt
+  origin:
+  - la
+Maury:
+  gender_flag: 2
+  is_short_for:
+  - Maurice
+  lang:
+  - en
+Maurycy:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maurice
+  lang:
+  - pl
+Maurícia:
+  gender_flag: 1
+  lang:
+  - pt
+Maurício: {}
+Maverick:
+  gender_flag: 2
+  lang:
+  - en
+Mavis:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Mavuto:
+  gender_flag: 7
+  lang:
+  - ny
+Mawoumet:
+  gender_flag: 2
+  is_equivalent_to:
+  - Muhammad
+  lang:
+  - wa
+Mawuyọn:
+  gender_flag: 7
+  lang:
+  - guw
+Max:
+  gender_flag: 3
+  is_short_for:
+  - Maximilian
+  - Maxine
+  lang:
+  - da
+  - de
+  - en
+  - fr
+  - nl
+  - sv
+Maxamed:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mahmud
+  lang:
+  - so
+Maxamuud:
+  gender_flag: 2
+  lang:
+  - so
+Maxence:
+  gender_flag: 2
+  lang:
+  - fr
+Maxenç:
+  gender_flag: 2
+  lang:
+  - oc
+Maxi:
+  gender_flag: 2
+  is_short_for:
+  - Maximiliano
+  lang:
+  - es
+Maxie:
+  gender_flag: 3
+  lang:
+  - en
+Maxim:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maximus
+  lang:
+  - cs
+  origin:
+  - la
+Maxime:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - la
+Maximiana:
+  gender_flag: 1
+  lang:
+  - ceb
+Maximiliaan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maximilian
+  lang:
+  - nl
+Maximilian:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  - sv
+Maximiliane:
+  gender_flag: 1
+  lang:
+  - de
+Maximiliano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maximilian
+  lang:
+  - es
+Maximilien:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maximilian
+  lang:
+  - fr
+  origin:
+  - la
+Maximilienne:
+  gender_flag: 1
+  lang:
+  - fr
+Maximilián:
+  gender_flag: 2
+  lang:
+  - sk
+Maximillian:
+  gender_flag: 2
+  is_a_variant_of:
+  - Maximilian
+  lang:
+  - en
+  origin:
+  - la
+Maximillien:
+  gender_flag: 2
+  is_a_variant_of:
+  - Maximilien
+  lang:
+  - fr
+  origin:
+  - la
+Maximillienne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maximilienne
+  lang:
+  - fr
+Maximo:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - es
+Maximus:
+  gender_flag: 2
+  lang:
+  - en
+Maxine:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - la
+Maxmilián:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maximilian
+  lang:
+  - cs
+  origin:
+  - la
+Maxwell:
+  gender_flag: 2
+  lang:
+  - en
+Maxy:
+  gender_flag: 3
+  lang:
+  - en
+May:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - 'no'
+  - sv
+  - tl
+  - vi
+  origin:
+  - en
+May-Britt:
+  gender_flag: 1
+  lang:
+  - 'no'
+Maya:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maja
+  lang:
+  - da
+  - de
+  - en
+  - nl
+  - tr
+  origin:
+  - he
+  - sa
+Mayane:
+  gender_flag: 1
+  lang:
+  - wa
+Mayang:
+  gender_flag: 1
+  lang:
+  - ceb
+Mayara:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maiara
+  lang:
+  - pt
+Maybel:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Maybrit:
+  gender_flag: 1
+  is_a_variant_of:
+  - May-Britt
+  lang:
+  - da
+  - 'no'
+Maybritt:
+  gender_flag: 1
+  is_a_variant_of:
+  - May-Britt
+  lang:
+  - da
+  - 'no'
+Maycon:
+  gender_flag: 2
+  is_a_variant_of:
+  - Maicon
+  lang:
+  - pt
+Maygan:
+  gender_flag: 1
+  is_a_variant_of:
+  - Megan
+  lang:
+  - en
+Mayim:
+  gender_flag: 1
+  is_short_for:
+  - Maryam
+  lang:
+  - en
+  origin:
+  - he
+Mayk: {}
+Maylee:
+  gender_flag: 1
+  lang:
+  - en
+Maylene:
+  gender_flag: 1
+  lang:
+  - en
+Mayliz:
+  gender_flag: 1
+  lang:
+  - 'no'
+Maymay:
+  gender_flag: 1
+  is_short_for:
+  - Maria
+  - Mary
+  lang:
+  - ceb
+  - tl
+  origin:
+  - es
+Mayme:
+  gender_flag: 1
+  lang:
+  - en
+Mayon:
+  gender_flag: 1
+  lang:
+  - wa
+Mayra:
+  gender_flag: 1
+  lang:
+  - es
+Mayram:
+  gender_flag: 1
+  lang:
+  - aa
+Mayree:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - gv
+Mayson:
+  gender_flag: 2
+  lang:
+  - en
+Mayte:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maite
+  lang:
+  - es
+  - eu
+Mayu:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Mayuko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Mayumi:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Mazhar:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Mazzeo:
+  gender_flag: 2
+  lang:
+  - it
+Maéva:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maeva
+  lang:
+  - fr
+Maël:
+  gender_flag: 2
+  is_equivalent_to:
+  - Prince
+  lang:
+  - fr
+  origin:
+  - br
+Maëlle:
+  gender_flag: 1
+  is_equivalent_to:
+  - Princess
+  lang:
+  - fr
+  origin:
+  - br
+Maëlys:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - br
+Maídís:
+  gender_flag: 1
+  lang:
+  - is
+Maíra:
+  gender_flag: 1
+  lang:
+  - pt
+  - tpw
+  origin:
+  - tpw
+Maïa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Maya
+  lang:
+  - fr
+Maïssa:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - ar
+Maïté:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - eu
+Mañungo:
+  gender_flag: 2
+  is_short_for:
+  - Manuel
+  lang:
+  - es
+Małgorzata:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - pl
+  origin:
+  - grc
+  - la
+Małgosia:
+  gender_flag: 1
+  is_short_for:
+  - Małgorzata
+  lang:
+  - pl
+Mařena:
+  gender_flag: 1
+  is_short_for:
+  - Marie
+  lang:
+  - cs
+Mařenka:
+  gender_flag: 1
+  is_short_for:
+  - Mařena
+  lang:
+  - cs
+Mařka:
+  gender_flag: 1
+  is_short_for:
+  - Mářa
+  lang:
+  - cs
+Maša:
+  gender_flag: 1
+  lang:
+  - sh
+Maťo:
+  gender_flag: 2
+  is_short_for:
+  - Martin
+  - Matej
+  - Matúš
+  lang:
+  - sk
+Mbaros:
+  gender_flag: 2
+  lang:
+  - sq
+Mbeɗawa:
+  gender_flag: 2
+  lang:
+  - bwr
+Mbù:
+  gender_flag: 1
+  lang:
+  - bkm
+McCamey:
+  gender_flag: 1
+  lang:
+  - en
+McKenna:
+  gender_flag: 1
+  lang:
+  - en
+McKenzie:
+  gender_flag: 1
+  lang:
+  - en
+McKinley:
+  gender_flag: 7
+  lang:
+  - en
+Mckayla:
+  gender_flag: 1
+  is_a_variant_of:
+  - Michaela
+  lang:
+  - en
+Mckenna:
+  gender_flag: 1
+  lang:
+  - en
+Mckenzie:
+  gender_flag: 1
+  lang:
+  - en
+Mckinley:
+  gender_flag: 1
+  lang:
+  - en
+Meade:
+  gender_flag: 3
+  lang:
+  - en
+Meadhbh:
+  gender_flag: 1
+  is_equivalent_to:
+  - Maeve
+  lang:
+  - ga
+Meadow:
+  gender_flag: 1
+  lang:
+  - en
+Meagan:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cy
+Meagens:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - gnc
+Meaghan:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cy
+Mecca:
+  gender_flag: 6
+  lang:
+  - en
+Mechthild:
+  gender_flag: 1
+  is_a_variant_of:
+  - Mathilde
+  is_equivalent_to:
+  - Matilda
+  lang:
+  - de
+Mecnun:
+  gender_flag: 2
+  lang:
+  - tr
+Medard:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Medardas:
+  gender_flag: 2
+  lang:
+  - lt
+Medardo:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+Medb:
+  gender_flag: 1
+  is_equivalent_to:
+  - Maeve
+  lang:
+  - mga
+Meddyf:
+  gender_flag: 1
+  lang:
+  - cy
+Medina:
+  gender_flag: 1
+  lang:
+  - en
+Medora:
+  gender_flag: 1
+  lang:
+  - en
+Medoro:
+  gender_flag: 2
+  lang:
+  - it
+Medraut:
+  gender_flag: 2
+  lang:
+  - en
+  - owl
+Medåd:
+  gender_flag: 2
+  lang:
+  - wa
+Meeli:
+  gender_flag: 1
+  lang:
+  - et
+Meelika:
+  gender_flag: 1
+  lang:
+  - et
+Meelike:
+  gender_flag: 1
+  lang:
+  - et
+Meelis:
+  gender_flag: 2
+  lang:
+  - et
+Meeme:
+  gender_flag: 2
+  lang:
+  - et
+Meena:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Meeri:
+  gender_flag: 1
+  lang:
+  - fi
+Mees:
+  gender_flag: 2
+  lang:
+  - nl
+Meeta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - et
+Meg:
+  gender_flag: 1
+  is_short_for:
+  - Margaret
+  - Megan
+  lang:
+  - en
+Megadorus:
+  gender_flag: 2
+  lang:
+  - la
+Megan:
+  gender_flag: 1
+  lang:
+  - cy
+  - en
+  - tl
+  origin:
+  - cy
+  - en
+Megaronides:
+  gender_flag: 2
+  lang:
+  - la
+Meggan:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cy
+Meggie:
+  gender_flag: 1
+  is_short_for:
+  - Margaret
+  - Megan
+  lang:
+  - en
+Meggy:
+  gender_flag: 1
+  is_short_for:
+  - Margaret
+  - Megan
+  lang:
+  - en
+Meghan:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cy
+Meghann:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cy
+Megija:
+  gender_flag: 1
+  lang:
+  - lv
+Megs:
+  gender_flag: 1
+  is_short_for:
+  - Margaret
+  - Megan
+  lang:
+  - en
+Megumi:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - ja
+Mehboob:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Mehdi:
+  gender_flag: 2
+  lang:
+  - az
+  - de
+  origin:
+  - fa
+Mehetabel:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Mehis:
+  gender_flag: 2
+  lang:
+  - et
+Mehitabel:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Mehmed:
+  gender_flag: 2
+  is_a_variant_of:
+  - Muhammad
+  lang:
+  - en
+  - sh
+  - tr
+  origin:
+  - ar
+  - tr
+Mehmet:
+  gender_flag: 2
+  is_a_variant_of:
+  - Muhammad
+  lang:
+  - de
+  - en
+  - tr
+  origin:
+  - ar
+  - tr
+Mehran: {}
+Mehriban:
+  gender_flag: 1
+  lang:
+  - az
+  origin:
+  - fa
+Mehthilt:
+  gender_flag: 1
+  lang:
+  - goh
+Mei:
+  gender_flag: 1
+  lang:
+  - en
+  - haw
+  origin:
+  - cmn
+  - en
+Meidhbhín:
+  gender_flag: 1
+  is_short_for:
+  - Meadhbh
+  lang:
+  - ga
+  origin:
+  - sga
+Meik:
+  gender_flag: 2
+  lang:
+  - de
+Meike:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maike
+  is_short_for:
+  - Maria
+  lang:
+  - de
+  - nl
+  origin:
+  - fy
+  - nds
+Meiko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Meilani:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - haw
+Meilyr:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Meilė:
+  gender_flag: 1
+  lang:
+  - lt
+Meinar:
+  gender_flag: 2
+  lang:
+  - fo
+Meinhard:
+  gender_flag: 2
+  lang:
+  - fo
+Mekhi:
+  gender_flag: 2
+  lang:
+  - en
+Mel:
+  gender_flag: 3
+  lang:
+  - en
+Mela:
+  gender_flag: 1
+  is_short_for:
+  - Carme
+  lang:
+  - gl
+Melaenis:
+  gender_flag: 2
+  lang:
+  - la
+Melani:
+  gender_flag: 1
+  is_a_variant_of:
+  - Melanie
+  lang:
+  - de
+Melania:
+  gender_flag: 1
+  is_equivalent_to:
+  - Melanie
+  lang:
+  - en
+  - es
+  - fo
+  - pl
+Melanie:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  origin:
+  - grc
+Melanija:
+  gender_flag: 1
+  lang:
+  - sl
+Melaniye:
+  gender_flag: 1
+  is_equivalent_to:
+  - Melanie
+  lang:
+  - wa
+Melany:
+  gender_flag: 1
+  lang:
+  - en
+Melba:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Melborg:
+  gender_flag: 1
+  lang:
+  - 'no'
+Melbourne:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - en
+Melchere:
+  gender_flag: 2
+  is_a_variant_of:
+  - Milchare
+  lang:
+  - yol
+Melchior:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  origin:
+  - peo
+Melchiorre:
+  gender_flag: 2
+  lang:
+  - it
+Melchor:
+  gender_flag: 2
+  lang:
+  - es
+  - tl
+  origin:
+  - es
+Melda:
+  gender_flag: 1
+  is_equivalent_to:
+  - Imelda
+  lang:
+  - wa
+Mele:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+  - haw
+Meleana:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Melek:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Meletius:
+  gender_flag: 2
+  lang:
+  - en
+Melezio:
+  gender_flag: 2
+  lang:
+  - it
+Melia:
+  gender_flag: 1
+  is_short_for:
+  - Amelia
+  lang:
+  - en
+  - haw
+  origin:
+  - haw
+Melicent:
+  gender_flag: 1
+  lang:
+  - en
+Melih:
+  gender_flag: 2
+  lang:
+  - tr
+Meliha:
+  gender_flag: 1
+  lang:
+  - tr
+Melika:
+  gender_flag: 1
+  lang:
+  - sq
+  origin:
+  - ar
+Melike:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Melina:
+  gender_flag: 1
+  lang:
+  - de
+Melinda:
+  gender_flag: 1
+  lang:
+  - en
+  - hu
+Melis:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - el
+Melisa:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - el
+Melisha:
+  gender_flag: 1
+  lang:
+  - en
+Melissa:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - fi
+  - it
+  - pt
+  - sv
+  origin:
+  - grc
+Meliton:
+  gender_flag: 2
+  lang:
+  - ceb
+Melitona:
+  gender_flag: 1
+  lang:
+  - ceb
+Meliye:
+  gender_flag: 1
+  lang:
+  - wa
+Melker:
+  gender_flag: 2
+  is_equivalent_to:
+  - Melchior
+  lang:
+  - sv
+Melkir:
+  gender_flag: 2
+  lang:
+  - fo
+Melkjor:
+  gender_flag: 2
+  lang:
+  - fo
+Melkorka:
+  gender_flag: 1
+  lang:
+  - is
+Melkólmur:
+  gender_flag: 2
+  lang:
+  - is
+Mellida:
+  gender_flag: 1
+  lang:
+  - en
+Mellie:
+  gender_flag: 1
+  is_short_for:
+  - Melanie
+  - Melinda
+  - Melissa
+  lang:
+  - en
+Mellissa:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Mellita:
+  gender_flag: 1
+  lang:
+  - la
+Melodie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Melody
+  lang:
+  - en
+  origin:
+  - en
+Melody:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Melony:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Melora:
+  gender_flag: 1
+  lang:
+  - en
+Meltem:
+  gender_flag: 1
+  lang:
+  - tr
+Melvin:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - sv
+  origin:
+  - en
+  - fro
+  - la
+Melánia:
+  gender_flag: 1
+  lang:
+  - sk
+Mem:
+  gender_flag: 2
+  lang:
+  - pt
+Meminne:
+  gender_flag: 1
+  lang:
+  - wa
+Memo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Liam
+  is_short_for:
+  - Guillermo
+  lang:
+  - es
+Menaechmus:
+  gender_flag: 2
+  lang:
+  - la
+Menaka:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Menalippo:
+  gender_flag: 2
+  lang:
+  - it
+Menchu:
+  gender_flag: 1
+  is_short_for:
+  - Carmen
+  lang:
+  - es
+Menderes:
+  gender_flag: 2
+  lang:
+  - tr
+Mendy:
+  gender_flag: 1
+  is_short_for:
+  - Melinda
+  lang:
+  - en
+Menenio:
+  gender_flag: 2
+  lang:
+  - it
+Menno:
+  gender_flag: 2
+  lang:
+  - en
+  - fy
+  - nl
+Menon:
+  gender_flag: 1
+  is_short_for:
+  - Germana
+  lang:
+  - oc
+Mensun:
+  gender_flag: 2
+  lang:
+  - en
+Mentor:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Menyhért:
+  gender_flag: 2
+  lang:
+  - hu
+Meqqusaaq:
+  gender_flag: 2
+  lang:
+  - kl
+Meral:
+  gender_flag: 3
+  lang:
+  - tr
+Merce:
+  gender_flag: 1
+  is_short_for:
+  - Mercedes
+  lang:
+  - es
+Mercedes:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mercy
+  lang:
+  - en
+  - es
+  - fr
+  origin:
+  - es
+Merche:
+  gender_flag: 1
+  is_short_for:
+  - Mercedes
+  lang:
+  - es
+Merci:
+  gender_flag: 1
+  is_short_for:
+  - Mercédesz
+  lang:
+  - hu
+Mercuriale:
+  gender_flag: 2
+  lang:
+  - it
+Mercy:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Mercè:
+  gender_flag: 1
+  lang:
+  - ca
+Mercédesz:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mercedes
+  lang:
+  - hu
+  origin:
+  - es
+Mercédès:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - es
+Mere:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - haw
+  - mi
+  origin:
+  - en
+Mereana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary Ann
+  lang:
+  - mi
+Meredith:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - cy
+Merete:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Merethe:
+  gender_flag: 1
+  is_a_variant_of:
+  - Merete
+  lang:
+  - 'no'
+Meri:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  is_short_for:
+  - Merida
+  lang:
+  - en
+  - fi
+  - mi
+Merida:
+  gender_flag: 1
+  lang:
+  - en
+Meridith:
+  gender_flag: 1
+  is_a_variant_of:
+  - Meredith
+  lang:
+  - en
+  origin:
+  - cy
+Merike:
+  gender_flag: 1
+  lang:
+  - et
+Merili:
+  gender_flag: 1
+  lang:
+  - et
+Merilin:
+  gender_flag: 1
+  lang:
+  - et
+Meripirin:
+  gender_flag: 1
+  lang:
+  - goh
+Merit:
+  gender_flag: 1
+  lang:
+  - ceb
+  - et
+  - sv
+  origin:
+  - en
+Merita:
+  gender_flag: 1
+  lang:
+  - fi
+Meritxell:
+  gender_flag: 1
+  lang:
+  - ca
+Meriwether:
+  gender_flag: 2
+  lang:
+  - en
+Merja:
+  gender_flag: 1
+  lang:
+  - fi
+Merje:
+  gender_flag: 1
+  lang:
+  - et
+Merjeme:
+  gender_flag: 1
+  lang:
+  - sq
+  origin:
+  - ar
+Merle:
+  gender_flag: 7
+  lang:
+  - de
+  - en
+  - et
+  origin:
+  - en
+Merli:
+  gender_flag: 1
+  lang:
+  - et
+Merlin:
+  gender_flag: 2
+  lang:
+  - en
+Merlina:
+  gender_flag: 1
+  lang:
+  - ceb
+Merlinda:
+  gender_flag: 1
+  lang:
+  - ceb
+Merlí:
+  gender_flag: 2
+  lang:
+  - ca
+Merna:
+  gender_flag: 1
+  lang:
+  - en
+Meroveo:
+  gender_flag: 2
+  lang:
+  - it
+Merrell:
+  gender_flag: 2
+  lang:
+  - en
+Merrick:
+  gender_flag: 2
+  lang:
+  - en
+Merrie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Merry
+  lang:
+  - en
+Merril:
+  gender_flag: 2
+  lang:
+  - en
+Merry:
+  gender_flag: 7
+  is_short_for:
+  - Meredith
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Merrý:
+  gender_flag: 1
+  lang:
+  - fo
+Mert:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - fa
+Merter:
+  gender_flag: 2
+  lang:
+  - tr
+Mertkan:
+  gender_flag: 2
+  lang:
+  - tr
+Merv:
+  gender_flag: 2
+  lang:
+  - en
+Merve:
+  gender_flag: 1
+  lang:
+  - tr
+Mervi:
+  gender_flag: 1
+  lang:
+  - fi
+Mervin:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Mervyn:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Merwin:
+  gender_flag: 2
+  lang:
+  - en
+Meryem:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  - Miriam
+  lang:
+  - tr
+  origin:
+  - ar
+Meryl:
+  gender_flag: 1
+  is_a_variant_of:
+  - Muriel
+  lang:
+  - en
+  origin:
+  - gd
+Merzherian:
+  gender_flag: 2
+  lang:
+  - br
+Mescal:
+  gender_flag: 1
+  lang:
+  - en
+Meshach:
+  gender_flag: 2
+  lang:
+  - en
+Mesnet:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Messenio:
+  gender_flag: 2
+  lang:
+  - la
+Messi:
+  gender_flag: 2
+  lang:
+  - en
+Messíana:
+  gender_flag: 1
+  lang:
+  - is
+Mesut:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Meta:
+  gender_flag: 1
+  is_a_variant_of:
+  - Margarete
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - da
+  - de
+  - et
+Mete:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - zh
+Metehan:
+  gender_flag: 2
+  lang:
+  - tr
+Metello:
+  gender_flag: 2
+  lang:
+  - it
+Metha:
+  gender_flag: 1
+  is_a_variant_of:
+  - Meta
+  lang:
+  - da
+Methodius:
+  gender_flag: 2
+  lang:
+  - en
+Metin:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Meto:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  - sq
+  origin:
+  - grc
+Metodio:
+  gender_flag: 2
+  lang:
+  - it
+Metody:
+  gender_flag: 2
+  is_equivalent_to:
+  - Methodius
+  lang:
+  - pl
+Metoděj:
+  gender_flag: 2
+  lang:
+  - cs
+Metta:
+  gender_flag: 1
+  is_a_variant_of:
+  - Mette
+  lang:
+  - fo
+  - is
+  - 'no'
+Mette:
+  gender_flag: 1
+  lang:
+  - da
+  - fi
+  - 'no'
+Meurice:
+  gender_flag: 2
+  is_equivalent_to:
+  - Morris
+  lang:
+  - wa
+Mevanwi:
+  gender_flag: 1
+  lang:
+  - br
+  origin:
+  - cy
+Mevlit:
+  gender_flag: 2
+  lang:
+  - tr
+Mevlüt:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Mexmut:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ug
+Meyer:
+  gender_flag: 2
+  lang:
+  - en
+Meîrugûasu:
+  gender_flag: 2
+  lang:
+  - tpw
+Meýlis:
+  gender_flag: 2
+  lang:
+  - tk
+Mhairi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gd
+Mhill:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - sq
+  origin:
+  - grc
+Mi:
+  gender_flag: 1
+  lang:
+  - de
+  - vi
+  origin:
+  - zh
+Mi-lu:
+  lang:
+  - vi
+  origin:
+  - fr
+Mia:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - fo
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - da
+  - de
+  - nl
+  - 'no'
+  - sv
+Miah:
+  gender_flag: 1
+  lang:
+  - en
+Mian:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - gv
+Mica:
+  gender_flag: 7
+  is_a_variant_of:
+  - Micah
+  lang:
+  - en
+  origin:
+  - he
+Micael:
+  gender_flag: 2
+  lang:
+  - pt
+  - sv
+  origin:
+  - la
+Micaela:
+  gender_flag: 1
+  is_equivalent_to:
+  - Michaela
+  lang:
+  - es
+  - pt
+Micaella:
+  gender_flag: 1
+  is_a_variant_of:
+  - Michaela
+  lang:
+  - en
+Micah:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - he
+Mical:
+  gender_flag: 2
+  lang:
+  - en
+Mich:
+  gender_flag: 1
+  is_short_for:
+  - Michelle
+  lang:
+  - en
+Micha:
+  gender_flag: 7
+  lang:
+  - de
+  origin:
+  - he
+Michael:
+  gender_flag: 2
+  is_a_variant_of:
+  - Mikael
+  lang:
+  - ceb
+  - cs
+  - da
+  - de
+  - en
+  - fr
+  - la
+  - 'no'
+  - sv
+  origin:
+  - en
+  - he
+Michael Angelo:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - it
+Michaela:
+  gender_flag: 1
+  lang:
+  - cs
+  - de
+  - en
+  - sk
+  - sv
+  origin:
+  - he
+Michaell:
+  gender_flag: 2
+  lang:
+  - en
+Michailas: {}
+Michal:
+  gender_flag: 3
+  is_equivalent_to:
+  - Michael
+  lang:
+  - cs
+  - en
+  - sk
+  origin:
+  - he
+Michala:
+  gender_flag: 1
+  lang:
+  - da
+Michalina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Michaela
+  lang:
+  - pl
+Michalis: {}
+Michaël:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - fr
+  - nl
+  origin:
+  - he
+Michał:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - pl
+  origin:
+  - grc
+  - he
+  - la
+Michałek:
+  gender_flag: 2
+  is_short_for:
+  - Michał
+  lang:
+  - pl
+Michaś:
+  gender_flag: 2
+  is_short_for:
+  - Michał
+  lang:
+  - pl
+Michea:
+  gender_flag: 2
+  lang:
+  - it
+Micheal:
+  gender_flag: 2
+  lang:
+  - en
+Michel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - ceb
+  - de
+  - enm
+  - fr
+  - nl
+  - pt
+  origin:
+  - fr
+  - he
+Michela:
+  gender_flag: 1
+  lang:
+  - it
+  - oc
+Michelangelo:
+  gender_flag: 2
+  lang:
+  - it
+Michele:
+  gender_flag: 7
+  is_equivalent_to:
+  - Michael
+  lang:
+  - en
+  - it
+  origin:
+  - he
+Michelina:
+  gender_flag: 1
+  lang:
+  - en
+Micheline:
+  gender_flag: 1
+  lang:
+  - fr
+Michella:
+  gender_flag: 1
+  lang:
+  - da
+Michelle:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fr
+  - 'no'
+  - sv
+  origin:
+  - he
+Michelon:
+  gender_flag: 1
+  is_short_for:
+  - Michela
+  lang:
+  - oc
+Michelyne:
+  gender_flag: 1
+  lang:
+  - en
+Micheu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - oc
+Micheál:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - ga
+  origin:
+  - he
+Michi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - nrf
+Michie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Michiel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - fro
+  - nl
+  origin:
+  - he
+Michiko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - ja
+Michiyo:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Michon:
+  gender_flag: 2
+  is_short_for:
+  - Micheu
+  lang:
+  - oc
+Michálek:
+  gender_flag: 2
+  is_short_for:
+  - Michal
+  lang:
+  - cs
+Michäas:
+  gender_flag: 2
+  lang:
+  - de
+  origin:
+  - he
+Michèle:
+  gender_flag: 1
+  lang:
+  - fr
+Miché:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - nrf
+Mick:
+  gender_flag: 2
+  is_short_for:
+  - Michael
+  lang:
+  - en
+Mickael:
+  gender_flag: 2
+  lang:
+  - sv
+Mickaël:
+  gender_flag: 2
+  lang:
+  - fr
+Micke:
+  gender_flag: 2
+  is_short_for:
+  - Micael
+  - Michael
+  - Mikael
+  lang:
+  - sv
+Mickey:
+  gender_flag: 7
+  lang:
+  - en
+Micky:
+  gender_flag: 7
+  is_short_for:
+  - Michael
+  - Michaela
+  lang:
+  - en
+Mico:
+  gender_flag: 2
+  lang:
+  - ceb
+Midge:
+  gender_flag: 1
+  is_a_variant_of:
+  - Madge
+  lang:
+  - en
+Midori:
+  gender_flag: 7
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - ja
+Mie:
+  gender_flag: 1
+  lang:
+  - da
+  - nl
+  - 'no'
+Mieczysław:
+  gender_flag: 2
+  lang:
+  - pl
+Miek:
+  gender_flag: 1
+  lang:
+  - nl
+Mieke:
+  gender_flag: 1
+  lang:
+  - nl
+Mielikki:
+  gender_flag: 1
+  lang:
+  - fi
+Mielitty:
+  gender_flag: 3
+  lang:
+  - fi
+Miep:
+  gender_flag: 1
+  lang:
+  - nl
+Miervaldis:
+  gender_flag: 2
+  lang:
+  - lv
+Mies:
+  gender_flag: 7
+  is_short_for:
+  - Maria
+  lang:
+  - de
+  - nl
+  origin:
+  - nl
+Mieszko:
+  gender_flag: 2
+  lang:
+  - pl
+Mietek:
+  gender_flag: 2
+  is_short_for:
+  - Mieczysław
+  lang:
+  - pl
+Miglė:
+  gender_flag: 1
+  lang:
+  - lt
+Mignon:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+Migo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mick
+  - Mike
+  is_short_for:
+  - Miguel
+  lang:
+  - es
+Migue:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mick
+  - Mike
+  is_short_for:
+  - Miguel
+  lang:
+  - es
+Miguel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - ceb
+  - en
+  - es
+  - gl
+  - pt
+  - tl
+  origin:
+  - es
+  - he
+  - pt
+Miguel Ángel:
+  gender_flag: 2
+  lang:
+  - es
+Miguela:
+  gender_flag: 1
+  is_equivalent_to:
+  - Michaela
+  lang:
+  - es
+Miguelito:
+  gender_flag: 2
+  is_equivalent_to:
+  - Micky
+  - Mikey
+  is_short_for:
+  - Miguel
+  lang:
+  - es
+Miha:
+  gender_flag: 2
+  lang:
+  - sl
+Mihael:
+  gender_flag: 2
+  lang:
+  - sl
+Mihaela:
+  gender_flag: 1
+  lang:
+  - ro
+  - sl
+Mihaels:
+  gender_flag: 2
+  lang:
+  - lv
+Mihai:
+  gender_flag: 2
+  lang:
+  - ro
+Mihail:
+  gender_flag: 2
+  lang:
+  - ro
+  origin:
+  - he
+Mihails:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - ru
+Mihhail: {}
+Mihkel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - et
+Mihkkal:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - se
+Mihkku:
+  gender_flag: 2
+  lang:
+  - se
+Mihnea:
+  gender_flag: 2
+  lang:
+  - ro
+Miho:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ja
+  - ko
+  - sh
+Mihoko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Mihàj:
+  gender_flag: 2
+  lang:
+  - rom
+Mihály:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - hu
+Miia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mia
+  lang:
+  - et
+  - fi
+Miika:
+  gender_flag: 2
+  lang:
+  - fi
+Miikael:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - et
+  origin:
+  - he
+Miikka:
+  gender_flag: 2
+  lang:
+  - fi
+Miikkula:
+  gender_flag: 2
+  is_equivalent_to:
+  - Nicholas
+  lang:
+  - izh
+Miili:
+  gender_flag: 1
+  lang:
+  - et
+Miilu:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Miina:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Miisa:
+  gender_flag: 1
+  lang:
+  - fi
+Mika:
+  gender_flag: 7
+  is_equivalent_to:
+  - Michael
+  is_short_for:
+  - Micael
+  lang:
+  - en
+  - fi
+  - fo
+  - fr
+  - haw
+  - kl
+  - pt
+  origin:
+  - da
+  - he
+  - ja
+Mikaali:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Mikael:
+  gender_flag: 2
+  lang:
+  - da
+  - fi
+  - is
+  - 'no'
+  - sv
+Mikaela:
+  gender_flag: 1
+  is_a_variant_of:
+  - Michaela
+  lang:
+  - en
+  - fi
+  - sv
+  origin:
+  - he
+Mikaelína:
+  gender_flag: 1
+  lang:
+  - is
+Mikaere:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - mi
+Mikako:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Mikal:
+  gender_flag: 2
+  is_a_variant_of:
+  - Mikael
+  lang:
+  - fo
+  - 'no'
+Mikala:
+  gender_flag: 3
+  is_equivalent_to:
+  - Michael
+  lang:
+  - fo
+  - haw
+Mikalai: {}
+Mikaline:
+  gender_flag: 1
+  is_a_variant_of:
+  - Mikkeline
+  lang:
+  - 'no'
+Mikalojus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Nicholas
+  lang:
+  - lt
+Mikayla:
+  gender_flag: 1
+  is_a_variant_of:
+  - Michaela
+  lang:
+  - en
+  origin:
+  - he
+Mikayıl:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+Mikaël:
+  gender_flag: 2
+  lang:
+  - fr
+Mikaʻele:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - haw
+  origin:
+  - en
+Mike:
+  gender_flag: 7
+  is_short_for:
+  - Michael
+  - Michaela
+  lang:
+  - da
+  - de
+  - en
+  - fi
+  - fr
+Mikel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - ceb
+  - eu
+Mikelo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - eo
+  origin:
+  - he
+Mikey:
+  gender_flag: 2
+  is_short_for:
+  - Michael
+  lang:
+  - en
+Mikhail:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - he
+  - ru
+Miki:
+  gender_flag: 7
+  is_short_for:
+  - Miklós
+  lang:
+  - en
+  - fi
+  - hu
+  - kl
+  origin:
+  - ja
+Mikiel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - mt
+  origin:
+  - he
+  - la
+  - scn
+Mikike:
+  gender_flag: 2
+  is_short_for:
+  - Miklós
+  lang:
+  - hu
+Mikiko:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Mikine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Mikkeline
+  lang:
+  - 'no'
+Mikita: {}
+Mikjáll:
+  gender_flag: 2
+  lang:
+  - is
+Mikk:
+  gender_flag: 2
+  lang:
+  - et
+Mikkal:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - se
+Mikkel:
+  gender_flag: 2
+  is_a_variant_of:
+  - Michael
+  - Mikael
+  lang:
+  - da
+  - 'no'
+Mikkeli:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - fi
+  - izh
+Mikkeline:
+  gender_flag: 1
+  lang:
+  - 'no'
+Mikki:
+  gender_flag: 2
+  is_short_for:
+  - Mikael
+  lang:
+  - is
+Mikkili:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Mikkjal:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - fo
+Mikko:
+  gender_flag: 2
+  lang:
+  - fi
+Miklavž:
+  gender_flag: 2
+  lang:
+  - sl
+Miklós:
+  gender_flag: 2
+  lang:
+  - hu
+Miklóska:
+  gender_flag: 2
+  is_short_for:
+  - Miklós
+  lang:
+  - hu
+Mikmik:
+  gender_flag: 2
+  lang:
+  - ceb
+Miko:
+  gender_flag: 3
+  lang:
+  - en
+  - fi
+  origin:
+  - ja
+Mikoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Mikołaj:
+  gender_flag: 2
+  is_equivalent_to:
+  - Nicholas
+  lang:
+  - pl
+Miks:
+  gender_flag: 2
+  lang:
+  - lv
+Miksa:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maximilian
+  lang:
+  - hu
+Mikuláš:
+  gender_flag: 2
+  is_equivalent_to:
+  - Nicholas
+  lang:
+  - cs
+  - sk
+Mikus:
+  gender_flag: 2
+  lang:
+  - lv
+Mikâil:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - tr
+Mikâle:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Mila:
+  gender_flag: 1
+  is_short_for:
+  - Camila
+  - Ludmila
+  - Milagros
+  lang:
+  - en
+  - es
+  - fi
+  origin:
+  - sla
+Milada:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Miladka:
+  gender_flag: 1
+  is_short_for:
+  - Milada
+  lang:
+  - cs
+Milagros:
+  gender_flag: 1
+  lang:
+  - ceb
+  - es
+  origin:
+  - es
+Milan:
+  gender_flag: 7
+  lang:
+  - cs
+  - de
+  - en
+  - fo
+  - pl
+  - sh
+  - sk
+  origin:
+  - sla
+Milana:
+  gender_flag: 1
+  lang:
+  - en
+Milani:
+  gender_flag: 1
+  lang:
+  - en
+Milania:
+  gender_flag: 1
+  lang:
+  - en
+Milca:
+  gender_flag: 1
+  lang:
+  - it
+Milcah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Milchare:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mitchell
+  lang:
+  - yol
+Milda:
+  gender_flag: 3
+  is_short_for:
+  - Miloslav
+  - Miloslava
+  lang:
+  - cs
+  - lt
+  - lv
+  - 'no'
+  - sv
+Mildgyþ:
+  gender_flag: 1
+  lang:
+  - ang
+Mildred:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - ang
+  - en
+Mildrid:
+  gender_flag: 1
+  lang:
+  - 'no'
+Mildrið:
+  gender_flag: 1
+  lang:
+  - fo
+Mildþryþ:
+  gender_flag: 1
+  lang:
+  - ang
+Mile:
+  gender_flag: 2
+  lang:
+  - wa
+Mileka:
+  gender_flag: 1
+  lang:
+  - haw
+Milena:
+  gender_flag: 1
+  lang:
+  - cs
+  - it
+  - pl
+  - pt
+  - sk
+Miles:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Miley:
+  gender_flag: 1
+  lang:
+  - en
+Miliama:
+  gender_flag: 1
+  lang:
+  - haw
+Milica:
+  gender_flag: 1
+  lang:
+  - sh
+  - sk
+Milika:
+  gender_flag: 1
+  lang:
+  - sq
+  origin:
+  - ar
+Mililani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Milja:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+  - fo
+Miljenko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Milka:
+  gender_flag: 1
+  lang:
+  - fi
+  - sh
+Milla:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Millard:
+  gender_flag: 2
+  lang:
+  - en
+Mille:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Miller:
+  gender_flag: 2
+  lang:
+  - en
+Milli:
+  gender_flag: 1
+  lang:
+  - et
+Millicent:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - gem
+Millie:
+  gender_flag: 1
+  is_short_for:
+  - Amelia
+  - Camilla
+  - Emily
+  - Mildred
+  - Millicent
+  lang:
+  - en
+Mills:
+  gender_flag: 2
+  lang:
+  - en
+Milly:
+  gender_flag: 1
+  lang:
+  - en
+Milo:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  - wa
+  origin:
+  - gem
+Milone:
+  gender_flag: 2
+  lang:
+  - it
+Milorad:
+  gender_flag: 2
+  lang:
+  - sh
+Milos:
+  gender_flag: 2
+  lang:
+  - en
+  - hu
+Miloslav:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Miloslava:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Milot:
+  gender_flag: 2
+  lang:
+  - ceb
+Milota:
+  gender_flag: 1
+  lang:
+  - sk
+Miloud:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Milouda:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - ar
+Miloy:
+  gender_flag: 2
+  lang:
+  - ceb
+Miloš:
+  gender_flag: 2
+  lang:
+  - cs
+  - sh
+  - sk
+Milphidippa:
+  gender_flag: 1
+  lang:
+  - la
+Milphio:
+  gender_flag: 2
+  lang:
+  - la
+Milred:
+  gender_flag: 1
+  is_a_variant_of:
+  - Mildrid
+  lang:
+  - 'no'
+Milrid:
+  gender_flag: 1
+  is_a_variant_of:
+  - Mildrid
+  lang:
+  - 'no'
+Miltiades:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Milton:
+  gender_flag: 2
+  lang:
+  - en
+  - sv
+Milutin:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Miluše:
+  gender_flag: 1
+  lang:
+  - cs
+Milvio:
+  gender_flag: 2
+  lang:
+  - it
+Milziade:
+  gender_flag: 2
+  lang:
+  - it
+Milánek:
+  gender_flag: 2
+  is_short_for:
+  - Milan
+  lang:
+  - cs
+Mim:
+  gender_flag: 1
+  is_short_for:
+  - Miriam
+  lang:
+  - en
+Mime:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Mimi:
+  gender_flag: 3
+  is_short_for:
+  - Domenico
+  - Maria
+  - Marie
+  lang:
+  - en
+  - fr
+  - it
+Mimiko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Mimmi:
+  gender_flag: 1
+  lang:
+  - fi
+  - sv
+Mimmo:
+  gender_flag: 2
+  is_short_for:
+  - Domenico
+  lang:
+  - it
+Mimosa:
+  gender_flag: 1
+  lang:
+  - fi
+Min:
+  gender_flag: 7
+  lang:
+  - en
+Mina:
+  gender_flag: 3
+  lang:
+  - en
+  - fo
+  - 'no'
+  - ro
+  origin:
+  - ar
+Minah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Minako:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Minami:
+  gender_flag: 7
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Minas:
+  gender_flag: 2
+  lang:
+  - en
+Minda:
+  gender_flag: 1
+  lang:
+  - en
+Mindaugas:
+  gender_flag: 2
+  lang:
+  - lt
+Minde:
+  gender_flag: 1
+  lang:
+  - 'no'
+Mindy:
+  gender_flag: 1
+  is_short_for:
+  - Melinda
+  lang:
+  - en
+Minea:
+  gender_flag: 1
+  lang:
+  - fi
+Mineko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Minerva:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - la
+Ming:
+  gender_flag: 6
+  lang:
+  - en
+Minggay:
+  gender_flag: 1
+  lang:
+  - ceb
+Minggoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Mingos:
+  gender_flag: 2
+  is_short_for:
+  - Domingos
+  lang:
+  - gl
+Mingzhu:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - zh
+Minh:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Miniato:
+  gender_flag: 2
+  lang:
+  - it
+Minik:
+  gender_flag: 2
+  lang:
+  - kl
+Minike:
+  gender_flag: 2
+  lang:
+  - wa
+Minikel:
+  gender_flag: 2
+  lang:
+  - sq
+Minja:
+  gender_flag: 1
+  lang:
+  - fi
+Minmin:
+  gender_flag: 1
+  lang:
+  - ceb
+Minminne:
+  gender_flag: 1
+  lang:
+  - wa
+Minna:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - et
+  - fi
+  - fo
+Minne:
+  gender_flag: 1
+  lang:
+  - wa
+Minni:
+  gender_flag: 1
+  lang:
+  - fi
+Minnie:
+  gender_flag: 1
+  lang:
+  - en
+Mino:
+  gender_flag: 2
+  lang:
+  - it
+Minttu:
+  gender_flag: 1
+  lang:
+  - fi
+Minviluz:
+  gender_flag: 1
+  lang:
+  - tl
+Mio:
+  gender_flag: 2
+  lang:
+  - sv
+Miquel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - ca
+  origin:
+  - he
+Mir:
+  gender_flag: 2
+  lang:
+  - en
+Mira:
+  gender_flag: 3
+  is_equivalent_to:
+  - Casimir
+  lang:
+  - de
+  - en
+  - fi
+  - fo
+  - pl
+  - sh
+  - wym
+Mirabeau:
+  gender_flag: 2
+  lang:
+  - fr
+Mirabel:
+  gender_flag: 1
+  lang:
+  - en
+Miracle:
+  gender_flag: 1
+  lang:
+  - en
+Miranda:
+  gender_flag: 3
+  lang:
+  - ceb
+  - en
+  - pt
+  origin:
+  - en
+  - la
+Mirando:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Mirasol:
+  gender_flag: 1
+  lang:
+  - ceb
+Mircea:
+  gender_flag: 2
+  lang:
+  - ro
+Mirda:
+  gender_flag: 2
+  is_short_for:
+  - Miroslav
+  lang:
+  - cs
+Mirdza:
+  gender_flag: 1
+  lang:
+  - lv
+Mireia:
+  gender_flag: 1
+  lang:
+  - es
+Mireille:
+  gender_flag: 1
+  lang:
+  - fr
+Mirek:
+  gender_flag: 2
+  is_short_for:
+  - Miroslav
+  - Mirosław
+  lang:
+  - cs
+  - pl
+  - sh
+Mirella:
+  gender_flag: 1
+  is_a_variant_of:
+  - Mireia
+  lang:
+  - es
+Miren:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - eu
+Mireya:
+  gender_flag: 1
+  is_a_variant_of:
+  - Mireia
+  lang:
+  - es
+Mireček:
+  gender_flag: 2
+  is_short_for:
+  - Mirek
+  lang:
+  - cs
+Mirga:
+  gender_flag: 1
+  lang:
+  - lt
+Miriam:
+  gender_flag: 1
+  is_a_variant_of:
+  - Mirjam
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - fo
+  - it
+  - nl
+  - 'no'
+  - pt
+  - sk
+  - sv
+  origin:
+  - he
+Miriama:
+  gender_flag: 1
+  is_equivalent_to:
+  - Miriam
+  lang:
+  - mi
+  - sk
+Mirian:
+  gender_flag: 1
+  is_equivalent_to:
+  - Miriam
+  lang:
+  - es
+Mirja:
+  gender_flag: 1
+  lang:
+  - fi
+  - fo
+Mirjam:
+  gender_flag: 1
+  is_a_variant_of:
+  - Miriam
+  is_equivalent_to:
+  - Miriam
+  lang:
+  - da
+  - de
+  - et
+  - fi
+  - fo
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - he
+Mirjami:
+  gender_flag: 1
+  lang:
+  - fi
+Mirjana:
+  gender_flag: 1
+  lang:
+  - sh
+Mirka:
+  gender_flag: 1
+  is_short_for:
+  - Mirosława
+  lang:
+  - fi
+  - pl
+Mirkka:
+  gender_flag: 1
+  lang:
+  - fi
+Mirkku:
+  gender_flag: 1
+  lang:
+  - fi
+Mirko:
+  gender_flag: 2
+  lang:
+  - sh
+Miro:
+  gender_flag: 2
+  is_short_for:
+  - Miroslav
+  lang:
+  - fi
+  - sh
+  - sk
+Miroljub:
+  gender_flag: 2
+  lang:
+  - sh
+Miroslaus: {}
+Miroslav:
+  gender_flag: 2
+  lang:
+  - cs
+  - sh
+  - sk
+Miroslava:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Mirosław:
+  gender_flag: 2
+  lang:
+  - pl
+Mirosława:
+  gender_flag: 1
+  lang:
+  - pl
+Mirtel:
+  gender_flag: 1
+  is_equivalent_to:
+  - Myrtle
+  lang:
+  - et
+Miruś:
+  gender_flag: 2
+  is_short_for:
+  - Mirosław
+  lang:
+  - pl
+Mirva:
+  gender_flag: 1
+  lang:
+  - fi
+Miryam:
+  gender_flag: 1
+  lang:
+  - fr
+Mirzə:
+  gender_flag: 2
+  lang:
+  - az
+Mirèlha:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mireille
+  lang:
+  - oc
+Miró:
+  gender_flag: 2
+  is_equivalent_to:
+  - Myron
+  lang:
+  - ca
+  origin:
+  - la
+Misael:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+Misaele:
+  gender_flag: 2
+  is_equivalent_to:
+  - Misael
+  lang:
+  - it
+Misaki:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Misako:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Misargyrides:
+  gender_flag: 2
+  lang:
+  - la
+Misha:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ru
+Misi:
+  gender_flag: 2
+  is_short_for:
+  - Mihály
+  lang:
+  - hu
+Miska:
+  gender_flag: 2
+  lang:
+  - fi
+Mislauus: {}
+Mislav:
+  gender_flag: 2
+  lang:
+  - sh
+Missy:
+  gender_flag: 1
+  is_short_for:
+  - Melissa
+  lang:
+  - en
+Mist:
+  gender_flag: 1
+  lang:
+  - is
+Mistila:
+  gender_flag: 1
+  lang:
+  - goh
+Misty:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Misɛnmawu:
+  gender_flag: 7
+  lang:
+  - guw
+Mitch:
+  gender_flag: 2
+  is_short_for:
+  - Mitchell
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Mitchel:
+  gender_flag: 2
+  lang:
+  - en
+Mitchell:
+  gender_flag: 2
+  lang:
+  - en
+Mitchî:
+  gender_flag: 2
+  lang:
+  - wa
+Mithat:
+  gender_flag: 2
+  lang:
+  - tr
+Mitrídates:
+  gender_flag: 2
+  lang:
+  - pt
+Mitsue:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Mitsuhide:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Mitsuye:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Mitsuyuki:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Mitul:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - hi
+Mitzi:
+  gender_flag: 1
+  is_short_for:
+  - Maria
+  lang:
+  - de
+  - en
+  origin:
+  - de
+Miu:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Mixail: {}
+Miya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Miyako:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Miyang:
+  gender_flag: 2
+  lang:
+  - ceb
+Miyin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maximilian
+  lang:
+  - wa
+Miyinne:
+  gender_flag: 1
+  lang:
+  - wa
+Miyoko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Miyon:
+  gender_flag: 2
+  lang:
+  - ceb
+Miyong:
+  gender_flag: 2
+  lang:
+  - ceb
+Miyu:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Miyuki:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - ja
+Mizzi:
+  gender_flag: 1
+  is_short_for:
+  - Maria
+  lang:
+  - de
+Miĉjo:
+  gender_flag: 2
+  is_short_for:
+  - Miĥaelo
+  lang:
+  - eo
+Miĥaelo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - eo
+  origin:
+  - he
+Miķelis:
+  gender_flag: 2
+  lang:
+  - lv
+Miłosz:
+  gender_flag: 2
+  lang:
+  - pl
+Miša:
+  gender_flag: 2
+  lang:
+  - sl
+Mjölnir:
+  gender_flag: 2
+  lang:
+  - is
+  origin:
+  - non
+Mjēta:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - wym
+Mkhitar: {}
+Mladen:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Mladimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Mladomir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Mnesilochus:
+  gender_flag: 2
+  lang:
+  - la
+Mo:
+  gender_flag: 3
+  is_short_for:
+  - Marjorie
+  - Maureen
+  - Maurice
+  - Mohammed
+  - Morris
+  - Moses
+  lang:
+  - en
+Moa:
+  gender_flag: 1
+  lang:
+  - sv
+Moacir:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Moake:
+  gender_flag: 2
+  lang:
+  - yol
+Moana:
+  gender_flag: 7
+  lang:
+  - en
+  - haw
+  origin:
+  - haw
+Moani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Moby:
+  gender_flag: 2
+  lang:
+  - en
+Mocammad:
+  gender_flag: 2
+  lang:
+  - aa
+Mocha:
+  gender_flag: 1
+  lang:
+  - en
+Moderatus:
+  gender_flag: 2
+  lang:
+  - la
+Modesta:
+  gender_flag: 1
+  lang:
+  - es
+  - la
+Modestas:
+  gender_flag: 2
+  lang:
+  - lt
+Modeste:
+  gender_flag: 1
+  lang:
+  - nrf
+Modesto:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+Modestus:
+  gender_flag: 2
+  lang:
+  - la
+Modra:
+  gender_flag: 1
+  lang:
+  - lv
+Modris:
+  gender_flag: 2
+  lang:
+  - lv
+Modrīte:
+  gender_flag: 1
+  lang:
+  - lv
+Modwulf:
+  gender_flag: 2
+  lang:
+  - ang
+Modèsse:
+  gender_flag: 2
+  lang:
+  - wa
+Moe:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - ja
+Moeko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Moema:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Mogens:
+  gender_flag: 2
+  lang:
+  - da
+Mohamad:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Mohamed:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+  - fr
+  origin:
+  - ar
+Mohammad:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Mohammadqoli: {}
+Mohammed:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  - fr
+  - ha
+Mohan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Mohi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Moses
+  lang:
+  - mi
+Mohini:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Moira:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Moirragh:
+  gender_flag: 1
+  lang:
+  - gv
+Moirral:
+  gender_flag: 1
+  lang:
+  - gv
+Moirrey:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - gv
+  origin:
+  - he
+Moises:
+  gender_flag: 2
+  is_equivalent_to:
+  - Moses
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - es
+  - pt
+Moishe:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - yi
+Moishy:
+  gender_flag: 2
+  is_short_for:
+  - Moshe
+  lang:
+  - en
+Moisès:
+  gender_flag: 2
+  is_equivalent_to:
+  - Moses
+  lang:
+  - ca
+  origin:
+  - he
+Moisés:
+  gender_flag: 2
+  is_equivalent_to:
+  - Moses
+  lang:
+  - es
+  - pt
+Mojca:
+  gender_flag: 1
+  lang:
+  - sl
+Mojmir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Mojmír:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Mojżesz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Moses
+  lang:
+  - pl
+  origin:
+  - grc
+  - he
+  - la
+Moke:
+  gender_flag: 2
+  lang:
+  - haw
+Mokihana:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Moll:
+  gender_flag: 1
+  lang:
+  - en
+  - yol
+Mollie:
+  gender_flag: 1
+  lang:
+  - en
+Molly:
+  gender_flag: 1
+  lang:
+  - en
+  - sv
+  origin:
+  - he
+Mollé:
+  gender_flag: 1
+  is_equivalent_to:
+  - Molly
+  lang:
+  - nrf
+Momi:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Momiji:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Momilani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Momo:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Momoe:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Momoka:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Momomi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Mon:
+  gender_flag: 3
+  is_short_for:
+  - Montserrat
+  lang:
+  - ca
+  - wa
+Mona:
+  gender_flag: 1
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - fo
+  - 'no'
+  - sv
+  origin:
+  - ar
+  - ga
+Mona-Lisa:
+  gender_flag: 1
+  lang:
+  - sv
+Monaldo:
+  gender_flag: 2
+  lang:
+  - it
+Monchi:
+  gender_flag: 2
+  is_short_for:
+  - Ramón
+  lang:
+  - es
+Monching:
+  gender_flag: 2
+  lang:
+  - ceb
+Moncsi:
+  gender_flag: 1
+  is_short_for:
+  - Mónika
+  lang:
+  - hu
+Mongba Hanba:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Moni:
+  gender_flag: 1
+  is_short_for:
+  - Monica
+  - Monika
+  lang:
+  - en
+Monia:
+  gender_flag: 1
+  is_short_for:
+  - Monika
+  lang:
+  - pl
+Monica:
+  gender_flag: 1
+  is_a_variant_of:
+  - Monika
+  lang:
+  - da
+  - de
+  - en
+  - it
+  - nl
+  - 'no'
+  - ro
+  - sv
+  - tl
+  origin:
+  - es
+  - la
+Monika:
+  gender_flag: 1
+  is_equivalent_to:
+  - Monica
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - et
+  - fo
+  - fr
+  - lt
+  - lv
+  - 'no'
+  - pl
+  - sh
+  - sk
+  - sv
+Moniko:
+  gender_flag: 1
+  is_equivalent_to:
+  - Monica
+  lang:
+  - eo
+  origin:
+  - la
+Moning:
+  gender_flag: 1
+  lang:
+  - ceb
+Monique:
+  gender_flag: 1
+  is_equivalent_to:
+  - Monica
+  lang:
+  - en
+  - fr
+  - nl
+  origin:
+  - fr
+Monisia:
+  gender_flag: 1
+  is_short_for:
+  - Monika
+  lang:
+  - pl
+Monička:
+  gender_flag: 1
+  is_short_for:
+  - Monika
+  lang:
+  - cs
+Monna:
+  gender_flag: 1
+  lang:
+  - en
+Monon:
+  gender_flag: 2
+  lang:
+  - wa
+Monroe:
+  gender_flag: 7
+  lang:
+  - en
+Mons:
+  gender_flag: 7
+  is_short_for:
+  - Monica
+  - Montgomery
+  lang:
+  - en
+Monse:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - ca
+Monserrat:
+  gender_flag: 1
+  lang:
+  - ca
+  - es
+Monsine:
+  gender_flag: 1
+  lang:
+  - 'no'
+Mont:
+  gender_flag: 1
+  is_short_for:
+  - Montserrat
+  lang:
+  - ca
+Monta:
+  gender_flag: 1
+  lang:
+  - lv
+Montague:
+  gender_flag: 2
+  lang:
+  - en
+Montana:
+  gender_flag: 7
+  lang:
+  - en
+Montavious:
+  gender_flag: 2
+  lang:
+  - en
+Montezuma:
+  gender_flag: 2
+  lang:
+  - en
+Montgomery:
+  gender_flag: 2
+  lang:
+  - en
+Montse:
+  gender_flag: 1
+  is_short_for:
+  - Montserrat
+  lang:
+  - ca
+Montserrat:
+  gender_flag: 1
+  lang:
+  - ca
+  - es
+  origin:
+  - ca
+Monty:
+  gender_flag: 2
+  lang:
+  - en
+Monča:
+  gender_flag: 1
+  is_short_for:
+  - Monika
+  lang:
+  - cs
+Moona:
+  gender_flag: 1
+  lang:
+  - fi
+Moonika:
+  gender_flag: 1
+  lang:
+  - et
+Mooses:
+  gender_flag: 2
+  lang:
+  - fi
+Mora:
+  gender_flag: 1
+  lang:
+  - en
+Morag:
+  gender_flag: 1
+  lang:
+  - gv
+Moraikă:
+  gender_flag: 1
+  is_short_for:
+  - Morajă
+  lang:
+  - pox
+Morajă:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - pox
+Morando:
+  gender_flag: 2
+  lang:
+  - it
+Mordecai:
+  gender_flag: 2
+  lang:
+  - en
+Morfydd:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cy
+Morgan:
+  gender_flag: 7
+  lang:
+  - cy
+  - en
+  - sv
+  origin:
+  - ga
+  - owl
+Morgana:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  - pt
+Morgane:
+  gender_flag: 1
+  is_equivalent_to:
+  - Morgan
+  lang:
+  - fr
+Moriah:
+  gender_flag: 1
+  lang:
+  - en
+Moriko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Morio:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Moris: {}
+Moritz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maurice
+  - Morris
+  lang:
+  - de
+Morið:
+  gender_flag: 1
+  lang:
+  - fo
+Morkus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mark
+  lang:
+  - lt
+Moroupîarûera:
+  gender_flag: 2
+  lang:
+  - tpw
+Morris:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - fro
+Morshedqoli: {}
+Mort:
+  gender_flag: 2
+  lang:
+  - en
+Morta:
+  gender_flag: 1
+  lang:
+  - lt
+Mortan:
+  gender_flag: 2
+  lang:
+  - fo
+Morten:
+  gender_flag: 2
+  lang:
+  - da
+  - 'no'
+Mortimer:
+  gender_flag: 2
+  lang:
+  - en
+Morton:
+  gender_flag: 2
+  lang:
+  - en
+Mortti:
+  gender_flag: 2
+  lang:
+  - fi
+Morty:
+  gender_flag: 2
+  lang:
+  - en
+Morwenna:
+  gender_flag: 1
+  lang:
+  - br
+  - en
+Moseo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Moses
+  lang:
+  - eo
+  origin:
+  - he
+Moses:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  - sv
+  origin:
+  - he
+Moshe:
+  gender_flag: 2
+  lang:
+  - en
+Mosi:
+  gender_flag: 7
+  lang:
+  - sw
+Mossa:
+  gender_flag: 1
+  is_short_for:
+  - Marie
+  lang:
+  - 'no'
+Mossie:
+  gender_flag: 2
+  is_short_for:
+  - Maurice
+  lang:
+  - en
+Moteuczoma:
+  gender_flag: 2
+  lang:
+  - nci
+Motiejus:
+  gender_flag: 2
+  lang:
+  - lt
+Motoko:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Motomi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Mouloud:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Mounce:
+  gender_flag: 2
+  lang:
+  - en
+Mourad:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Mourits:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maurice
+  lang:
+  - da
+Moussa:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Moyisse:
+  gender_flag: 2
+  is_equivalent_to:
+  - Moses
+  lang:
+  - wa
+Moyize:
+  gender_flag: 2
+  lang:
+  - wa
+Moymoy:
+  gender_flag: 2
+  is_short_for:
+  - Moises
+  lang:
+  - tl
+Mozella:
+  gender_flag: 1
+  lang:
+  - en
+Mozus:
+  gender_flag: 2
+  lang:
+  - lv
+Mozė:
+  gender_flag: 2
+  lang:
+  - lt
+Moïse:
+  gender_flag: 2
+  is_equivalent_to:
+  - Moses
+  lang:
+  - fr
+  - nrf
+Mořic:
+  gender_flag: 2
+  lang:
+  - cs
+Moʻo:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Mriganka:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Mrikë:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - sq
+Msadek:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Muammar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Muazzam:
+  gender_flag: 1
+  lang:
+  - uz
+  origin:
+  - ar
+Mubarak:
+  gender_flag: 3
+  is_equivalent_to:
+  - Benedict
+  - Benedicta
+  lang:
+  - en
+Mucyin:
+  gender_flag: 2
+  lang:
+  - wa
+Mudathir:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Mudīte:
+  gender_flag: 1
+  lang:
+  - lv
+Muff:
+  gender_flag: 1
+  is_short_for:
+  - Myfanwy
+  lang:
+  - en
+Muffin:
+  gender_flag: 1
+  lang:
+  - en
+Muffy:
+  gender_flag: 1
+  lang:
+  - en
+Muhamad:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Muhamed:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Muhammad:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Muhammadbek:
+  gender_flag: 2
+  lang:
+  - uz
+Muhammadu:
+  gender_flag: 2
+  lang:
+  - ha
+Muhammed:
+  gender_flag: 2
+  lang:
+  - en
+  - sv
+  origin:
+  - ar
+Muhammet:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Muhammetnazar:
+  gender_flag: 2
+  lang:
+  - tk
+Muhsin:
+  gender_flag: 2
+  lang:
+  - en
+  - tr
+  origin:
+  - ar
+Muhtari:
+  gender_flag: 2
+  lang:
+  - ha
+Muhyi'd-Din: {}
+Muhyiddin:
+  gender_flag: 2
+  lang:
+  - uz
+  origin:
+  - ar
+Muircath:
+  gender_flag: 2
+  lang:
+  - sga
+Muireall:
+  gender_flag: 1
+  is_equivalent_to:
+  - Muriel
+  lang:
+  - gd
+  origin:
+  - sga
+Muiris:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maurice
+  lang:
+  - ga
+  origin:
+  - la
+Muisclavus: {}
+Muji:
+  gender_flag: 2
+  lang:
+  - sq
+Mujib:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Mujo:
+  gender_flag: 2
+  lang:
+  - sq
+Mulong:
+  gender_flag: 2
+  is_short_for:
+  - Romulo
+  lang:
+  - ceb
+Mulyani:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Mulyoto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Muncimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Muneko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Mungo:
+  gender_flag: 2
+  lang:
+  - en
+Munifrida:
+  gender_flag: 1
+  lang:
+  - xvn
+Munira:
+  gender_flag: 1
+  lang:
+  - en
+Muntimer: {}
+Muntimerus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Muncimir
+  - Mutimir
+  lang:
+  - la
+  origin:
+  - sla
+Muotrih:
+  gender_flag: 2
+  lang:
+  - goh
+Murad:
+  gender_flag: 2
+  lang:
+  - az
+  - en
+  origin:
+  - ar
+Muraina:
+  gender_flag: 2
+  is_equivalent_to:
+  - Imran
+  lang:
+  - yo
+  origin:
+  - ar
+Murainọ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Imran
+  lang:
+  - yo
+  origin:
+  - ar
+Murat:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Murchadh:
+  gender_flag: 2
+  lang:
+  - gd
+  origin:
+  - sga
+Murchan:
+  gender_flag: 2
+  is_short_for:
+  - Murchadh
+  lang:
+  - gd
+Murdag:
+  gender_flag: 1
+  lang:
+  - gd
+Murdaidh:
+  gender_flag: 2
+  is_short_for:
+  - Murchadh
+  lang:
+  - gd
+Murdaigean:
+  gender_flag: 2
+  is_short_for:
+  - Murchadh
+  lang:
+  - gd
+Murdanaidh:
+  gender_flag: 2
+  is_short_for:
+  - Murchadh
+  lang:
+  - gd
+Mureesh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maurice
+  lang:
+  - yol
+Murghey:
+  gender_flag: 2
+  lang:
+  - gv
+  origin:
+  - sga
+Muriel:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - gd
+Murielle:
+  gender_flag: 1
+  is_equivalent_to:
+  - Muriel
+  lang:
+  - fr
+Murilo:
+  gender_flag: 2
+  lang:
+  - it
+  - pt
+  origin:
+  - es
+Murk:
+  gender_flag: 2
+  lang:
+  - fy
+Murph:
+  gender_flag: 7
+  is_short_for:
+  - Murphy
+  lang:
+  - en
+Murphy:
+  gender_flag: 7
+  lang:
+  - en
+Murray:
+  gender_flag: 2
+  lang:
+  - en
+Murtuz:
+  gender_flag: 2
+  lang:
+  - az
+Musa:
+  gender_flag: 2
+  is_equivalent_to:
+  - Moses
+  lang:
+  - en
+  - ha
+  - sw
+  - tr
+Musharraf:
+  gender_flag: 2
+  lang:
+  - en
+Musoxon:
+  gender_flag: 2
+  lang:
+  - uz
+Mussa:
+  gender_flag: 2
+  lang:
+  - ca
+  origin:
+  - ar
+  - tr
+Mustafa:
+  gender_flag: 2
+  lang:
+  - az
+  - en
+  - tr
+  origin:
+  - ar
+Mustafá:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mustafa
+  lang:
+  - pt
+  origin:
+  - ar
+Mustapha:
+  gender_flag: 2
+  lang:
+  - ha
+Mut:
+  gender_flag: 2
+  lang:
+  - tr
+Mutand:
+  gender_flag: 2
+  lang:
+  - en
+Muthammani:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ta
+Mutimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Mutlu:
+  gender_flag: 3
+  lang:
+  - tr
+Mutsuko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Mutsumi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Mutya:
+  gender_flag: 1
+  lang:
+  - ceb
+  - tl
+  origin:
+  - ceb
+Muuka:
+  gender_flag: 7
+  lang:
+  - ale
+Muyiiwa:
+  gender_flag: 7
+  lang:
+  - yo
+Muyiwa:
+  gender_flag: 7
+  lang:
+  - yo
+Muzaffer:
+  gender_flag: 2
+  lang:
+  - tr
+Muziano:
+  gender_flag: 2
+  lang:
+  - it
+Muzio:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Mwangi:
+  gender_flag: 2
+  lang:
+  - ki
+Mwirrish:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maurice
+  lang:
+  - gv
+My:
+  gender_flag: 1
+  lang:
+  - sv
+Mya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Myah:
+  gender_flag: 1
+  lang:
+  - en
+Mychaela:
+  gender_flag: 1
+  lang:
+  - en
+Myer:
+  gender_flag: 2
+  lang:
+  - en
+Myf:
+  gender_flag: 1
+  is_short_for:
+  - Myfanwy
+  lang:
+  - en
+Myfanwy:
+  gender_flag: 1
+  lang:
+  - cy
+  - en
+  origin:
+  - cy
+Mykola: {}
+Mykolas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - lt
+Mykyta: {}
+Myla:
+  gender_flag: 1
+  lang:
+  - en
+Mylecholumb:
+  gender_flag: 2
+  is_equivalent_to:
+  - Malcolm
+  lang:
+  - gv
+Myleene:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - fr
+Mylene:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - fr
+Myles:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Myleyeesey:
+  gender_flag: 2
+  lang:
+  - gv
+Mylvoirrey:
+  gender_flag: 2
+  lang:
+  - gv
+Mylène:
+  gender_flag: 1
+  lang:
+  - fr
+Myra:
+  gender_flag: 1
+  lang:
+  - en
+Myratgeldi:
+  gender_flag: 2
+  lang:
+  - tk
+Myriam:
+  gender_flag: 1
+  is_a_variant_of:
+  - Miriam
+  is_equivalent_to:
+  - Miriam
+  lang:
+  - en
+  - fr
+Myrna:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - fo
+  origin:
+  - ga
+Myron:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Myrrhina:
+  gender_flag: 1
+  lang:
+  - la
+Myrt:
+  gender_flag: 1
+  is_short_for:
+  - Myrtle
+  lang:
+  - en
+Myrthild:
+  gender_flag: 1
+  lang:
+  - 'no'
+Myrtle:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Mys:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Mª:
+  gender_flag: 1
+  lang:
+  - es
+Màili:
+  gender_flag: 1
+  is_equivalent_to:
+  - May
+  - Molly
+  lang:
+  - gd
+Màiread:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - gd
+Màiri:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - gd
+Mànas:
+  gender_flag: 2
+  is_a_variant_of:
+  - Mànus
+  is_equivalent_to:
+  - Magnus
+  lang:
+  - gd
+Mànus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Magnus
+  lang:
+  - gd
+  origin:
+  - non
+Màrius:
+  gender_flag: 2
+  is_equivalent_to:
+  - Marius
+  lang:
+  - ca
+  origin:
+  - la
+Màrsia:
+  gender_flag: 1
+  is_short_for:
+  - Marzia
+  lang:
+  - egl
+Màrsio:
+  gender_flag: 2
+  lang:
+  - egl
+  origin:
+  - la
+Màrtainn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - gd
+Màsim:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maximus
+  lang:
+  - egl
+  origin:
+  - la
+Màyeyn:
+  gender_flag: 1
+  lang:
+  - bkm
+Máel Dúin:
+  gender_flag: 2
+  lang:
+  - sga
+Mággá:
+  gender_flag: 1
+  lang:
+  - se
+Máhtte:
+  gender_flag: 2
+  lang:
+  - se
+Máire:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - ga
+  origin:
+  - he
+Máirtín:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - ga
+  origin:
+  - la
+Máiréad:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - ga
+Máirín:
+  gender_flag: 1
+  is_equivalent_to:
+  - Molly
+  is_short_for:
+  - Máire
+  lang:
+  - ga
+Máka:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Mákak:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Málfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Málhildur:
+  gender_flag: 1
+  lang:
+  - is
+Mánadís:
+  gender_flag: 1
+  lang:
+  - is
+Mánarse:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Máni:
+  gender_flag: 2
+  lang:
+  - is
+Mánička:
+  gender_flag: 1
+  is_short_for:
+  - Máňa
+  lang:
+  - cs
+Már:
+  gender_flag: 2
+  lang:
+  - is
+Márcia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Marcia
+  lang:
+  - pt
+Márcio:
+  gender_flag: 2
+  lang:
+  - pt
+Máret:
+  gender_flag: 1
+  lang:
+  - se
+  - smn
+Márgget:
+  gender_flag: 1
+  lang:
+  - se
+Mária:
+  gender_flag: 1
+  lang:
+  - hu
+  - sk
+Mário:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mario
+  - Marius
+  lang:
+  - pt
+  - sk
+Márjá:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - se
+  origin:
+  - fi
+Márk:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mark
+  lang:
+  - hu
+Márta:
+  gender_flag: 1
+  lang:
+  - hu
+Mártan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - ga
+Márton:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - hu
+  origin:
+  - la
+Mártá:
+  gender_flag: 1
+  is_equivalent_to:
+  - Martha
+  lang:
+  - se
+Máta:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Mátyus:
+  gender_flag: 2
+  is_short_for:
+  - Mátyás
+  lang:
+  - hu
+Mátyás:
+  gender_flag: 2
+  lang:
+  - hu
+Máté:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - hu
+Máur:
+  gender_flag: 2
+  lang:
+  - fo
+Mávila:
+  gender_flag: 1
+  lang:
+  - es
+Máximo:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - la
+Máňa:
+  gender_flag: 1
+  is_short_for:
+  - Marie
+  lang:
+  - cs
+Mářa:
+  gender_flag: 1
+  is_short_for:
+  - Marie
+  lang:
+  - cs
+Mâlat:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Mâlia:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Mâliãna:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Mârguèrite:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - wa
+Mâria:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Mârio:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Mão:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Mähri:
+  gender_flag: 1
+  lang:
+  - tk
+Mälikguly:
+  gender_flag: 2
+  lang:
+  - tk
+Mämmetmyrat:
+  gender_flag: 2
+  lang:
+  - tk
+Märit:
+  gender_flag: 1
+  lang:
+  - sv
+Märt:
+  gender_flag: 2
+  is_a_variant_of:
+  - Martin
+  lang:
+  - et
+Märta:
+  gender_flag: 1
+  lang:
+  - sv
+Määtes:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - gmw-cfr
+Må:
+  gender_flag: 2
+  lang:
+  - wa
+Målfrid:
+  gender_flag: 1
+  lang:
+  - 'no'
+Måns:
+  gender_flag: 2
+  lang:
+  - sv
+Mår:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mark
+  lang:
+  - wa
+Mårcïnk:
+  gender_flag: 2
+  lang:
+  - zlw-slv
+Mårta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Martha
+  lang:
+  - wa
+Mårten:
+  gender_flag: 2
+  is_a_variant_of:
+  - Martin
+  lang:
+  - sv
+Mårtene:
+  gender_flag: 1
+  lang:
+  - wa
+Mårtén:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - wa
+Mækir:
+  gender_flag: 2
+  lang:
+  - fo
+Mèminne:
+  gender_flag: 1
+  lang:
+  - wa
+Médard:
+  gender_flag: 2
+  lang:
+  - fr
+Médée:
+  gender_flag: 2
+  lang:
+  - nrf
+Médéric:
+  gender_flag: 2
+  lang:
+  - nrf
+Mégane:
+  gender_flag: 1
+  is_equivalent_to:
+  - Megan
+  lang:
+  - fr
+Mélanie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Melanie
+  lang:
+  - fr
+Mélanîn:
+  gender_flag: 1
+  lang:
+  - nrf
+Mélie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Amelia
+  lang:
+  - nrf
+Mélina:
+  gender_flag: 1
+  lang:
+  - nrf
+Mélissa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Melissa
+  lang:
+  - fr
+Mélodie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Melody
+  lang:
+  - fr
+Mélonie:
+  gender_flag: 1
+  lang:
+  - nrf
+Mélèce:
+  gender_flag: 2
+  lang:
+  - fr
+Méraïyeu:
+  gender_flag: 1
+  is_equivalent_to:
+  - Maria
+  lang:
+  - nrf
+Mêlie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Amelia
+  lang:
+  - nrf
+Mêrrienne:
+  gender_flag: 1
+  lang:
+  - nrf
+Mêrxas:
+  gender_flag: 2
+  lang:
+  - kmr
+Mëhill:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - sq
+  origin:
+  - grc
+Mìcheal:
+  gender_flag: 2
+  lang:
+  - gd
+  origin:
+  - he
+Mía:
+  gender_flag: 1
+  lang:
+  - is
+Míkile:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Míla:
+  gender_flag: 3
+  is_short_for:
+  - Bohumila
+  - Emil
+  - Emilie
+  - Lidmila
+  - Milada
+  - Miloslav
+  - Miloslava
+  - Miloš
+  - Miluše
+  lang:
+  - cs
+Míra:
+  gender_flag: 3
+  is_short_for:
+  - Miroslav
+  - Miroslava
+  lang:
+  - cs
+Míriam:
+  gender_flag: 1
+  is_a_variant_of:
+  - Maria
+  - María
+  is_equivalent_to:
+  - Miriam
+  lang:
+  - es
+  - pt
+  origin:
+  - he
+Míša:
+  gender_flag: 3
+  is_short_for:
+  - Michael
+  - Michaela
+  - Michal
+  lang:
+  - cs
+Mîlo:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Mònica:
+  gender_flag: 1
+  is_equivalent_to:
+  - Monica
+  lang:
+  - ca
+Mòr:
+  gender_flag: 1
+  lang:
+  - gd
+Mòrag:
+  gender_flag: 1
+  is_short_for:
+  - Mòr
+  lang:
+  - gd
+Móeiður:
+  gender_flag: 1
+  lang:
+  - is
+Móheiður:
+  gender_flag: 1
+  lang:
+  - is
+Móni:
+  gender_flag: 1
+  is_short_for:
+  - Mónika
+  lang:
+  - hu
+Mónica:
+  gender_flag: 1
+  is_equivalent_to:
+  - Monica
+  lang:
+  - es
+  - pt
+Mónika:
+  gender_flag: 1
+  is_equivalent_to:
+  - Monica
+  lang:
+  - hu
+Mór:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maurice
+  lang:
+  - hu
+Móric:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maurice
+  lang:
+  - hu
+  - sk
+Mórits:
+  gender_flag: 2
+  lang:
+  - fo
+Mórus:
+  gender_flag: 2
+  lang:
+  - fo
+Móses:
+  gender_flag: 2
+  lang:
+  - fo
+Mózes:
+  gender_flag: 2
+  lang:
+  - hu
+Móňa:
+  gender_flag: 1
+  is_short_for:
+  - Monika
+  lang:
+  - cs
+Mônica:
+  gender_flag: 1
+  is_equivalent_to:
+  - Monica
+  lang:
+  - pt
+Möhsün:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+Möngke:
+  gender_flag: 2
+  lang:
+  - en
+Mörður:
+  gender_flag: 2
+  lang:
+  - is
+Mùi:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Múzsa:
+  gender_flag: 1
+  lang:
+  - hu
+Mübariz:
+  gender_flag: 2
+  lang:
+  - az
+Mücahit:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Müfit:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Müge:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - fr
+Mühyiddin:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+Müjdat:
+  gender_flag: 2
+  lang:
+  - tr
+Münəvvər:
+  gender_flag: 1
+  lang:
+  - az
+Mürsel:
+  gender_flag: 2
+  lang:
+  - tr
+Mürşüdqulu:
+  gender_flag: 2
+  lang:
+  - az
+Müslüm:
+  gender_flag: 2
+  lang:
+  - az
+Mýra:
+  gender_flag: 1
+  lang:
+  - is
+Mýrdalína:
+  gender_flag: 1
+  lang:
+  - is
+Mýrkjartan:
+  gender_flag: 2
+  lang:
+  - is
+  origin:
+  - sga
+Māhealani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Māhoe:
+  gender_flag: 3
+  lang:
+  - haw
+Māintśe:
+  gender_flag: 1
+  lang:
+  - gmw-jdt
+Māka:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mark
+  lang:
+  - mi
+Mākere:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - mi
+Mālie:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Māpuana:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Māra:
+  gender_flag: 1
+  lang:
+  - lv
+Mārcis:
+  gender_flag: 2
+  lang:
+  - lv
+Māris:
+  gender_flag: 2
+  lang:
+  - lv
+Mārtiņš:
+  gender_flag: 2
+  lang:
+  - lv
+Mārīte:
+  gender_flag: 1
+  lang:
+  - lv
+Māta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Martha
+  lang:
+  - mi
+Mātene:
+  gender_flag: 2
+  is_equivalent_to:
+  - Martin
+  lang:
+  - mi
+Māui:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Měto:
+  gender_flag: 2
+  lang:
+  - dsb
+  origin:
+  - la
+Mōc:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthias
+  lang:
+  - wym
+Mścisław:
+  gender_flag: 2
+  lang:
+  - pl
+Məhdiqulu:
+  gender_flag: 2
+  lang:
+  - az
+Məhəmməd:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+Məhəmmədqulu:
+  gender_flag: 2
+  lang:
+  - az
+Məmməd:
+  gender_flag: 2
+  is_short_for:
+  - Məhəmməd
+  lang:
+  - az
+Məmmədhüseyn:
+  gender_flag: 2
+  lang:
+  - az
+Məmmədhəsən:
+  gender_flag: 2
+  lang:
+  - az
+Məmmədrza:
+  gender_flag: 2
+  lang:
+  - az
+Mərdan:
+  gender_flag: 2
+  lang:
+  - az
+Məryəm:
+  gender_flag: 1
+  lang:
+  - az
+  origin:
+  - ar
+Mətin:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+Mạnh:
+  gender_flag: 2
+  lang:
+  - vi
+Mẫn:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Mọmọdu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Muhammad
+  lang:
+  - yo
+  origin:
+  - ar
+Mọremi:
+  gender_flag: 1
+  lang:
+  - yo
+mnj:
+  gender_flag: 2
+  lang:
+  - egy
+mnṯw-wsr:
+  gender_flag: 2
+  lang:
+  - egy
+mnṯw-ḥtp:
+  gender_flag: 3
+  lang:
+  - egy
+mr.s-ꜥnḫ:
+  gender_flag: 1
+  lang:
+  - egy
+mrt:
+  gender_flag: 1
+  lang:
+  - egy
+mrt-nbtj:
+  gender_flag: 1
+  lang:
+  - egy
+mrw:
+  gender_flag: 2
+  lang:
+  - egy
+mry-jmn:
+  gender_flag: 2
+  lang:
+  - egy
+mry-n-ptḥ:
+  gender_flag: 2
+  lang:
+  - egy
+mry-rꜥ:
+  gender_flag: 2
+  lang:
+  - egy
+mryt:
+  gender_flag: 1
+  lang:
+  - egy
+mryt-jmn:
+  gender_flag: 1
+  lang:
+  - egy
+mryt-jt.s:
+  gender_flag: 1
+  lang:
+  - egy
+mryt-jtn:
+  gender_flag: 1
+  lang:
+  - egy
+mryt-ptḥ:
+  gender_flag: 1
+  lang:
+  - egy
+mryt-rꜥ:
+  gender_flag: 1
+  lang:
+  - egy
+mwt-nfr.t:
+  gender_flag: 1
+  lang:
+  - egy
+mẖ:
+  gender_flag: 2
+  lang:
+  - egy
+mꜣꜣt-ḥr-nfrw-rꜥ:
+  gender_flag: 1
+  lang:
+  - egy

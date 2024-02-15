@@ -1,0 +1,6880 @@
+Ubavka: {}
+Uber:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hubert
+  lang:
+  - oc
+Ubert:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hubert
+  lang:
+  - oc
+Uberto:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hubert
+  lang:
+  - it
+Ubirajara:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Ubirani:
+  gender_flag: 3
+  lang:
+  - pt
+  origin:
+  - tpw
+Ubiratam:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Ubiratan:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Ubiratã:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Uc:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hugh
+  lang:
+  - oc
+Uddger:
+  gender_flag: 2
+  lang:
+  - gmq-osw
+Udjinne:
+  gender_flag: 2
+  is_equivalent_to:
+  - Eugene
+  lang:
+  - wa
+Udo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Otto
+  lang:
+  - de
+  - et
+Udāyin:
+  lang:
+  - txb
+Ueli:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ulrico
+  lang:
+  - de
+  - it
+Uesli: {}
+Uffe:
+  gender_flag: 2
+  is_short_for:
+  - Ulf
+  lang:
+  - da
+  - sv
+Ufuk:
+  gender_flag: 3
+  lang:
+  - tr
+Ugahmelj:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+Uggi:
+  gender_flag: 2
+  lang:
+  - fo
+Ugla:
+  gender_flag: 1
+  lang:
+  - is
+  origin:
+  - non
+Ugnius:
+  gender_flag: 2
+  lang:
+  - lt
+Ugo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hugh
+  lang:
+  - it
+  - la
+Ugolino:
+  gender_flag: 2
+  lang:
+  - it
+Ugu:
+  gender_flag: 1
+  lang:
+  - pyu
+  - tay
+Ugues:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hugh
+  lang:
+  - oc
+Ugueta:
+  gender_flag: 1
+  lang:
+  - oc
+Ugène:
+  gender_flag: 2
+  is_equivalent_to:
+  - Eugene
+  lang:
+  - nrf
+Uiko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Uilama:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Uill: {}
+Uillard: {}
+Uilleachan:
+  gender_flag: 2
+  is_short_for:
+  - Uilleam
+  lang:
+  - gd
+Uilleam:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - gd
+Uilliam:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - ga
+  origin:
+  - gem-pro
+Uillidh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Willie
+  - Willy
+  is_short_for:
+  - Uilleam
+  lang:
+  - gd
+Uiloq:
+  gender_flag: 1
+  lang:
+  - kl
+Uilyam: {}
+Uindiorix:
+  gender_flag: 2
+  lang:
+  - cel-bry-pro
+Uinseann:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vincent
+  lang:
+  - ga
+Uinston: {}
+Ujka:
+  gender_flag: 1
+  lang:
+  - sq
+Ujkan:
+  gender_flag: 2
+  lang:
+  - sq
+Ujkash:
+  gender_flag: 2
+  lang:
+  - sq
+Ujo:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ujoorsi:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Uju:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ujuaanna:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Ujuaannaat:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ujuaat:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ujukku:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ujuuki:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ujuut:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ujuât:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ujuãna:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Ujuãnât:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ujëbardha:
+  gender_flag: 1
+  lang:
+  - sq
+Ujôrse:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ujúko:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ujûke:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ujût:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ukaku:
+  gender_flag: 1
+  lang:
+  - pyu
+Ukko:
+  gender_flag: 2
+  lang:
+  - fi
+Ukshin:
+  gender_flag: 2
+  lang:
+  - sq
+Uku:
+  gender_flag: 2
+  lang:
+  - et
+Ula:
+  gender_flag: 1
+  lang:
+  - en
+Uladzimir: {}
+Uladzislau: {}
+Ulaş:
+  gender_flag: 2
+  lang:
+  - tr
+Uldarico:
+  gender_flag: 2
+  lang:
+  - es
+Ulderico:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ulric
+  lang:
+  - it
+Uldis:
+  gender_flag: 2
+  lang:
+  - lv
+Ulf:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ulv
+  lang:
+  - da
+  - nb
+  - nn
+  - sv
+Ulises:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ulysses
+  lang:
+  - es
+  origin:
+  - la
+Ulisse:
+  gender_flag: 2
+  lang:
+  - it
+Ulisses:
+  gender_flag: 2
+  lang:
+  - pt
+Uljana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Juliana
+  lang:
+  - izh
+Uljas:
+  gender_flag: 2
+  lang:
+  - fi
+Ulkan:
+  gender_flag: 2
+  lang:
+  - sq
+Ulkhāmukha:
+  gender_flag: 2
+  lang:
+  - txb
+Ulla:
+  gender_flag: 1
+  lang:
+  - da
+  - et
+  - fi
+  - fo
+  - sv
+Ulla-Maija:
+  gender_flag: 1
+  lang:
+  - fi
+Ulpian:
+  gender_flag: 2
+  lang:
+  - sq
+  origin:
+  - xil
+Ulpu:
+  gender_flag: 1
+  lang:
+  - fi
+Ulpëtin:
+  gender_flag: 2
+  lang:
+  - sq
+Ulqin:
+  gender_flag: 2
+  lang:
+  - sq
+Ulric:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Ulrica:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - pt
+  - sv
+  origin:
+  - gem
+Ulrich:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ulric
+  lang:
+  - de
+Ulrico:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ulric
+  lang:
+  - it
+  - pt
+Ulrik:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ulric
+  - Ulrich
+  lang:
+  - da
+  - nn
+  - 'no'
+  - sv
+  origin:
+  - de
+Ulrika:
+  gender_flag: 1
+  lang:
+  - et
+  - sv
+Ulrike:
+  gender_flag: 1
+  lang:
+  - de
+Ulrikke:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Ulryk:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ulric
+  lang:
+  - pl
+Ulu:
+  gender_flag: 2
+  lang:
+  - tr
+Uludoğan:
+  gender_flag: 2
+  lang:
+  - tr
+Ululani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Ulus:
+  gender_flag: 2
+  lang:
+  - tr
+Ulusoy:
+  gender_flag: 2
+  lang:
+  - tr
+Uluğ:
+  gender_flag: 2
+  lang:
+  - tr
+Ulv:
+  gender_flag: 2
+  lang:
+  - nn
+Ulve:
+  gender_flag: 1
+  lang:
+  - et
+Ulvi:
+  gender_flag: 1
+  lang:
+  - et
+  origin:
+  - et
+Ulysses:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  - tl
+  origin:
+  - en
+Uma:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Umar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Umaru:
+  gender_flag: 2
+  lang:
+  - ha
+Umberto:
+  gender_flag: 2
+  is_equivalent_to:
+  - Humbert
+  lang:
+  - it
+Umbro:
+  gender_flag: 2
+  lang:
+  - it
+Ume:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Umeko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Umiko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Umu:
+  gender_flag: 2
+  lang:
+  - tr
+Umud:
+  gender_flag: 2
+  lang:
+  - az
+Umur:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Umut:
+  gender_flag: 3
+  lang:
+  - tr
+Una:
+  gender_flag: 1
+  lang:
+  - en
+  - fo
+  - lv
+  origin:
+  - ga
+Unai:
+  gender_flag: 2
+  lang:
+  - es
+  - eu
+Undine:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Undína:
+  gender_flag: 1
+  lang:
+  - is
+Unelma:
+  gender_flag: 1
+  lang:
+  - fi
+Uni:
+  gender_flag: 2
+  lang:
+  - fo
+Uniqua:
+  gender_flag: 1
+  lang:
+  - en
+Unity:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Unn:
+  gender_flag: 1
+  lang:
+  - fo
+  - 'no'
+Unna:
+  gender_flag: 1
+  lang:
+  - fo
+Unnar:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Unndís:
+  gender_flag: 1
+  lang:
+  - is
+Unndór:
+  gender_flag: 2
+  lang:
+  - is
+Unni:
+  gender_flag: 1
+  lang:
+  - 'no'
+Unnsteinn:
+  gender_flag: 2
+  lang:
+  - is
+Unnur:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Unnþór:
+  gender_flag: 2
+  lang:
+  - is
+Uno:
+  gender_flag: 3
+  lang:
+  - en
+  - et
+  - sv
+  origin:
+  - ja
+Untamo:
+  gender_flag: 2
+  lang:
+  - fi
+Unto:
+  gender_flag: 2
+  lang:
+  - fi
+Uolevi:
+  gender_flag: 2
+  lang:
+  - fi
+Uote:
+  gender_flag: 1
+  lang:
+  - gmh
+  - goh
+Uoti:
+  gender_flag: 2
+  lang:
+  - fi
+Upaga:
+  lang:
+  - txb
+Upagupta:
+  gender_flag: 2
+  lang:
+  - txb
+Upananda:
+  gender_flag: 2
+  lang:
+  - txb
+Upatiṣya:
+  lang:
+  - txb
+Upe:
+  gender_flag: 1
+  is_short_for:
+  - Guadalupe
+  lang:
+  - es
+Upton:
+  gender_flag: 2
+  lang:
+  - en
+Upu:
+  gender_flag: 2
+  lang:
+  - pyu
+Urban:
+  gender_flag: 2
+  lang:
+  - en
+  - sk
+  - sl
+  - sv
+  origin:
+  - la
+Urbane:
+  gender_flag: 2
+  lang:
+  - ceb
+Urbano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Urban
+  lang:
+  - pt
+Urbanus:
+  gender_flag: 2
+  lang:
+  - fo
+  - la
+Urbilvakāśyapa:
+  lang:
+  - txb
+Urbo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Urban
+  lang:
+  - et
+  origin:
+  - la
+Urbonas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Urban
+  lang:
+  - lt
+Urgell:
+  gender_flag: 1
+  lang:
+  - ca
+Urho:
+  gender_flag: 2
+  lang:
+  - fi
+Uri:
+  gender_flag: 2
+  lang:
+  - en
+Uria:
+  gender_flag: 2
+  lang:
+  - it
+Uriah:
+  gender_flag: 2
+  lang:
+  - en
+Urian:
+  gender_flag: 2
+  lang:
+  - en
+Urias:
+  gender_flag: 2
+  lang:
+  - en
+Uriasz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Uriah
+  lang:
+  - pl
+Uriel:
+  gender_flag: 2
+  lang:
+  - en
+Uriele:
+  gender_flag: 2
+  lang:
+  - it
+Urijah:
+  gender_flag: 2
+  lang:
+  - en
+Urmas:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Urmet:
+  gender_flag: 2
+  is_a_variant_of:
+  - Urmas
+  lang:
+  - et
+Urmila:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Urmo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Urmas
+  lang:
+  - et
+Uroosa:
+  gender_flag: 1
+  lang:
+  - en
+Uroš:
+  gender_flag: 2
+  lang:
+  - sh
+Urpo:
+  gender_flag: 2
+  lang:
+  - fi
+Urpu:
+  gender_flag: 1
+  lang:
+  - fi
+Urraca:
+  gender_flag: 1
+  lang:
+  - es
+  - pt
+Urs:
+  gender_flag: 2
+  lang:
+  - de
+Urschi:
+  gender_flag: 1
+  is_short_for:
+  - Ursula
+  lang:
+  - gsw
+  origin:
+  - la
+Ursel:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ursula
+  lang:
+  - de
+Ursula:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - et
+  - fi
+  - sv
+  - tl
+Ursule:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ursula
+  lang:
+  - fr
+  - nrf
+Urszula:
+  gender_flag: 1
+  lang:
+  - pl
+Urt:
+  gender_flag: 2
+  lang:
+  - sq
+Urtan:
+  gender_flag: 2
+  lang:
+  - sq
+Urtar:
+  gender_flag: 2
+  lang:
+  - sq
+Urtash:
+  gender_flag: 2
+  lang:
+  - sq
+Uru:
+  gender_flag: 1
+  lang:
+  - pyu
+Urubu:
+  gender_flag: 2
+  lang:
+  - tpw
+Urubutĩgûaba:
+  gender_flag: 2
+  lang:
+  - tpw
+Urvashi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Urve:
+  gender_flag: 1
+  lang:
+  - et
+Urvi:
+  gender_flag: 1
+  lang:
+  - et
+Urvo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Urban
+  lang:
+  - et
+  origin:
+  - la
+Ury:
+  gender_flag: 2
+  is_short_for:
+  - Uriah
+  lang:
+  - en
+Urð:
+  gender_flag: 1
+  lang:
+  - fo
+Urða:
+  gender_flag: 1
+  lang:
+  - fo
+Urška:
+  gender_flag: 1
+  lang:
+  - sl
+Uršula:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ursula
+  lang:
+  - cs
+  - sl
+Uršuľa:
+  gender_flag: 1
+  lang:
+  - sk
+Uschi:
+  gender_flag: 1
+  is_short_for:
+  - Ursula
+  lang:
+  - de
+Usko:
+  gender_flag: 2
+  lang:
+  - fi
+Usman:
+  gender_flag: 2
+  lang:
+  - id
+  - mdh
+  - tl
+  origin:
+  - ar
+Usting:
+  gender_flag: 2
+  lang:
+  - ceb
+Usumanu:
+  gender_flag: 2
+  lang:
+  - ha
+Uta:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ute
+  lang:
+  - de
+Ute:
+  gender_flag: 1
+  lang:
+  - de
+Utertoq:
+  gender_flag: 3
+  lang:
+  - kl
+Utertunnguaq:
+  gender_flag: 3
+  lang:
+  - kl
+Uthman:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Utku:
+  gender_flag: 3
+  lang:
+  - tr
+Utpalavarṇā:
+  gender_flag: 1
+  lang:
+  - txb
+Uttare:
+  gender_flag: 2
+  lang:
+  - txb
+Uualhin:
+  gender_flag: 1
+  lang:
+  - goh
+Uualtni:
+  gender_flag: 1
+  lang:
+  - goh
+Uudo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Otto
+  lang:
+  - et
+Uularik:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Uuno:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+  origin:
+  - non
+Uuolfleoz:
+  lang:
+  - goh
+Uuolfpero:
+  gender_flag: 2
+  lang:
+  - goh
+Uwa:
+  gender_flag: 1
+  lang:
+  - ha
+Uwais:
+  gender_flag: 2
+  lang:
+  - en
+Uwe:
+  gender_flag: 2
+  lang:
+  - de
+Uwāṣṣi:
+  lang:
+  - txb
+Uxía:
+  gender_flag: 1
+  is_equivalent_to:
+  - Eugenia
+  lang:
+  - gl
+Uygar:
+  gender_flag: 2
+  lang:
+  - tr
+Uygu:
+  gender_flag: 2
+  lang:
+  - tr
+Uygur:
+  gender_flag: 2
+  lang:
+  - tr
+Uysal:
+  gender_flag: 3
+  lang:
+  - tr
+Uyên:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Uzay:
+  gender_flag: 3
+  lang:
+  - tr
+Uzsoy:
+  gender_flag: 2
+  lang:
+  - tr
+Uzziel:
+  gender_flag: 2
+  lang:
+  - en
+Uçan:
+  gender_flag: 2
+  lang:
+  - tr
+Uçanok:
+  gender_flag: 2
+  lang:
+  - tr
+Uğur:
+  gender_flag: 2
+  lang:
+  - tr
+Uğurlu:
+  gender_flag: 3
+  lang:
+  - tr
+Uğurol:
+  gender_flag: 2
+  lang:
+  - tr
+Uğursoy:
+  gender_flag: 3
+  lang:
+  - tr
+Uģis:
+  gender_flag: 2
+  lang:
+  - lv
+Uʻilani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Vaasco:
+  gender_flag: 2
+  lang:
+  - roa-opt
+Vaclovas:
+  gender_flag: 2
+  lang:
+  - lt
+Vadim:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sla
+Vadimas: {}
+Vadims: {}
+Vadym:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sla
+Vadzim: {}
+Vagn:
+  gender_flag: 2
+  lang:
+  - da
+Vagna:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Vagnar:
+  gender_flag: 2
+  lang:
+  - fo
+Vagnur:
+  gender_flag: 2
+  lang:
+  - fo
+Vahag: {}
+Vahagn: {}
+Vahan: {}
+Vahur:
+  gender_flag: 2
+  lang:
+  - et
+Vaida:
+  gender_flag: 1
+  lang:
+  - lt
+Vaidas:
+  gender_flag: 2
+  lang:
+  - lt
+Vaidilutė:
+  gender_flag: 1
+  lang:
+  - lt
+Vaidivutis:
+  gender_flag: 2
+  lang:
+  - lt
+Vaidotas:
+  gender_flag: 2
+  lang:
+  - lt
+Vaidyanatha:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Vaike:
+  gender_flag: 1
+  lang:
+  - et
+Vaiko:
+  gender_flag: 2
+  lang:
+  - et
+Vailintín:
+  gender_flag: 2
+  lang:
+  - ga
+  origin:
+  - la
+Vaino:
+  gender_flag: 2
+  lang:
+  - et
+Vaira:
+  gender_flag: 1
+  lang:
+  - lv
+Vairis:
+  gender_flag: 2
+  lang:
+  - lv
+Vaishak:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Vaiva:
+  gender_flag: 1
+  lang:
+  - lt
+Vajk:
+  gender_flag: 2
+  lang:
+  - hu
+Val:
+  gender_flag: 7
+  lang:
+  - en
+Valarie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Valbergur:
+  gender_flag: 2
+  lang:
+  - fo
+Valbjört:
+  gender_flag: 1
+  lang:
+  - is
+Valbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Valbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Valborg:
+  gender_flag: 1
+  lang:
+  - da
+  - fo
+  - 'no'
+  - sv
+Valbrandur:
+  gender_flag: 2
+  lang:
+  - fo
+Valda:
+  gender_flag: 1
+  lang:
+  - et
+  - lv
+Valdar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Walter
+  lang:
+  - nn
+  origin:
+  - non
+Valdas:
+  gender_flag: 2
+  lang:
+  - lt
+Valde:
+  gender_flag: 2
+  lang:
+  - fi
+Valdeko:
+  gender_flag: 2
+  lang:
+  - et
+Valdemar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Waldemar
+  lang:
+  - cs
+  - da
+  - es
+  - fi
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - de
+Valdemaro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Waldemar
+  lang:
+  - it
+Valdemiro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vladimir
+  - Waldemar
+  lang:
+  - pt
+Valdemārs:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - gem
+Valdet:
+  gender_flag: 2
+  lang:
+  - sq
+Valdi:
+  gender_flag: 2
+  lang:
+  - fo
+Valdimar:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Valdimaría:
+  gender_flag: 1
+  lang:
+  - is
+Valdis:
+  gender_flag: 3
+  lang:
+  - fo
+  - lv
+Valdivina:
+  gender_flag: 1
+  lang:
+  - pt
+Valdivino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Baldwin
+  lang:
+  - pt
+Valdo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Valter
+  - Voldemar
+  lang:
+  - et
+  - it
+Valdur:
+  gender_flag: 2
+  is_a_variant_of:
+  - Valter
+  - Voldemar
+  lang:
+  - et
+Valdína:
+  gender_flag: 1
+  lang:
+  - is
+Valdís:
+  gender_flag: 1
+  lang:
+  - is
+Vale:
+  gender_flag: 3
+  is_short_for:
+  - Valentina
+  - Valentino
+  lang:
+  - it
+Valencia:
+  gender_flag: 1
+  lang:
+  - en
+Valentas:
+  gender_flag: 2
+  lang:
+  - lt
+Valentijn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Valentine
+  lang:
+  - nl
+Valentim:
+  gender_flag: 2
+  is_equivalent_to:
+  - Valentine
+  lang:
+  - pt
+  origin:
+  - la
+Valentin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Valentine
+  lang:
+  - cs
+  - da
+  - de
+  - et
+  - fr
+  - 'no'
+  - ro
+  - sh
+  - sl
+  - sv
+  origin:
+  - la
+Valentina:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - es
+  - it
+  - lv
+  - sl
+Valentinas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Valentine
+  lang:
+  - lt
+Valentine:
+  gender_flag: 7
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+Valentino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Valentine
+  lang:
+  - it
+  - pt
+Valentín:
+  gender_flag: 2
+  is_equivalent_to:
+  - Valentine
+  lang:
+  - es
+  - is
+  - sk
+  origin:
+  - la
+Valentína:
+  gender_flag: 1
+  lang:
+  - is
+  - sk
+Valentîn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Valentine
+  lang:
+  - nrf
+Valentýn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Valentine
+  lang:
+  - cs
+Valentýnka:
+  gender_flag: 1
+  lang:
+  - cs
+Valentīna:
+  gender_flag: 1
+  lang:
+  - lv
+Valentīns:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - la
+Valeri: {}
+Valeria:
+  gender_flag: 1
+  is_equivalent_to:
+  - Valerie
+  lang:
+  - en
+  - es
+  - it
+  origin:
+  - la
+Valerian:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ru
+Valeriana:
+  gender_flag: 1
+  lang:
+  - ceb
+Valeriano:
+  gender_flag: 2
+  lang:
+  - ceb
+Valerie:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  origin:
+  - la
+Valerija:
+  gender_flag: 1
+  lang:
+  - lt
+  - lv
+  origin:
+  - la
+Valerijonas:
+  gender_flag: 2
+  lang:
+  - lt
+Valerijs:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - la
+Valerio:
+  gender_flag: 2
+  lang:
+  - it
+Valerius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Valeriye:
+  gender_flag: 1
+  is_equivalent_to:
+  - Valerie
+  lang:
+  - wa
+Valery:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - fr
+Valev:
+  gender_flag: 2
+  lang:
+  - et
+Valey:
+  gender_flag: 1
+  lang:
+  - is
+Valfrid:
+  gender_flag: 2
+  lang:
+  - sv
+Valgarður:
+  gender_flag: 2
+  lang:
+  - is
+Valgeir:
+  gender_flag: 2
+  lang:
+  - is
+Valgerð:
+  gender_flag: 1
+  lang:
+  - fo
+Valgý:
+  gender_flag: 1
+  lang:
+  - is
+Valier:
+  gender_flag: 2
+  is_equivalent_to:
+  - Valerius
+  lang:
+  - fr
+  origin:
+  - la
+Valija:
+  gender_flag: 1
+  lang:
+  - lv
+Valilu:
+  gender_flag: 1
+  lang:
+  - xvn
+Valintén:
+  gender_flag: 2
+  is_equivalent_to:
+  - Valentine
+  lang:
+  - wa
+Valio:
+  gender_flag: 2
+  lang:
+  - fi
+Valja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Val
+  lang:
+  - izh
+Valli:
+  gender_flag: 1
+  lang:
+  - et
+Vallo:
+  gender_flag: 2
+  lang:
+  - et
+Vallu:
+  gender_flag: 2
+  lang:
+  - fi
+Valma:
+  gender_flag: 1
+  lang:
+  - fi
+Valmai:
+  gender_flag: 1
+  lang:
+  - en
+Valmar:
+  gender_flag: 2
+  lang:
+  - et
+Valmo:
+  gender_flag: 2
+  lang:
+  - et
+Valo:
+  gender_flag: 3
+  lang:
+  - fi
+Valpuri:
+  gender_flag: 1
+  lang:
+  - fi
+Valquíria:
+  gender_flag: 1
+  lang:
+  - pt
+Valter:
+  gender_flag: 2
+  is_equivalent_to:
+  - Walter
+  lang:
+  - et
+  - pt
+  - sv
+Valters:
+  gender_flag: 2
+  lang:
+  - lv
+Valto:
+  gender_flag: 2
+  lang:
+  - fi
+Valts:
+  gender_flag: 2
+  lang:
+  - lv
+Valtter:
+  gender_flag: 2
+  lang:
+  - fi
+Valtteri:
+  gender_flag: 2
+  is_equivalent_to:
+  - Walter
+  lang:
+  - fi
+Valtýr:
+  gender_flag: 2
+  lang:
+  - is
+Valur:
+  gender_flag: 2
+  lang:
+  - is
+Valve:
+  gender_flag: 1
+  lang:
+  - et
+Valves:
+  gender_flag: 2
+  lang:
+  - is
+Valère:
+  gender_flag: 2
+  lang:
+  - fr
+Valèri:
+  gender_flag: 2
+  is_equivalent_to:
+  - Valerius
+  lang:
+  - wa
+Valér:
+  gender_flag: 2
+  lang:
+  - sk
+Valéria:
+  gender_flag: 1
+  is_equivalent_to:
+  - Valerie
+  lang:
+  - pt
+  - sk
+Valérie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Valerie
+  lang:
+  - cs
+  - fr
+Valérien:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - la
+Valéry:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - la
+Valērija:
+  gender_flag: 1
+  lang:
+  - lv
+  origin:
+  - la
+Valērijs: {}
+Vambo:
+  gender_flag: 2
+  is_short_for:
+  - Vambola
+  lang:
+  - et
+Vambola:
+  gender_flag: 2
+  lang:
+  - et
+Van:
+  gender_flag: 3
+  is_short_for:
+  - Evan
+  - Ivan
+  - Vance
+  - Vanessa
+  lang:
+  - en
+Vanaja:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Vanamo:
+  gender_flag: 1
+  lang:
+  - fi
+Vance:
+  gender_flag: 2
+  lang:
+  - en
+Vanda:
+  gender_flag: 1
+  lang:
+  - cs
+  - lt
+  - lv
+  - sk
+  - sv
+Vanderlei:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - nl
+Vanderley:
+  lang:
+  - pt
+Vane:
+  gender_flag: 1
+  is_short_for:
+  - Vanessa
+  lang:
+  - es
+Vanesa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Vanessa
+  lang:
+  - cs
+  - es
+Vanessa:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - fr
+  - it
+  - pt
+  origin:
+  - en
+Vangie:
+  gender_flag: 1
+  is_short_for:
+  - Evangeline
+  lang:
+  - tl
+Vani:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Vania:
+  gender_flag: 1
+  is_a_variant_of:
+  - Vânia
+  lang:
+  - pt
+Vanja:
+  gender_flag: 7
+  lang:
+  - 'no'
+  - sh
+  - sv
+Vanley:
+  gender_flag: 2
+  lang:
+  - en
+Vann:
+  gender_flag: 2
+  lang:
+  - en
+Vanna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sla
+Vannie:
+  gender_flag: 1
+  lang:
+  - en
+Vanya:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - ru
+Vappu:
+  gender_flag: 1
+  lang:
+  - fi
+Vaqif:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+Varfolomey: {}
+Varinder:
+  gender_flag: 2
+  lang:
+  - en
+Varisse:
+  gender_flag: 2
+  lang:
+  - wa
+Varju:
+  gender_flag: 1
+  is_equivalent_to:
+  - Barb
+  lang:
+  - izh
+Varlaam:
+  gender_flag: 2
+  lang:
+  - ro
+Varlık:
+  gender_flag: 3
+  lang:
+  - tr
+Varma:
+  gender_flag: 3
+  lang:
+  - fi
+Varol:
+  gender_flag: 2
+  lang:
+  - tr
+Varpu:
+  gender_flag: 1
+  lang:
+  - fi
+Vartan:
+  gender_flag: 2
+  lang:
+  - ro
+  origin:
+  - hy
+Varujan:
+  gender_flag: 2
+  lang:
+  - ro
+  origin:
+  - hy
+Varun:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Varuzhan: {}
+Varvana:
+  gender_flag: 1
+  lang:
+  - izh
+Varvara: {}
+Vasant:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Vasco:
+  gender_flag: 2
+  lang:
+  - it
+  - pt
+Vashti:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fa
+Vasil:
+  gender_flag: 2
+  lang:
+  - sk
+Vasile:
+  gender_flag: 2
+  lang:
+  - ro
+  origin:
+  - grc
+Vasili:
+  gender_flag: 2
+  is_a_variant_of:
+  - Vassili
+  is_equivalent_to:
+  - Vasily
+  lang:
+  - en
+  - pt
+Vasilica:
+  gender_flag: 1
+  lang:
+  - ro
+Vasilijs:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - ru
+Vasilikas: {}
+Vasilios: {}
+Vasilis: {}
+Vasily:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ru
+Vasja:
+  gender_flag: 2
+  is_equivalent_to:
+  - Baz
+  lang:
+  - izh
+Vassili:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vasily
+  lang:
+  - pt
+  origin:
+  - ru
+Vassu:
+  gender_flag: 1
+  lang:
+  - izh
+Vasthy:
+  gender_flag: 1
+  is_a_variant_of:
+  - Vashti
+  lang:
+  - en
+  origin:
+  - fa
+Vasyl: {}
+Vatan:
+  gender_flag: 2
+  lang:
+  - tr
+Vatnar:
+  gender_flag: 2
+  lang:
+  - is
+Vatroslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vaughan:
+  gender_flag: 2
+  lang:
+  - en
+Vaughn:
+  gender_flag: 7
+  lang:
+  - en
+Vavrinec:
+  gender_flag: 2
+  lang:
+  - sk
+Vavřinec:
+  gender_flag: 2
+  is_equivalent_to:
+  - Laurence
+  lang:
+  - cs
+Vašek:
+  gender_flag: 2
+  is_short_for:
+  - Václav
+  lang:
+  - cs
+Vašík:
+  gender_flag: 2
+  is_short_for:
+  - Váša
+  lang:
+  - cs
+Vašíček:
+  gender_flag: 2
+  is_short_for:
+  - Váša
+  lang:
+  - cs
+Vebjørn:
+  gender_flag: 2
+  lang:
+  - 'no'
+Vedat:
+  gender_flag: 2
+  lang:
+  - tr
+Vedran:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vee:
+  gender_flag: 1
+  lang:
+  - en
+Veera:
+  gender_flag: 1
+  is_equivalent_to:
+  - Vera
+  lang:
+  - et
+  - fi
+  - izh
+Veerle:
+  gender_flag: 1
+  lang:
+  - nl
+Veerletje:
+  gender_flag: 1
+  lang:
+  - nl
+Veerti:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Veeti:
+  gender_flag: 2
+  lang:
+  - fi
+Vegar:
+  gender_flag: 2
+  is_a_variant_of:
+  - Vegard
+  lang:
+  - 'no'
+Vegard:
+  gender_flag: 2
+  lang:
+  - nn
+Vegetius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Vegjerd:
+  gender_flag: 2
+  lang:
+  - nn
+Veigo:
+  gender_flag: 2
+  lang:
+  - et
+Veijo:
+  gender_flag: 2
+  lang:
+  - fi
+Veikka:
+  gender_flag: 2
+  is_a_variant_of:
+  - Veikko
+  lang:
+  - fi
+Veikko:
+  gender_flag: 2
+  lang:
+  - fi
+Veiko:
+  gender_flag: 2
+  lang:
+  - et
+Veit:
+  gender_flag: 2
+  lang:
+  - de
+  origin:
+  - la
+Veleslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Velga:
+  gender_flag: 1
+  lang:
+  - lv
+Veli:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+  - tr
+Veli-Matti:
+  gender_flag: 2
+  lang:
+  - fi
+Veli-Pekka:
+  gender_flag: 2
+  lang:
+  - fi
+Velimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Velinda:
+  gender_flag: 1
+  lang:
+  - 'no'
+Veline:
+  gender_flag: 1
+  lang:
+  - 'no'
+Velislav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Veljko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Veljo:
+  gender_flag: 2
+  lang:
+  - et
+Vellamo:
+  gender_flag: 1
+  lang:
+  - fi
+Vello:
+  gender_flag: 2
+  lang:
+  - et
+Velma:
+  gender_flag: 1
+  lang:
+  - en
+Velta:
+  gender_flag: 1
+  lang:
+  - lv
+Velvo:
+  gender_flag: 2
+  lang:
+  - et
+Venancio:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+  - tl
+  origin:
+  - es
+  - la
+Venanzio:
+  gender_flag: 2
+  lang:
+  - it
+Venceslao:
+  gender_flag: 2
+  is_equivalent_to:
+  - Wenceslaus
+  lang:
+  - eo
+  - es
+  - it
+  origin:
+  - it
+  - la
+Venceslau:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - sla
+Venda:
+  gender_flag: 3
+  is_short_for:
+  - Vendula
+  lang:
+  - cs
+  - et
+Vendela:
+  gender_flag: 1
+  lang:
+  - sv
+Vendelín:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Vendla:
+  gender_flag: 1
+  lang:
+  - en
+Vendula:
+  gender_flag: 1
+  lang:
+  - cs
+Vendulka:
+  gender_flag: 1
+  is_short_for:
+  - Vendula
+  lang:
+  - cs
+Venedico:
+  gender_flag: 2
+  lang:
+  - it
+Venedikt:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ru
+Venera:
+  gender_flag: 1
+  lang:
+  - it
+Veneranda:
+  gender_flag: 1
+  lang:
+  - it
+  - lv
+Venerando:
+  gender_flag: 2
+  lang:
+  - ceb
+Venetia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Venevil:
+  gender_flag: 1
+  lang:
+  - 'no'
+Veniamin:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ru
+Venicia:
+  gender_flag: 1
+  lang:
+  - en
+Venkata:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Venkatayya:
+  gender_flag: 2
+  lang:
+  - en
+Venkateswara:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Venkayya:
+  gender_flag: 2
+  lang:
+  - en
+Venla:
+  gender_flag: 1
+  lang:
+  - fi
+Venni:
+  gender_flag: 2
+  lang:
+  - fi
+Venouš:
+  gender_flag: 2
+  is_short_for:
+  - Václav
+  lang:
+  - cs
+Venoušek:
+  gender_flag: 2
+  is_short_for:
+  - Venouš
+  lang:
+  - cs
+Vensil:
+  gender_flag: 2
+  is_equivalent_to:
+  - Wenceslaus
+  lang:
+  - fo
+Ventsislav:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - bg
+Venu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Venus:
+  gender_flag: 1
+  lang:
+  - ceb
+  - cs
+  - is
+  - tl
+  origin:
+  - en
+  - la
+Venuše:
+  gender_flag: 1
+  is_equivalent_to:
+  - Venus
+  lang:
+  - cs
+Ver:
+  gender_flag: 2
+  lang:
+  - is
+Vera:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - fo
+  - hu
+  - is
+  - lv
+  - nl
+  - 'no'
+  - pt
+  - sv
+  - tl
+  origin:
+  - en
+  - ru
+Verena:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+Vergil:
+  gender_flag: 2
+  is_a_variant_of:
+  - Virgil
+  lang:
+  - en
+  origin:
+  - la
+Veriana:
+  gender_flag: 1
+  lang:
+  - sq
+Verity:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Vermundur:
+  gender_flag: 2
+  lang:
+  - fo
+Vern:
+  gender_flag: 2
+  is_short_for:
+  - Vernon
+  lang:
+  - en
+Verna:
+  gender_flag: 1
+  lang:
+  - en
+  - fi
+  - sv
+  origin:
+  - la
+Vernar:
+  gender_flag: 2
+  lang:
+  - fo
+Verner:
+  gender_flag: 2
+  is_equivalent_to:
+  - Warner
+  lang:
+  - da
+  - et
+  - sv
+  origin:
+  - de
+Verneri:
+  gender_flag: 2
+  lang:
+  - fi
+Verners:
+  gender_flag: 2
+  lang:
+  - lv
+Vernetta:
+  gender_flag: 1
+  lang:
+  - en
+Vernie:
+  gender_flag: 7
+  is_short_for:
+  - Laverne
+  - Verna
+  - Vernon
+  - Veronica
+  lang:
+  - en
+Vernon:
+  gender_flag: 2
+  lang:
+  - en
+Vero:
+  gender_flag: 1
+  is_short_for:
+  - Verónica
+  lang:
+  - es
+Verona:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+Veronica:
+  gender_flag: 1
+  lang:
+  - en
+  - la
+  - 'no'
+  - ro
+  - sv
+  - tl
+  origin:
+  - es
+  - grc
+Veronika:
+  gender_flag: 1
+  is_equivalent_to:
+  - Veronica
+  lang:
+  - cs
+  - de
+  - et
+  - lt
+  - lv
+  - 'no'
+  - sk
+  - sl
+  - sv
+  origin:
+  - la
+Vertie:
+  gender_flag: 1
+  lang:
+  - en
+Vertti:
+  gender_flag: 2
+  lang:
+  - fi
+Verunka:
+  gender_flag: 1
+  is_short_for:
+  - Veronika
+  lang:
+  - cs
+Verónica:
+  gender_flag: 1
+  is_equivalent_to:
+  - Veronica
+  lang:
+  - es
+  - gl
+Verônica:
+  gender_flag: 1
+  is_equivalent_to:
+  - Veronica
+  lang:
+  - pt
+  origin:
+  - la
+Verča:
+  gender_flag: 1
+  is_short_for:
+  - Veronika
+  lang:
+  - cs
+Vesa:
+  gender_flag: 2
+  lang:
+  - fi
+Vesclevesis:
+  gender_flag: 2
+  lang:
+  - la
+Veselko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vesla:
+  gender_flag: 1
+  lang:
+  - 'no'
+Vesna:
+  gender_flag: 1
+  lang:
+  - en
+  - sh
+  - sl
+Vessa:
+  gender_flag: 1
+  lang:
+  - 'no'
+Vesta:
+  gender_flag: 1
+  lang:
+  - en
+  - et
+  origin:
+  - la
+Vestar:
+  gender_flag: 2
+  lang:
+  - fo
+Vestmaður:
+  gender_flag: 2
+  lang:
+  - is
+Vesë:
+  gender_flag: 1
+  lang:
+  - sq
+Vetle:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Vetlide:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Vetterlide:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Veturliði:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Veysel:
+  gender_flag: 2
+  lang:
+  - tr
+Vi:
+  gender_flag: 1
+  lang:
+  - en
+Viachaslau: {}
+Viačeslavas: {}
+Vibeke:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Vic:
+  gender_flag: 7
+  is_short_for:
+  - Victor
+  - Victoria
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Vicent:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vincent
+  lang:
+  - ca
+Vicenta:
+  gender_flag: 1
+  lang:
+  - es
+Vicente:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vincent
+  lang:
+  - ceb
+  - es
+  - pt
+Vicenç:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vincent
+  lang:
+  - ca
+  origin:
+  - la
+Vick:
+  gender_flag: 2
+  is_short_for:
+  - Victor
+  lang:
+  - en
+Vickey:
+  gender_flag: 1
+  is_short_for:
+  - Victoria
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Vicki:
+  gender_flag: 1
+  is_short_for:
+  - Victoria
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Vickie:
+  gender_flag: 1
+  is_short_for:
+  - Victoria
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Vicky:
+  gender_flag: 1
+  is_short_for:
+  - Victoria
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+  - la
+Vico:
+  gender_flag: 1
+  is_short_for:
+  - Victoria
+  lang:
+  - es
+Victeoiria:
+  gender_flag: 1
+  is_equivalent_to:
+  - Victoria
+  lang:
+  - ga
+  origin:
+  - la
+Victhor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Victor
+  lang:
+  - pt
+Victoire:
+  gender_flag: 1
+  is_a_variant_of:
+  - Victoria
+  lang:
+  - fr
+Victor:
+  gender_flag: 2
+  is_a_variant_of:
+  - Viktor
+  lang:
+  - da
+  - de
+  - en
+  - fr
+  - is
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - la
+Victoria:
+  gender_flag: 1
+  is_a_variant_of:
+  - Viktoria
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - fi
+  - fr
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - la
+Victoriano:
+  gender_flag: 2
+  lang:
+  - en
+Victorin:
+  gender_flag: 2
+  lang:
+  - nrf
+Victorène:
+  gender_flag: 1
+  lang:
+  - nrf
+Victour:
+  gender_flag: 2
+  lang:
+  - en
+Victoère:
+  gender_flag: 1
+  is_equivalent_to:
+  - Victoria
+  lang:
+  - nrf
+Victwere:
+  gender_flag: 1
+  is_equivalent_to:
+  - Victoria
+  lang:
+  - wa
+Victwêre:
+  gender_flag: 1
+  lang:
+  - wa
+Victòria:
+  gender_flag: 1
+  is_equivalent_to:
+  - Victoria
+  lang:
+  - ca
+Vida:
+  gender_flag: 1
+  lang:
+  - lt
+  - sl
+Vidal:
+  gender_flag: 2
+  lang:
+  - ca
+Vidar:
+  gender_flag: 2
+  lang:
+  - da
+  - nn
+  - sv
+  origin:
+  - non
+Vidas:
+  gender_flag: 2
+  lang:
+  - lt
+Vidhbiorn:
+  gender_flag: 2
+  lang:
+  - gmq-osw
+Vidian:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vivian
+  lang:
+  - fr
+Vidkun:
+  gender_flag: 2
+  is_a_variant_of:
+  - Vidkunn
+  lang:
+  - nn
+Vidkunn:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Vidmantas:
+  gender_flag: 2
+  lang:
+  - lt
+Vidoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vidrik:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frederick
+  lang:
+  - et
+Vidus:
+  gender_flag: 2
+  lang:
+  - la
+Vidya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Vidyasagar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Viena:
+  gender_flag: 1
+  lang:
+  - fi
+Vienna:
+  gender_flag: 1
+  lang:
+  - en
+Vieno:
+  gender_flag: 3
+  lang:
+  - fi
+Viera:
+  gender_flag: 1
+  lang:
+  - sk
+Vieroslava:
+  gender_flag: 1
+  lang:
+  - sk
+Viesturs:
+  gender_flag: 2
+  lang:
+  - lv
+Vigdis:
+  gender_flag: 1
+  lang:
+  - fo
+  - 'no'
+Vigdís:
+  gender_flag: 1
+  lang:
+  - is
+Vigfríður:
+  gender_flag: 1
+  lang:
+  - is
+Vigfús:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Vigfúsína:
+  gender_flag: 1
+  lang:
+  - is
+Vigga:
+  gender_flag: 1
+  lang:
+  - da
+Viggo:
+  gender_flag: 2
+  lang:
+  - da
+  - fo
+  - 'no'
+  - sv
+Viggó:
+  gender_flag: 2
+  lang:
+  - is
+Vigmund:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Vignir:
+  gender_flag: 2
+  lang:
+  - is
+Vigri:
+  gender_flag: 2
+  lang:
+  - is
+Vihaan:
+  gender_flag: 2
+  lang:
+  - en
+Vihtori:
+  gender_flag: 2
+  is_equivalent_to:
+  - Victor
+  lang:
+  - fi
+Viia:
+  gender_flag: 1
+  lang:
+  - et
+  origin:
+  - grc
+Viiu:
+  gender_flag: 1
+  lang:
+  - et
+Viive:
+  gender_flag: 1
+  is_a_variant_of:
+  - Viivi
+  lang:
+  - et
+Viivi:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Viivika:
+  gender_flag: 1
+  lang:
+  - et
+Vija:
+  gender_flag: 1
+  lang:
+  - lv
+Vijay:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Vijaya:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - sa
+Vik:
+  gender_flag: 2
+  lang:
+  - en
+Viki:
+  gender_flag: 3
+  is_short_for:
+  - Viktor
+  - Viktorie
+  - Viktória
+  lang:
+  - cs
+  - hu
+Viking:
+  gender_flag: 2
+  lang:
+  - nn
+  - sv
+  origin:
+  - non
+Vikki:
+  gender_flag: 1
+  is_short_for:
+  - Victoria
+  lang:
+  - en
+Vikky:
+  gender_flag: 1
+  lang:
+  - en
+Vikram:
+  gender_flag: 2
+  lang:
+  - en
+Viktar: {}
+Viktor:
+  gender_flag: 2
+  is_a_variant_of:
+  - Victor
+  is_equivalent_to:
+  - Victor
+  lang:
+  - cs
+  - da
+  - de
+  - et
+  - fo
+  - hu
+  - is
+  - 'no'
+  - sk
+  - sv
+  origin:
+  - la
+Viktoras:
+  gender_flag: 2
+  is_equivalent_to:
+  - Victor
+  lang:
+  - lt
+Viktoria:
+  gender_flag: 1
+  is_equivalent_to:
+  - Victoria
+  lang:
+  - da
+  - de
+  - eo
+  - fi
+  - fo
+  - 'no'
+  - sv
+  origin:
+  - la
+Viktorie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Victoria
+  lang:
+  - cs
+Viktorija:
+  gender_flag: 1
+  is_equivalent_to:
+  - Victoria
+  lang:
+  - lt
+  - lv
+  - sh
+Viktorino:
+  gender_flag: 1
+  is_equivalent_to:
+  - Victoria
+  lang:
+  - eo
+Viktorka:
+  gender_flag: 1
+  is_short_for:
+  - Viktorie
+  lang:
+  - cs
+Viktors:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - la
+Viktoría:
+  gender_flag: 1
+  is_equivalent_to:
+  - Victoria
+  lang:
+  - is
+Viktória:
+  gender_flag: 1
+  is_equivalent_to:
+  - Victoria
+  lang:
+  - hu
+  - sk
+Vilbergur:
+  gender_flag: 2
+  lang:
+  - fo
+Vilbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Vilbjørt:
+  gender_flag: 1
+  lang:
+  - fo
+Vilborg:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Vilda:
+  gender_flag: 2
+  is_short_for:
+  - Vilém
+  lang:
+  - cs
+Vilde:
+  gender_flag: 1
+  lang:
+  - 'no'
+Vildis:
+  gender_flag: 1
+  lang:
+  - 'no'
+Vildrid:
+  gender_flag: 1
+  lang:
+  - 'no'
+Vildís:
+  gender_flag: 1
+  lang:
+  - is
+Vilfredo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Wilfred
+  lang:
+  - it
+Vilgerð:
+  gender_flag: 1
+  lang:
+  - fo
+Vilhelm:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - da
+  - fi
+  - fo
+  - 'no'
+  - sv
+Vilhelmas:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - lt
+Vilhelmi:
+  gender_flag: 2
+  lang:
+  - fi
+Vilhelmiina:
+  gender_flag: 1
+  lang:
+  - fi
+Vilhelmina:
+  gender_flag: 1
+  lang:
+  - sv
+Vilhelmine:
+  gender_flag: 1
+  lang:
+  - da
+Vilhelmo:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - eo
+  origin:
+  - de
+Vilhelms:
+  gender_flag: 2
+  lang:
+  - lv
+Vilhiælm:
+  gender_flag: 2
+  lang:
+  - gmq-osw
+Vilhjálmr:
+  gender_flag: 2
+  lang:
+  - non
+Vilhjálmur:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - fo
+  - is
+Vilhjálmía:
+  gender_flag: 1
+  lang:
+  - is
+Vilhjálmína:
+  gender_flag: 1
+  lang:
+  - is
+Vilho:
+  gender_flag: 2
+  lang:
+  - fi
+Vili:
+  gender_flag: 2
+  is_short_for:
+  - Vilmos
+  lang:
+  - fi
+  - hu
+Viliam:
+  gender_flag: 2
+  lang:
+  - sk
+Vilija:
+  gender_flag: 1
+  lang:
+  - lt
+Vilimut:
+  gender_flag: 2
+  lang:
+  - xvn
+Vilis:
+  gender_flag: 2
+  lang:
+  - lv
+Vilius:
+  gender_flag: 2
+  lang:
+  - lt
+Vilja:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Viljam:
+  gender_flag: 2
+  lang:
+  - fi
+  - fo
+Viljami:
+  gender_flag: 2
+  lang:
+  - fi
+Viljams:
+  gender_flag: 2
+  lang:
+  - lv
+Viljar:
+  gender_flag: 2
+  lang:
+  - et
+Vilji:
+  gender_flag: 2
+  lang:
+  - is
+Viljo:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Viljormur:
+  gender_flag: 2
+  lang:
+  - fo
+Villads:
+  gender_flag: 2
+  lang:
+  - da
+Ville:
+  gender_flag: 2
+  is_short_for:
+  - Vilhelm
+  - Villiam
+  lang:
+  - et
+  - fi
+  - sv
+Villem:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - et
+Villi:
+  gender_flag: 2
+  lang:
+  - fo
+Villiam:
+  gender_flag: 2
+  lang:
+  - fi
+  - fo
+Villu:
+  gender_flag: 2
+  lang:
+  - et
+Villy:
+  gender_flag: 2
+  is_a_variant_of:
+  - Willy
+  lang:
+  - da
+  - sv
+Vilma:
+  gender_flag: 1
+  is_a_variant_of:
+  - Wilma
+  lang:
+  - cs
+  - et
+  - fi
+  - is
+  - lt
+  - lv
+  - sk
+  - sv
+  origin:
+  - de
+Vilmar:
+  gender_flag: 2
+  lang:
+  - et
+  - fo
+Vilmos:
+  gender_flag: 2
+  lang:
+  - hu
+Vilmundur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Vilnis:
+  gender_flag: 2
+  lang:
+  - lv
+Vilppu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - fi
+Vilson:
+  gender_flag: 2
+  lang:
+  - sq
+Vilvi:
+  gender_flag: 1
+  lang:
+  - et
+Vilém:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - cs
+Vilémek:
+  gender_flag: 2
+  is_short_for:
+  - Vilém
+  lang:
+  - cs
+Vilík:
+  gender_flag: 2
+  is_equivalent_to:
+  - Willy
+  is_short_for:
+  - Vilém
+  lang:
+  - cs
+Vin:
+  gender_flag: 2
+  lang:
+  - en
+Vina:
+  gender_flag: 1
+  lang:
+  - ceb
+Vinay:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Vinca:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vincent
+  lang:
+  - wym
+Vincas:
+  gender_flag: 2
+  lang:
+  - lt
+Vince:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - fr
+  - hu
+  origin:
+  - en
+Vincenc:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vincent
+  lang:
+  - cs
+Vincent:
+  gender_flag: 2
+  lang:
+  - ceb
+  - de
+  - en
+  - fr
+  - sk
+  - sv
+Vincentas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vincent
+  lang:
+  - lt
+Vincentius:
+  gender_flag: 2
+  lang:
+  - la
+Vincenz:
+  gender_flag: 2
+  lang:
+  - de
+  origin:
+  - la
+Vincenzo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vincent
+  lang:
+  - en
+  - it
+  origin:
+  - it
+Vinchenzo:
+  gender_flag: 2
+  lang:
+  - en
+Vincint:
+  gender_flag: 2
+  lang:
+  - wa
+Vinda:
+  gender_flag: 1
+  lang:
+  - is
+Vineet:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Vineta:
+  gender_flag: 1
+  lang:
+  - lv
+Vinh:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Vinh Sơn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vincent
+  lang:
+  - vi
+  origin:
+  - fr
+  - la
+Vinha:
+  gender_flag: 3
+  lang:
+  - fi
+Vini:
+  gender_flag: 2
+  is_short_for:
+  - Vinícius
+  lang:
+  - pt
+Vinicio:
+  gender_flag: 2
+  lang:
+  - it
+Vinita:
+  gender_flag: 1
+  lang:
+  - en
+Vinjar:
+  gender_flag: 2
+  lang:
+  - fo
+Vinnie:
+  gender_flag: 3
+  is_short_for:
+  - Lavinia
+  - Vincent
+  lang:
+  - en
+Vinny:
+  gender_flag: 3
+  is_short_for:
+  - Lavinia
+  - Vincent
+  lang:
+  - en
+Vinný:
+  gender_flag: 1
+  lang:
+  - fo
+Vinod:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Vinsent: {}
+Vinsi:
+  gender_flag: 2
+  lang:
+  - fo
+Vinson:
+  gender_flag: 2
+  lang:
+  - en
+Vinzenz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vincent
+  lang:
+  - de
+Vinçant:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vincent
+  lang:
+  - wa
+Vinícius:
+  gender_flag: 2
+  lang:
+  - pt
+Viola:
+  gender_flag: 1
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - fi
+  - it
+  - sk
+  - sv
+Violaine:
+  gender_flag: 1
+  lang:
+  - fr
+Violante:
+  gender_flag: 1
+  is_equivalent_to:
+  - Yolanda
+  lang:
+  - it
+  - pt
+  origin:
+  - la
+Violet:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Violeta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Violet
+  lang:
+  - es
+  - lt
+  - lv
+  - pt
+  - ro
+  - tl
+  origin:
+  - es
+Violetta:
+  gender_flag: 1
+  lang:
+  - it
+Violette:
+  gender_flag: 1
+  lang:
+  - fr
+Violâte:
+  gender_flag: 1
+  lang:
+  - nrf
+Viorela:
+  gender_flag: 1
+  lang:
+  - ro
+Viqui:
+  gender_flag: 1
+  is_equivalent_to:
+  - Vicky
+  is_short_for:
+  - Victoria
+  lang:
+  - es
+Virgar:
+  gender_flag: 2
+  lang:
+  - fo
+Virge:
+  gender_flag: 1
+  lang:
+  - et
+Virgie:
+  gender_flag: 1
+  is_short_for:
+  - Virginia
+  lang:
+  - en
+Virgil:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Virgilijus:
+  gender_flag: 2
+  lang:
+  - lt
+Virgilio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Virgil
+  lang:
+  - it
+  - tl
+  origin:
+  - es
+  - la
+Virginia:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - it
+  origin:
+  - la
+Virginie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Virginia
+  lang:
+  - cs
+  - fr
+Virginija:
+  gender_flag: 1
+  is_equivalent_to:
+  - Virginia
+  lang:
+  - lt
+Virginijus:
+  gender_flag: 2
+  lang:
+  - lt
+Virginía:
+  gender_flag: 1
+  is_equivalent_to:
+  - Virginia
+  lang:
+  - is
+Virgo:
+  gender_flag: 2
+  lang:
+  - la
+Virgílio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Virgil
+  lang:
+  - pt
+Virgínia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Virginia
+  lang:
+  - pt
+Virkantas:
+  gender_flag: 2
+  lang:
+  - lt
+Virna:
+  gender_flag: 1
+  lang:
+  - it
+Virpi:
+  gender_flag: 1
+  lang:
+  - fi
+Virva:
+  gender_flag: 1
+  lang:
+  - fi
+Virve:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Virxinia:
+  gender_flag: 1
+  lang:
+  - gl
+Visa:
+  gender_flag: 2
+  lang:
+  - de
+  - fi
+Visar:
+  gender_flag: 2
+  lang:
+  - sq
+Vishal:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Vishnu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Vishnupriya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Visuvabharathy:
+  gender_flag: 2
+  lang:
+  - en
+Visvaldis:
+  gender_flag: 2
+  lang:
+  - lv
+Vita:
+  gender_flag: 1
+  lang:
+  - da
+  - lt
+  - lv
+Vitali:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ru
+Vitaliano:
+  gender_flag: 2
+  lang:
+  - it
+Vitalija:
+  gender_flag: 1
+  lang:
+  - lt
+Vitalijus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vitali
+  lang:
+  - lt
+  origin:
+  - la
+Vitalis:
+  gender_flag: 2
+  lang:
+  - la
+Vitarit:
+  gender_flag: 2
+  lang:
+  - xvn
+Vitauts:
+  gender_flag: 2
+  lang:
+  - lv
+Vito:
+  gender_flag: 2
+  lang:
+  - eo
+  - es
+  - it
+  origin:
+  - la
+Vitolds:
+  gender_flag: 2
+  lang:
+  - lv
+Vitomir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vitor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Victor
+  lang:
+  - pt
+Vittoria:
+  gender_flag: 1
+  is_equivalent_to:
+  - Victoria
+  lang:
+  - it
+Vittorio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Victor
+  lang:
+  - it
+Vitus:
+  gender_flag: 2
+  lang:
+  - en
+  - fo
+  origin:
+  - la
+Vitória:
+  gender_flag: 1
+  is_equivalent_to:
+  - Victoria
+  lang:
+  - pt
+Vitöria:
+  gender_flag: 1
+  is_equivalent_to:
+  - Victoria
+  lang:
+  - rgn
+  origin:
+  - la
+Vitālijs:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - la
+Viv:
+  gender_flag: 1
+  lang:
+  - en
+Vivaan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Vivaldo:
+  gender_flag: 2
+  lang:
+  - it
+Vivan:
+  gender_flag: 1
+  lang:
+  - sv
+Viveca:
+  gender_flag: 1
+  lang:
+  - sv
+Vivek:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Viveka:
+  gender_flag: 1
+  lang:
+  - sv
+Vivenzio:
+  gender_flag: 2
+  lang:
+  - it
+Vivi:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+  - sv
+Vivi-Ann:
+  gender_flag: 1
+  is_a_variant_of:
+  - Vivianne
+  lang:
+  - sv
+Vivi-Anne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Vivianne
+  lang:
+  - sv
+Vivia:
+  gender_flag: 1
+  lang:
+  - fo
+Vivian:
+  gender_flag: 7
+  lang:
+  - da
+  - en
+  - et
+  - 'no'
+  - sv
+  origin:
+  - la
+Viviana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Vivian
+  - Vivien
+  - Vivienne
+  lang:
+  - es
+  - it
+Viviane:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+Viviann:
+  gender_flag: 1
+  is_a_variant_of:
+  - Vivian
+  - Vivianne
+  lang:
+  - 'no'
+  - sv
+Vivianne:
+  gender_flag: 1
+  lang:
+  - sv
+Vivien:
+  gender_flag: 3
+  is_equivalent_to:
+  - Vivian
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+Vivienne:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+Viyọn:
+  gender_flag: 7
+  lang:
+  - guw
+Vizbulīte:
+  gender_flag: 1
+  lang:
+  - lv
+Vizma:
+  gender_flag: 1
+  lang:
+  - lv
+Viðar:
+  gender_flag: 2
+  lang:
+  - is
+Viðbjǫrn:
+  gender_flag: 2
+  lang:
+  - non
+Viðólfur:
+  gender_flag: 2
+  lang:
+  - is
+Vióla:
+  gender_flag: 1
+  lang:
+  - fo
+Viļums:
+  gender_flag: 2
+  lang:
+  - lv
+Višeslav:
+  gender_flag: 2
+  lang:
+  - sh
+Việt:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Vjatšeslav: {}
+Vjačeslavs: {}
+Vjekoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vjenceslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vjeroslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vjosa:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sq
+Vla-đi-mia: {}
+Vlad:
+  gender_flag: 2
+  lang:
+  - en
+Vladan:
+  gender_flag: 2
+  lang:
+  - cs
+Vladas:
+  gender_flag: 2
+  lang:
+  - lt
+Vladimir:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - es
+  - ro
+  origin:
+  - en
+  - ru
+Vladimiras: {}
+Vladimiro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vladimir
+  lang:
+  - es
+  - pt
+Vladimirs:
+  gender_flag: 2
+  lang:
+  - lv
+Vladimír:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Vladimíra:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Vladimírek:
+  gender_flag: 2
+  is_short_for:
+  - Vladimír
+  lang:
+  - cs
+Vladislav:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Vladislava:
+  gender_flag: 1
+  lang:
+  - cs
+Vladislavs:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - sla
+Vladislova:
+  gender_flag: 1
+  lang:
+  - lt
+Vladislovas:
+  gender_flag: 2
+  lang:
+  - lt
+Vlado:
+  gender_flag: 2
+  lang:
+  - sh
+Vladěna:
+  gender_flag: 1
+  lang:
+  - cs
+Vlasta:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Vlastimil:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Vlastimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vlastinka:
+  gender_flag: 1
+  is_short_for:
+  - Vlasta
+  lang:
+  - cs
+Vlastislav:
+  gender_flag: 2
+  lang:
+  - cs
+Vlastička:
+  gender_flag: 1
+  is_short_for:
+  - Vlasta
+  lang:
+  - cs
+Vlastík:
+  gender_flag: 2
+  is_short_for:
+  - Vlastimil
+  - Vlastislav
+  lang:
+  - cs
+Vlatko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vlinder:
+  gender_flag: 1
+  lang:
+  - nl
+Vláďa:
+  gender_flag: 2
+  is_short_for:
+  - Vladimír
+  - Vladislav
+  lang:
+  - cs
+Vodoljub:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vodomir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vodoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Voitto:
+  gender_flag: 2
+  lang:
+  - fi
+Vojimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vojislav:
+  gender_flag: 2
+  lang:
+  - sh
+Vojko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vojmil:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vojnomir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vojoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vojta:
+  gender_flag: 2
+  is_short_for:
+  - Vojtěch
+  lang:
+  - cs
+Vojtech:
+  gender_flag: 2
+  lang:
+  - sk
+Vojtík:
+  gender_flag: 2
+  is_short_for:
+  - Vojta
+  lang:
+  - cs
+Vojtíšek:
+  gender_flag: 2
+  is_short_for:
+  - Vojta
+  lang:
+  - cs
+Vojtěch:
+  gender_flag: 2
+  lang:
+  - cs
+Vojtěška:
+  gender_flag: 1
+  lang:
+  - cs
+Voldemar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Waldemar
+  lang:
+  - et
+  origin:
+  - de
+Voldemārs:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - gem
+Volha: {}
+Volkan:
+  gender_flag: 2
+  lang:
+  - tr
+Volker:
+  gender_flag: 2
+  lang:
+  - de
+Volkhardt:
+  gender_flag: 2
+  lang:
+  - de
+Volli:
+  gender_flag: 2
+  lang:
+  - et
+Volmar:
+  gender_flag: 2
+  lang:
+  - fo
+Volodymyr: {}
+Vonda:
+  gender_flag: 1
+  lang:
+  - en
+Vonette:
+  gender_flag: 1
+  lang:
+  - nrf
+Vonn:
+  gender_flag: 6
+  lang:
+  - en
+Vonnie:
+  gender_flag: 1
+  is_short_for:
+  - Veronica
+  - Yvonne
+  lang:
+  - en
+Vootele:
+  gender_flag: 2
+  lang:
+  - et
+Vordís:
+  gender_flag: 1
+  lang:
+  - is
+Vortigern:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cel-bry-pro
+Vortigernus:
+  is_equivalent_to:
+  - Vortigern
+  lang:
+  - la
+  origin:
+  - cel-bry-pro
+Voula:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - el
+Vratislav:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Vratko:
+  gender_flag: 2
+  lang:
+  - sk
+Vráťa:
+  gender_flag: 2
+  is_short_for:
+  - Vratislav
+  lang:
+  - cs
+Vsevolod: {}
+Vui:
+  gender_flag: 7
+  lang:
+  - vi
+Vuissasclavus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Višeslav
+  lang:
+  - la
+Vuk:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vukac:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vukadin:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vukmir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vukomir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vukoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Vuldar:
+  gender_flag: 2
+  lang:
+  - goh
+Vuldarniu:
+  gender_flag: 1
+  lang:
+  - goh
+Vultrogotha:
+  gender_flag: 1
+  lang:
+  - goh
+Vuokko:
+  gender_flag: 1
+  lang:
+  - fi
+Vural:
+  gender_flag: 2
+  lang:
+  - tr
+Vurğun:
+  gender_flag: 2
+  lang:
+  - az
+Vuthy:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - km
+Vy:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Vyachaslau: {}
+Vyacheslav: {}
+Vygandas:
+  gender_flag: 2
+  lang:
+  - lt
+Vygantas:
+  gender_flag: 2
+  lang:
+  - lt
+Vyomesh:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Vyron:
+  gender_flag: 2
+  lang:
+  - en
+Vytas:
+  gender_flag: 2
+  lang:
+  - lt
+Vytautas:
+  gender_flag: 2
+  lang:
+  - lt
+Vytautė:
+  gender_flag: 1
+  lang:
+  - lt
+Vytenis:
+  gender_flag: 2
+  lang:
+  - lt
+Vytis:
+  gender_flag: 2
+  lang:
+  - lt
+Vyv:
+  gender_flag: 3
+  lang:
+  - en
+Vyvyan:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - la
+Václav:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Válter:
+  gender_flag: 2
+  is_equivalent_to:
+  - Walter
+  lang:
+  - pt
+Vár:
+  gender_flag: 1
+  lang:
+  - fo
+Várdis:
+  gender_flag: 1
+  lang:
+  - fo
+Váreyð:
+  gender_flag: 1
+  lang:
+  - fo
+Váňa:
+  gender_flag: 2
+  is_short_for:
+  - Ivan
+  - Václav
+  lang:
+  - cs
+Váša:
+  gender_flag: 2
+  is_short_for:
+  - Václav
+  lang:
+  - cs
+Vân:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Vânia:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - ru
+Väino:
+  gender_flag: 2
+  lang:
+  - et
+  origin:
+  - fi
+Väinämö:
+  gender_flag: 2
+  lang:
+  - fi
+Väinö:
+  gender_flag: 2
+  lang:
+  - fi
+Væna:
+  gender_flag: 1
+  lang:
+  - fo
+Vébjörn:
+  gender_flag: 2
+  lang:
+  - is
+Védís:
+  gender_flag: 1
+  lang:
+  - is
+Végarðr:
+  gender_flag: 2
+  lang:
+  - non
+Vélaugur:
+  gender_flag: 2
+  lang:
+  - is
+Véna:
+  gender_flag: 2
+  is_short_for:
+  - Václav
+  lang:
+  - cs
+Véro:
+  gender_flag: 1
+  lang:
+  - fr
+Véronique:
+  gender_flag: 1
+  is_equivalent_to:
+  - Veronica
+  lang:
+  - fr
+Vêrte:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Víctor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Victor
+  lang:
+  - ca
+  - es
+  - pt
+  origin:
+  - la
+Vígbaldur:
+  gender_flag: 2
+  lang:
+  - fo
+Vígbrandur:
+  gender_flag: 2
+  lang:
+  - fo
+Vígdis:
+  gender_flag: 1
+  lang:
+  - fo
+Víggrímur:
+  gender_flag: 2
+  lang:
+  - fo
+Vígúlvur:
+  gender_flag: 2
+  lang:
+  - fo
+Vígþór:
+  gender_flag: 2
+  lang:
+  - is
+Víkingur:
+  gender_flag: 2
+  lang:
+  - is
+Vímara:
+  gender_flag: 2
+  lang:
+  - pt
+Vísa:
+  gender_flag: 1
+  lang:
+  - is
+Vít:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Vítek:
+  gender_flag: 2
+  is_short_for:
+  - Vít
+  lang:
+  - cs
+Vítor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Victor
+  lang:
+  - pt
+Vítězslav:
+  gender_flag: 2
+  lang:
+  - cs
+Vívil:
+  gender_flag: 2
+  lang:
+  - fo
+Víðarr:
+  gender_flag: 2
+  lang:
+  - non
+Víðir:
+  gender_flag: 2
+  lang:
+  - is
+Víťa:
+  gender_flag: 2
+  is_short_for:
+  - Vít
+  - Vítězslav
+  lang:
+  - cs
+Víťazoslav:
+  gender_flag: 2
+  lang:
+  - sk
+Víťazoslava:
+  gender_flag: 1
+  lang:
+  - sk
+Vón:
+  gender_flag: 1
+  lang:
+  - fo
+Vónbjartur:
+  gender_flag: 2
+  lang:
+  - fo
+Vónbjørt:
+  gender_flag: 1
+  lang:
+  - fo
+Võitur:
+  gender_flag: 2
+  lang:
+  - et
+Vöglä:
+  gender_flag: 1
+  is_equivalent_to:
+  - Thecla
+  lang:
+  - izh
+Vökö:
+  gender_flag: 1
+  is_short_for:
+  - Vöglä
+  lang:
+  - izh
+Vörður:
+  gender_flag: 2
+  lang:
+  - is
+Vøggur:
+  gender_flag: 2
+  lang:
+  - fo
+Vølundur:
+  gender_flag: 2
+  lang:
+  - fo
+Văn:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Vēsma:
+  gender_flag: 1
+  lang:
+  - lv
+Věnceslav:
+  gender_flag: 2
+  lang:
+  - cs
+Věnceslava:
+  gender_flag: 1
+  lang:
+  - cs
+Věra:
+  gender_flag: 1
+  is_equivalent_to:
+  - Vera
+  lang:
+  - cs
+Věrka:
+  gender_flag: 1
+  is_short_for:
+  - Věra
+  lang:
+  - cs
+Věroslav:
+  gender_flag: 2
+  lang:
+  - cs
+Věrunka:
+  gender_flag: 1
+  is_short_for:
+  - Věra
+  lang:
+  - cs
+Věruška:
+  gender_flag: 1
+  is_short_for:
+  - Věra
+  lang:
+  - cs
+Vĩ:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Vũ:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Vương:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Vượng:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Vəfa:
+  gender_flag: 1
+  lang:
+  - az
+Vəli:
+  gender_flag: 2
+  lang:
+  - az
+Waata:
+  gender_flag: 2
+  is_equivalent_to:
+  - Walter
+  lang:
+  - mi
+Wace:
+  gender_flag: 2
+  lang:
+  - fro
+Wacek:
+  gender_flag: 2
+  is_short_for:
+  - Wacław
+  lang:
+  - pl
+Wackson:
+  gender_flag: 2
+  lang:
+  - en
+Wacław:
+  gender_flag: 2
+  lang:
+  - pl
+Wacława:
+  gender_flag: 1
+  lang:
+  - pl
+Wade:
+  gender_flag: 2
+  lang:
+  - en
+Wadsworth:
+  gender_flag: 2
+  lang:
+  - en
+Wagiman:
+  gender_flag: 2
+  lang:
+  - en
+  - id
+  origin:
+  - jv
+Wagimin:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Wagner:
+  gender_flag: 2
+  lang:
+  - pt
+Waheed:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Wahono:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Wailani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Waina:
+  gender_flag: 1
+  lang:
+  - 'no'
+Wainard:
+  gender_flag: 2
+  lang:
+  - fr
+Wainy:
+  gender_flag: 1
+  lang:
+  - 'no'
+Waiola:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Waka:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Wakako:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Wakana:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Wal:
+  gender_flag: 2
+  is_short_for:
+  - Wallace
+  - Wally
+  - Walter
+  lang:
+  - en
+Walburg:
+  gender_flag: 1
+  is_a_variant_of:
+  - Walpurga
+  lang:
+  - de
+Walburga:
+  gender_flag: 1
+  is_a_variant_of:
+  - Walpurga
+  lang:
+  - de
+Waldek:
+  gender_flag: 2
+  is_short_for:
+  - Waldemar
+  lang:
+  - pl
+Waldemar:
+  gender_flag: 2
+  is_a_variant_of:
+  - Valdemar
+  lang:
+  - de
+  - en
+  - pl
+  - pt
+  - sv
+  origin:
+  - gem
+Walden:
+  gender_flag: 2
+  lang:
+  - en
+Waldere:
+  gender_flag: 2
+  is_equivalent_to:
+  - Walter
+  lang:
+  - ang
+Waldhere:
+  gender_flag: 2
+  is_equivalent_to:
+  - Walter
+  lang:
+  - ang
+Waldo:
+  gender_flag: 2
+  lang:
+  - en
+  - tl
+  origin:
+  - ang
+  - en
+Waldtraud:
+  gender_flag: 1
+  lang:
+  - de
+Waldtraut:
+  gender_flag: 1
+  lang:
+  - de
+Walenty:
+  gender_flag: 2
+  is_equivalent_to:
+  - Valentine
+  lang:
+  - pl
+Walentyna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Valentina
+  lang:
+  - pl
+Waleria:
+  gender_flag: 1
+  is_equivalent_to:
+  - Valerie
+  lang:
+  - pl
+Waleriusz:
+  gender_flag: 2
+  lang:
+  - pl
+Walery:
+  gender_flag: 2
+  lang:
+  - pl
+Walgerd:
+  gender_flag: 1
+  lang:
+  - 'no'
+Walig:
+  gender_flag: 2
+  is_short_for:
+  - Riwal
+  lang:
+  - br
+Walkelin:
+  gender_flag: 2
+  lang:
+  - fro
+Walker:
+  gender_flag: 2
+  lang:
+  - en
+Wallabee:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Wallace:
+  gender_flag: 2
+  lang:
+  - en
+Wallia:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  - fr
+  origin:
+  - got
+Wallis:
+  gender_flag: 1
+  lang:
+  - en
+Wally:
+  gender_flag: 2
+  lang:
+  - en
+Waloi:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - br
+Walon:
+  gender_flag: 2
+  lang:
+  - en
+Walpurga:
+  gender_flag: 1
+  lang:
+  - de
+Walpurgis:
+  gender_flag: 1
+  is_a_variant_of:
+  - Walpurga
+  lang:
+  - de
+Walt:
+  gender_flag: 2
+  is_short_for:
+  - Walter
+  lang:
+  - en
+Walter: {}
+Walther:
+  gender_flag: 2
+  is_a_variant_of:
+  - Walter
+  lang:
+  - de
+Waltheri:
+  gender_flag: 2
+  lang:
+  - goh
+Waltraud:
+  gender_flag: 1
+  lang:
+  - de
+Waltraut:
+  gender_flag: 1
+  lang:
+  - de
+Waltteri:
+  gender_flag: 2
+  lang:
+  - fi
+Waluyo:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Wanda:
+  gender_flag: 1
+  lang:
+  - en
+  - pl
+  origin:
+  - pl
+Wanderlei:
+  lang:
+  - pt
+Wandrille:
+  gender_flag: 2
+  lang:
+  - nrf
+Wangpulen:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Wania:
+  gender_flag: 1
+  is_a_variant_of:
+  - Vânia
+  lang:
+  - pt
+Wanig:
+  gender_flag: 2
+  is_short_for:
+  - Erwan
+  lang:
+  - br
+Wanja:
+  gender_flag: 3
+  lang:
+  - de
+Waquita:
+  gender_flag: 1
+  lang:
+  - en
+Ward:
+  gender_flag: 2
+  lang:
+  - en
+Warfe:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - en
+Warlimpirrnga:
+  gender_flag: 2
+  lang:
+  - en
+Warner:
+  gender_flag: 2
+  lang:
+  - en
+Warren:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+  - gem
+Warsito:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Wash:
+  gender_flag: 2
+  is_short_for:
+  - Washington
+  lang:
+  - en
+Washington:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  origin:
+  - en
+Wasim:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Wat:
+  gender_flag: 2
+  lang:
+  - en
+Wathere:
+  gender_flag: 2
+  is_equivalent_to:
+  - Walter
+  lang:
+  - yol
+Watt:
+  gender_flag: 2
+  is_a_variant_of:
+  - Wat
+  is_short_for:
+  - Walter
+  lang:
+  - en
+Wava:
+  gender_flag: 1
+  lang:
+  - en
+Wawrzyn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Laurence
+  lang:
+  - pl
+Wawrzyniec:
+  gender_flag: 2
+  is_equivalent_to:
+  - Laurence
+  lang:
+  - pl
+Waylon:
+  gender_flag: 2
+  lang:
+  - en
+Waymond:
+  gender_flag: 2
+  lang:
+  - en
+Wayne:
+  gender_flag: 2
+  lang:
+  - en
+Wazza:
+  gender_flag: 2
+  is_short_for:
+  - Warren
+  lang:
+  - en
+Wealdhelm:
+  gender_flag: 2
+  lang:
+  - ang
+Wealdræd:
+  gender_flag: 2
+  lang:
+  - ang
+Wealhþeow:
+  gender_flag: 1
+  lang:
+  - ang
+Weelum:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - sco
+Wehha:
+  gender_flag: 2
+  lang:
+  - ang
+Wela:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - ceb
+Welang:
+  gender_flag: 1
+  lang:
+  - ceb
+Welant:
+  gender_flag: 2
+  lang:
+  - goh
+Welf:
+  gender_flag: 2
+  lang:
+  - gmh
+Wellington:
+  gender_flag: 2
+  lang:
+  - pt
+Wells:
+  gender_flag: 2
+  lang:
+  - en
+Wenceslao:
+  gender_flag: 2
+  lang:
+  - es
+Wenceslas:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sla
+Wenceslau:
+  gender_flag: 2
+  is_a_variant_of:
+  - Venceslau
+  lang:
+  - pt
+Wenceslaus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sla
+Wenchao:
+  gender_flag: 2
+  lang:
+  - de
+  origin:
+  - zh
+Wenche:
+  gender_flag: 1
+  lang:
+  - 'no'
+Wendelin:
+  gender_flag: 2
+  lang:
+  - de
+Wendell:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - gem
+Wendi:
+  gender_flag: 1
+  lang:
+  - en
+Wendy:
+  gender_flag: 1
+  lang:
+  - en
+Wenna:
+  gender_flag: 1
+  is_short_for:
+  - Rowena
+  lang:
+  - tl
+Wenona:
+  gender_flag: 1
+  is_a_variant_of:
+  - Winona
+  lang:
+  - en
+Wenonah:
+  gender_flag: 1
+  lang:
+  - en
+Wenzel:
+  gender_flag: 2
+  lang:
+  - de
+Weohstan:
+  gender_flag: 2
+  lang:
+  - ang
+Weriwolf:
+  gender_flag: 2
+  lang:
+  - goh
+Werner:
+  gender_flag: 2
+  lang:
+  - de
+  - 'no'
+  - sv
+Weronika:
+  gender_flag: 1
+  is_equivalent_to:
+  - Veronica
+  lang:
+  - pl
+Wes:
+  gender_flag: 2
+  is_short_for:
+  - Wesley
+  lang:
+  - en
+Wesley:
+  gender_flag: 2
+  lang:
+  - en
+Wesson:
+  gender_flag: 2
+  lang:
+  - en
+Westin:
+  gender_flag: 2
+  lang:
+  - en
+Whitney:
+  gender_flag: 1
+  lang:
+  - en
+Wibke:
+  gender_flag: 1
+  lang:
+  - de
+Widodo:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Widya:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Wieb:
+  gender_flag: 2
+  is_short_for:
+  - Wiebrand
+  lang:
+  - nl
+Wiebke:
+  gender_flag: 1
+  lang:
+  - de
+Wiebrand:
+  gender_flag: 2
+  lang:
+  - nl
+Wieland:
+  gender_flag: 2
+  lang:
+  - de
+Wiesia:
+  gender_flag: 1
+  is_short_for:
+  - Wiesława
+  lang:
+  - pl
+Wiesiek:
+  gender_flag: 2
+  is_short_for:
+  - Wiesław
+  lang:
+  - pl
+Wiesio:
+  gender_flag: 2
+  is_short_for:
+  - Wiesław
+  lang:
+  - pl
+Wiesław:
+  gender_flag: 2
+  lang:
+  - pl
+Wiesława:
+  gender_flag: 1
+  lang:
+  - pl
+Wigdis:
+  gender_flag: 1
+  lang:
+  - 'no'
+Wighelm:
+  gender_flag: 2
+  lang:
+  - ang
+Wigstan:
+  gender_flag: 2
+  lang:
+  - ang
+Wihstan:
+  gender_flag: 2
+  lang:
+  - ang
+Wihtgar:
+  gender_flag: 2
+  lang:
+  - ang
+Wihtlac:
+  gender_flag: 2
+  lang:
+  - ang
+Wihtmund:
+  gender_flag: 2
+  lang:
+  - ang
+Wijaya:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Wiki:
+  gender_flag: 1
+  lang:
+  - mi
+Wikitōria:
+  gender_flag: 1
+  is_equivalent_to:
+  - Victoria
+  lang:
+  - mi
+Wikolia:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Wiktor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Victor
+  lang:
+  - pl
+Wiktoria:
+  gender_flag: 1
+  is_equivalent_to:
+  - Victoria
+  lang:
+  - pl
+Wilama:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Wilang:
+  gender_flag: 1
+  lang:
+  - ceb
+Wilbert:
+  gender_flag: 2
+  lang:
+  - en
+  - nl
+Wilbur:
+  gender_flag: 2
+  lang:
+  - en
+Wilco:
+  gender_flag: 2
+  is_equivalent_to:
+  - Will
+  is_short_for:
+  - Willem
+  lang:
+  - nl
+Wildemar:
+  gender_flag: 2
+  lang:
+  - ceb
+Wile:
+  gender_flag: 2
+  lang:
+  - en
+Wileme:
+  gender_flag: 2
+  lang:
+  - wa
+Wilf:
+  gender_flag: 2
+  lang:
+  - en
+Wilfred:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Wilfredo:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - ang
+  - en
+  - es
+Wilfrid:
+  gender_flag: 2
+  is_equivalent_to:
+  - Wilfred
+  lang:
+  - en
+  - fr
+  origin:
+  - ang
+Wilfried:
+  gender_flag: 2
+  is_equivalent_to:
+  - Wilfred
+  lang:
+  - de
+  - fr
+Wilfriþ:
+  gender_flag: 2
+  lang:
+  - ang
+Wilhelm:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - af
+  - de
+  - pl
+  - sv
+Wilhelmiina:
+  gender_flag: 1
+  lang:
+  - fi
+Wilhelmina:
+  gender_flag: 1
+  lang:
+  - ceb
+  - de
+  - en
+  - nl
+  - pl
+  - sv
+Wilhelmine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Wilhelmina
+  lang:
+  - de
+Wiliama:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Wilielmus:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - la
+Wilkie:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Will:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Willa:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Willalme:
+  gender_flag: 2
+  is_a_variant_of:
+  - Willame
+  lang:
+  - fro
+Willame:
+  gender_flag: 2
+  lang:
+  - fro
+Willard:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Wille:
+  gender_flag: 2
+  is_short_for:
+  - Wilhelm
+  - William
+  lang:
+  - sv
+Willem:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - af
+  - nl
+  origin:
+  - gem-pro
+Willeme:
+  gender_flag: 2
+  is_a_variant_of:
+  - Willame
+  lang:
+  - fro
+Willemijn:
+  gender_flag: 1
+  lang:
+  - nl
+Willfred:
+  gender_flag: 2
+  is_a_variant_of:
+  - Wilfred
+  lang:
+  - 'no'
+Willi:
+  gender_flag: 2
+  is_a_variant_of:
+  - Willy
+  lang:
+  - de
+William:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - en
+  - enm
+  - es
+  - fr
+  - 'no'
+  - pt
+  - sv
+  - tl
+  origin:
+  - en
+  - gem
+Williamina:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Willian:
+  gender_flag: 2
+  lang:
+  - en
+Willie:
+  gender_flag: 3
+  is_short_for:
+  - Wilhelmina
+  - William
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Willis:
+  gender_flag: 2
+  lang:
+  - en
+Willoughby:
+  gender_flag: 2
+  lang:
+  - en
+Willow:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Wills:
+  gender_flag: 2
+  is_short_for:
+  - William
+  lang:
+  - en
+Willum:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - is
+  - sco
+Willy:
+  gender_flag: 2
+  is_short_for:
+  - Wilfried
+  - Wilhelm
+  lang:
+  - da
+  - de
+  - 'no'
+  - sv
+  - tl
+Willyaam:
+  gender_flag: 2
+  is_a_variant_of:
+  - Wyllhaume
+  lang:
+  - yol
+Wilma:
+  gender_flag: 1
+  is_short_for:
+  - Wilhelmina
+  lang:
+  - de
+  - en
+  - fi
+  - sv
+  - tl
+  origin:
+  - en
+  - gem
+Wilmer:
+  gender_flag: 2
+  lang:
+  - en
+  - nl
+Wilmær:
+  gender_flag: 2
+  lang:
+  - ang
+Wilnar:
+  gender_flag: 2
+  lang:
+  - ceb
+Wilræd:
+  gender_flag: 2
+  lang:
+  - ang
+Wilson:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - fr
+  - tl
+  origin:
+  - en
+Wilyame:
+  gender_flag: 2
+  is_a_variant_of:
+  - Wyllhaume
+  lang:
+  - yol
+Wim:
+  gender_flag: 2
+  lang:
+  - nl
+Win:
+  gender_flag: 3
+  is_short_for:
+  - Winifred
+  - Winston
+  lang:
+  - en
+Wincenty:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vincent
+  lang:
+  - pl
+Windie:
+  gender_flag: 1
+  lang:
+  - en
+Windsor:
+  gender_flag: 2
+  lang:
+  - en
+Winfred:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Winfried:
+  gender_flag: 2
+  is_equivalent_to:
+  - Winfred
+  lang:
+  - de
+Winicjusz:
+  gender_flag: 2
+  lang:
+  - pl
+Winifred:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cy
+Winnet:
+  gender_flag: 1
+  lang:
+  - en
+Winnie:
+  gender_flag: 7
+  is_short_for:
+  - Winifred
+  - Winston
+  lang:
+  - da
+  - en
+  - tl
+  origin:
+  - en
+Winnifred:
+  gender_flag: 1
+  is_a_variant_of:
+  - Winifred
+  lang:
+  - en
+  origin:
+  - cy
+Winoc:
+  gender_flag: 2
+  lang:
+  - br
+  - fr
+  origin:
+  - br
+Winona:
+  gender_flag: 1
+  lang:
+  - en
+Winslow:
+  gender_flag: 2
+  lang:
+  - en
+Winston:
+  gender_flag: 2
+  lang:
+  - en
+Winter:
+  gender_flag: 7
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Winwaloe:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - br
+Wiola:
+  gender_flag: 1
+  is_short_for:
+  - Wioleta
+  lang:
+  - pl
+Wioleta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Violet
+  lang:
+  - pl
+Wioletta:
+  gender_flag: 1
+  lang:
+  - pl
+Wirawan:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Wiremu:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - mi
+Wirginia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Virginia
+  lang:
+  - pl
+Wishma:
+  gender_flag: 1
+  lang:
+  - en
+Wissisclaus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Višeslav
+  lang:
+  - la
+Wistan:
+  gender_flag: 2
+  lang:
+  - ang
+Wistin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Augustine
+  lang:
+  - mt
+  origin:
+  - la
+  - scn
+Wit:
+  gender_flag: 2
+  lang:
+  - pl
+Witek:
+  gender_flag: 2
+  is_short_for:
+  - Wit
+  - Witold
+  - Witosław
+  lang:
+  - pl
+Witold:
+  gender_flag: 2
+  lang:
+  - de
+  - pl
+Witosław:
+  gender_flag: 2
+  lang:
+  - pl
+Wituś:
+  gender_flag: 2
+  is_short_for:
+  - Wit
+  - Witold
+  - Witosław
+  lang:
+  - pl
+Wiyame:
+  gender_flag: 2
+  lang:
+  - wa
+Wiyeme:
+  gender_flag: 2
+  lang:
+  - wa
+Wiyåme:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - wa
+Wladimir:
+  gender_flag: 2
+  lang:
+  - de
+  - nl
+Woda:
+  gender_flag: 1
+  lang:
+  - goh
+Wodal:
+  lang:
+  - goh
+Wodunc:
+  gender_flag: 2
+  lang:
+  - goh
+Woiiomyr:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vojimir
+  lang:
+  - la
+Wojciech:
+  gender_flag: 2
+  lang:
+  - pl
+Wojcik:
+  gender_flag: 2
+  is_short_for:
+  - Wojciech
+  lang:
+  - pl
+Wojsław:
+  gender_flag: 2
+  lang:
+  - pl
+Wojtas:
+  gender_flag: 2
+  is_short_for:
+  - Wojciech
+  lang:
+  - pl
+Wojtasz:
+  gender_flag: 2
+  is_short_for:
+  - Wojciech
+  lang:
+  - pl
+Wojtek:
+  gender_flag: 2
+  is_short_for:
+  - Wojciech
+  lang:
+  - pl
+Wojtuś:
+  gender_flag: 2
+  is_short_for:
+  - Wojciech
+  lang:
+  - pl
+Wojtyla:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - pl
+Woldemar:
+  gender_flag: 2
+  is_a_variant_of:
+  - Waldemar
+  lang:
+  - de
+Wolf:
+  gender_flag: 2
+  is_short_for:
+  - Wolfgang
+  lang:
+  - de
+  - en
+Wolfgang:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  - gmh
+  - goh
+  - pt
+  origin:
+  - de
+  - gem
+Wolfhard:
+  gender_flag: 2
+  lang:
+  - de
+Wolfi:
+  gender_flag: 2
+  is_short_for:
+  - Wolfgang
+  lang:
+  - de
+Wolfram:
+  gender_flag: 2
+  lang:
+  - de
+Woodrow:
+  gender_flag: 2
+  lang:
+  - en
+Woody:
+  gender_flag: 2
+  is_short_for:
+  - Woodrow
+  lang:
+  - en
+Wotan:
+  gender_flag: 2
+  lang:
+  - de
+  origin:
+  - gem
+Woto:
+  gender_flag: 2
+  lang:
+  - goh
+Wouder:
+  gender_flag: 2
+  is_equivalent_to:
+  - Walter
+  lang:
+  - nl
+Wout:
+  gender_flag: 2
+  lang:
+  - nl
+Wouter:
+  gender_flag: 2
+  lang:
+  - nl
+Wratysław:
+  gender_flag: 2
+  lang:
+  - pl
+Wren:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Wszerad:
+  gender_flag: 2
+  lang:
+  - pl
+Wuffa:
+  gender_flag: 2
+  lang:
+  - ang
+Wulan:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Wulandari:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Wulf:
+  gender_flag: 2
+  is_a_variant_of:
+  - Wolf
+  lang:
+  - de
+Wulfgar:
+  gender_flag: 2
+  lang:
+  - ang
+Wulfheard:
+  gender_flag: 2
+  lang:
+  - ang
+Wulfhere:
+  gender_flag: 2
+  lang:
+  - ang
+Wulflaf:
+  gender_flag: 2
+  lang:
+  - ang
+Wulfnoþ:
+  gender_flag: 2
+  lang:
+  - ang
+Wulfric:
+  gender_flag: 2
+  lang:
+  - ang
+Wulfræd:
+  gender_flag: 2
+  lang:
+  - ang
+Wulfsige:
+  gender_flag: 2
+  lang:
+  - ang
+Wulfstan:
+  gender_flag: 2
+  lang:
+  - ang
+Wulfweard:
+  gender_flag: 2
+  lang:
+  - ang
+Wulfwig:
+  gender_flag: 2
+  lang:
+  - ang
+Wulfwine:
+  gender_flag: 2
+  lang:
+  - ang
+Wulfwyn:
+  gender_flag: 1
+  lang:
+  - ang
+Wull:
+  gender_flag: 2
+  is_short_for:
+  - William
+  lang:
+  - sco
+Wullie:
+  gender_flag: 2
+  is_short_for:
+  - William
+  lang:
+  - sco
+Wuryanto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Wyatt:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Wyclef:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ht
+Wyllhaume:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - yol
+Wyn:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Wynflæd:
+  gender_flag: 1
+  lang:
+  - ang
+Wynhelm:
+  gender_flag: 2
+  lang:
+  - ang
+Wynhere:
+  gender_flag: 2
+  lang:
+  - ang
+Wynn:
+  gender_flag: 6
+  lang:
+  - en
+Wynne:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - cy
+Wynsige:
+  gender_flag: 2
+  lang:
+  - ang
+Wynter:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Wânia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Vânia
+  lang:
+  - pt
+Wäl'mpî:
+  gender_flag: 1
+  lang:
+  - gmw-jdt
+Wådrou:
+  gender_flag: 1
+  lang:
+  - wa
+Wærbeald:
+  gender_flag: 2
+  lang:
+  - ang
+Wærburg:
+  gender_flag: 1
+  lang:
+  - ang
+Wærfriþ:
+  gender_flag: 2
+  lang:
+  - ang
+Wærmund:
+  gender_flag: 2
+  lang:
+  - ang
+Wærnoþ:
+  gender_flag: 2
+  lang:
+  - ang
+Wāta:
+  gender_flag: 2
+  is_equivalent_to:
+  - Walter
+  lang:
+  - mi
+Wī:
+  gender_flag: 2
+  is_short_for:
+  - Wiremu
+  lang:
+  - mi
+Władysław:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ladislaus
+  lang:
+  - pl
+Włodek:
+  gender_flag: 2
+  is_short_for:
+  - Włodzimierz
+  lang:
+  - pl
+Włodzimierz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vladimir
+  lang:
+  - pl
+Włodzisław:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ladislaus
+  lang:
+  - pl
+Włodzisława:
+  gender_flag: 1
+  lang:
+  - pl
+uJabulani:
+  gender_flag: 2
+  lang:
+  - zu
+ubax:
+  gender_flag: 1
+  lang:
+  - pzh
+  - uun
+willem:
+  gender_flag: 2
+  lang:
+  - dum
+wngbw:
+  gender_flag: 2
+  lang:
+  - egy
+wnjs:
+  gender_flag: 2
+  lang:
+  - egy
+wnn-nfr:
+  gender_flag: 2
+  lang:
+  - egy
+wrṱ:
+  gender_flag: 1
+  lang:
+  - egx-dem
+wspjsyns:
+  gender_flag: 2
+  lang:
+  - egy
+  origin:
+  - la
+wsr-kꜣ.f:
+  lang:
+  - egy
+wsr-mnṯw:
+  gender_flag: 2
+  lang:
+  - egy
+wsr-mꜣꜥt-rꜥ:
+  gender_flag: 2
+  lang:
+  - egy
+wꜣsꜣrkn:
+  gender_flag: 2
+  lang:
+  - egy
+wꜣyšꜣtjsꜣpy:
+  gender_flag: 2
+  lang:
+  - egy
+  origin:
+  - peo
+Ùisdean:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hugh
+  lang:
+  - gd
+  origin:
+  - non
+Ùna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agnes
+  - Una
+  - Winifred
+  lang:
+  - gd
+Úa:
+  gender_flag: 1
+  lang:
+  - is
+Úlfa:
+  gender_flag: 1
+  lang:
+  - is
+Úlfdís:
+  gender_flag: 1
+  lang:
+  - is
+Úlfrún:
+  gender_flag: 1
+  lang:
+  - is
+Úlftýr:
+  gender_flag: 2
+  lang:
+  - is
+Úlla:
+  gender_flag: 1
+  lang:
+  - is
+Úlvar:
+  gender_flag: 2
+  lang:
+  - fo
+Úlvheðin:
+  gender_flag: 2
+  lang:
+  - fo
+Úlvhild:
+  gender_flag: 1
+  lang:
+  - fo
+Úlvur:
+  gender_flag: 2
+  lang:
+  - fo
+Úna:
+  gender_flag: 1
+  lang:
+  - ga
+Úrsula:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ursula
+  lang:
+  - es
+  - pt
+  origin:
+  - la
+Ûlarik:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ügü:
+  gender_flag: 2
+  lang:
+  - tr
+Üke:
+  gender_flag: 2
+  lang:
+  - tr
+Ülari:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ülo
+  lang:
+  - et
+Ülke:
+  gender_flag: 1
+  lang:
+  - tr
+Ülker:
+  gender_flag: 3
+  lang:
+  - tr
+Ülkü:
+  gender_flag: 1
+  lang:
+  - tr
+Ülkücü:
+  gender_flag: 2
+  lang:
+  - tr
+Üllar:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ülo
+  lang:
+  - et
+Ülle:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ülo
+  lang:
+  - et
+Ülli:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ülo
+  lang:
+  - et
+Üllo:
+  gender_flag: 2
+  lang:
+  - et
+  origin:
+  - liv
+Ülo:
+  gender_flag: 2
+  lang:
+  - et
+  origin:
+  - liv
+Ülve:
+  gender_flag: 1
+  lang:
+  - et
+Ümit:
+  gender_flag: 3
+  lang:
+  - tr
+  origin:
+  - fa
+Ün:
+  gender_flag: 2
+  lang:
+  - tr
+Ünal:
+  gender_flag: 3
+  lang:
+  - tr
+Ünay:
+  gender_flag: 3
+  lang:
+  - tr
+Ünlem:
+  gender_flag: 2
+  lang:
+  - tr
+Ünlü:
+  gender_flag: 3
+  lang:
+  - tr
+Ünlüol:
+  gender_flag: 2
+  lang:
+  - tr
+Ünlüsoy:
+  gender_flag: 2
+  lang:
+  - tr
+Ünsoy:
+  gender_flag: 2
+  lang:
+  - tr
+Ünver:
+  gender_flag: 3
+  lang:
+  - tr
+Ürjo:
+  gender_flag: 2
+  is_short_for:
+  - Georg
+  - Jürgen
+  lang:
+  - et
+Üstol:
+  gender_flag: 2
+  lang:
+  - tr
+Üstün:
+  gender_flag: 2
+  lang:
+  - tr
+Üzer:
+  gender_flag: 2
+  lang:
+  - tr
+Üzeyir:
+  gender_flag: 2
+  lang:
+  - az
+Üçel:
+  gender_flag: 3
+  lang:
+  - tr
+Üçok:
+  gender_flag: 2
+  lang:
+  - tr

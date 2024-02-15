@@ -1,0 +1,5898 @@
+D'Angelo:
+  gender_flag: 2
+  lang:
+  - en
+Daan:
+  gender_flag: 2
+  lang:
+  - nl
+Daavid:
+  gender_flag: 2
+  lang:
+  - fi
+Dabbi:
+  gender_flag: 2
+  lang:
+  - is
+Dace:
+  gender_flag: 1
+  lang:
+  - lv
+Daciana:
+  gender_flag: 1
+  lang:
+  - ro
+Dada:
+  gender_flag: 7
+  lang:
+  - yo
+Dade:
+  gender_flag: 2
+  lang:
+  - en
+Daemones:
+  gender_flag: 2
+  lang:
+  - la
+Daenerys:
+  gender_flag: 1
+  lang:
+  - en
+Daffa:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - ar
+Daffodil:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Daffy:
+  gender_flag: 1
+  is_short_for:
+  - Daffodil
+  - Daphne
+  lang:
+  - en
+Dafne:
+  gender_flag: 1
+  is_equivalent_to:
+  - Daphne
+  lang:
+  - it
+Dafydd:
+  gender_flag: 2
+  lang:
+  - cy
+  origin:
+  - he
+Dag:
+  gender_flag: 2
+  lang:
+  - nn
+  - 'no'
+  - pdc
+  - sv
+  origin:
+  - non
+Dagbjartur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Dagbjört:
+  gender_flag: 1
+  lang:
+  - is
+Dagbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Dagbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Dagbjørt:
+  gender_flag: 1
+  lang:
+  - fo
+Dagfinn:
+  gender_flag: 2
+  lang:
+  - 'no'
+Dagfinnur:
+  gender_flag: 2
+  lang:
+  - fo
+Dagfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Daggeir:
+  gender_flag: 2
+  lang:
+  - is
+Daggie:
+  gender_flag: 1
+  is_short_for:
+  - Dagmar
+  lang:
+  - gmw-ecg
+Dagila:
+  gender_flag: 2
+  lang:
+  - xvn
+Dagmar:
+  gender_flag: 1
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - et
+  - fo
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - 19th century
+  - da
+  - gem
+Dagmara:
+  gender_flag: 1
+  is_equivalent_to:
+  - Dagmar
+  lang:
+  - pl
+  - sk
+Dagmarka:
+  gender_flag: 1
+  is_short_for:
+  - Dagmar
+  lang:
+  - cs
+Dagmāra:
+  gender_flag: 1
+  lang:
+  - lv
+Dagnija:
+  gender_flag: 1
+  lang:
+  - lv
+Dagnis:
+  gender_flag: 2
+  lang:
+  - lv
+Dagny:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+  - sv
+  origin:
+  - non
+Dagný:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+  - non
+Dagrún:
+  gender_flag: 1
+  lang:
+  - fo
+Dagunn:
+  gender_flag: 1
+  lang:
+  - fo
+Dagur:
+  gender_flag: 2
+  lang:
+  - en
+  - fo
+  - is
+Dahlia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Dai:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Daiane:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - en
+Daibhidh:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - gd
+Daiga:
+  gender_flag: 1
+  lang:
+  - lv
+Daina:
+  gender_flag: 1
+  lang:
+  - lt
+  - lv
+Dainis:
+  gender_flag: 2
+  lang:
+  - lv
+Dainius:
+  gender_flag: 2
+  lang:
+  - lt
+Dainuvīte:
+  gender_flag: 1
+  lang:
+  - lv
+Daisuke:
+  gender_flag: 2
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Daisy:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - es
+  - tl
+  origin:
+  - en
+Daiva:
+  gender_flag: 1
+  lang:
+  - lt
+Dak:
+  gender_flag: 2
+  is_short_for:
+  - Dakota
+  lang:
+  - en
+Daka:
+  gender_flag: 7
+  lang:
+  - jaa
+Dakota:
+  gender_flag: 7
+  lang:
+  - en
+Dalary:
+  gender_flag: 1
+  lang:
+  - en
+Daldís:
+  gender_flag: 1
+  lang:
+  - is
+Dale:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+  - enm
+Dalena:
+  gender_flag: 1
+  lang:
+  - af
+Daleyza:
+  gender_flag: 1
+  lang:
+  - en
+Dalia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Dahlia
+  lang:
+  - es
+  - lt
+Dalibor:
+  gender_flag: 2
+  lang:
+  - cs
+  - sh
+  - sk
+Dalila:
+  gender_flag: 1
+  is_equivalent_to:
+  - Delilah
+  lang:
+  - es
+  - fr
+  - it
+  - pt
+  - ro
+Dalimil:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Dalimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Dalisay:
+  gender_flag: 1
+  lang:
+  - ceb
+  - tl
+  origin:
+  - ceb
+Dalius:
+  gender_flag: 2
+  lang:
+  - lt
+Daliutė:
+  gender_flag: 1
+  lang:
+  - lt
+Dall:
+  gender_flag: 2
+  lang:
+  - sga
+Dalla:
+  gender_flag: 1
+  lang:
+  - is
+Dallas:
+  gender_flag: 6
+  lang:
+  - en
+Dalma:
+  gender_flag: 1
+  lang:
+  - hu
+Dalmacio:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - es
+Dalmazio:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Dalrymple:
+  gender_flag: 2
+  lang:
+  - en
+Dalton:
+  gender_flag: 2
+  lang:
+  - en
+Dalyn:
+  gender_flag: 2
+  lang:
+  - en
+Daman:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Damar:
+  gender_flag: 2
+  lang:
+  - en
+  - id
+  - tr
+  origin:
+  - jv
+Damari:
+  gender_flag: 2
+  lang:
+  - en
+Damaris:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Damaso:
+  gender_flag: 2
+  lang:
+  - it
+Damek:
+  gender_flag: 2
+  is_short_for:
+  - Adam
+  lang:
+  - cs
+Damian:
+  gender_flag: 2
+  lang:
+  - en
+  - pl
+  origin:
+  - grc
+Damiano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Damian
+  - Damien
+  lang:
+  - it
+Damien:
+  gender_flag: 2
+  is_equivalent_to:
+  - Damian
+  lang:
+  - en
+  - fr
+  origin:
+  - grc
+Damin:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Damir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Damira:
+  gender_flag: 1
+  lang:
+  - xvn
+Damián:
+  gender_flag: 2
+  is_equivalent_to:
+  - Damian
+  lang:
+  - es
+Damião:
+  gender_flag: 2
+  is_equivalent_to:
+  - Damian
+  lang:
+  - pt
+Damjan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Damien
+  lang:
+  - is
+Damla:
+  gender_flag: 1
+  lang:
+  - tr
+Damodar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Damon:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Dan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Danny
+  lang:
+  - cs
+  - da
+  - en
+  - enm
+  - fo
+  - is
+  - nn
+  - 'no'
+  - sq
+  - sv
+  origin:
+  - he
+  - non
+Dana:
+  gender_flag: 5
+  lang:
+  - cs
+  - en
+  - lv
+  - sk
+Danae:
+  gender_flag: 1
+  lang:
+  - en
+Danah:
+  gender_flag: 1
+  lang:
+  - en
+Danas:
+  gender_flag: 2
+  lang:
+  - lt
+Dandan:
+  gender_flag: 2
+  lang:
+  - ceb
+Dane:
+  gender_flag: 2
+  lang:
+  - en
+Daneček:
+  gender_flag: 2
+  is_short_for:
+  - Dan
+  lang:
+  - cs
+Danglars:
+  gender_flag: 2
+  lang:
+  - fr
+Danguolė:
+  gender_flag: 1
+  lang:
+  - lt
+Dani:
+  gender_flag: 3
+  is_short_for:
+  - Daniel
+  - Daniela
+  - Dániel
+  lang:
+  - en
+  - es
+  - hu
+  - pt
+Dania:
+  gender_flag: 1
+  lang:
+  - fo
+Danial:
+  gender_flag: 2
+  lang:
+  - ms
+  origin:
+  - he
+Danibor:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Danica:
+  gender_flag: 1
+  lang:
+  - en
+  - sh
+  - sk
+  origin:
+  - sla
+Danie:
+  gender_flag: 2
+  lang:
+  - af
+Daniel:
+  gender_flag: 2
+  lang:
+  - ca
+  - cs
+  - da
+  - de
+  - en
+  - es
+  - fi
+  - fr
+  - nl
+  - 'no'
+  - pl
+  - pt
+  - sk
+  - sq
+  - sv
+Daniela:
+  gender_flag: 3
+  lang:
+  - cs
+  - de
+  - en
+  - es
+  - haw
+  - it
+  - lv
+  - pl
+  - pt
+  - sk
+  - sv
+Daniele:
+  gender_flag: 2
+  is_equivalent_to:
+  - Daniel
+  lang:
+  - it
+  origin:
+  - he
+Danielius:
+  gender_flag: 2
+  is_equivalent_to:
+  - Daniel
+  lang:
+  - lt
+Daniell:
+  gender_flag: 2
+  is_equivalent_to:
+  - Daniel
+  lang:
+  - sq
+  origin:
+  - he
+Daniella:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  - fo
+  - sv
+  origin:
+  - he
+Danielle:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  - fr
+  - pt
+Daniels:
+  gender_flag: 2
+  lang:
+  - lv
+Daniil:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ru
+Danika:
+  gender_flag: 1
+  is_a_variant_of:
+  - Danica
+  lang:
+  - en
+  origin:
+  - sla
+Danil:
+  gender_flag: 2
+  lang:
+  - ro
+Danilo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Daniele
+  is_equivalent_to:
+  - Daniel
+  lang:
+  - ceb
+  - es
+  - it
+  - pt
+  origin:
+  - es
+Danilyn:
+  gender_flag: 1
+  lang:
+  - ceb
+Danimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Danislav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Danièle:
+  gender_flag: 1
+  lang:
+  - fr
+Daniël:
+  gender_flag: 2
+  is_equivalent_to:
+  - Daniel
+  lang:
+  - af
+  - nl
+Danička:
+  gender_flag: 1
+  is_short_for:
+  - Dana
+  lang:
+  - cs
+Danjal:
+  gender_flag: 2
+  lang:
+  - fo
+Danjell:
+  gender_flag: 2
+  is_equivalent_to:
+  - Daniel
+  lang:
+  - sq
+  origin:
+  - he
+Danka:
+  gender_flag: 1
+  is_short_for:
+  - Danuta
+  lang:
+  - pl
+Dann:
+  gender_flag: 2
+  lang:
+  - fo
+Danna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Dannadinnis:
+  gender_flag: 2
+  lang:
+  - xaq
+Danne:
+  gender_flag: 2
+  is_short_for:
+  - Daniel
+  lang:
+  - sv
+Danni:
+  gender_flag: 3
+  is_a_variant_of:
+  - Danny
+  lang:
+  - da
+  - en
+Dannie:
+  gender_flag: 3
+  lang:
+  - en
+Dannié:
+  gender_flag: 2
+  is_equivalent_to:
+  - Daniel
+  lang:
+  - nrf
+Danno:
+  gender_flag: 2
+  lang:
+  - en
+Danny:
+  gender_flag: 3
+  is_short_for:
+  - Daniel
+  - Daniela
+  - Daniella
+  - Danielle
+  lang:
+  - da
+  - en
+Dano:
+  gender_flag: 2
+  is_short_for:
+  - Daniel
+  lang:
+  - sk
+Dante:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+  - hu
+  - it
+  - pt
+  origin:
+  - it
+Danulka:
+  gender_flag: 1
+  is_short_for:
+  - Dana
+  lang:
+  - cs
+Danuta:
+  gender_flag: 1
+  lang:
+  - pl
+  - sk
+Danutė:
+  gender_flag: 1
+  lang:
+  - lt
+Danuš:
+  gender_flag: 1
+  is_short_for:
+  - Dana
+  - Daniela
+  lang:
+  - cs
+Danuše:
+  gender_flag: 1
+  lang:
+  - cs
+Danuška:
+  gender_flag: 1
+  is_short_for:
+  - Danuše
+  lang:
+  - cs
+Danver:
+  gender_flag: 2
+  lang:
+  - ceb
+Danvers:
+  gender_flag: 2
+  lang:
+  - en
+Danvør:
+  gender_flag: 1
+  lang:
+  - fo
+Dany:
+  gender_flag: 3
+  is_equivalent_to:
+  - Dani
+  - Danny
+  lang:
+  - fr
+Danylo:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - uk
+Danía:
+  gender_flag: 1
+  lang:
+  - is
+Daníel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Daniel
+  lang:
+  - is
+Daníelía:
+  gender_flag: 1
+  lang:
+  - is
+Daod:
+  gender_flag: 2
+  lang:
+  - mrw
+  origin:
+  - ar
+Daph:
+  gender_flag: 1
+  is_short_for:
+  - Daphne
+  lang:
+  - en
+Daphne:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - nl
+  origin:
+  - en
+  - grc
+Daphné:
+  gender_flag: 1
+  lang:
+  - fr
+Dara:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ga
+Daragh:
+  gender_flag: 2
+  is_a_variant_of:
+  - Dara
+  lang:
+  - ga
+Darah:
+  gender_flag: 1
+  lang:
+  - en
+Darby:
+  gender_flag: 7
+  lang:
+  - en
+Darci:
+  gender_flag: 7
+  is_equivalent_to:
+  - Darcy
+  lang:
+  - en
+  - pt
+Darcie:
+  gender_flag: 1
+  lang:
+  - en
+Darcy:
+  gender_flag: 7
+  lang:
+  - en
+  - pt
+Dardan:
+  gender_flag: 2
+  lang:
+  - sq
+Dardano:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - grc
+Dardhan:
+  gender_flag: 2
+  lang:
+  - sq
+Dardinne:
+  gender_flag: 2
+  is_short_for:
+  - Êdouard
+  lang:
+  - nrf
+Dardot:
+  gender_flag: 2
+  is_short_for:
+  - Êdouard
+  lang:
+  - nrf
+Darek:
+  gender_flag: 2
+  is_short_for:
+  - Dariusz
+  lang:
+  - pl
+Daren:
+  gender_flag: 2
+  lang:
+  - en
+Dari:
+  gender_flag: 2
+  is_equivalent_to:
+  - Darius
+  lang:
+  - ca
+  origin:
+  - la
+Daria:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - it
+  - pl
+  origin:
+  - fa
+  - peo
+Darian:
+  gender_flag: 7
+  lang:
+  - en
+Dariel:
+  gender_flag: 2
+  lang:
+  - en
+Darien:
+  gender_flag: 7
+  is_a_variant_of:
+  - Darian
+  lang:
+  - en
+Darin:
+  gender_flag: 2
+  is_a_variant_of:
+  - Darren
+  lang:
+  - en
+Darina:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Darinko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Dario:
+  gender_flag: 2
+  is_equivalent_to:
+  - Darius
+  lang:
+  - en
+  - it
+  - pt
+  origin:
+  - peo
+Daritza:
+  gender_flag: 1
+  lang:
+  - es
+Darius:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - lt
+  origin:
+  - en
+  - peo
+Dariusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Darius
+  lang:
+  - pl
+Darja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Daria
+  lang:
+  - cs
+  - izh
+  - sl
+Darko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Darla:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Darlene:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Darling:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - en
+Darlington:
+  gender_flag: 2
+  lang:
+  - en
+Darminto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Darnell:
+  gender_flag: 2
+  lang:
+  - en
+Daron:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hy
+Darragh:
+  gender_flag: 2
+  is_a_variant_of:
+  - Dara
+  lang:
+  - en
+Darrell:
+  gender_flag: 2
+  lang:
+  - en
+Darren:
+  gender_flag: 2
+  lang:
+  - en
+Darri:
+  gender_flag: 2
+  is_short_for:
+  - Êdouard
+  lang:
+  - nrf
+Darrin:
+  gender_flag: 2
+  is_a_variant_of:
+  - Darren
+  lang:
+  - en
+Darrique:
+  gender_flag: 2
+  is_short_for:
+  - Êdouard
+  lang:
+  - nrf
+Darryl:
+  gender_flag: 2
+  is_a_variant_of:
+  - Darrell
+  lang:
+  - en
+Darto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Darvesh:
+  gender_flag: 2
+  lang:
+  - en
+Darwin:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - tl
+Daryl:
+  gender_flag: 2
+  is_a_variant_of:
+  - Darrell
+  lang:
+  - en
+Daryush:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - fa
+Darío:
+  gender_flag: 2
+  is_equivalent_to:
+  - Darius
+  lang:
+  - es
+  origin:
+  - peo
+Dash:
+  gender_flag: 2
+  lang:
+  - en
+  - sq
+Dashiell:
+  gender_flag: 2
+  lang:
+  - en
+Dashnor:
+  gender_flag: 2
+  lang:
+  - sq
+Daud:
+  gender_flag: 2
+  lang:
+  - ms
+  origin:
+  - he
+Dauda:
+  gender_flag: 2
+  lang:
+  - ha
+Daudi:
+  gender_flag: 2
+  lang:
+  - sw
+Daut:
+  gender_flag: 2
+  lang:
+  - ms
+  origin:
+  - he
+Dauvit:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - sco
+Dav:
+  gender_flag: 2
+  is_short_for:
+  - David
+  lang:
+  - gmw-ecg
+Dave:
+  gender_flag: 3
+  is_short_for:
+  - David
+  lang:
+  - ceb
+  - en
+Daveon:
+  gender_flag: 2
+  is_a_variant_of:
+  - Davion
+  lang:
+  - en
+Davey:
+  gender_flag: 2
+  is_short_for:
+  - David
+  lang:
+  - en
+Davi:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - pt
+Davian:
+  gender_flag: 2
+  lang:
+  - en
+David:
+  gender_flag: 7
+  is_a_variant_of:
+  - Davide
+  lang:
+  - ca
+  - ceb
+  - cs
+  - da
+  - de
+  - en
+  - es
+  - fr
+  - it
+  - nl
+  - 'no'
+  - pam
+  - pt
+  - ro
+  - sv
+  - tl
+  origin:
+  - en
+  - es
+  - grc
+  - he
+Davide:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - he
+Davido:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - eo
+  origin:
+  - he
+Davie:
+  gender_flag: 2
+  is_short_for:
+  - David
+  lang:
+  - en
+Davin:
+  gender_flag: 2
+  lang:
+  - en
+Davina:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Davinder:
+  gender_flag: 2
+  lang:
+  - ceb
+Davion:
+  gender_flag: 2
+  lang:
+  - en
+Davis:
+  gender_flag: 2
+  lang:
+  - en
+Davo:
+  gender_flag: 2
+  is_short_for:
+  - David
+  lang:
+  - en
+Davud:
+  gender_flag: 2
+  lang:
+  - az
+Davut:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Davy:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  is_short_for:
+  - David
+  lang:
+  - en
+  - fr
+  - gv
+Davídek:
+  gender_flag: 2
+  is_short_for:
+  - David
+  lang:
+  - cs
+Davíð:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - is
+  origin:
+  - he
+Dawa:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - bo
+Dawan:
+  gender_flag: 2
+  lang:
+  - en
+Dawid:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - kmr
+  - pl
+  origin:
+  - ar
+Dawie:
+  gender_flag: 2
+  lang:
+  - af
+Dawinka:
+  gender_flag: 1
+  lang:
+  - en
+Dawn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Dawna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Dawood:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Daxton:
+  gender_flag: 2
+  lang:
+  - en
+Dayana:
+  gender_flag: 1
+  lang:
+  - es
+Daylan:
+  gender_flag: 2
+  lang:
+  - en
+Dayle:
+  gender_flag: 1
+  lang:
+  - en
+Daylee:
+  lang:
+  - en
+Daylinda:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - ceb
+Dayna:
+  gender_flag: 3
+  lang:
+  - en
+Dayne:
+  gender_flag: 2
+  lang:
+  - en
+Dayse:
+  gender_flag: 1
+  lang:
+  - en
+Dayı:
+  gender_flag: 2
+  lang:
+  - tr
+Dazza:
+  gender_flag: 2
+  lang:
+  - en
+Daðey:
+  gender_flag: 1
+  lang:
+  - is
+Daði:
+  gender_flag: 2
+  lang:
+  - is
+Dağ:
+  gender_flag: 2
+  lang:
+  - tr
+Dağhan:
+  gender_flag: 2
+  lang:
+  - tr
+Daňo:
+  gender_flag: 2
+  is_short_for:
+  - Daniel
+  lang:
+  - sk
+De'Marion:
+  gender_flag: 2
+  lang:
+  - en
+DeAndre:
+  gender_flag: 2
+  lang:
+  - en
+DeAngelo:
+  gender_flag: 2
+  lang:
+  - en
+DeForest:
+  gender_flag: 2
+  is_equivalent_to:
+  - Forest
+  lang:
+  - en
+DeShawn:
+  gender_flag: 2
+  lang:
+  - en
+DeVaughn:
+  gender_flag: 2
+  lang:
+  - en
+DeWitt:
+  gender_flag: 2
+  lang:
+  - en
+Dea:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - la
+Deacon:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - en
+Dean:
+  gender_flag: 2
+  lang:
+  - en
+Deane:
+  gender_flag: 2
+  lang:
+  - en
+Deanna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Deano:
+  gender_flag: 2
+  is_short_for:
+  - Dean
+  lang:
+  - en
+Dearmoth:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dermot
+  lang:
+  - yol
+Deb:
+  gender_flag: 1
+  lang:
+  - en
+Debadutta:
+  gender_flag: 2
+  lang:
+  - en
+Debbie:
+  gender_flag: 1
+  is_short_for:
+  - Deborah
+  lang:
+  - en
+Debby:
+  gender_flag: 1
+  is_short_for:
+  - Deborah
+  lang:
+  - en
+Debora:
+  gender_flag: 1
+  lang:
+  - en
+  - fo
+  - it
+  - la
+  origin:
+  - grc
+  - he
+Deborah:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - he
+Debra:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Debs:
+  gender_flag: 1
+  lang:
+  - en
+Deby:
+  gender_flag: 1
+  lang:
+  - en
+Dec:
+  gender_flag: 2
+  is_short_for:
+  - Declan
+  lang:
+  - en
+Decebalus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - xdc
+December:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Decio:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Decker:
+  gender_flag: 2
+  lang:
+  - en
+Declan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sga
+Ded:
+  gender_flag: 2
+  lang:
+  - sq
+Deda:
+  gender_flag: 2
+  lang:
+  - sq
+Dede:
+  gender_flag: 2
+  lang:
+  - tr
+Dedë:
+  gender_flag: 2
+  lang:
+  - sq
+Dee:
+  gender_flag: 1
+  lang:
+  - en
+  - gv
+Deedra:
+  gender_flag: 1
+  lang:
+  - en
+Deena:
+  gender_flag: 1
+  lang:
+  - en
+Deenees:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dennis
+  lang:
+  - yol
+Deepa:
+  gender_flag: 1
+  lang:
+  - en
+Deepak:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Deepika:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Defne:
+  gender_flag: 1
+  lang:
+  - tr
+Deia:
+  gender_flag: 1
+  is_short_for:
+  - Andreia
+  lang:
+  - pt
+Deianira:
+  gender_flag: 1
+  lang:
+  - it
+Deinokratès:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - grc
+Deion:
+  gender_flag: 2
+  lang:
+  - en
+Deirdre:
+  gender_flag: 1
+  lang:
+  - en
+  - ga
+  - gd
+  origin:
+  - ga
+  - sga
+Deiver:
+  gender_flag: 2
+  lang:
+  - pt
+Deiviane:
+  gender_flag: 1
+  lang:
+  - pt
+Deivid:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - en
+Deividas:
+  gender_flag: 2
+  lang:
+  - lt
+Deke:
+  gender_flag: 2
+  lang:
+  - en
+Del:
+  gender_flag: 2
+  is_short_for:
+  - Derek
+  lang:
+  - en
+  - rom
+Delal:
+  gender_flag: 1
+  lang:
+  - kmr
+Delaney:
+  gender_flag: 7
+  lang:
+  - en
+Delax:
+  gender_flag: 2
+  lang:
+  - ceb
+Delfin:
+  gender_flag: 2
+  lang:
+  - tl
+  origin:
+  - es
+Delfina:
+  gender_flag: 1
+  lang:
+  - en
+Delfine:
+  gender_flag: 1
+  lang:
+  - wa
+Delfino:
+  gender_flag: 2
+  lang:
+  - it
+Delfo:
+  gender_flag: 2
+  lang:
+  - it
+Delia:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  origin:
+  - grc
+Deliah:
+  gender_flag: 1
+  lang:
+  - en
+Delilah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Delimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Delina:
+  gender_flag: 1
+  lang:
+  - en
+  - wa
+Deling:
+  gender_flag: 1
+  lang:
+  - ceb
+Delio:
+  gender_flag: 2
+  lang:
+  - ceb
+Della:
+  gender_flag: 1
+  lang:
+  - en
+Delle:
+  gender_flag: 1
+  lang:
+  - en
+Delma:
+  gender_flag: 1
+  lang:
+  - en
+Delmar:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+Delmin:
+  gender_flag: 2
+  lang:
+  - sq
+Delney:
+  lang:
+  - en
+Delonte:
+  gender_flag: 2
+  lang:
+  - en
+Delores:
+  gender_flag: 1
+  is_a_variant_of:
+  - Dolores
+  lang:
+  - en
+  origin:
+  - es
+Delphi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Delphin:
+  gender_flag: 2
+  lang:
+  - nrf
+Delphine:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+  - grc
+  - la
+Delphium:
+  gender_flag: 1
+  lang:
+  - la
+Delroy:
+  gender_flag: 2
+  lang:
+  - en
+Delwyn:
+  gender_flag: 2
+  lang:
+  - cy
+Demaenetus:
+  gender_flag: 2
+  lang:
+  - la
+Demarcus:
+  gender_flag: 2
+  lang:
+  - en
+Demeter:
+  gender_flag: 2
+  lang:
+  - hu
+  - sk
+Demetra:
+  gender_flag: 1
+  lang:
+  - it
+  - pt
+  origin:
+  - grc
+Demetria:
+  gender_flag: 1
+  lang:
+  - en
+Demetrio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Demetrius
+  lang:
+  - es
+  - it
+Demetrius:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - grc
+Demi:
+  gender_flag: 1
+  lang:
+  - en
+Demipho:
+  gender_flag: 2
+  lang:
+  - la
+Demiphones:
+  gender_flag: 2
+  lang:
+  - la
+Demir:
+  gender_flag: 2
+  lang:
+  - sq
+  - tr
+  origin:
+  - trk-pro
+Demiray:
+  gender_flag: 2
+  lang:
+  - tr
+Demircan:
+  gender_flag: 2
+  lang:
+  - tr
+Demirel:
+  gender_flag: 2
+  lang:
+  - tr
+Demirer:
+  gender_flag: 2
+  lang:
+  - tr
+Demirhan:
+  gender_flag: 2
+  lang:
+  - tr
+Demirkan:
+  gender_flag: 2
+  lang:
+  - tr
+Demirkol:
+  gender_flag: 2
+  lang:
+  - tr
+Demirtekin:
+  gender_flag: 2
+  lang:
+  - tr
+Demirtuğ:
+  gender_flag: 2
+  lang:
+  - tr
+Demmus:
+  gender_flag: 2
+  lang:
+  - fo
+Demon:
+  gender_flag: 2
+  lang:
+  - en
+Demostene:
+  gender_flag: 2
+  lang:
+  - ro
+Demosthenes:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Demétrio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Demetrius
+  lang:
+  - pt
+Den:
+  gender_flag: 2
+  is_short_for:
+  - Dennis
+  lang:
+  - en
+Denden:
+  gender_flag: 2
+  lang:
+  - ceb
+Deneisha:
+  gender_flag: 1
+  lang:
+  - en
+Denewulf:
+  gender_flag: 2
+  lang:
+  - ang
+Denis:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dennis
+  lang:
+  - de
+  - en
+  - fr
+  - sh
+  - sk
+  origin:
+  - fr
+  - grc
+Denisa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Denise
+  lang:
+  - cs
+  - sk
+Denise:
+  gender_flag: 1
+  lang:
+  - ceb
+  - de
+  - en
+  - fr
+  - nl
+Deniska:
+  gender_flag: 1
+  is_equivalent_to:
+  - Denni
+  is_short_for:
+  - Denisa
+  lang:
+  - cs
+Denison:
+  gender_flag: 2
+  lang:
+  - en
+Deniss: {}
+Deniz:
+  gender_flag: 7
+  lang:
+  - tr
+  origin:
+  - trk-pro
+Denk:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - trk-pro
+Denker:
+  gender_flag: 2
+  lang:
+  - tr
+Denni:
+  gender_flag: 1
+  is_short_for:
+  - Denise
+  lang:
+  - en
+Dennis:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fo
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - en
+  - grc
+Denny:
+  gender_flag: 2
+  lang:
+  - en
+Denný:
+  gender_flag: 1
+  lang:
+  - is
+Denton:
+  gender_flag: 2
+  lang:
+  - en
+Denver:
+  gender_flag: 3
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Denys:
+  gender_flag: 2
+  is_equivalent_to:
+  - Denis
+  lang:
+  - en
+  - frm
+  origin:
+  - grc
+Denzel:
+  gender_flag: 2
+  lang:
+  - en
+Deodato:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+  - pt
+  origin:
+  - la
+Deoinga:
+  gender_flag: 1
+  lang:
+  - goh
+Deonant:
+  lang:
+  - goh
+Deontae:
+  gender_flag: 2
+  is_a_variant_of:
+  - Deonte
+  lang:
+  - en
+Deontay:
+  gender_flag: 2
+  is_a_variant_of:
+  - Deonte
+  lang:
+  - en
+Deonte:
+  gender_flag: 2
+  lang:
+  - en
+Deormod:
+  gender_flag: 2
+  lang:
+  - ang
+Deornoþ:
+  gender_flag: 2
+  lang:
+  - ang
+Deorwine:
+  gender_flag: 2
+  lang:
+  - ang
+Deorwulf:
+  gender_flag: 2
+  lang:
+  - ang
+Deothilt:
+  gender_flag: 1
+  lang:
+  - goh
+Deotolf:
+  lang:
+  - goh
+Deotrich:
+  gender_flag: 2
+  lang:
+  - goh
+Dequoron:
+  gender_flag: 2
+  lang:
+  - en
+Derartu:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - om
+Derdriu:
+  gender_flag: 1
+  lang:
+  - sga
+Dereck:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Derek:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - gem
+Deric:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Derick:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Derik:
+  gender_flag: 2
+  lang:
+  - wa
+Derin:
+  gender_flag: 3
+  lang:
+  - tr
+Derique:
+  gender_flag: 2
+  is_a_variant_of:
+  - Derek
+  lang:
+  - en
+Dermod:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dermot
+  lang:
+  - gv
+Dermode:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dermot
+  lang:
+  - gv
+Dermot:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Derque:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - gnc
+Derrick:
+  gender_flag: 2
+  is_a_variant_of:
+  - Derek
+  lang:
+  - en
+  origin:
+  - gem
+Derry:
+  gender_flag: 2
+  lang:
+  - en
+Derviş:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - fa
+Derya:
+  gender_flag: 1
+  lang:
+  - tr
+Deryck:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Derýageldi:
+  gender_flag: 2
+  lang:
+  - tk
+Des:
+  gender_flag: 2
+  lang:
+  - en
+Desamparados:
+  gender_flag: 1
+  lang:
+  - es
+Desiderio:
+  gender_flag: 2
+  lang:
+  - it
+Desiderius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Desimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Desiree:
+  gender_flag: 1
+  lang:
+  - en
+  - nl
+  origin:
+  - fr
+Desiré:
+  gender_flag: 1
+  lang:
+  - sv
+Desirée:
+  gender_flag: 1
+  is_a_variant_of:
+  - Désirée
+  lang:
+  - de
+  - en
+  - sv
+  origin:
+  - fr
+Deslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Desmond:
+  gender_flag: 2
+  lang:
+  - en
+Despina:
+  gender_flag: 1
+  lang:
+  - it
+Destiny:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Detlef:
+  gender_flag: 2
+  lang:
+  - de
+Detlev:
+  gender_flag: 2
+  is_a_variant_of:
+  - Detlef
+  lang:
+  - de
+Dett:
+  gender_flag: 2
+  is_short_for:
+  - Detlef
+  lang:
+  - gmw-ecg
+Dev:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Devaki:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Devan:
+  gender_flag: 6
+  lang:
+  - en
+Devendra:
+  gender_flag: 2
+  lang:
+  - en
+Devi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Devid: {}
+Devin:
+  gender_flag: 7
+  lang:
+  - en
+Devlet:
+  gender_flag: 3
+  lang:
+  - tr
+Devon:
+  gender_flag: 7
+  lang:
+  - en
+Devontae:
+  gender_flag: 2
+  lang:
+  - en
+Devrim:
+  gender_flag: 3
+  lang:
+  - tr
+Dewey:
+  gender_flag: 2
+  lang:
+  - en
+Dewi:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - cy
+  origin:
+  - owl
+Dewitt:
+  gender_flag: 2
+  lang:
+  - en
+Dexter:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - pt
+  origin:
+  - en
+Deyon:
+  gender_flag: 2
+  lang:
+  - wa
+Dez:
+  gender_flag: 2
+  is_short_for:
+  - Desmond
+  lang:
+  - en
+Dezider:
+  gender_flag: 2
+  lang:
+  - sk
+Deziré:
+  gender_flag: 2
+  lang:
+  - wa
+Dezső:
+  gender_flag: 2
+  lang:
+  - hu
+Dezzy:
+  gender_flag: 2
+  is_short_for:
+  - Desmond
+  lang:
+  - en
+Deághadh:
+  lang:
+  - ga
+Deòrsa:
+  gender_flag: 2
+  is_a_variant_of:
+  - Seòras
+  is_equivalent_to:
+  - George
+  lang:
+  - gd
+  origin:
+  - grc
+Değer:
+  gender_flag: 3
+  lang:
+  - tr
+Dežo:
+  gender_flag: 2
+  is_short_for:
+  - Dezider
+  lang:
+  - sk
+Dgibril:
+  gender_flag: 2
+  lang:
+  - oc
+Dgibèrt:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gilbert
+  lang:
+  - nrf
+Dgilliaume:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - nrf
+Dhanat:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - th
+Dhanish:
+  gender_flag: 2
+  lang:
+  - en
+Dheeraj:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Dhelkor:
+  gender_flag: 2
+  lang:
+  - sq
+Dhimitër:
+  gender_flag: 2
+  lang:
+  - sq
+Di:
+  gender_flag: 1
+  is_short_for:
+  - Diana
+  lang:
+  - de
+  - en
+Diacrao:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - snk
+Diagana:
+  gender_flag: 2
+  lang:
+  - oc
+Diago:
+  gender_flag: 2
+  lang:
+  - pt
+Diamanta:
+  gender_flag: 1
+  lang:
+  - rom
+Diamantina:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - pt
+Diamond:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Dian:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Diana:
+  gender_flag: 1
+  lang:
+  - ceb
+  - cs
+  - da
+  - de
+  - en
+  - es
+  - et
+  - fo
+  - it
+  - lt
+  - pl
+  - pt
+  - sk
+  - sv
+  origin:
+  - en
+  - la
+Diane:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+Dianka:
+  gender_flag: 1
+  is_short_for:
+  - Diana
+  lang:
+  - cs
+Diann:
+  gender_flag: 1
+  is_a_variant_of:
+  - Diane
+  lang:
+  - en
+  origin:
+  - la
+Dianna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Dianne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Diane
+  lang:
+  - en
+  origin:
+  - la
+Diarmaid:
+  gender_flag: 2
+  lang:
+  - ga
+  origin:
+  - sga
+Diarmait:
+  gender_flag: 2
+  lang:
+  - sga
+Diba:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fa
+Dibyo:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Dice-K:
+  gender_flag: 2
+  is_short_for:
+  - Daisuke
+  lang:
+  - en
+Dick:
+  gender_flag: 2
+  is_short_for:
+  - Richard
+  lang:
+  - en
+  - sv
+Dickboy:
+  gender_flag: 2
+  is_short_for:
+  - Richard
+  lang:
+  - en
+Dickey:
+  gender_flag: 2
+  is_short_for:
+  - Richard
+  lang:
+  - en
+Dickie:
+  gender_flag: 2
+  is_short_for:
+  - Dick
+  lang:
+  - en
+Dickon:
+  gender_flag: 2
+  is_short_for:
+  - Richard
+  lang:
+  - en
+Dickson:
+  gender_flag: 2
+  lang:
+  - en
+Dicky:
+  gender_flag: 2
+  is_short_for:
+  - Richard
+  lang:
+  - en
+Dicle:
+  gender_flag: 1
+  lang:
+  - tr
+Dicy:
+  gender_flag: 1
+  lang:
+  - en
+Didacus:
+  gender_flag: 2
+  lang:
+  - la
+Didang:
+  gender_flag: 1
+  lang:
+  - ceb
+Didi:
+  gender_flag: 1
+  lang:
+  - en
+Didier:
+  gender_flag: 2
+  lang:
+  - fr
+Didimo:
+  gender_flag: 2
+  lang:
+  - it
+Didine:
+  gender_flag: 1
+  lang:
+  - wa
+Didoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Didrik:
+  gender_flag: 2
+  is_equivalent_to:
+  - Derek
+  lang:
+  - 'no'
+Didzis:
+  gender_flag: 2
+  lang:
+  - lv
+Diederik:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Diedre:
+  gender_flag: 1
+  is_a_variant_of:
+  - Deirdre
+  lang:
+  - en
+  origin:
+  - ga
+Diego:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+  - gl
+  - it
+  - pt
+  origin:
+  - es
+Diet:
+  gender_flag: 2
+  is_short_for:
+  - Dieter
+  lang:
+  - gmw-ecg
+Dieter:
+  gender_flag: 2
+  lang:
+  - de
+Dietlinde:
+  gender_flag: 1
+  lang:
+  - de
+  origin:
+  - goh
+Dietmar:
+  gender_flag: 2
+  lang:
+  - de
+Dietrich:
+  gender_flag: 2
+  is_equivalent_to:
+  - Derek
+  lang:
+  - de
+  origin:
+  - gem-pro
+Diganta:
+  gender_flag: 2
+  lang:
+  - en
+Digby:
+  gender_flag: 2
+  lang:
+  - en
+Digna:
+  gender_flag: 1
+  lang:
+  - es
+Dijana:
+  gender_flag: 1
+  lang:
+  - sl
+Dil:
+  gender_flag: 2
+  lang:
+  - tr
+Dilan:
+  gender_flag: 3
+  lang:
+  - en
+  - tr
+Dilarə:
+  gender_flag: 1
+  lang:
+  - az
+Dilek:
+  gender_flag: 1
+  lang:
+  - tr
+Diletta:
+  gender_flag: 1
+  lang:
+  - it
+Diljá:
+  gender_flag: 1
+  lang:
+  - is
+Dillan:
+  gender_flag: 2
+  lang:
+  - en
+Dillon:
+  gender_flag: 2
+  lang:
+  - en
+Dilmaç:
+  gender_flag: 2
+  lang:
+  - tr
+Dilmen:
+  gender_flag: 3
+  lang:
+  - tr
+Dilpreet:
+  gender_flag: 1
+  lang:
+  - en
+Dilsa:
+  gender_flag: 1
+  lang:
+  - en
+Dim:
+  gender_flag: 2
+  lang:
+  - en
+Dima: {}
+Dimas:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Dimitar:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Dimitra:
+  gender_flag: 1
+  lang:
+  - scn
+  origin:
+  - la
+Dimitri:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dmitry
+  lang:
+  - fr
+  - it
+  - pt
+  origin:
+  - ru
+Dimitrija: {}
+Dimitris: {}
+Dimitry:
+  gender_flag: 2
+  lang:
+  - pt
+Dimity:
+  gender_flag: 1
+  lang:
+  - en
+Dimpho:
+  gender_flag: 1
+  lang:
+  - st
+Dina:
+  gender_flag: 1
+  is_short_for:
+  - Alfreda
+  - Claudia
+  lang:
+  - ceb
+  - en
+  - fo
+  - it
+  - lv
+  - 'no'
+  origin:
+  - en
+  - he
+  - it
+Dinah:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - he
+Dindin:
+  gender_flag: 3
+  lang:
+  - ceb
+Dindo:
+  gender_flag: 2
+  lang:
+  - ceb
+Dines:
+  gender_flag: 2
+  lang:
+  - da
+Dingdong:
+  gender_flag: 2
+  lang:
+  - ceb
+Dinia:
+  gender_flag: 2
+  lang:
+  - la
+Diniarchus:
+  gender_flag: 2
+  lang:
+  - la
+Dinis:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dennis
+  lang:
+  - pt
+Dinixh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dennis
+  lang:
+  - wa
+Dinna:
+  gender_flag: 1
+  lang:
+  - fo
+Dino:
+  gender_flag: 2
+  is_short_for:
+  - Alfredino
+  - Alfredo
+  - Bernardino
+  - Bernardo
+  lang:
+  - en
+  - it
+  origin:
+  - it
+Dinocrate:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - grc
+Dinç:
+  gender_flag: 2
+  lang:
+  - tr
+Dinçay:
+  gender_flag: 3
+  lang:
+  - tr
+Dinçer:
+  gender_flag: 2
+  lang:
+  - tr
+Dinísias:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dennis
+  - Dionysius
+  lang:
+  - ga
+  origin:
+  - grc
+Diocleciano:
+  gender_flag: 2
+  lang:
+  - pt
+Diogenes:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Diogeno:
+  gender_flag: 2
+  lang:
+  - eo
+  origin:
+  - grc
+Diogo:
+  gender_flag: 2
+  lang:
+  - pt
+Diomede:
+  gender_flag: 2
+  lang:
+  - en
+  - it
+Diomira:
+  gender_flag: 1
+  lang:
+  - it
+Dion:
+  gender_flag: 7
+  lang:
+  - ceb
+  - en
+  - fo
+  - la
+  origin:
+  - grc
+Dione:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Dionigi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dennis
+  lang:
+  - it
+Dionisia:
+  gender_flag: 1
+  lang:
+  - es
+  - it
+Dionisio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dennis
+  - Dionysius
+  lang:
+  - ceb
+  - es
+  - it
+  - tl
+  origin:
+  - es
+Dionne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Dione
+  lang:
+  - en
+  origin:
+  - grc
+Dionte:
+  gender_flag: 2
+  is_a_variant_of:
+  - Deonte
+  lang:
+  - en
+Dionysia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Denise
+  lang:
+  - la
+Dionysius:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dennis
+  lang:
+  - en
+  - la
+  origin:
+  - grc
+Dionís:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dennis
+  lang:
+  - ca
+Dionísio:
+  gender_flag: 2
+  lang:
+  - pt
+Dionýz:
+  gender_flag: 2
+  lang:
+  - sk
+Diorbhail:
+  gender_flag: 1
+  lang:
+  - gd
+  origin:
+  - sga
+Diosdada:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - es
+Diosdado:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+  - tl
+  origin:
+  - es
+Diotfrit:
+  gender_flag: 1
+  lang:
+  - goh
+Diotmar:
+  lang:
+  - goh
+Diotrih:
+  gender_flag: 2
+  lang:
+  - goh
+Dipa:
+  gender_flag: 1
+  lang:
+  - en
+Dipanjan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Dipankar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Dipannita:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Dipu:
+  gender_flag: 2
+  lang:
+  - en
+Diran:
+  gender_flag: 2
+  lang:
+  - yo
+Dirce:
+  gender_flag: 1
+  lang:
+  - pt
+Diri:
+  gender_flag: 2
+  lang:
+  - tr
+Dirk:
+  gender_flag: 2
+  is_equivalent_to:
+  - Derek
+  is_short_for:
+  - Diederik
+  lang:
+  - de
+  - en
+  - nl
+  origin:
+  - de
+  - nds
+  - nl
+Dirkje:
+  gender_flag: 1
+  lang:
+  - nl
+Dirks:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Dirsisclaus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Držislav
+  lang:
+  - la
+Disa:
+  gender_flag: 1
+  lang:
+  - sv
+Disma:
+  gender_flag: 2
+  lang:
+  - it
+Disu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Idris
+  lang:
+  - yo
+  origin:
+  - ar
+Dit:
+  gender_flag: 2
+  lang:
+  - sq
+Dita:
+  gender_flag: 1
+  lang:
+  - cs
+  - lv
+  - sq
+Ditleivur:
+  gender_flag: 2
+  lang:
+  - fo
+Ditlev:
+  gender_flag: 2
+  lang:
+  - da
+Ditte:
+  gender_flag: 1
+  lang:
+  - da
+Ditunka:
+  gender_flag: 1
+  is_short_for:
+  - Dita
+  lang:
+  - cs
+Diudituslaus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Držislav
+  lang:
+  - la
+Diudolf:
+  gender_flag: 2
+  lang:
+  - goh
+Divaldo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Edvaldo
+  lang:
+  - pt
+Divina:
+  gender_flag: 1
+  lang:
+  - ceb
+Diviya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Divya:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - sa
+Dixie:
+  gender_flag: 1
+  lang:
+  - en
+Dixon:
+  gender_flag: 2
+  lang:
+  - en
+Diyar:
+  gender_flag: 2
+  lang:
+  - kmr
+Diðrik:
+  gender_flag: 2
+  lang:
+  - is
+Diāna:
+  gender_flag: 1
+  lang:
+  - lv
+Diệp:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Diệu:
+  gender_flag: 3
+  lang:
+  - vi
+  origin:
+  - zh
+Djan:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - wa
+Djan-Djo:
+  gender_flag: 2
+  lang:
+  - wa
+Djan-Djîle:
+  gender_flag: 2
+  lang:
+  - wa
+Djan-Leu:
+  gender_flag: 2
+  lang:
+  - wa
+Djan-Louwis:
+  gender_flag: 2
+  lang:
+  - wa
+Djan-Mareye:
+  gender_flag: 2
+  lang:
+  - wa
+Djan-Mår:
+  gender_flag: 2
+  lang:
+  - wa
+Djan-Pire:
+  gender_flag: 2
+  lang:
+  - wa
+Djan-På:
+  gender_flag: 2
+  lang:
+  - wa
+Djanete:
+  gender_flag: 1
+  lang:
+  - wa
+Djeferson:
+  gender_flag: 2
+  lang:
+  - fr
+Djelike:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angelica
+  lang:
+  - wa
+Djene:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jane
+  lang:
+  - wa
+Djeniye:
+  gender_flag: 1
+  lang:
+  - wa
+Djenvire:
+  gender_flag: 1
+  is_equivalent_to:
+  - Genevieve
+  lang:
+  - wa
+Djerlaxhe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gerlach
+  lang:
+  - wa
+Djermwin:
+  gender_flag: 2
+  lang:
+  - wa
+Djermwinne:
+  gender_flag: 1
+  lang:
+  - wa
+Djeråd:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gerard
+  lang:
+  - wa
+Djetrou:
+  gender_flag: 1
+  is_equivalent_to:
+  - Gertrude
+  lang:
+  - wa
+Djhan:
+  gender_flag: 2
+  lang:
+  - wa
+Djihan:
+  gender_flag: 2
+  lang:
+  - wa
+Djihene:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jane
+  lang:
+  - wa
+Djingou:
+  gender_flag: 2
+  lang:
+  - wa
+Djinne:
+  gender_flag: 2
+  lang:
+  - wa
+Djo:
+  gender_flag: 2
+  lang:
+  - wa
+Djon:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - en
+Djone:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - wa
+Djowassin:
+  gender_flag: 2
+  lang:
+  - wa
+Djowel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joel
+  lang:
+  - wa
+Djozé:
+  gender_flag: 2
+  lang:
+  - wa
+Djozêye:
+  gender_flag: 1
+  lang:
+  - wa
+Djule:
+  gender_flag: 2
+  lang:
+  - wa
+Djulene:
+  gender_flag: 1
+  lang:
+  - wa
+Djuliène:
+  gender_flag: 1
+  lang:
+  - wa
+Djulosse:
+  gender_flag: 2
+  lang:
+  - wa
+Djulén:
+  gender_flag: 2
+  lang:
+  - wa
+Djuråd:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gerard
+  lang:
+  - wa
+Djustin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Justin
+  lang:
+  - wa
+Djwer:
+  gender_flag: 2
+  lang:
+  - wa
+Djåclene:
+  gender_flag: 1
+  lang:
+  - wa
+Djåcob:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - wa
+Djåke:
+  gender_flag: 2
+  lang:
+  - wa
+Djåspård:
+  gender_flag: 2
+  lang:
+  - wa
+Djèf:
+  gender_flag: 2
+  lang:
+  - wa
+Djîle:
+  gender_flag: 2
+  is_equivalent_to:
+  - Giles
+  lang:
+  - wa
+Djóni:
+  gender_flag: 2
+  lang:
+  - fo
+Djôr:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - wa
+Djôzef:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - wa
+Djôzefene:
+  gender_flag: 1
+  is_equivalent_to:
+  - Josephine
+  lang:
+  - wa
+Dmitri:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dmitry
+  lang:
+  - ceb
+  - pt
+  origin:
+  - en
+  - ru
+Dmitrijs:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - ru
+Dmitry:
+  gender_flag: 2
+  lang:
+  - pt
+Dmítri:
+  gender_flag: 2
+  lang:
+  - pt
+Dni:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dennis
+  lang:
+  - wa
+Dniprova:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - uk
+Dnixh:
+  gender_flag: 2
+  lang:
+  - wa
+Doanie:
+  gender_flag: 1
+  lang:
+  - en
+Dobby:
+  gender_flag: 2
+  lang:
+  - en
+Dobie:
+  gender_flag: 2
+  lang:
+  - en
+Dobrilo:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Dobromil:
+  gender_flag: 2
+  lang:
+  - sk
+Dobromila:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Dobrosclavus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dobroslav
+  lang:
+  - la
+Dobroslav:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Dobroslava:
+  gender_flag: 1
+  lang:
+  - sk
+Dobrosława:
+  gender_flag: 1
+  lang:
+  - pl
+Dobruša:
+  gender_flag: 1
+  is_short_for:
+  - Dobroslava
+  lang:
+  - sk
+Dochaidh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dunky
+  is_short_for:
+  - Donnchadh
+  lang:
+  - gd
+Dochartach:
+  gender_flag: 2
+  lang:
+  - ga
+  - sga
+  origin:
+  - sga
+Dock:
+  gender_flag: 2
+  lang:
+  - en
+Docsiye:
+  gender_flag: 1
+  lang:
+  - wa
+Dod:
+  gender_flag: 2
+  lang:
+  - sq
+Doda:
+  gender_flag: 2
+  lang:
+  - sq
+Dodie:
+  gender_flag: 1
+  is_short_for:
+  - Dorothy
+  lang:
+  - en
+Dodë:
+  gender_flag: 2
+  lang:
+  - sq
+Dofe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adolph
+  lang:
+  - frp
+Dogo:
+  gender_flag: 2
+  lang:
+  - ha
+Doileag:
+  gender_flag: 1
+  lang:
+  - gd
+Doilidh:
+  gender_flag: 3
+  lang:
+  - gd
+Doina:
+  gender_flag: 1
+  lang:
+  - ro
+Dol:
+  gender_flag: 2
+  is_short_for:
+  - Dâlpheusse
+  lang:
+  - nrf
+Dolaidh:
+  gender_flag: 3
+  lang:
+  - gd
+Dolaris:
+  gender_flag: 2
+  lang:
+  - rom
+Dolcino:
+  gender_flag: 2
+  lang:
+  - it
+Dolf:
+  gender_flag: 2
+  is_short_for:
+  - Adolf
+  lang:
+  - de
+  - gmw-ecg
+Doll:
+  gender_flag: 1
+  is_short_for:
+  - Dorothy
+  lang:
+  - en
+Dollin:
+  gender_flag: 2
+  lang:
+  - gv
+Dolly:
+  gender_flag: 1
+  is_short_for:
+  - Dolores
+  - Dorothy
+  lang:
+  - en
+Dolores:
+  gender_flag: 1
+  is_equivalent_to:
+  - Delores
+  lang:
+  - en
+  - es
+  - pt
+  - tl
+  origin:
+  - es
+  - la
+  - osp
+Dolors:
+  gender_flag: 1
+  is_equivalent_to:
+  - Dolores
+  lang:
+  - ca
+Dolorès:
+  gender_flag: 1
+  lang:
+  - fr
+Dolphus:
+  gender_flag: 2
+  lang:
+  - en
+Dolun:
+  gender_flag: 3
+  lang:
+  - tr
+Dolunay:
+  gender_flag: 3
+  lang:
+  - tr
+Dom:
+  gender_flag: 6
+  lang:
+  - en
+Doma:
+  gender_flag: 2
+  is_short_for:
+  - Domokos
+  lang:
+  - hu
+Domagoj:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Domagous:
+  gender_flag: 2
+  is_equivalent_to:
+  - Domagoj
+  lang:
+  - la
+Domantas:
+  gender_flag: 2
+  lang:
+  - lt
+Domarad:
+  gender_flag: 2
+  lang:
+  - pl
+Domaradz:
+  gender_flag: 2
+  lang:
+  - pl
+Domas:
+  gender_flag: 2
+  lang:
+  - lt
+Domeng:
+  gender_flag: 2
+  lang:
+  - ceb
+Domenica:
+  gender_flag: 1
+  lang:
+  - it
+Domenico:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dominic
+  lang:
+  - it
+  origin:
+  - la
+Domhnall:
+  gender_flag: 2
+  is_equivalent_to:
+  - Donald
+  lang:
+  - en
+  - ga
+  origin:
+  - ga
+Dominador:
+  gender_flag: 2
+  lang:
+  - ceb
+  - tl
+Doming:
+  gender_flag: 2
+  lang:
+  - ceb
+Dominga:
+  gender_flag: 1
+  lang:
+  - es
+Domingo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dominic
+  lang:
+  - ceb
+  - es
+  - ilo
+  - tl
+  origin:
+  - es
+  - la
+Domingos:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dominic
+  lang:
+  - gl
+  - pt
+  origin:
+  - la
+Domini:
+  gender_flag: 1
+  lang:
+  - en
+Dominic:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  origin:
+  - la
+Dominick:
+  gender_flag: 2
+  is_a_variant_of:
+  - Dominic
+  lang:
+  - en
+  origin:
+  - la
+Dominik:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dominic
+  lang:
+  - cs
+  - de
+  - pl
+  - sk
+  origin:
+  - la
+Dominika:
+  gender_flag: 1
+  lang:
+  - cs
+  - hu
+  - pl
+  - sk
+  - sl
+Dominike:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dominic
+  lang:
+  - wa
+Dominique:
+  gender_flag: 3
+  is_equivalent_to:
+  - Dominic
+  lang:
+  - en
+  - fr
+Dominykas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dominic
+  lang:
+  - lt
+Domitien:
+  gender_flag: 2
+  lang:
+  - fr
+Domitilla:
+  gender_flag: 1
+  lang:
+  - it
+Domizio:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Dommagous:
+  gender_flag: 2
+  is_equivalent_to:
+  - Domagoj
+  lang:
+  - la
+Dommy:
+  gender_flag: 2
+  is_short_for:
+  - Dominic
+  lang:
+  - en
+Domnall:
+  gender_flag: 2
+  is_equivalent_to:
+  - Donald
+  lang:
+  - sga
+  origin:
+  - cel-pro
+Domogous:
+  gender_flag: 2
+  is_equivalent_to:
+  - Domagoj
+  lang:
+  - la
+Domokos:
+  gender_flag: 2
+  lang:
+  - hu
+Domonkos:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dominic
+  lang:
+  - hu
+  origin:
+  - la
+Domènec:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dominic
+  lang:
+  - ca
+  origin:
+  - la
+Domča:
+  gender_flag: 1
+  is_short_for:
+  - Dominika
+  lang:
+  - cs
+Don:
+  gender_flag: 2
+  is_short_for:
+  - Donald
+  - Gordon
+  lang:
+  - en
+Donah:
+  gender_flag: 1
+  lang:
+  - ceb
+Donaidh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Donnie
+  - Donny
+  is_short_for:
+  - Dòmhnall
+  lang:
+  - gd
+Donal:
+  gender_flag: 2
+  is_equivalent_to:
+  - Donald
+  lang:
+  - gv
+Donald:
+  gender_flag: 2
+  lang:
+  - en
+  - sv
+Donalda:
+  gender_flag: 1
+  lang:
+  - en
+Donaldas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Donald
+  lang:
+  - lt
+Donarad:
+  gender_flag: 2
+  lang:
+  - goh
+Donarpreht:
+  gender_flag: 2
+  lang:
+  - goh
+Donata:
+  gender_flag: 1
+  lang:
+  - it
+  - lt
+Donatas:
+  gender_flag: 2
+  lang:
+  - lt
+Donatela:
+  gender_flag: 1
+  lang:
+  - pt
+Donatella:
+  gender_flag: 1
+  lang:
+  - it
+Donatello:
+  gender_flag: 2
+  is_short_for:
+  - Donato
+  lang:
+  - it
+Donato:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Doncan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Duncan
+  lang:
+  - gv
+Donda:
+  gender_flag: 1
+  lang:
+  - en
+Dondon:
+  gender_flag: 2
+  lang:
+  - ceb
+Donea:
+  gender_flag: 2
+  lang:
+  - wa
+Dongdong:
+  gender_flag: 2
+  lang:
+  - ceb
+Donia:
+  gender_flag: 1
+  lang:
+  - en
+Donikë:
+  gender_flag: 1
+  lang:
+  - sq
+  origin:
+  - grc
+Donisse:
+  gender_flag: 2
+  lang:
+  - wa
+Doniye:
+  gender_flag: 1
+  lang:
+  - wa
+Doniyor:
+  gender_flag: 2
+  lang:
+  - uz
+Donizete:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - it
+Donn:
+  gender_flag: 2
+  lang:
+  - ga
+Donna:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - it
+Donnaghey:
+  gender_flag: 2
+  lang:
+  - gv
+Donncha:
+  gender_flag: 2
+  is_equivalent_to:
+  - Duncan
+  lang:
+  - ga
+  origin:
+  - sga
+Donnchad:
+  gender_flag: 2
+  is_equivalent_to:
+  - Duncan
+  lang:
+  - sga
+Donnchadh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Duncan
+  lang:
+  - ga
+  - gd
+  origin:
+  - sga
+Donnie:
+  gender_flag: 2
+  lang:
+  - en
+Donny:
+  gender_flag: 2
+  lang:
+  - en
+Donovan:
+  gender_flag: 2
+  lang:
+  - en
+Donta:
+  gender_flag: 2
+  lang:
+  - en
+Donying:
+  gender_flag: 2
+  lang:
+  - ceb
+Donyong:
+  gender_flag: 2
+  lang:
+  - ceb
+Doné:
+  gender_flag: 2
+  lang:
+  - wa
+Donîye:
+  gender_flag: 1
+  lang:
+  - wa
+Doora:
+  gender_flag: 1
+  lang:
+  - et
+Dor:
+  gender_flag: 1
+  is_short_for:
+  - Dora
+  lang:
+  - gmw-ecg
+Dora:
+  gender_flag: 1
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - es
+  - fo
+  origin:
+  - grc
+Doralice:
+  gender_flag: 1
+  lang:
+  - it
+Dorcas:
+  gender_flag: 1
+  lang:
+  - en
+  - pt
+  origin:
+  - grc
+Dorcha:
+  gender_flag: 1
+  lang:
+  - en
+  - gd
+  - sco
+  origin:
+  - ga
+  - gd
+Dordalus:
+  gender_flag: 2
+  lang:
+  - la
+Dore:
+  gender_flag: 2
+  is_short_for:
+  - Isidore
+  lang:
+  - en
+Doreen:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+Dorian:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - grc
+Doriano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dorian
+  lang:
+  - it
+Dorin:
+  gender_flag: 2
+  lang:
+  - ro
+Dorina:
+  gender_flag: 1
+  lang:
+  - ro
+Dorinda:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Dorippa:
+  gender_flag: 2
+  lang:
+  - la
+Doris:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - et
+  - fo
+  - sv
+Dorit:
+  gender_flag: 1
+  lang:
+  - da
+Dorka:
+  gender_flag: 1
+  is_short_for:
+  - Dora
+  lang:
+  - cs
+Doron:
+  gender_flag: 2
+  lang:
+  - en
+Dorota:
+  gender_flag: 1
+  is_equivalent_to:
+  - Dorothy
+  lang:
+  - cs
+  - pl
+  - sk
+Dorotea:
+  gender_flag: 1
+  is_equivalent_to:
+  - Dorothy
+  lang:
+  - es
+  - fo
+  - it
+  - sv
+  origin:
+  - grc
+Doroteia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Dorothy
+  lang:
+  - pt
+  origin:
+  - grc
+Doroteja:
+  gender_flag: 1
+  lang:
+  - lv
+  - sl
+  origin:
+  - grc
+Doroteo:
+  gender_flag: 3
+  is_equivalent_to:
+  - Dorothy
+  lang:
+  - eo
+  - es
+Dorothea:
+  gender_flag: 1
+  is_equivalent_to:
+  - Dorothy
+  lang:
+  - da
+  - de
+  - en
+  origin:
+  - grc
+Dorotheus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Dorothy:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+  - grc
+Dorothée:
+  gender_flag: 1
+  is_equivalent_to:
+  - Dorothy
+  lang:
+  - fr
+  - nrf
+Dorotka:
+  gender_flag: 1
+  is_short_for:
+  - Dorota
+  lang:
+  - cs
+  - pl
+Dorottya:
+  gender_flag: 1
+  is_equivalent_to:
+  - Dorothy
+  lang:
+  - hu
+Dorotêye:
+  gender_flag: 1
+  is_equivalent_to:
+  - Dorothy
+  lang:
+  - wa
+Dorotėja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Dorothy
+  lang:
+  - lt
+Dorrie:
+  gender_flag: 1
+  is_short_for:
+  - Dorothea
+  - Dorothy
+  lang:
+  - en
+Dorrit:
+  gender_flag: 1
+  lang:
+  - da
+Dorsaf:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - ar
+Dorte:
+  gender_flag: 1
+  is_a_variant_of:
+  - Dorthe
+  lang:
+  - da
+Dortea:
+  gender_flag: 1
+  lang:
+  - fo
+Dorthe:
+  gender_flag: 1
+  lang:
+  - da
+Dorthea:
+  gender_flag: 1
+  is_equivalent_to:
+  - Dorothy
+  lang:
+  - da
+Doru:
+  gender_flag: 2
+  lang:
+  - tr
+Doruk:
+  gender_flag: 2
+  lang:
+  - tr
+Dory:
+  gender_flag: 1
+  is_short_for:
+  - Doris
+  - Dorothy
+  lang:
+  - en
+Dosoftei:
+  gender_flag: 2
+  lang:
+  - ro
+Dost:
+  gender_flag: 2
+  lang:
+  - tr
+Dosunmu:
+  gender_flag: 2
+  lang:
+  - yo
+Dot:
+  gender_flag: 1
+  is_short_for:
+  - Dorothy
+  lang:
+  - en
+Dottie:
+  gender_flag: 1
+  is_short_for:
+  - Dorothy
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Dotty:
+  gender_flag: 1
+  is_short_for:
+  - Dorothy
+  lang:
+  - en
+Doubravka:
+  gender_flag: 1
+  lang:
+  - cs
+Doug:
+  gender_flag: 2
+  is_short_for:
+  - Douglas
+  lang:
+  - en
+Dougal:
+  gender_flag: 2
+  lang:
+  - en
+Dougie:
+  gender_flag: 2
+  is_short_for:
+  - Dougal
+  - Douglas
+  lang:
+  - en
+Douglas:
+  gender_flag: 3
+  lang:
+  - en
+  - es
+  - pt
+  origin:
+  - gd
+Douglass:
+  gender_flag: 2
+  lang:
+  - en
+Dougo:
+  gender_flag: 2
+  lang:
+  - en
+Douni:
+  gender_flag: 2
+  lang:
+  - wa
+Douwård:
+  gender_flag: 2
+  is_equivalent_to:
+  - Edward
+  lang:
+  - wa
+Dovid:
+  gender_flag: 2
+  is_a_variant_of:
+  - David
+  lang:
+  - en
+  origin:
+  - yi
+Dovilė:
+  gender_flag: 1
+  lang:
+  - lt
+Dovydas:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - lt
+Dow:
+  gender_flag: 2
+  lang:
+  - en
+Doyle:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - en
+Dozhwal:
+  gender_flag: 2
+  lang:
+  - br
+Doğa:
+  gender_flag: 3
+  lang:
+  - tr
+Doğan:
+  gender_flag: 2
+  lang:
+  - tr
+Doğaner:
+  gender_flag: 2
+  lang:
+  - tr
+Doğru:
+  gender_flag: 2
+  lang:
+  - tr
+Doğu:
+  gender_flag: 3
+  lang:
+  - tr
+Doğukan:
+  gender_flag: 2
+  lang:
+  - tr
+Doğuş:
+  gender_flag: 2
+  lang:
+  - tr
+Draccius:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - xtg
+Draga:
+  gender_flag: 1
+  lang:
+  - sh
+Dragan:
+  gender_flag: 2
+  lang:
+  - sh
+Dragana:
+  gender_flag: 1
+  lang:
+  - sh
+Drago:
+  gender_flag: 2
+  lang:
+  - sl
+Dragojle:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Dragoljub:
+  gender_flag: 2
+  lang:
+  - sh
+Dragomir:
+  gender_flag: 2
+  lang:
+  - ro
+  - sh
+Dragutin:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Draha:
+  gender_flag: 1
+  is_short_for:
+  - Drahomíra
+  lang:
+  - cs
+  - sk
+Drahomír:
+  gender_flag: 2
+  lang:
+  - sk
+Drahomíra:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Drahoslav:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Drahoslava:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Drahoš:
+  gender_flag: 2
+  is_short_for:
+  - Drahomír
+  - Drahoslav
+  lang:
+  - sk
+Drahuša:
+  gender_flag: 1
+  is_short_for:
+  - Drahomíra
+  lang:
+  - sk
+Drake:
+  gender_flag: 2
+  lang:
+  - en
+Dranreb:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - ceb
+Draven:
+  gender_flag: 2
+  lang:
+  - en
+Dražen:
+  gender_flag: 2
+  lang:
+  - sh
+Dre:
+  gender_flag: 2
+  is_short_for:
+  - Andre
+  lang:
+  - en
+  - fr
+Dreama:
+  gender_flag: 1
+  lang:
+  - en
+Drew:
+  gender_flag: 7
+  is_short_for:
+  - Andrew
+  lang:
+  - en
+  origin:
+  - gem
+Dries:
+  gender_flag: 2
+  lang:
+  - nl
+Drilon:
+  gender_flag: 2
+  lang:
+  - sq
+Drin:
+  gender_flag: 2
+  lang:
+  - sq
+Drina:
+  gender_flag: 1
+  is_short_for:
+  - Alexandrina
+  lang:
+  - en
+Drit:
+  gender_flag: 2
+  lang:
+  - sq
+Drita:
+  gender_flag: 1
+  lang:
+  - sq
+Dritan:
+  gender_flag: 2
+  lang:
+  - en
+  - sq
+  origin:
+  - sq
+Dritbardh:
+  gender_flag: 2
+  lang:
+  - sq
+Driti:
+  gender_flag: 2
+  lang:
+  - sq
+Dritim:
+  gender_flag: 2
+  lang:
+  - sq
+Dritjon:
+  gender_flag: 2
+  lang:
+  - sq
+Driton:
+  gender_flag: 2
+  lang:
+  - sq
+Dritor:
+  gender_flag: 2
+  lang:
+  - sq
+Dritosh:
+  gender_flag: 2
+  lang:
+  - sq
+Dritush:
+  gender_flag: 2
+  lang:
+  - sq
+Drityll:
+  gender_flag: 2
+  lang:
+  - sq
+Dritë:
+  gender_flag: 1
+  lang:
+  - sq
+Dritësim:
+  gender_flag: 2
+  lang:
+  - sq
+Driyin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adrian
+  lang:
+  - frp
+  - wa
+Driyinne:
+  gender_flag: 1
+  is_equivalent_to:
+  - Adrienne
+  lang:
+  - wa
+Droplaug:
+  gender_flag: 1
+  lang:
+  - is
+Dropleyg:
+  gender_flag: 1
+  lang:
+  - fo
+Dror:
+  gender_flag: 2
+  lang:
+  - en
+Dru:
+  gender_flag: 3
+  is_short_for:
+  - Andrew
+  - Drucilla
+  - Drusilla
+  lang:
+  - en
+Drucilla:
+  lang:
+  - en
+Drusiana:
+  gender_flag: 1
+  lang:
+  - it
+Drusilla:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Druso:
+  gender_flag: 2
+  lang:
+  - it
+Dryhtnoþ:
+  gender_flag: 2
+  lang:
+  - ang
+Dryhtweald:
+  gender_flag: 2
+  lang:
+  - ang
+Dré:
+  gender_flag: 2
+  lang:
+  - wa
+Drífa:
+  gender_flag: 1
+  lang:
+  - is
+Drós:
+  gender_flag: 1
+  lang:
+  - fo
+Dröfn:
+  gender_flag: 1
+  lang:
+  - is
+Držislav:
+  gender_flag: 2
+  lang:
+  - sh
+Du:
+  gender_flag: 2
+  is_short_for:
+  - Eduardo
+  lang:
+  - pt
+Dua:
+  gender_flag: 1
+  lang:
+  - en
+  - sq
+  origin:
+  - sq
+Duane:
+  gender_flag: 2
+  lang:
+  - en
+Duarte:
+  gender_flag: 2
+  is_equivalent_to:
+  - Edward
+  lang:
+  - pt
+Dubhghall:
+  gender_flag: 2
+  lang:
+  - ga
+Dubhghus:
+  gender_flag: 2
+  lang:
+  - ga
+Dubravko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Dubthach:
+  gender_flag: 2
+  lang:
+  - sga
+  origin:
+  - pgl
+Duda:
+  gender_flag: 3
+  is_short_for:
+  - Eduarda
+  - Eduardo
+  lang:
+  - pt
+Dudda:
+  gender_flag: 2
+  lang:
+  - ang
+Dudley:
+  gender_flag: 2
+  lang:
+  - en
+Dudu:
+  gender_flag: 2
+  is_short_for:
+  - Eduardo
+  lang:
+  - ca
+  - pt
+Dufenal:
+  gender_flag: 2
+  lang:
+  - ang
+  origin:
+  - sga
+Duff:
+  gender_flag: 2
+  lang:
+  - en
+Dufgus:
+  gender_flag: 2
+  lang:
+  - is
+  - non
+  origin:
+  - sga
+Dufþakr:
+  gender_flag: 2
+  lang:
+  - non
+  origin:
+  - sga
+Dufþakur:
+  gender_flag: 2
+  lang:
+  - is
+  origin:
+  - sga
+Dugald:
+  gender_flag: 2
+  lang:
+  - en
+Dugfús:
+  gender_flag: 2
+  lang:
+  - is
+Duilio:
+  gender_flag: 2
+  lang:
+  - it
+Dujomir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Dukagjin:
+  gender_flag: 2
+  lang:
+  - sq
+Duke:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - en
+Dulce:
+  gender_flag: 1
+  is_equivalent_to:
+  - Dulcie
+  lang:
+  - ceb
+  - en
+  - es
+  origin:
+  - es
+Dulcie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Dulcinea:
+  gender_flag: 1
+  lang:
+  - es
+Dumali:
+  lang:
+  - rom
+Dumìnicu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dominic
+  lang:
+  - scn
+  origin:
+  - la
+Dunaldur:
+  gender_flag: 2
+  lang:
+  - fo
+Dunc:
+  gender_flag: 2
+  is_short_for:
+  - Duncan
+  lang:
+  - en
+Duncan:
+  gender_flag: 2
+  lang:
+  - en
+Dung:
+  gender_flag: 3
+  lang:
+  - en
+  - vi
+  origin:
+  - vi
+  - zh
+Dunky:
+  gender_flag: 2
+  is_short_for:
+  - Duncan
+  lang:
+  - en
+Dunlap:
+  gender_flag: 2
+  lang:
+  - en
+Dunnchadh:
+  gender_flag: 2
+  is_a_variant_of:
+  - Donnchadh
+  is_equivalent_to:
+  - Duncan
+  lang:
+  - gd
+Dunstan:
+  gender_flag: 2
+  lang:
+  - ang
+  - en
+  origin:
+  - ang
+Dunstano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dunstan
+  lang:
+  - it
+Dunweald:
+  gender_flag: 2
+  lang:
+  - ang
+Dunya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ru
+Dupont:
+  gender_flag: 2
+  lang:
+  - en
+Durak:
+  gender_flag: 2
+  lang:
+  - tr
+Duran:
+  gender_flag: 2
+  lang:
+  - tr
+Durante:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Durga:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Duringin:
+  gender_flag: 1
+  lang:
+  - goh
+Durita:
+  gender_flag: 1
+  is_equivalent_to:
+  - Dorothy
+  lang:
+  - fo
+Durið:
+  gender_flag: 1
+  lang:
+  - fo
+Durmuş:
+  gender_flag: 2
+  lang:
+  - tr
+Dursun:
+  gender_flag: 2
+  lang:
+  - tr
+Durul:
+  gender_flag: 2
+  lang:
+  - tr
+Duruta:
+  gender_flag: 1
+  lang:
+  - fo
+Dustin:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - gem
+Dusty:
+  gender_flag: 2
+  is_short_for:
+  - Dustin
+  lang:
+  - en
+Dutch:
+  gender_flag: 2
+  lang:
+  - en
+Duwayne:
+  gender_flag: 2
+  lang:
+  - en
+Duy:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Duygu:
+  gender_flag: 1
+  lang:
+  - tr
+Duyên:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Duša:
+  gender_flag: 1
+  is_short_for:
+  - Dušana
+  lang:
+  - sk
+Dušan:
+  gender_flag: 2
+  lang:
+  - cs
+  - sh
+  - sk
+  - sl
+Dušana:
+  gender_flag: 1
+  lang:
+  - sk
+Duška:
+  gender_flag: 1
+  is_short_for:
+  - Dušana
+  lang:
+  - cs
+Duško:
+  gender_flag: 2
+  lang:
+  - sl
+Dušánek:
+  gender_flag: 2
+  is_short_for:
+  - Dušan
+  lang:
+  - cs
+Dwayne:
+  gender_flag: 2
+  is_a_variant_of:
+  - Duane
+  lang:
+  - en
+Dwi:
+  gender_flag: 7
+  lang:
+  - id
+  origin:
+  - jv
+Dwight:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Dyfi:
+  gender_flag: 1
+  lang:
+  - cy
+Dyfrig:
+  gender_flag: 2
+  lang:
+  - cy
+Dylan:
+  gender_flag: 3
+  lang:
+  - cy
+  - en
+  - fr
+Dynja:
+  gender_flag: 1
+  lang:
+  - is
+  origin:
+  - non
+Dyuti:
+  gender_flag: 1
+  lang:
+  - en
+Dzianis: {}
+Dzidra:
+  gender_flag: 1
+  lang:
+  - lv
+Dzierżykraj:
+  gender_flag: 2
+  lang:
+  - pl
+Dzintars:
+  gender_flag: 2
+  lang:
+  - lv
+Dzintra:
+  gender_flag: 1
+  lang:
+  - lv
+Dzmitry: {}
+Dzmitryi: {}
+Dzmitryy: {}
+Dzovag:
+  gender_flag: 7
+  lang:
+  - fr
+  origin:
+  - hy
+Dzsenifer:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jennifer
+  lang:
+  - hu
+Dzsesszika:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jessica
+  lang:
+  - hu
+Dzyanis: {}
+Dàbhaidh:
+  gender_flag: 2
+  is_a_variant_of:
+  - Daibhidh
+  is_equivalent_to:
+  - David
+  lang:
+  - gd
+Dàibhidh:
+  gender_flag: 2
+  is_a_variant_of:
+  - Daibhidh
+  is_equivalent_to:
+  - David
+  lang:
+  - gd
+Dàidh:
+  gender_flag: 2
+  is_a_variant_of:
+  - Daibhidh
+  is_equivalent_to:
+  - David
+  lang:
+  - gd
+Dáithí:
+  gender_flag: 2
+  lang:
+  - ga
+  origin:
+  - sga
+Dámaso:
+  gender_flag: 2
+  lang:
+  - es
+Dánial:
+  gender_flag: 2
+  lang:
+  - fo
+Dániel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Daniel
+  lang:
+  - hu
+  origin:
+  - he
+Dánjal:
+  gender_flag: 2
+  is_equivalent_to:
+  - Daniel
+  lang:
+  - fo
+Dário:
+  gender_flag: 2
+  is_a_variant_of:
+  - Dario
+  is_equivalent_to:
+  - Darius
+  lang:
+  - pt
+Dávi:
+  gender_flag: 2
+  lang:
+  - fo
+Dávid:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - fo
+  - hu
+  - sk
+  origin:
+  - he
+Dávið:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - fo
+  origin:
+  - he
+Dávur:
+  gender_flag: 2
+  lang:
+  - fo
+Dávvet:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - se
+Dáša:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Dášenka:
+  gender_flag: 1
+  is_short_for:
+  - Dáša
+  lang:
+  - cs
+Dâlpheusse:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adolphus
+  lang:
+  - nrf
+Dâvi:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - nrf
+  origin:
+  - he
+Dånièle:
+  gender_flag: 1
+  lang:
+  - wa
+Dægberht:
+  gender_flag: 2
+  lang:
+  - ang
+Dæghelm:
+  gender_flag: 2
+  lang:
+  - ang
+Dægmund:
+  gender_flag: 2
+  lang:
+  - ang
+Débora:
+  gender_flag: 1
+  is_a_variant_of:
+  - Déborah
+  is_equivalent_to:
+  - Deborah
+  lang:
+  - es
+  - fr
+  - pt
+Déborah:
+  gender_flag: 1
+  lang:
+  - fr
+Décio:
+  gender_flag: 2
+  lang:
+  - pt
+Dédé:
+  gender_flag: 2
+  is_short_for:
+  - André
+  lang:
+  - fr
+Délaïde:
+  gender_flag: 1
+  is_equivalent_to:
+  - Adelaide
+  lang:
+  - nrf
+Démis:
+  gender_flag: 2
+  lang:
+  - pt
+Démétrios:
+  gender_flag: 2
+  is_equivalent_to:
+  - Demetrius
+  lang:
+  - fr
+  origin:
+  - grc
+Démétrius:
+  gender_flag: 2
+  is_equivalent_to:
+  - Demetrius
+  lang:
+  - fr
+  origin:
+  - grc
+  - la
+Dénes:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dennis
+  lang:
+  - hu
+Dénin:
+  gender_flag: 2
+  lang:
+  - nrf
+Désiré:
+  gender_flag: 2
+  is_a_variant_of:
+  - Didier
+  lang:
+  - fr
+  - nrf
+Désirée:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - fr
+  - nl
+  origin:
+  - fr
+Dênis:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dennis
+  lang:
+  - pt
+Díana:
+  gender_flag: 1
+  lang:
+  - is
+Dídac:
+  gender_flag: 2
+  lang:
+  - ca
+Dína:
+  gender_flag: 1
+  lang:
+  - is
+Dís:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Dísella:
+  gender_flag: 1
+  lang:
+  - is
+Díðrikur:
+  gender_flag: 2
+  is_equivalent_to:
+  - Derek
+  lang:
+  - fo
+Dîno:
+  gender_flag: 2
+  lang:
+  - kmr
+Dòmhnall:
+  gender_flag: 2
+  lang:
+  - gd
+  origin:
+  - sga
+Dòmhnallan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Donnie
+  - Donny
+  is_short_for:
+  - Dòmhnall
+  lang:
+  - gd
+Dóa:
+  gender_flag: 1
+  lang:
+  - is
+Dómaldur:
+  gender_flag: 2
+  lang:
+  - is
+Dónall:
+  gender_flag: 2
+  is_equivalent_to:
+  - Donald
+  lang:
+  - ga
+  origin:
+  - cel-pro
+Dór:
+  gender_flag: 2
+  lang:
+  - is
+Dóra:
+  gender_flag: 1
+  is_equivalent_to:
+  - Dora
+  is_short_for:
+  - Dorottya
+  lang:
+  - fo
+  - hu
+  - is
+Dóri:
+  gender_flag: 2
+  lang:
+  - is
+Dózsa:
+  gender_flag: 2
+  lang:
+  - hu
+Dögg:
+  gender_flag: 1
+  lang:
+  - is
+Döme:
+  gender_flag: 2
+  lang:
+  - hu
+Døgg:
+  gender_flag: 1
+  lang:
+  - fo
+Dùghall:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dougal
+  lang:
+  - gd
+  origin:
+  - sga
+Dùghlas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Douglas
+  lang:
+  - gd
+Dúa:
+  gender_flag: 1
+  lang:
+  - is
+Dúddi:
+  gender_flag: 2
+  lang:
+  - is
+Dúi:
+  gender_flag: 2
+  lang:
+  - is
+Dúna:
+  gender_flag: 1
+  lang:
+  - is
+Dúnchad:
+  gender_flag: 2
+  lang:
+  - sga
+Dümăs:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thomas
+  lang:
+  - pox
+  origin:
+  - arc
+Düşün:
+  gender_flag: 2
+  lang:
+  - tr
+Dýri:
+  gender_flag: 2
+  lang:
+  - is
+Dýrmundur:
+  gender_flag: 2
+  lang:
+  - is
+Dýrunn:
+  gender_flag: 1
+  lang:
+  - is
+Dārta:
+  gender_flag: 1
+  lang:
+  - lv
+Dāvids:
+  gender_flag: 2
+  lang:
+  - lv
+Dāvis:
+  gender_flag: 2
+  lang:
+  - lv
+Dănuț:
+  gender_flag: 2
+  is_equivalent_to:
+  - Danny
+  is_short_for:
+  - Dan
+  lang:
+  - ro
+Dětřich:
+  gender_flag: 2
+  is_equivalent_to:
+  - Derek
+  lang:
+  - cs
+Długosz:
+  gender_flag: 2
+  lang:
+  - pl
+Dōrji:
+  gender_flag: 2
+  lang:
+  - tuw-sol
+Dũng:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Dżesika:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jessica
+  lang:
+  - pl
+Džeimss:
+  gender_flag: 2
+  lang:
+  - lv
+Džons:
+  gender_flag: 2
+  lang:
+  - lv
+Džordžs:
+  gender_flag: 2
+  lang:
+  - lv
+Dương:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Dần:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Dậu:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Đan:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Đivo:
+  gender_flag: 2
+  lang:
+  - sh
+Điệp:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Đoan:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Đài:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Đào:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Đông:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Đạt:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Định:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Đức:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Ɗan Altine:
+  gender_flag: 2
+  lang:
+  - ha
+Ɗan Asabe:
+  gender_flag: 2
+  lang:
+  - ha
+Ɗan Azumi:
+  gender_flag: 2
+  lang:
+  - ha
+Ɗan Kaka:
+  gender_flag: 2
+  lang:
+  - ha
+Ɗanjuma:
+  gender_flag: 2
+  lang:
+  - ha
+Ɗanladi:
+  gender_flag: 2
+  lang:
+  - ha
+Ɗanlami:
+  gender_flag: 2
+  lang:
+  - ha
+Ɗantala:
+  gender_flag: 2
+  lang:
+  - ha
+Ḍëmdei:
+  gender_flag: 1
+  lang:
+  - wbk
+ḏd-ḥr:
+  gender_flag: 2
+  lang:
+  - egy
+ḏdj:
+  gender_flag: 2
+  lang:
+  - egy
+ḏḏt-jmn:
+  gender_flag: 1
+  lang:
+  - egy
+ḏḏw-ms:
+  gender_flag: 2
+  lang:
+  - egy
+ḏḥwtj-ms:
+  gender_flag: 2
+  lang:
+  - egy

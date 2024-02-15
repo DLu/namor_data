@@ -1,0 +1,60 @@
+#!/usr/bin/python3
+
+import pathlib
+from metro_db import MetroDB
+from wiktionary import Relationship
+from tqdm import tqdm
+import yaml
+
+db_folder = pathlib.Path('db')
+data_folder = pathlib.Path('data')
+
+db = MetroDB('names', folder=db_folder, enums_to_register=[Relationship])
+db.load_yaml(db_folder / 'names.yaml')
+db.update_database_structure()
+db.reset()
+
+name_to_id = {}
+
+bar = tqdm(sorted(data_folder.glob('*yaml')))
+
+for data_path in bar:
+    bar.set_description(f'{data_path.stem:20}')
+    data = yaml.safe_load(open(data_path))
+    for name, ndata in sorted(data.items()):
+        entry = {'name': name}
+        if ndata.get('gender_flag'):
+            entry['gender_flag'] = ndata['gender_flag']
+            ndata.pop('gender_flag')
+
+        if name in name_to_id:
+            if len(entry) > 1:
+                entry['id'] = name_to_id[name]
+                name_id = db.update('names', entry)
+        else:
+            name_id = db.insert('names', entry)
+            name_to_id[name] = name_id
+
+        for field, table_name in [('lang', 'languages'), ('origin', 'origins')]:
+            if field not in ndata:
+                continue
+            for language in ndata[field]:
+                db.insert(table_name, {'name_id': name_id, 'language': language})
+            ndata.pop(field)
+
+        for key in sorted(ndata.keys()):
+            rel = Relationship[key.upper()]
+            if not rel:
+                continue
+            for other_name in ndata.pop(key):
+                if other_name in name_to_id:
+                    name_id2 = name_to_id[other_name]
+                else:
+                    name_id2 = db.insert('names', {'name': other_name})
+                    name_to_id[other_name] = name_id2
+                db.insert('relationships', {'name_id': name_id, 'relationship': rel, 'name_id2': name_id2})
+        if ndata:
+            print(name)
+            print(ndata)
+            exit(0)
+db.close()

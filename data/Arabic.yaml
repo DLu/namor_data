@@ -1,0 +1,4359 @@
+آتنا:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - el
+آدم:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+  - ota
+  - ur
+  origin:
+  - ar
+آذر:
+  gender_flag: 1
+  lang:
+  - fa
+آرام:
+  gender_flag: 3
+  lang:
+  - fa
+آرتور: {}
+آرزو:
+  gender_flag: 1
+  lang:
+  - fa
+آرش:
+  gender_flag: 2
+  lang:
+  - fa
+آرشام:
+  gender_flag: 2
+  lang:
+  - fa
+آرمان:
+  gender_flag: 2
+  lang:
+  - fa
+آرمین:
+  gender_flag: 2
+  lang:
+  - fa
+آریامن:
+  gender_flag: 2
+  lang:
+  - ur
+آریو:
+  gender_flag: 2
+  lang:
+  - fa
+آسو:
+  gender_flag: 1
+  lang:
+  - fa
+آلاله:
+  gender_flag: 1
+  lang:
+  - fa
+آمال:
+  gender_flag: 1
+  lang:
+  - ar
+آمنة:
+  gender_flag: 1
+  lang:
+  - ar
+آمنه:
+  gender_flag: 1
+  lang:
+  - fa
+آمنہ:
+  gender_flag: 1
+  lang:
+  - pa
+  - ur
+آناتولی: {}
+آناهیتا:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - peo
+آنجلا:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - en
+آنگلا:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - de
+آهو:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+آوا:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+آية:
+  gender_flag: 1
+  lang:
+  - ar
+آیدین:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - az
+آیلین:
+  gender_flag: 1
+  lang:
+  - fa
+أباسخيرون:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - cop
+أبو بكر:
+  gender_flag: 2
+  lang:
+  - ar
+أحمد:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ahmed
+  lang:
+  - ar
+أدهم:
+  gender_flag: 2
+  lang:
+  - ar
+أربد:
+  gender_flag: 2
+  lang:
+  - ar
+أرسلان:
+  gender_flag: 2
+  lang:
+  - ar
+أسامة:
+  gender_flag: 2
+  lang:
+  - ar
+أسعد:
+  gender_flag: 2
+  lang:
+  - ar
+أسماء:
+  gender_flag: 1
+  lang:
+  - ar
+أشرف:
+  gender_flag: 2
+  lang:
+  - ar
+ألفين:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alvin
+  lang:
+  - ar
+  origin:
+  - ang
+ألكسندروس:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - ar
+  origin:
+  - grc
+أليس:
+  gender_flag: 1
+  lang:
+  - ar
+أمجد:
+  gender_flag: 2
+  lang:
+  - ar
+أمل:
+  gender_flag: 1
+  lang:
+  - ar
+أمين:
+  gender_flag: 2
+  lang:
+  - ar
+أمينة:
+  gender_flag: 1
+  lang:
+  - ar
+أناستاسيوس:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anastasius
+  lang:
+  - ar
+أندراوس:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - grc
+أنس:
+  gender_flag: 2
+  lang:
+  - ar
+أنطونيوس:
+  gender_flag: 2
+  lang:
+  - ar
+أنوار:
+  gender_flag: 1
+  lang:
+  - ar
+أنور:
+  gender_flag: 2
+  lang:
+  - ar
+أورنكزيب:
+  gender_flag: 2
+  lang:
+  - ar
+أيمن:
+  gender_flag: 2
+  lang:
+  - ar
+أيوب:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - he
+إبراهيم:
+  gender_flag: 2
+  lang:
+  - ar
+إدريس:
+  gender_flag: 2
+  lang:
+  - ar
+إسحاق:
+  gender_flag: 2
+  lang:
+  - ar
+إسلام:
+  gender_flag: 2
+  lang:
+  - ar
+إسماعيل:
+  gender_flag: 2
+  lang:
+  - ar
+إغناطيوس:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ignatius
+  lang:
+  - ar
+إلهام:
+  gender_flag: 1
+  lang:
+  - ar
+إياد:
+  gender_flag: 2
+  lang:
+  - ar
+إيثار:
+  gender_flag: 1
+  lang:
+  - ar
+إيريناوس:
+  gender_flag: 2
+  is_equivalent_to:
+  - Irenaeus
+  lang:
+  - ar
+  origin:
+  - grc
+إيمان:
+  gender_flag: 1
+  lang:
+  - ar
+ئابدۇلئەھەد:
+  gender_flag: 2
+  lang:
+  - ug
+ئابلىز:
+  gender_flag: 2
+  lang:
+  - ug
+ئادىل:
+  gender_flag: 2
+  lang:
+  - ug
+ئاقھاجى:
+  gender_flag: 2
+  lang:
+  - ug
+ئالىم:
+  gender_flag: 2
+  lang:
+  - ug
+ئالىيە:
+  gender_flag: 1
+  lang:
+  - ug
+ئامىنە:
+  gender_flag: 1
+  lang:
+  - ug
+  origin:
+  - ar
+ئوغۇز:
+  gender_flag: 2
+  lang:
+  - ug
+ئىبراھىم:
+  gender_flag: 2
+  lang:
+  - ug
+  origin:
+  - ar
+  - he
+  - syc
+ئىلياس:
+  gender_flag: 2
+  lang:
+  - ug
+  origin:
+  - ar
+  - he
+ئىلھام:
+  gender_flag: 2
+  lang:
+  - ug
+ئىپپەت:
+  gender_flag: 1
+  lang:
+  - ug
+ئۇتۇق:
+  gender_flag: 2
+  lang:
+  - ug
+ئەبۇبەكرى:
+  gender_flag: 2
+  lang:
+  - ug
+ئەحمەد:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ahmad
+  lang:
+  - ckb
+  origin:
+  - ar
+ئەركىن:
+  gender_flag: 2
+  lang:
+  - ug
+ئەمىنە:
+  gender_flag: 1
+  lang:
+  - ug
+ئەھمەد:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ahmed
+  lang:
+  - ug
+ئەھەد:
+  gender_flag: 2
+  lang:
+  - ug
+اباسین:
+  gender_flag: 2
+  lang:
+  - ps
+ابتسام:
+  gender_flag: 1
+  lang:
+  - ar
+ابتهال:
+  gender_flag: 1
+  lang:
+  - ar
+ابراهیم:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+  - ota
+  origin:
+  - ar
+ابراہیم:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - ar
+  - he
+  - syc
+ابشاي:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - cop
+ابھشیک:
+  gender_flag: 2
+  lang:
+  - ur
+ابھیشیک:
+  gender_flag: 2
+  lang:
+  - ur
+ابی:
+  gender_flag: 2
+  lang:
+  - fa
+احترام:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+احسان:
+  gender_flag: 2
+  lang:
+  - fa
+  - ota
+  origin:
+  - ar
+احمد:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+  origin:
+  - ar
+ادریس:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+ادهم:
+  gender_flag: 2
+  lang:
+  - ota
+ارجن:
+  gender_flag: 2
+  lang:
+  - ur
+اردشیر:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+ارسطو:
+  gender_flag: 2
+  lang:
+  - fa
+ارشاد:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+ارغوان:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+ارژنگ:
+  gender_flag: 2
+  lang:
+  - fa
+اریک:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - en
+استفانوس:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - grc
+استیون:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - en
+اسحاق:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+اسدالله:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+اسفندیار:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+اسماعیل:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+  origin:
+  - ar
+اسکندر:
+  gender_flag: 2
+  lang:
+  - fa
+اشرف:
+  gender_flag: 2
+  lang:
+  - fa
+اشوک:
+  gender_flag: 2
+  lang:
+  - ur
+اشکان:
+  gender_flag: 2
+  lang:
+  - fa
+اصغر:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+اعظم:
+  gender_flag: 1
+  lang:
+  - fa
+افراسیاب:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+افسانه:
+  gender_flag: 1
+  lang:
+  - fa
+افشین:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+الأمين:
+  gender_flag: 2
+  lang:
+  - ar
+الحارث:
+  gender_flag: 2
+  lang:
+  - ar
+الله‌قلی:
+  gender_flag: 2
+  lang:
+  - chg
+  - fa
+اللہ قلی:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - chg
+الهام:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+الهه:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+الياس:
+  gender_flag: 2
+  lang:
+  - ps
+الیاس:
+  gender_flag: 2
+  lang:
+  - fa
+  - pa
+  - ur
+الیسع:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - ar
+الیکا:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - mzn
+امامقلی:
+  gender_flag: 2
+  lang:
+  - fa
+امام‌قلی:
+  gender_flag: 2
+  lang:
+  - chg
+امیتابھ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Amitabh
+  lang:
+  - ur
+امید:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+امیر:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+امیرحسین:
+  gender_flag: 2
+  lang:
+  - fa
+امینه:
+  gender_flag: 1
+  lang:
+  - fa
+امینہ:
+  gender_flag: 1
+  lang:
+  - ur
+انتصار:
+  gender_flag: 3
+  lang:
+  - ar
+انوشه:
+  gender_flag: 3
+  lang:
+  - fa
+  origin:
+  - pal
+انوشیروان:
+  gender_flag: 2
+  lang:
+  - fa
+اهورا:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ae
+اورمزد:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+اورنك زیب:
+  gender_flag: 2
+  lang:
+  - ota
+  origin:
+  - fa
+اورنګزېب:
+  gender_flag: 2
+  lang:
+  - ps
+اورنگزیب:
+  gender_flag: 2
+  lang:
+  - pa
+  - ur
+اورنگ‌زیب:
+  gender_flag: 2
+  lang:
+  - fa
+ايو:
+  gender_flag: 1
+  lang:
+  - ms
+  origin:
+  - ms
+ایاس:
+  gender_flag: 2
+  lang:
+  - fa
+ایران:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+ایرج:
+  gender_flag: 2
+  lang:
+  - fa
+ایرمان:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - fa
+ایزد:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ae
+ایمان:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+ایمانقلی:
+  gender_flag: 2
+  lang:
+  - fa
+ایمان‌قلی:
+  gender_flag: 2
+  lang:
+  - chg
+ایوان:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ru
+ایوب:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+اݢوس:
+  lang:
+  - ms
+باب:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - en
+بابک:
+  gender_flag: 2
+  lang:
+  - fa
+باتۇر:
+  gender_flag: 2
+  lang:
+  - ug
+باخوم:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - cop
+باران:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+باراک:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - en
+باسيليوس:
+  gender_flag: 2
+  lang:
+  - ar
+باقر:
+  gender_flag: 2
+  lang:
+  - ar
+باقى:
+  gender_flag: 2
+  lang:
+  - ug
+بامداد:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+بامشاد:
+  gender_flag: 2
+  lang:
+  - fa
+بانو:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+باہوبلی:
+  gender_flag: 2
+  lang:
+  - ur
+ببنودة:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - cop
+بتول:
+  gender_flag: 1
+  lang:
+  - ar
+بدر:
+  gender_flag: 2
+  lang:
+  - ar
+بدیع‌الزمان:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+براهیم:
+  lang:
+  - ms
+براين:
+  gender_flag: 2
+  is_equivalent_to:
+  - Brian
+  - Bryan
+  lang:
+  - ar
+بربارة:
+  gender_flag: 1
+  is_equivalent_to:
+  - Barbara
+  lang:
+  - ar
+برخوردار:
+  gender_flag: 2
+  lang:
+  - fa
+برهان:
+  gender_flag: 2
+  lang:
+  - ar
+بزرگمهر:
+  gender_flag: 2
+  lang:
+  - fa
+بزرگ‌امید:
+  gender_flag: 2
+  lang:
+  - fa
+بسمة:
+  gender_flag: 1
+  lang:
+  - ar
+بشار:
+  gender_flag: 2
+  lang:
+  - ar
+بشرى:
+  gender_flag: 1
+  lang:
+  - ar
+بشندي:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - cop
+بشنونة:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - cop
+بشیر:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+  origin:
+  - ar
+بطرس:
+  gender_flag: 2
+  lang:
+  - ar
+بكر:
+  gender_flag: 2
+  lang:
+  - ar
+بلال:
+  gender_flag: 2
+  lang:
+  - ar
+بنايوس:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - cop
+بنجامین:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - en
+بندر:
+  gender_flag: 2
+  lang:
+  - ar
+بنفشه:
+  gender_flag: 1
+  lang:
+  - fa
+بنیامین:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+بهادر:
+  gender_flag: 2
+  lang:
+  - fa
+بهار:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+بهداد:
+  gender_flag: 2
+  lang:
+  - fa
+بهراد:
+  gender_flag: 2
+  lang:
+  - fa
+بهرام:
+  gender_flag: 2
+  lang:
+  - fa
+بهرنگ:
+  gender_flag: 2
+  lang:
+  - fa
+بهروز:
+  gender_flag: 2
+  lang:
+  - fa
+بهزاد:
+  gender_flag: 2
+  lang:
+  - fa
+بهمن:
+  gender_flag: 2
+  lang:
+  - fa
+بهناز:
+  gender_flag: 1
+  lang:
+  - fa
+بهنام:
+  gender_flag: 2
+  lang:
+  - fa
+بهيجة:
+  gender_flag: 1
+  lang:
+  - ar
+به‌آفرید:
+  gender_flag: 3
+  lang:
+  - fa
+  origin:
+  - pal
+بول:
+  gender_flag: 2
+  lang:
+  - acw
+بولس:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - grc
+بيشوي:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - cop
+بيفام:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - cop
+بہاؤالدین:
+  gender_flag: 2
+  lang:
+  - ur
+بہرام:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - fa
+بہروز:
+  gender_flag: 2
+  lang:
+  - ur
+بیتا:
+  gender_flag: 1
+  lang:
+  - fa
+بیژن:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - xpr
+بەكرى:
+  gender_flag: 2
+  lang:
+  - ug
+تارا:
+  gender_flag: 1
+  lang:
+  - fa
+تبسم:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+ترانه:
+  gender_flag: 1
+  lang:
+  - fa
+ترزا: {}
+تسليمة:
+  gender_flag: 1
+  lang:
+  - ar
+تقلا:
+  gender_flag: 1
+  is_equivalent_to:
+  - Thecla
+  lang:
+  - ar
+تهمینه:
+  gender_flag: 1
+  lang:
+  - fa
+توانا:
+  gender_flag: 2
+  lang:
+  - ckb
+توسکا:
+  gender_flag: 1
+  lang:
+  - fa
+توفيق:
+  gender_flag: 2
+  lang:
+  - ar
+توما:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - arc
+توماس:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - en
+تيموثاوس:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - grc
+تیرداد:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - peo
+تیم:
+  gender_flag: 2
+  lang:
+  - fa
+تیمور:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+ثاودسيوس:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodosius
+  lang:
+  - ar
+  origin:
+  - grc
+ثریا:
+  gender_flag: 7
+  lang:
+  - fa
+  - ota
+  origin:
+  - ar
+ثعلبة:
+  gender_flag: 2
+  lang:
+  - ar
+ثيودوسيوس:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodosius
+  lang:
+  - ar
+جان: {}
+جاهد:
+  gender_flag: 2
+  lang:
+  - ota
+  origin:
+  - ar
+جاورجيوس:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - ar
+  origin:
+  - grc
+جاوید:
+  gender_flag: 2
+  lang:
+  - fa
+  - ota
+  - ur
+  origin:
+  - fa
+  - pal
+جبران:
+  gender_flag: 2
+  lang:
+  - ar
+جبريل:
+  gender_flag: 2
+  lang:
+  - ar
+جرجس:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - grc
+جرير:
+  gender_flag: 2
+  lang:
+  - ar
+جستينيان:
+  gender_flag: 2
+  lang:
+  - ar
+جعفر:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+  origin:
+  - ar
+جلال:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+  origin:
+  - ar
+جلنار:
+  gender_flag: 1
+  lang:
+  - ar
+جليل:
+  gender_flag: 2
+  lang:
+  - ar
+جم:
+  gender_flag: 2
+  lang:
+  - fa
+جمال:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jamal
+  lang:
+  - ar
+جمانة:
+  gender_flag: 1
+  lang:
+  - ar
+جمشید:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+جميل:
+  gender_flag: 2
+  lang:
+  - ar
+جميلة:
+  gender_flag: 1
+  lang:
+  - ar
+جمیل:
+  gender_flag: 2
+  lang:
+  - fa
+جهان:
+  gender_flag: 3
+  lang:
+  - fa
+  - ota
+جهانگیر:
+  gender_flag: 2
+  lang:
+  - fa
+جواد:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jawad
+  lang:
+  - ar
+جوان:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+جواهر:
+  gender_flag: 1
+  lang:
+  - fa
+جودت:
+  gender_flag: 2
+  lang:
+  - ar
+  - ota
+جورج:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - ar
+  - fa
+جوزف:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - en
+جون:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - ar
+  origin:
+  - en
+جيمس:
+  gender_flag: 2
+  is_equivalent_to:
+  - James
+  lang:
+  - ar
+جک:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - en
+جین:
+  gender_flag: 3
+  lang:
+  - fa
+حافظ:
+  gender_flag: 2
+  lang:
+  - ar
+حامد:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+  - ps
+حسان:
+  gender_flag: 2
+  lang:
+  - ar
+حسن:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+حسني:
+  gender_flag: 2
+  lang:
+  - ar
+حسنک:
+  gender_flag: 2
+  lang:
+  - fa
+حسين:
+  gender_flag: 2
+  lang:
+  - ar
+حسین:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+حسینقلی:
+  gender_flag: 2
+  lang:
+  - fa
+حسین‌قلی:
+  gender_flag: 2
+  lang:
+  - chg
+حمزة:
+  gender_flag: 2
+  lang:
+  - ar
+حمزه:
+  gender_flag: 2
+  lang:
+  - fa
+حميد:
+  gender_flag: 2
+  lang:
+  - ar
+حمید:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+حنبل:
+  gender_flag: 2
+  lang:
+  - ar
+حنظلة:
+  gender_flag: 2
+  lang:
+  - ar
+حوا:
+  gender_flag: 1
+  lang:
+  - fa
+حوراء:
+  gender_flag: 1
+  lang:
+  - ar
+حيدر:
+  gender_flag: 2
+  lang:
+  - ar
+حیدر:
+  gender_flag: 2
+  lang:
+  - fa
+خاتم:
+  gender_flag: 2
+  lang:
+  - fa
+خالد:
+  gender_flag: 2
+  lang:
+  - ar
+خداداد:
+  gender_flag: 2
+  lang:
+  - fa
+خديجة:
+  gender_flag: 1
+  lang:
+  - ar
+خرم:
+  gender_flag: 1
+  lang:
+  - ota
+خسرو:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+خليل:
+  gender_flag: 2
+  lang:
+  - ar
+خلیل:
+  gender_flag: 2
+  is_equivalent_to:
+  - Khalil
+  lang:
+  - fa
+  - ota
+  origin:
+  - ar
+خورشید:
+  gender_flag: 7
+  lang:
+  - fa
+داءوت:
+  lang:
+  - ms
+داؤد:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - ar
+دادمه:
+  gender_flag: 2
+  lang:
+  - fa
+دارا:
+  lang:
+  - fa
+داریوش:
+  gender_flag: 2
+  is_equivalent_to:
+  - Darius
+  lang:
+  - fa
+  origin:
+  - peo
+دانا:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+دانة:
+  gender_flag: 1
+  lang:
+  - afb
+دانيال:
+  gender_flag: 2
+  lang:
+  - ms
+  origin:
+  - he
+دانیال:
+  gender_flag: 2
+  lang:
+  - fa
+داود:
+  gender_flag: 2
+  lang:
+  - ar
+  - ms
+  origin:
+  - he
+داوود:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - ar
+  - fa
+  origin:
+  - ar
+داۋۇت:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - ug
+دریا:
+  gender_flag: 1
+  lang:
+  - fa
+  - ota
+  origin:
+  - pal
+دومة:
+  gender_flag: 1
+  lang:
+  - ar
+ديفيد:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - ar
+دیوید: {}
+ذو الفقار:
+  gender_flag: 2
+  lang:
+  - ar
+ذوالکفل:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - ar
+رؤوف:
+  gender_flag: 2
+  lang:
+  - ar
+رؤى:
+  gender_flag: 1
+  lang:
+  - ar
+رؤیا:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+راجح:
+  gender_flag: 2
+  lang:
+  - ar
+راجر:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - en
+راحيل:
+  gender_flag: 1
+  lang:
+  - ar
+راشد:
+  gender_flag: 2
+  lang:
+  - ar
+رامین:
+  gender_flag: 2
+  lang:
+  - fa
+رخشان:
+  gender_flag: 1
+  lang:
+  - fa
+رزا:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - la
+رستم:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+رشيد:
+  gender_flag: 2
+  lang:
+  - ar
+رشی:
+  gender_flag: 2
+  lang:
+  - ur
+رضا:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+رضاقلی:
+  gender_flag: 2
+  lang:
+  - chg
+  - fa
+رعنا:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+رفائيل:
+  gender_flag: 2
+  lang:
+  - ar
+رفعت:
+  gender_flag: 2
+  lang:
+  - ota
+  origin:
+  - ar
+رفيق:
+  gender_flag: 2
+  lang:
+  - ar
+رمزي:
+  gender_flag: 2
+  lang:
+  - ar
+رمزی:
+  gender_flag: 2
+  lang:
+  - ota
+  origin:
+  - ar
+رمضان:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+  - ur
+رنا:
+  gender_flag: 1
+  lang:
+  - ar
+روان:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+روبرت:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+  origin:
+  - en
+روح‌الله:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+رودابه:
+  gender_flag: 1
+  lang:
+  - fa
+روزبه:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+روناک:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ckb
+رویا: {}
+ريتشارد:
+  gender_flag: 2
+  is_equivalent_to:
+  - Richard
+  lang:
+  - ar
+ريحانة:
+  gender_flag: 1
+  lang:
+  - ar
+ريم:
+  gender_flag: 1
+  lang:
+  - ar
+ریحانه:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+ریچارد: {}
+ریچل:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - en
+ریکاردو:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - es
+  - pt
+زال:
+  gender_flag: 2
+  lang:
+  - fa
+زرياب:
+  gender_flag: 2
+  lang:
+  - ar
+زشان:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+زلیخا:
+  gender_flag: 1
+  lang:
+  - fa
+  - ps
+  origin:
+  - ar
+زنوبة:
+  gender_flag: 1
+  lang:
+  - ar
+زهراء:
+  gender_flag: 1
+  lang:
+  - ar
+  - ms
+زهرة:
+  gender_flag: 1
+  lang:
+  - ar
+زوٗن:
+  gender_flag: 1
+  lang:
+  - ks
+زىننەت:
+  gender_flag: 1
+  lang:
+  - ug
+زياد:
+  gender_flag: 2
+  lang:
+  - ar
+زيد:
+  gender_flag: 2
+  lang:
+  - ar
+زين:
+  gender_flag: 2
+  lang:
+  - ar
+زينب:
+  gender_flag: 1
+  lang:
+  - ar
+زکریا:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - ar
+زۇمرەت:
+  gender_flag: 1
+  lang:
+  - ug
+زیبا:
+  gender_flag: 1
+  lang:
+  - fa
+ساحل:
+  gender_flag: 1
+  lang:
+  - fa
+  - ur
+  origin:
+  - ar
+سارا:
+  lang:
+  - fa
+سارة:
+  gender_flag: 1
+  lang:
+  - ar
+ساسان:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+سالار:
+  gender_flag: 2
+  lang:
+  - fa
+سالم:
+  gender_flag: 2
+  lang:
+  - ar
+سام:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+سامان:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+سامي:
+  gender_flag: 2
+  lang:
+  - ar
+سامية:
+  gender_flag: 1
+  lang:
+  - ar
+سامی:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+سامیه:
+  gender_flag: 1
+  lang:
+  - fa
+سامیہ:
+  gender_flag: 1
+  lang:
+  - ur
+ستاره:
+  gender_flag: 1
+  lang:
+  - fa
+ستيفن:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - ar
+سحاک:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - hy
+سحر:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+سربام:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - cop
+سردار:
+  gender_flag: 2
+  lang:
+  - fa
+سركيس:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sergius
+  lang:
+  - ar
+سروش:
+  gender_flag: 2
+  lang:
+  - fa
+سعاد:
+  gender_flag: 1
+  lang:
+  - ar
+سعد:
+  gender_flag: 2
+  lang:
+  - ar
+سعود:
+  gender_flag: 2
+  lang:
+  - ar
+سعيد:
+  gender_flag: 2
+  lang:
+  - ar
+سعید:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+سفيان:
+  gender_flag: 2
+  lang:
+  - ar
+سلم:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ae
+سلمان:
+  gender_flag: 2
+  lang:
+  - ar
+سلمى:
+  gender_flag: 1
+  lang:
+  - ar
+سلوى:
+  gender_flag: 1
+  lang:
+  - ar
+سليم:
+  gender_flag: 2
+  lang:
+  - ar
+سليمان:
+  gender_flag: 2
+  lang:
+  - ar
+سلیمان:
+  gender_flag: 2
+  is_equivalent_to:
+  - Solomon
+  lang:
+  - fa
+  - ur
+سمر:
+  gender_flag: 1
+  lang:
+  - ar
+سمعان:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - he
+سموأل:
+  gender_flag: 2
+  is_equivalent_to:
+  - Samuel
+  lang:
+  - ar
+سمير:
+  gender_flag: 2
+  lang:
+  - ar
+سميرة:
+  gender_flag: 1
+  lang:
+  - ar
+سمیر:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+سمیرا:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+سنباد:
+  gender_flag: 2
+  lang:
+  - fa
+سهراب:
+  gender_flag: 2
+  lang:
+  - fa
+سهند:
+  gender_flag: 2
+  lang:
+  - fa
+سهيل:
+  gender_flag: 2
+  lang:
+  - ar
+سهیل:
+  gender_flag: 2
+  lang:
+  - fa
+سهیلا:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+سورنا:
+  gender_flag: 2
+  lang:
+  - fa
+سوسن:
+  gender_flag: 1
+  lang:
+  - fa
+سوشا:
+  gender_flag: 2
+  lang:
+  - fa
+سوشیانت:
+  gender_flag: 2
+  lang:
+  - fa
+سوشیانس:
+  gender_flag: 2
+  lang:
+  - fa
+سوفیا:
+  gender_flag: 1
+  lang:
+  - fa
+سىدىق:
+  gender_flag: 2
+  lang:
+  - ug
+سيبويه:
+  gender_flag: 2
+  lang:
+  - ar
+سيرين:
+  gender_flag: 1
+  lang:
+  - ar
+سينثيا:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cynthia
+  lang:
+  - ar
+سپنتا:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ae
+سپهر:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+سپیده:
+  gender_flag: 1
+  lang:
+  - fa
+سکندر:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+سیامک:
+  gender_flag: 2
+  lang:
+  - fa
+سیاوش:
+  gender_flag: 2
+  lang:
+  - fa
+سیبویه:
+  gender_flag: 2
+  lang:
+  - fa
+سیدنی:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - en
+سیلاس:
+  gender_flag: 2
+  lang:
+  - fa
+سیمین:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+سینا:
+  gender_flag: 2
+  lang:
+  - fa
+شائستہ:
+  gender_flag: 3
+  lang:
+  - ur
+شادمهر:
+  gender_flag: 2
+  lang:
+  - fa
+شادی:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+شارل: {}
+شاكر:
+  gender_flag: 2
+  lang:
+  - ar
+شاكرة:
+  gender_flag: 1
+  lang:
+  - ar
+شاهة:
+  gender_flag: 1
+  lang:
+  - ar
+شاهقلی:
+  gender_flag: 2
+  lang:
+  - fa
+شاهین:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+شاه‌قلی:
+  gender_flag: 2
+  lang:
+  - chg
+شاپور:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+شاہ قلی:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - chg
+شبنم:
+  gender_flag: 1
+  lang:
+  - fa
+  - ota
+  - ur
+شريفة:
+  gender_flag: 1
+  lang:
+  - ar
+شعله:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+شعیب:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - ar
+شغاد:
+  gender_flag: 2
+  lang:
+  - fa
+شفیق:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - ar
+شقایق:
+  gender_flag: 1
+  lang:
+  - fa
+شكري:
+  gender_flag: 2
+  lang:
+  - ar
+شكرية:
+  gender_flag: 1
+  lang:
+  - ar
+شمس الدین:
+  gender_flag: 2
+  lang:
+  - ota
+  origin:
+  - ar
+شنتانو:
+  gender_flag: 2
+  lang:
+  - ur
+شنودة:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - cop
+شهاب:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+شهرام:
+  gender_flag: 2
+  lang:
+  - fa
+شهرزاد:
+  gender_flag: 1
+  lang:
+  - ar
+  - fa
+شهروز:
+  gender_flag: 2
+  lang:
+  - fa
+شهریار:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+شهلا:
+  gender_flag: 1
+  lang:
+  - fa
+شهلاء:
+  gender_flag: 1
+  lang:
+  - ar
+شهناز:
+  gender_flag: 1
+  lang:
+  - fa
+شوقي:
+  gender_flag: 2
+  lang:
+  - ar
+شوقية:
+  gender_flag: 1
+  lang:
+  - ar
+شىرىن:
+  gender_flag: 1
+  lang:
+  - ug
+شيماء:
+  gender_flag: 1
+  lang:
+  - ar
+شہباز:
+  gender_flag: 2
+  lang:
+  - ur
+شہروز:
+  gender_flag: 2
+  lang:
+  - ur
+شہلا:
+  gender_flag: 1
+  lang:
+  - ur
+شیدا:
+  gender_flag: 1
+  lang:
+  - fa
+شیرین:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+شیوا:
+  gender_flag: 1
+  lang:
+  - fa
+شەھلا:
+  gender_flag: 1
+  lang:
+  - sdh
+  origin:
+  - ar
+صادق:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+  origin:
+  - ar
+صارم:
+  gender_flag: 2
+  lang:
+  - ota
+صالح:
+  gender_flag: 2
+  lang:
+  - ar
+  - ur
+  origin:
+  - ar
+صبري:
+  gender_flag: 2
+  lang:
+  - ar
+صبرية:
+  gender_flag: 1
+  lang:
+  - ar
+صدام:
+  gender_flag: 2
+  lang:
+  - ar
+صدف:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+صفي الدين:
+  gender_flag: 2
+  lang:
+  - ar
+صفية:
+  gender_flag: 1
+  lang:
+  - ar
+صلاح الدين:
+  gender_flag: 2
+  lang:
+  - ar
+ضیا:
+  gender_flag: 2
+  lang:
+  - fa
+  - ota
+طارق:
+  gender_flag: 2
+  lang:
+  - ar
+طاها:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+طلعت:
+  gender_flag: 3
+  lang:
+  - fa
+  - ota
+  - ur
+طه:
+  gender_flag: 2
+  lang:
+  - ar
+طهماسب:
+  gender_flag: 2
+  lang:
+  - fa
+طهمورث:
+  gender_flag: 2
+  lang:
+  - fa
+طوبی:
+  gender_flag: 1
+  lang:
+  - ur
+طوغرول:
+  gender_flag: 2
+  lang:
+  - ota
+طوفان:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+طيب:
+  gender_flag: 2
+  lang:
+  - ar
+عائشة:
+  gender_flag: 1
+  lang:
+  - ar
+عابد:
+  gender_flag: 2
+  lang:
+  - ur
+عابدہ:
+  gender_flag: 1
+  lang:
+  - ur
+عادل:
+  gender_flag: 2
+  lang:
+  - ar
+عارف:
+  gender_flag: 2
+  lang:
+  - fa
+  - ota
+  origin:
+  - ar
+عاصم:
+  gender_flag: 2
+  lang:
+  - ar
+عامر:
+  gender_flag: 2
+  lang:
+  - ar
+عباس:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+  origin:
+  - ar
+عبد الرحمن:
+  gender_flag: 2
+  lang:
+  - ar
+عبد الله:
+  gender_flag: 2
+  lang:
+  - ar
+عبد اللہ:
+  gender_flag: 2
+  lang:
+  - ur
+عبد المسيح:
+  gender_flag: 2
+  lang:
+  - ar
+عبد الناصر:
+  gender_flag: 2
+  lang:
+  - ar
+عبدالرضا:
+  gender_flag: 2
+  lang:
+  - fa
+عبدالله:
+  gender_flag: 2
+  lang:
+  - fa
+عبدالمسیح:
+  gender_flag: 2
+  lang:
+  - fa
+عبيد الله:
+  gender_flag: 2
+  lang:
+  - ar
+عبید:
+  gender_flag: 2
+  lang:
+  - fa
+عثمان:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+  origin:
+  - ar
+عدنان:
+  gender_flag: 2
+  lang:
+  - ar
+عرفان:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+عزيز:
+  gender_flag: 2
+  lang:
+  - ar
+عزیز:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+عصمت:
+  gender_flag: 2
+  lang:
+  - ota
+  origin:
+  - ar
+علاء:
+  gender_flag: 2
+  lang:
+  - ar
+علاء الدين:
+  gender_flag: 2
+  lang:
+  - ar
+علاءالدین:
+  gender_flag: 2
+  lang:
+  - fa
+علي:
+  gender_flag: 2
+  lang:
+  - acw
+  - ar
+علی:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+علی قلی:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - chg
+علیرضا:
+  gender_flag: 2
+  lang:
+  - fa
+علیقلی:
+  gender_flag: 2
+  lang:
+  - fa
+علی‌قلی:
+  gender_flag: 2
+  lang:
+  - chg
+عماد:
+  gender_flag: 2
+  lang:
+  - ar
+عمر:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+  - ur
+عمران:
+  gender_flag: 2
+  is_equivalent_to:
+  - Imran
+  lang:
+  - ar
+عمرو:
+  gender_flag: 2
+  lang:
+  - ar
+عنتر:
+  gender_flag: 2
+  lang:
+  - ar
+عيسى:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isa
+  lang:
+  - ar
+عیسی:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+غالب:
+  gender_flag: 2
+  lang:
+  - ota
+  origin:
+  - ar
+غريغوريوس:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - ar
+  origin:
+  - grc
+غزل:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+غنچه:
+  gender_flag: 1
+  lang:
+  - fa
+فؤاد:
+  gender_flag: 2
+  is_equivalent_to:
+  - Fuad
+  lang:
+  - ar
+  - ota
+  origin:
+  - ar
+فائزة:
+  gender_flag: 1
+  lang:
+  - ar
+فادي:
+  gender_flag: 2
+  lang:
+  - ar
+فاضل:
+  gender_flag: 2
+  lang:
+  - ar
+  - ota
+  origin:
+  - ar
+فاطمة:
+  gender_flag: 1
+  lang:
+  - ar
+فاطمه:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+فانا:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - cop
+فانی:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - en
+فتح الله:
+  gender_flag: 2
+  lang:
+  - ar
+فتح‌الله:
+  gender_flag: 2
+  lang:
+  - fa
+فدریکا: {}
+فدوى:
+  gender_flag: 1
+  lang:
+  - ar
+فراز:
+  gender_flag: 2
+  lang:
+  - ur
+فرانک:
+  gender_flag: 1
+  lang:
+  - fa
+فرج:
+  gender_flag: 2
+  lang:
+  - ar
+فرخنده:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - sog
+فرزاد:
+  gender_flag: 2
+  lang:
+  - fa
+فرزانه:
+  gender_flag: 1
+  lang:
+  - fa
+فرشاد:
+  gender_flag: 2
+  lang:
+  - fa
+فرشته:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+فرنسيس:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - ar
+فرنود:
+  gender_flag: 2
+  lang:
+  - fa
+فرنوش:
+  gender_flag: 1
+  lang:
+  - fa
+فرهاد:
+  gender_flag: 2
+  lang:
+  - fa
+فرهان:
+  gender_flag: 2
+  lang:
+  - fa
+فرهنگ:
+  gender_flag: 2
+  lang:
+  - fa
+  - mzn
+فروغ:
+  gender_flag: 1
+  lang:
+  - fa
+فريال:
+  gender_flag: 1
+  lang:
+  - ar
+فريد:
+  gender_flag: 2
+  lang:
+  - ar
+فريدة:
+  gender_flag: 1
+  lang:
+  - ar
+فریال:
+  gender_flag: 1
+  lang:
+  - fa
+  - ota
+  - ur
+فریان:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - xpr
+فریانه:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - xpr
+فریبا:
+  gender_flag: 1
+  lang:
+  - fa
+فرید:
+  gender_flag: 2
+  lang:
+  - fa
+  - ota
+  origin:
+  - ar
+فریدون:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+فریماه:
+  gender_flag: 1
+  lang:
+  - fa
+فرینام:
+  gender_flag: 2
+  lang:
+  - fa
+فریور:
+  gender_flag: 2
+  lang:
+  - fa
+فلاديمير:
+  gender_flag: 2
+  is_equivalent_to:
+  - Vladimir
+  lang:
+  - ar
+  origin:
+  - ru
+فلورا:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - la
+فهد:
+  gender_flag: 2
+  lang:
+  - ar
+فوزي:
+  gender_flag: 2
+  lang:
+  - ar
+فوزية:
+  gender_flag: 1
+  lang:
+  - ar
+فيروز:
+  gender_flag: 1
+  lang:
+  - ar
+فيصل:
+  gender_flag: 2
+  lang:
+  - ar
+فيلبس:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - ar
+فيليب:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - ar
+فيليبوس:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - ar
+فیروزه:
+  gender_flag: 1
+  lang:
+  - fa
+فیصل:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+فیلیپ:
+  gender_flag: 2
+  lang:
+  - fa
+قادر:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+قادىر:
+  gender_flag: 2
+  lang:
+  - ug
+قاسم:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+قاسىم:
+  gender_flag: 2
+  lang:
+  - ug
+قدرت‌الله:
+  gender_flag: 2
+  lang:
+  - fa
+قدسیه:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+قسطنطين:
+  gender_flag: 2
+  is_equivalent_to:
+  - Constantine
+  lang:
+  - ar
+قىلىچ:
+  gender_flag: 2
+  lang:
+  - ug
+قۇتلۇق:
+  gender_flag: 2
+  lang:
+  - ug
+قەمەر:
+  gender_flag: 1
+  lang:
+  - ug
+قەيسەر:
+  gender_flag: 2
+  lang:
+  - ug
+كاظم:
+  gender_flag: 2
+  lang:
+  - ota
+  origin:
+  - ar
+كامال:
+  gender_flag: 2
+  lang:
+  - ug
+كامل:
+  gender_flag: 2
+  lang:
+  - ar
+كرم:
+  gender_flag: 2
+  lang:
+  - ota
+  origin:
+  - ar
+كريستوفر:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - ar
+كريم:
+  gender_flag: 2
+  lang:
+  - ar
+كميل:
+  gender_flag: 2
+  lang:
+  - ar
+كنزة:
+  gender_flag: 1
+  lang:
+  - ar
+كوثر:
+  gender_flag: 1
+  lang:
+  - ar
+كيرلس:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - grc
+كەۋسەر:
+  gender_flag: 1
+  lang:
+  - ug
+لؤلؤ:
+  gender_flag: 2
+  lang:
+  - ar
+لؤلؤة:
+  gender_flag: 1
+  lang:
+  - ar
+لؤي:
+  gender_flag: 2
+  lang:
+  - ar
+لاله:
+  gender_flag: 1
+  lang:
+  - fa
+لقاء:
+  gender_flag: 3
+  lang:
+  - ar
+لقمان:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+  - ur
+لما:
+  gender_flag: 1
+  lang:
+  - acw
+  - ar
+لمى:
+  gender_flag: 1
+  lang:
+  - ar
+لوط:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - ar
+ليث:
+  gender_flag: 2
+  lang:
+  - ar
+ليلى:
+  gender_flag: 1
+  lang:
+  - ar
+لکشمی:
+  gender_flag: 1
+  lang:
+  - ur
+لیلا:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+لیلی:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+ماجد:
+  gender_flag: 2
+  lang:
+  - ar
+مادیار:
+  gender_flag: 2
+  lang:
+  - ckb
+مارك:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mark
+  lang:
+  - ar
+مارک:
+  gender_flag: 2
+  lang:
+  - fa
+مازیار:
+  gender_flag: 2
+  lang:
+  - fa
+مالك:
+  gender_flag: 2
+  lang:
+  - ar
+ماندگار:
+  gender_flag: 1
+  lang:
+  - fa
+مانی:
+  gender_flag: 2
+  lang:
+  - fa
+ماهان:
+  gender_flag: 2
+  lang:
+  - fa
+ماهر:
+  gender_flag: 2
+  lang:
+  - ar
+مايك:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mike
+  lang:
+  - ar
+مايكل:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - ar
+مایکل: {}
+مجتبی:
+  gender_flag: 2
+  lang:
+  - fa
+مجید:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+محسن:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+  origin:
+  - ar
+محمد:
+  gender_flag: 2
+  lang:
+  - ajp
+  - ar
+  - fa
+  - ota
+  - pa
+  - ps
+  - sd
+  - ur
+محمد باقر:
+  gender_flag: 2
+  lang:
+  - ar
+محمد قلی:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - chg
+محمدجواد:
+  gender_flag: 2
+  lang:
+  - fa
+محمدرضا:
+  gender_flag: 2
+  lang:
+  - fa
+محمدقلی:
+  gender_flag: 2
+  lang:
+  - chg
+  - fa
+محمود:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+  origin:
+  - ar
+محيي الدين:
+  gender_flag: 2
+  lang:
+  - ar
+محیی الدین:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - ar
+محیی‌الدین:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+مختار:
+  gender_flag: 2
+  lang:
+  - fa
+  - ota
+مدثر:
+  gender_flag: 2
+  lang:
+  - ar
+مراد:
+  gender_flag: 2
+  lang:
+  - ar
+مرتضى:
+  gender_flag: 2
+  lang:
+  - ar
+مرتضی:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+مرجان:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+مرزوق:
+  gender_flag: 2
+  lang:
+  - ar
+مرشدقلی:
+  gender_flag: 2
+  lang:
+  - chg
+  - fa
+مرضیه:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ar
+مرقس:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - grc
+مروارید:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+مروان:
+  gender_flag: 2
+  lang:
+  - ar
+مريم:
+  gender_flag: 1
+  lang:
+  - ar
+مریلا:
+  gender_flag: 1
+  lang:
+  - fa
+مریم:
+  gender_flag: 1
+  is_equivalent_to:
+  - Mary
+  lang:
+  - fa
+  - ur
+  origin:
+  - ar
+مزدک:
+  gender_flag: 2
+  lang:
+  - fa
+مساعد:
+  gender_flag: 2
+  lang:
+  - ar
+مسعود:
+  gender_flag: 2
+  lang:
+  - fa
+  - pa
+  origin:
+  - ar
+مسلم:
+  gender_flag: 2
+  lang:
+  - ar
+مشعل:
+  gender_flag: 2
+  lang:
+  - ar
+مصطفى:
+  gender_flag: 2
+  lang:
+  - ar
+مصطفی:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+مظفر:
+  gender_flag: 2
+  lang:
+  - fa
+معاوية:
+  gender_flag: 2
+  lang:
+  - ar
+مقاتل:
+  gender_flag: 2
+  lang:
+  - ar
+مقار:
+  gender_flag: 2
+  is_equivalent_to:
+  - Macarius
+  lang:
+  - ar
+مقداد:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+  origin:
+  - ar
+مكاريوس:
+  gender_flag: 2
+  is_equivalent_to:
+  - Macarius
+  lang:
+  - ar
+ملاتيوس:
+  gender_flag: 2
+  is_equivalent_to:
+  - Meletius
+  lang:
+  - ar
+  origin:
+  - grc
+ملکه:
+  gender_flag: 1
+  lang:
+  - fa
+ملکہ:
+  gender_flag: 1
+  lang:
+  - pa
+ملیکا:
+  gender_flag: 1
+  lang:
+  - fa
+ممد:
+  gender_flag: 2
+  lang:
+  - fa
+منالاوس:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - grc
+منصور:
+  gender_flag: 2
+  lang:
+  - ar
+منوچهر:
+  gender_flag: 2
+  lang:
+  - fa
+منى:
+  gender_flag: 1
+  lang:
+  - ar
+منیژه:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - xpr
+مهتاب:
+  gender_flag: 1
+  lang:
+  - fa
+مهدي:
+  gender_flag: 2
+  lang:
+  - ar
+مهدی:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+مهدیقلی:
+  gender_flag: 2
+  lang:
+  - fa
+مهدی‌قلی:
+  gender_flag: 2
+  lang:
+  - chg
+مهران:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+مهرداد:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+مهری:
+  gender_flag: 1
+  lang:
+  - fa
+مهسا:
+  gender_flag: 1
+  lang:
+  - fa
+مهشید:
+  gender_flag: 1
+  lang:
+  - fa
+مهناز:
+  gender_flag: 1
+  lang:
+  - fa
+مهنوش:
+  gender_flag: 1
+  lang:
+  - fa
+مهوش:
+  gender_flag: 1
+  lang:
+  - fa
+مهیار:
+  gender_flag: 2
+  lang:
+  - fa
+موسى:
+  gender_flag: 2
+  lang:
+  - ar
+موسي:
+  gender_flag: 2
+  lang:
+  - sd
+  origin:
+  - ar
+موسی:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+  origin:
+  - ar
+مولود:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+مي:
+  gender_flag: 1
+  lang:
+  - ar
+ميثوديوس:
+  gender_flag: 2
+  is_equivalent_to:
+  - Methodius
+  lang:
+  - ar
+ميخائيل:
+  gender_flag: 2
+  lang:
+  - ar
+ميشال:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - French
+مژده:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - xpr
+مژگان:
+  gender_flag: 1
+  lang:
+  - fa
+مہدی قلی:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - chg
+میترا:
+  gender_flag: 1
+  lang:
+  - fa
+میثم:
+  gender_flag: 2
+  lang:
+  - fa
+میخائیل:
+  gender_flag: 2
+  lang:
+  - fa
+میلاد:
+  gender_flag: 2
+  lang:
+  - fa
+مینا:
+  gender_flag: 1
+  lang:
+  - fa
+مەھەممەت:
+  gender_flag: 2
+  lang:
+  - ug
+نادر:
+  gender_flag: 2
+  lang:
+  - fa
+ناديا:
+  gender_flag: 1
+  lang:
+  - ar
+نادين:
+  gender_flag: 1
+  is_equivalent_to:
+  - Nadine
+  lang:
+  - ar
+نازی:
+  gender_flag: 1
+  lang:
+  - fa
+ناصر:
+  gender_flag: 2
+  lang:
+  - ar
+نانسي:
+  gender_flag: 1
+  lang:
+  - ar
+ناهید:
+  gender_flag: 1
+  lang:
+  - fa
+نبيل:
+  gender_flag: 2
+  lang:
+  - ar
+نجوى:
+  gender_flag: 1
+  lang:
+  - ar
+نجيب:
+  gender_flag: 2
+  lang:
+  - ar
+نجیب:
+  gender_flag: 2
+  lang:
+  - ota
+  origin:
+  - ar
+ندا:
+  gender_flag: 1
+  lang:
+  - fa
+نداء:
+  gender_flag: 1
+  lang:
+  - ar
+نذير:
+  gender_flag: 2
+  lang:
+  - ar
+نرجس:
+  gender_flag: 1
+  lang:
+  - ar
+  - fa
+  - ota
+نرگس:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+نریمان:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ae
+نسترن:
+  gender_flag: 1
+  lang:
+  - fa
+نسرين:
+  gender_flag: 1
+  lang:
+  - ar
+نسرین:
+  gender_flag: 1
+  lang:
+  - fa
+نسيم:
+  gender_flag: 2
+  lang:
+  - ar
+نسیم:
+  gender_flag: 3
+  lang:
+  - fa
+  origin:
+  - ar
+نصر الله:
+  gender_flag: 2
+  lang:
+  - ar
+نصرالله:
+  gender_flag: 2
+  lang:
+  - fa
+نضال:
+  gender_flag: 2
+  lang:
+  - ar
+نعمة الله:
+  gender_flag: 2
+  lang:
+  - ar
+نوا:
+  gender_flag: 1
+  lang:
+  - fa
+نواف:
+  gender_flag: 2
+  lang:
+  - ar
+نوح:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - ar
+نور:
+  gender_flag: 7
+  lang:
+  - ar
+  - fa
+  - ur
+  origin:
+  - ar
+نورة:
+  gender_flag: 1
+  lang:
+  - ar
+نوشین:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+نون:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - he
+نوید:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+  origin:
+  - fa
+نوین:
+  gender_flag: 2
+  lang:
+  - fa
+نيقولاوس:
+  gender_flag: 2
+  lang:
+  - ar
+نگار:
+  gender_flag: 1
+  lang:
+  - fa
+نگین:
+  gender_flag: 1
+  lang:
+  - fa
+نیلوفر:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+نیما:
+  gender_flag: 2
+  lang:
+  - fa
+نینا:
+  gender_flag: 1
+  lang:
+  - fa
+نیوشا:
+  gender_flag: 1
+  lang:
+  - fa
+هاجر:
+  gender_flag: 1
+  lang:
+  - ar
+هادي:
+  gender_flag: 2
+  lang:
+  - ar
+  - ary
+هارون:
+  gender_flag: 2
+  lang:
+  - ar
+  - fa
+  - ms
+  origin:
+  - ar
+  - he
+هاله:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - grc
+هامون:
+  gender_flag: 2
+  lang:
+  - fa
+هدى:
+  gender_flag: 1
+  lang:
+  - ar
+هرمز:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+هرمينا:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - cop
+هشام:
+  gender_flag: 2
+  lang:
+  - ar
+هلن:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - grc
+هما:
+  gender_flag: 1
+  lang:
+  - fa
+هند:
+  gender_flag: 1
+  lang:
+  - ar
+هوتن:
+  gender_flag: 2
+  lang:
+  - fa
+هوشنگ:
+  gender_flag: 2
+  lang:
+  - fa
+هومن:
+  gender_flag: 2
+  lang:
+  - fa
+هيثم:
+  gender_flag: 2
+  lang:
+  - ar
+هيلانة:
+  gender_flag: 1
+  is_equivalent_to:
+  - Helen
+  lang:
+  - ar
+هژیر:
+  gender_flag: 2
+  lang:
+  - fa
+هیوا:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ckb
+هېلۍ:
+  gender_flag: 1
+  lang:
+  - ps
+وائل:
+  gender_flag: 2
+  lang:
+  - ar
+  - ota
+  origin:
+  - ar
+واروژان:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - hy
+واصف:
+  gender_flag: 2
+  lang:
+  - ota
+  origin:
+  - ar
+واهاگن:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - hy
+ودامون:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - cop
+ورشنوفة:
+  gender_flag: 2
+  lang:
+  - ar
+  origin:
+  - cop
+وسنت:
+  gender_flag: 2
+  lang:
+  - ur
+وشنو:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - sa
+ولاش:
+  gender_flag: 2
+  lang:
+  - fa
+وليم:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - ar
+ونوشه:
+  gender_flag: 1
+  lang:
+  - mzn
+ویس:
+  gender_flag: 1
+  lang:
+  - fa
+ویستا:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ae
+ویگن:
+  gender_flag: 2
+  lang:
+  - fa
+يادىكار:
+  gender_flag: 2
+  lang:
+  - ug
+يارا:
+  gender_flag: 1
+  lang:
+  - ar
+ياسمين:
+  gender_flag: 1
+  lang:
+  - ar
+ياسىن:
+  gender_flag: 2
+  lang:
+  - ug
+ياسين:
+  gender_flag: 2
+  lang:
+  - ar
+يحيى:
+  gender_flag: 2
+  lang:
+  - ar
+يزيد:
+  gender_flag: 2
+  lang:
+  - ar
+يعقوب:
+  gender_flag: 2
+  lang:
+  - ar
+يوحنا:
+  gender_flag: 2
+  lang:
+  - ar
+يوسف:
+  gender_flag: 2
+  lang:
+  - ar
+يولداش:
+  gender_flag: 2
+  lang:
+  - ug
+يولۋاس:
+  gender_flag: 2
+  lang:
+  - ug
+يونس:
+  gender_flag: 2
+  lang:
+  - ar
+يۈسۈپ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - ug
+پاتریک:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - en
+پادوسپان:
+  gender_flag: 2
+  lang:
+  - fa
+پارسا:
+  gender_flag: 2
+  lang:
+  - fa
+پاشا:
+  gender_flag: 3
+  lang:
+  - mzn
+  - ug
+پاشائاي:
+  gender_flag: 1
+  lang:
+  - ug
+پال:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - en
+پاول:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - grc
+پدرام:
+  gender_flag: 2
+  lang:
+  - fa
+پردیس:
+  gender_flag: 1
+  lang:
+  - fa
+پرستو:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+پرنیا:
+  gender_flag: 1
+  lang:
+  - fa
+پرهام:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - he
+پروانه:
+  gender_flag: 1
+  lang:
+  - fa
+پرویز:
+  gender_flag: 2
+  lang:
+  - fa
+پروین:
+  gender_flag: 1
+  lang:
+  - fa
+پری:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+پریسا:
+  gender_flag: 1
+  lang:
+  - fa
+پریوش:
+  gender_flag: 1
+  lang:
+  - fa
+پوران:
+  gender_flag: 1
+  lang:
+  - fa
+پورنگ:
+  gender_flag: 2
+  lang:
+  - fa
+پوریا:
+  gender_flag: 2
+  lang:
+  - fa
+پولات:
+  gender_flag: 2
+  lang:
+  - ug
+پولاد:
+  lang:
+  - fa
+پولس:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+  origin:
+  - grc
+پوپک:
+  gender_flag: 1
+  lang:
+  - fa
+پویان:
+  gender_flag: 2
+  lang:
+  - fa
+پژمان:
+  gender_flag: 2
+  lang:
+  - fa
+پگاه:
+  gender_flag: 1
+  lang:
+  - fa
+پیام:
+  lang:
+  - fa
+پیروز:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+پیمان:
+  gender_flag: 2
+  lang:
+  - fa
+پەرھات:
+  gender_flag: 2
+  lang:
+  - ug
+چارلز: {}
+چاک:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - en
+چنگیز:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - mn
+چکاوک:
+  gender_flag: 1
+  lang:
+  - fa
+ژاله:
+  gender_flag: 1
+  lang:
+  - fa
+ژان: {}
+ژوان:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ckb
+ژیلا:
+  gender_flag: 1
+  lang:
+  - fa
+کارن:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+کارۆ:
+  gender_flag: 2
+  lang:
+  - ckb
+کاظم:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+کامران:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+کامیاب:
+  gender_flag: 2
+  lang:
+  - fa
+کامیار:
+  gender_flag: 2
+  lang:
+  - fa
+کاوه:
+  gender_flag: 2
+  lang:
+  - fa
+کتایون:
+  gender_flag: 1
+  lang:
+  - fa
+کتی:
+  gender_flag: 1
+  lang:
+  - fa
+کرشمہ:
+  gender_flag: 1
+  lang:
+  - ur
+کرم:
+  gender_flag: 2
+  lang:
+  - fa
+کریستوفر: {}
+کریم:
+  gender_flag: 2
+  lang:
+  - fa
+  - ur
+کمال:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - ar
+کمیل:
+  gender_flag: 2
+  lang:
+  - fa
+کوروش:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cyrus
+  lang:
+  - fa
+  origin:
+  - peo
+کوکب:
+  gender_flag: 1
+  lang:
+  - fa
+کژال:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - ckb
+کیمیا:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - grc
+کیهان:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+کیوان:
+  gender_flag: 2
+  lang:
+  - fa
+  origin:
+  - pal
+کی‌قباد:
+  gender_flag: 2
+  lang:
+  - fa
+ڪريم:
+  gender_flag: 2
+  lang:
+  - sd
+گلاره:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - sdh
+گلبرگ:
+  gender_flag: 1
+  lang:
+  - fa
+گلشیفته:
+  gender_flag: 1
+  lang:
+  - fa
+گلناز:
+  gender_flag: 1
+  lang:
+  - fa
+گلی:
+  gender_flag: 1
+  lang:
+  - fa
+گودرز:
+  gender_flag: 2
+  lang:
+  - fa
+گوهر:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+گۆھەر:
+  gender_flag: 1
+  lang:
+  - ug
+گۆھەرئاي:
+  gender_flag: 1
+  lang:
+  - ug
+گیتا:
+  gender_flag: 1
+  lang:
+  - fa
+گیتی:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal
+گەشین:
+  gender_flag: 1
+  lang:
+  - ckb
+گەنج:
+  gender_flag: 2
+  lang:
+  - ckb
+ھۆرمەت:
+  gender_flag: 1
+  lang:
+  - ug
+ہارون:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - ar
+ہود:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - ar
+یاس:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jasmine
+  lang:
+  - fa
+یاسمن:
+  gender_flag: 1
+  lang:
+  - fa
+یاسمین:
+  gender_flag: 1
+  lang:
+  - ur
+یالمان:
+  gender_flag: 2
+  lang:
+  - mzn
+یحیی:
+  gender_flag: 2
+  lang:
+  - ur
+  origin:
+  - ar
+یعقوب:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  - James
+  lang:
+  - fa
+  - ur
+  origin:
+  - ar
+  - he
+  - syc
+یلدا:
+  gender_flag: 1
+  lang:
+  - fa
+یوحنا:
+  gender_flag: 2
+  lang:
+  - ur
+یوسف:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - fa
+  - ota
+  - ur
+  origin:
+  - ar
+  - he
+یونس:
+  gender_flag: 2
+  lang:
+  - fa
+  - ota
+  origin:
+  - ar
+  - he
+یگانه:
+  gender_flag: 1
+  lang:
+  - fa
+  origin:
+  - pal

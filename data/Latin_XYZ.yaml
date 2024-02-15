@@ -1,0 +1,3784 @@
+Xabier:
+  gender_flag: 2
+  lang:
+  - eu
+Xacobe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  - James
+  lang:
+  - gl
+Xaime:
+  gender_flag: 2
+  is_equivalent_to:
+  - James
+  lang:
+  - ast
+Xalidə:
+  gender_flag: 1
+  lang:
+  - az
+Xan:
+  gender_flag: 3
+  is_equivalent_to:
+  - John
+  is_short_for:
+  - Alexander
+  - Alexandra
+  lang:
+  - en
+  - gl
+Xana:
+  gender_flag: 1
+  is_short_for:
+  - Alexandra
+  lang:
+  - pt
+Xander:
+  gender_flag: 2
+  is_short_for:
+  - Alexander
+  lang:
+  - en
+  origin:
+  - grc
+Xandi:
+  gender_flag: 2
+  is_short_for:
+  - Alexander
+  lang:
+  - gsw
+  origin:
+  - grc
+Xandra:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Xandria:
+  gender_flag: 1
+  is_a_variant_of:
+  - Alexandra
+  lang:
+  - en
+Xanthe:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Xantipa:
+  gender_flag: 1
+  lang:
+  - ca
+Xasan:
+  gender_flag: 2
+  lang:
+  - so
+Xav:
+  gender_flag: 2
+  is_short_for:
+  - Xavier
+  lang:
+  - en
+Xaver:
+  gender_flag: 2
+  is_equivalent_to:
+  - Xavier
+  lang:
+  - de
+Xavi:
+  gender_flag: 2
+  is_short_for:
+  - Xavier
+  lang:
+  - ca
+  - en
+Xavier:
+  gender_flag: 2
+  lang:
+  - ca
+  - ceb
+  - en
+  - fr
+  - pt
+  origin:
+  - en
+  - es
+  - eu
+Xavér:
+  gender_flag: 2
+  is_equivalent_to:
+  - Xavier
+  lang:
+  - hu
+Xeberin:
+  gender_flag: 2
+  lang:
+  - eu
+Xeimun:
+  gender_flag: 2
+  lang:
+  - eu
+Xekolas:
+  gender_flag: 2
+  lang:
+  - eu
+Xelena:
+  gender_flag: 1
+  lang:
+  - eu
+Xelina:
+  gender_flag: 1
+  lang:
+  - eu
+Xemark:
+  gender_flag: 2
+  lang:
+  - eu
+Xemarti:
+  gender_flag: 2
+  lang:
+  - eu
+Xemartin:
+  gender_flag: 2
+  lang:
+  - eu
+Xeme:
+  gender_flag: 2
+  lang:
+  - eu
+Xemein:
+  gender_flag: 1
+  lang:
+  - eu
+Xemen:
+  gender_flag: 2
+  lang:
+  - eu
+Xemeno:
+  gender_flag: 2
+  lang:
+  - eu
+Xemerot:
+  gender_flag: 2
+  lang:
+  - eu
+Xemon:
+  gender_flag: 2
+  lang:
+  - eu
+Xena:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Xenia:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - es
+  origin:
+  - grc
+Xenie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Xenia
+  lang:
+  - cs
+Xenxo:
+  gender_flag: 2
+  lang:
+  - gl
+Xerazade:
+  gender_flag: 1
+  is_equivalent_to:
+  - Scheherazade
+  lang:
+  - pt
+Xeremías:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jeremiah
+  lang:
+  - gl
+Xerrok:
+  gender_flag: 2
+  lang:
+  - eu
+Xerxes:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - peo
+Xerxész:
+  gender_flag: 2
+  lang:
+  - hu
+  origin:
+  - peo
+Xesús:
+  gender_flag: 2
+  lang:
+  - ast
+  - gl
+Xeter:
+  gender_flag: 2
+  lang:
+  - kmr
+Xevi:
+  gender_flag: 2
+  is_short_for:
+  - Xavier
+  lang:
+  - ca
+Xexili:
+  gender_flag: 1
+  lang:
+  - eu
+Xezal:
+  gender_flag: 1
+  lang:
+  - kmr
+Xhak:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jack
+  lang:
+  - sq
+Xhevahir:
+  gender_flag: 2
+  lang:
+  - sq
+  origin:
+  - ar
+Xiao:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julian
+  lang:
+  - gl
+Xiaomin:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cmn
+Xibalt:
+  gender_flag: 2
+  lang:
+  - eu
+Xicu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frances
+  lang:
+  - ast
+Xikat:
+  gender_flag: 2
+  lang:
+  - eu
+Ximena:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - eu
+  origin:
+  - es
+  - eu
+  - osp
+Ximon:
+  gender_flag: 2
+  lang:
+  - eu
+Ximun:
+  gender_flag: 2
+  lang:
+  - eu
+Xiomara:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - gnc
+Xipi:
+  gender_flag: 2
+  lang:
+  - eu
+Xipia:
+  gender_flag: 2
+  lang:
+  - eu
+Xipri:
+  gender_flag: 2
+  lang:
+  - eu
+Xisto:
+  gender_flag: 2
+  lang:
+  - eu
+Xixila:
+  gender_flag: 1
+  lang:
+  - eu
+Xixili:
+  gender_flag: 1
+  lang:
+  - eu
+Xián:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julian
+  lang:
+  - gl
+Xmun:
+  gender_flag: 2
+  is_equivalent_to:
+  - Simon
+  lang:
+  - mt
+  origin:
+  - grc
+  - he
+  - la
+  - scn
+Xoana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jane
+  - Jean
+  - Joan
+  - Joanna
+  - Joanne
+  lang:
+  - gl
+Xoane:
+  gender_flag: 2
+  lang:
+  - eu
+Xoangotei:
+  gender_flag: 2
+  lang:
+  - eu
+Xoantako:
+  gender_flag: 2
+  lang:
+  - eu
+Xoanto:
+  gender_flag: 2
+  lang:
+  - eu
+Xobadin:
+  gender_flag: 1
+  lang:
+  - eu
+Xobat:
+  gender_flag: 2
+  lang:
+  - eu
+Xobür:
+  gender_flag: 2
+  lang:
+  - eu
+Xofie:
+  gender_flag: 2
+  lang:
+  - eu
+Xohán:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - gl
+Xole:
+  gender_flag: 1
+  lang:
+  - eu
+Xona:
+  gender_flag: 2
+  lang:
+  - eu
+Xope:
+  gender_flag: 2
+  lang:
+  - eu
+Xopeiza:
+  gender_flag: 1
+  lang:
+  - eu
+Xoro:
+  gender_flag: 2
+  lang:
+  - eu
+Xoroko:
+  gender_flag: 2
+  lang:
+  - eu
+Xororó:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Xorut:
+  gender_flag: 2
+  lang:
+  - eu
+Xosan:
+  gender_flag: 1
+  lang:
+  - eu
+Xosepe:
+  gender_flag: 2
+  lang:
+  - ast
+Xosué:
+  gender_flag: 2
+  lang:
+  - ast
+Xosé:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - gl
+Xotil:
+  gender_flag: 2
+  lang:
+  - eu
+Xoán:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - gl
+Xuan:
+  gender_flag: 2
+  lang:
+  - ast
+Xuban:
+  gender_flag: 2
+  lang:
+  - eu
+Xudit:
+  gender_flag: 1
+  lang:
+  - gl
+Xudite:
+  gender_flag: 1
+  lang:
+  - gl
+Xufat:
+  gender_flag: 2
+  lang:
+  - eu
+Xulia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Julia
+  lang:
+  - ast
+Xuntako:
+  gender_flag: 2
+  lang:
+  - eu
+Xurdana:
+  gender_flag: 1
+  lang:
+  - eu
+Xurde:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - ast
+Xurdin:
+  gender_flag: 2
+  lang:
+  - eu
+Xurdina:
+  gender_flag: 1
+  lang:
+  - eu
+Xurio:
+  gender_flag: 2
+  lang:
+  - eu
+Xurxo:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - gl
+Xuân:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Xzavier:
+  gender_flag: 2
+  lang:
+  - en
+Xénia:
+  gender_flag: 1
+  lang:
+  - sk
+Xóchitl:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - nci
+Xəlil:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+Y-Adam:
+  gender_flag: 2
+  lang:
+  - rad
+Y-Dăwit:
+  gender_flag: 2
+  lang:
+  - rad
+Y-Ênok:
+  gender_flag: 2
+  lang:
+  - rad
+Yaban:
+  gender_flag: 2
+  lang:
+  - tr
+Yabgu:
+  gender_flag: 2
+  lang:
+  - tr
+Yacinte:
+  gender_flag: 2
+  lang:
+  - wa
+Yadiel:
+  gender_flag: 2
+  lang:
+  - en
+Yaeko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - pt
+  - tl
+  origin:
+  - ja
+Yael:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Yago:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+  origin:
+  - es
+  - la
+Yahir:
+  gender_flag: 2
+  lang:
+  - en
+Yahor: {}
+Yahya:
+  gender_flag: 2
+  lang:
+  - en
+  - tr
+  origin:
+  - ar
+Yahşi:
+  gender_flag: 3
+  lang:
+  - tr
+Yahşiboğa:
+  gender_flag: 2
+  lang:
+  - tr
+Yair:
+  gender_flag: 2
+  lang:
+  - en
+Yakau: {}
+Yakiv: {}
+Yakob:
+  gender_flag: 2
+  lang:
+  - ee
+Yakova:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Yakup:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - tr
+  origin:
+  - ar
+  - he
+  - syc
+Yalwa:
+  gender_flag: 3
+  lang:
+  - ha
+Yalçın:
+  gender_flag: 2
+  lang:
+  - tr
+Yalım:
+  gender_flag: 2
+  lang:
+  - tr
+Yalın:
+  gender_flag: 3
+  lang:
+  - tr
+Yaman:
+  gender_flag: 2
+  lang:
+  - tr
+Yamaner:
+  gender_flag: 2
+  lang:
+  - tr
+Yamansoy:
+  gender_flag: 2
+  lang:
+  - tr
+Yamantürk:
+  gender_flag: 2
+  lang:
+  - tr
+Yamanyiğit:
+  gender_flag: 2
+  lang:
+  - tr
+Yamanöz:
+  gender_flag: 2
+  lang:
+  - tr
+Yamato:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yamaç:
+  gender_flag: 2
+  lang:
+  - tr
+Yamileth:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - es
+Yamyam:
+  gender_flag: 2
+  lang:
+  - ceb
+Yan:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - en
+Yana:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sla
+Yancy:
+  gender_flag: 2
+  lang:
+  - en
+Yande:
+  gender_flag: 2
+  lang:
+  - wa
+Yann:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - br
+  - fr
+  origin:
+  - br
+  - he
+Yannick:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jannik
+  lang:
+  - de
+  - en
+  - fr
+  origin:
+  - br
+  - fr
+Yannig:
+  gender_flag: 2
+  is_equivalent_to:
+  - Johnny
+  is_short_for:
+  - Yann
+  lang:
+  - br
+Yannik:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jannik
+  - Yannick
+  lang:
+  - de
+Yanny:
+  gender_flag: 7
+  lang:
+  - en
+Yanyan:
+  gender_flag: 3
+  lang:
+  - ceb
+Yanık:
+  gender_flag: 2
+  lang:
+  - tr
+Yaprak:
+  gender_flag: 1
+  lang:
+  - tr
+Yaqub:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - az
+  origin:
+  - ar
+  - he
+  - syc
+Yara:
+  gender_flag: 1
+  lang:
+  - en
+Yaraslau: {}
+Yarden:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - he
+Yareli:
+  gender_flag: 1
+  lang:
+  - en
+Yaretzi:
+  gender_flag: 1
+  lang:
+  - es
+Yaritza:
+  gender_flag: 1
+  lang:
+  - es
+Yaroslav: {}
+Yasa:
+  gender_flag: 2
+  lang:
+  - tr
+Yasemin:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jasmine
+  lang:
+  - tr
+  origin:
+  - fa
+Yashoda:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Yasin:
+  gender_flag: 2
+  lang:
+  - tr
+Yasmeen:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Yasmim: {}
+Yasmin:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jasmim
+  lang:
+  - de
+  - en
+  - pt
+  - tl
+  origin:
+  - ar
+  - en
+Yasmina:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ar
+  - fa
+Yasmine:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ar
+  - fa
+Yasuhiro:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yasuko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - pt
+  origin:
+  - ja
+Yasuo:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yasushi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yasutoshi:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  origin:
+  - ja
+Yathi:
+  gender_flag: 2
+  lang:
+  - en
+Yatish:
+  gender_flag: 2
+  lang:
+  - en
+Yauhen: {}
+Yauheni: {}
+Yauhenii: {}
+Yauheniy: {}
+Yavuz:
+  gender_flag: 2
+  lang:
+  - tr
+Yavuzboğa:
+  gender_flag: 2
+  lang:
+  - tr
+Yavuzsoy:
+  gender_flag: 2
+  lang:
+  - tr
+Yawhen: {}
+Yay:
+  gender_flag: 2
+  lang:
+  - tr
+Yaya:
+  gender_flag: 7
+  lang:
+  - en
+Yayoi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Yazdan:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - fa
+Yazdegerd:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - pal
+Yazık:
+  gender_flag: 2
+  lang:
+  - tr
+Yaëlle:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - he
+Yağmur:
+  gender_flag: 7
+  lang:
+  - tr
+Yağız:
+  gender_flag: 2
+  lang:
+  - tr
+Yağızboğa:
+  gender_flag: 2
+  lang:
+  - tr
+Yaşa:
+  gender_flag: 2
+  lang:
+  - tr
+Yaşam:
+  gender_flag: 3
+  lang:
+  - tr
+Yaşar:
+  gender_flag: 3
+  lang:
+  - tr
+Yaƙubu:
+  gender_flag: 2
+  lang:
+  - ha
+Yaʼqub:
+  gender_flag: 2
+  lang:
+  - uz
+  origin:
+  - ar
+  - he
+  - syc
+Yeardley:
+  gender_flag: 7
+  lang:
+  - en
+Yedukondalu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - te
+Yefrem:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ru
+Yeganə:
+  gender_flag: 1
+  lang:
+  - az
+  origin:
+  - fa
+Yegor: {}
+Yehor: {}
+Yehuda:
+  gender_flag: 2
+  lang:
+  - en
+Yehudi:
+  gender_flag: 2
+  lang:
+  - en
+Yehudit:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Yel:
+  gender_flag: 2
+  lang:
+  - tr
+Yelboğa:
+  gender_flag: 2
+  lang:
+  - tr
+Yelda:
+  gender_flag: 1
+  lang:
+  - tr
+Yelena: {}
+Yelisei:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ru
+Yeliz:
+  gender_flag: 1
+  lang:
+  - tr
+Yelizaveta: {}
+Yener:
+  gender_flag: 3
+  lang:
+  - tr
+Yenerol:
+  gender_flag: 2
+  lang:
+  - tr
+Yengi:
+  gender_flag: 2
+  lang:
+  - tr
+Yenia:
+  gender_flag: 1
+  lang:
+  - es
+Yenna:
+  gender_flag: 1
+  lang:
+  - en
+Yenyen:
+  gender_flag: 1
+  lang:
+  - ceb
+Yeremei:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ru
+Yeronim: {}
+Yesenia:
+  gender_flag: 1
+  lang:
+  - es
+Yeter:
+  gender_flag: 3
+  lang:
+  - tr
+Yetkin:
+  gender_flag: 3
+  lang:
+  - tr
+Yevgeni: {}
+Yevgeny:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - ru
+Yevhen: {}
+Yeyete:
+  gender_flag: 1
+  lang:
+  - wa
+Yeşim:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - fa
+Yingiya:
+  gender_flag: 2
+  lang:
+  - en
+Yisa:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isa
+  lang:
+  - yo
+  origin:
+  - ar
+Yisrael:
+  gender_flag: 2
+  lang:
+  - lad
+  origin:
+  - he
+Yisroel:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - yi
+Yitzchak:
+  gender_flag: 2
+  lang:
+  - en
+Yiğit:
+  gender_flag: 2
+  lang:
+  - tr
+Yiğitcan:
+  gender_flag: 2
+  lang:
+  - tr
+Yiğiter:
+  gender_flag: 2
+  lang:
+  - tr
+Yiğithan:
+  gender_flag: 2
+  lang:
+  - tr
+Ylermi:
+  gender_flag: 2
+  lang:
+  - fi
+Ylgja:
+  gender_flag: 1
+  lang:
+  - nn
+Yllballe:
+  gender_flag: 1
+  lang:
+  - sq
+Yllbardha:
+  gender_flag: 1
+  lang:
+  - sq
+Yllbardhë:
+  gender_flag: 1
+  lang:
+  - sq
+Ylldrita:
+  gender_flag: 1
+  lang:
+  - sq
+Yllesha:
+  gender_flag: 1
+  lang:
+  - sq
+Ylli:
+  gender_flag: 2
+  lang:
+  - sq
+Yllicus: {}
+Ylljeta:
+  gender_flag: 1
+  lang:
+  - sq
+Yllka:
+  gender_flag: 1
+  lang:
+  - sq
+Yllkuq:
+  gender_flag: 2
+  lang:
+  - sq
+Yllkuqe:
+  gender_flag: 1
+  lang:
+  - sq
+Yllmira:
+  gender_flag: 1
+  lang:
+  - sq
+Yllnesha:
+  gender_flag: 1
+  lang:
+  - sq
+Yllnore:
+  gender_flag: 1
+  lang:
+  - sq
+Yllore:
+  gender_flag: 1
+  lang:
+  - sq
+Yllpara:
+  gender_flag: 1
+  lang:
+  - sq
+Yllëza:
+  gender_flag: 1
+  lang:
+  - sq
+Ylva:
+  gender_flag: 1
+  lang:
+  - gmq-osw
+  - nn
+  - sv
+Ynez:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - es
+Yngva:
+  gender_flag: 1
+  lang:
+  - fo
+Yngvar:
+  gender_flag: 2
+  lang:
+  - fo
+  - 'no'
+Yngvarr:
+  gender_flag: 2
+  lang:
+  - non
+Yngve:
+  gender_flag: 2
+  lang:
+  - 'no'
+  - sv
+Yngvi:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Yngvild:
+  gender_flag: 1
+  lang:
+  - fo
+Ynon:
+  gender_flag: 2
+  lang:
+  - en
+Yohan:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - en
+Yohana:
+  gender_flag: 2
+  lang:
+  - sw
+Yohani:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - rw
+Yoichi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yoko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Yola:
+  gender_flag: 2
+  lang:
+  - tr
+Yolal:
+  gender_flag: 2
+  lang:
+  - tr
+Yolanda:
+  gender_flag: 1
+  is_a_variant_of:
+  - Iolanda
+  lang:
+  - en
+  - es
+  - pt
+  - tl
+  origin:
+  - es
+Yolande:
+  gender_flag: 1
+  is_equivalent_to:
+  - Yolanda
+  lang:
+  - fr
+Yolaç:
+  gender_flag: 2
+  lang:
+  - tr
+Yolbul:
+  gender_flag: 2
+  lang:
+  - tr
+Yoldaş:
+  gender_flag: 2
+  lang:
+  - tr
+Yoli:
+  gender_flag: 1
+  is_short_for:
+  - Yolanda
+  lang:
+  - es
+Yoling:
+  gender_flag: 1
+  lang:
+  - tl
+Yoma:
+  gender_flag: 2
+  lang:
+  - tr
+Yomiko:
+  gender_flag: 1
+  lang:
+  - en
+  - pt
+  origin:
+  - ja
+Yomut:
+  gender_flag: 2
+  lang:
+  - tr
+Yon:
+  gender_flag: 2
+  lang:
+  - en
+Yonca:
+  gender_flag: 1
+  lang:
+  - tr
+Yongyong:
+  gender_flag: 2
+  lang:
+  - ceb
+Yoniye:
+  gender_flag: 1
+  lang:
+  - wa
+Yood:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jude
+  lang:
+  - gv
+Yopôl:
+  gender_flag: 2
+  lang:
+  - wa
+Yoqub:
+  gender_flag: 2
+  lang:
+  - uz
+Yordam:
+  gender_flag: 2
+  lang:
+  - tr
+Yordamlı:
+  gender_flag: 2
+  lang:
+  - tr
+Yorick:
+  gender_flag: 2
+  lang:
+  - en
+Yoruç:
+  gender_flag: 2
+  lang:
+  - tr
+Yosef:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - en
+  - lad
+  origin:
+  - he
+Yoselin:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jocelyn
+  lang:
+  - en
+  origin:
+  - gem
+Yoselyn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Yoshi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yoshie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Yoshihiko:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yoshihisa:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  origin:
+  - ja
+Yoshiie:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yoshika:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Yoshiko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - pt
+  - tl
+  origin:
+  - ja
+Yoshikuni:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yoshimasa:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yoshimatsu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yoshimi:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ja
+Yoshimitsu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yoshinari:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yoshinobu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yoshinori:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yoshio:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yoshitaka:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yoshitake:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yoshitaro:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  origin:
+  - ja
+Yoshiya:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yoshiyasu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yoshiyuki:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yosma:
+  gender_flag: 1
+  lang:
+  - tr
+Yosop:
+  gender_flag: 2
+  lang:
+  - mrw
+  origin:
+  - ar
+Yosua:
+  gender_flag: 2
+  lang:
+  - ee
+Yosun:
+  gender_flag: 3
+  lang:
+  - tr
+Youness:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Younette:
+  gender_flag: 1
+  lang:
+  - nrf
+Younès:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Youri: {}
+Yousef:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Youssef:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - ar
+Yoyong:
+  gender_flag: 2
+  lang:
+  - ceb
+Yoyoy:
+  gender_flag: 2
+  is_short_for:
+  - Mateo
+  lang:
+  - ceb
+  - tl
+Yoğun:
+  gender_flag: 2
+  lang:
+  - tr
+Yoğunay:
+  gender_flag: 2
+  lang:
+  - tr
+Yrieix:
+  gender_flag: 2
+  lang:
+  - fr
+Yrjänä:
+  gender_flag: 2
+  lang:
+  - fi
+Yrjö:
+  gender_flag: 2
+  lang:
+  - fi
+Yrsa:
+  gender_flag: 1
+  lang:
+  - da
+  - fo
+  - is
+Ysabel:
+  gender_flag: 1
+  is_a_variant_of:
+  - Isabel
+  lang:
+  - es
+  - frm
+  - fro
+Ysabelle:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ysabel
+  lang:
+  - en
+  origin:
+  - he
+Ysaig:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaac
+  lang:
+  - gv
+  origin:
+  - he
+Ysbel:
+  gender_flag: 1
+  is_equivalent_to:
+  - Isabel
+  lang:
+  - gv
+  origin:
+  - he
+Ysengrimus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - gem-pro
+Yseult:
+  gender_flag: 1
+  is_a_variant_of:
+  - Iseult
+  lang:
+  - fr
+Ystradwel:
+  gender_flag: 1
+  lang:
+  - cy
+Yu:
+  gender_flag: 6
+  lang:
+  - en
+Yuaase:
+  gender_flag: 2
+  is_equivalent_to:
+  - Judas
+  lang:
+  - gv
+  origin:
+  - he
+Yuhənna:
+  gender_flag: 2
+  lang:
+  - az
+Yui:
+  gender_flag: 7
+  lang:
+  - en
+  - fr
+  - pt
+  origin:
+  - ja
+Yuichiro:
+  gender_flag: 2
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Yuiko:
+  gender_flag: 1
+  lang:
+  - en
+  - pt
+  origin:
+  - ja
+Yuina:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Yuka:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Yukako:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Yukari:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Yuki:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - ja
+Yukie:
+  gender_flag: 1
+  lang:
+  - en
+  - pt
+  origin:
+  - ja
+Yukiko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Yukina:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Yukio:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  origin:
+  - ja
+Yuko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - pt
+  origin:
+  - ja
+Yumeko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Yumi:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Yumika:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Yumiko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Yumjao Leima:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mni
+Yumuş:
+  gender_flag: 2
+  lang:
+  - tr
+Yuna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Yunus:
+  gender_flag: 2
+  lang:
+  - tr
+Yuri:
+  gender_flag: 3
+  lang:
+  - ceb
+  - en
+  - pt
+  origin:
+  - ja
+  - ru
+Yurie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Yurika:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Yuriko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Yurina:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Yurixi:
+  gender_flag: 1
+  lang:
+  - es
+Yurt:
+  gender_flag: 3
+  lang:
+  - tr
+Yurttaş:
+  gender_flag: 2
+  lang:
+  - tr
+Yuryi: {}
+Yusif:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+  - he
+Yusuf:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - tr
+  origin:
+  - he
+Yusufu:
+  gender_flag: 2
+  lang:
+  - ha
+  - sw
+Yusufxon:
+  gender_flag: 2
+  lang:
+  - uz
+Yuta:
+  gender_flag: 1
+  lang:
+  - en
+Yuusuf:
+  gender_flag: 2
+  lang:
+  - so
+Yuzuru:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Yvain:
+  gender_flag: 2
+  lang:
+  - frm
+  - fro
+Yvanne:
+  gender_flag: 1
+  lang:
+  - nrf
+Yves:
+  gender_flag: 2
+  lang:
+  - ceb
+  - fr
+  origin:
+  - fr
+  - gem
+Yvette:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Yvon:
+  gender_flag: 2
+  lang:
+  - fr
+Yvonna:
+  gender_flag: 1
+  lang:
+  - fo
+Yvonne:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fr
+  - 'no'
+  - sv
+  origin:
+  - en
+  - fr
+Yönal:
+  gender_flag: 3
+  lang:
+  - tr
+Yörük:
+  gender_flag: 2
+  lang:
+  - tr
+Yüce:
+  gender_flag: 3
+  lang:
+  - tr
+Yüceer:
+  gender_flag: 2
+  lang:
+  - tr
+Yücel:
+  gender_flag: 3
+  lang:
+  - tr
+Yücesoy:
+  gender_flag: 2
+  lang:
+  - tr
+Yüksel:
+  gender_flag: 3
+  lang:
+  - tr
+Yürekli:
+  gender_flag: 2
+  lang:
+  - tr
+Yıldır:
+  gender_flag: 2
+  lang:
+  - tr
+Yıldıray:
+  gender_flag: 2
+  lang:
+  - tr
+Yıldırım:
+  gender_flag: 2
+  lang:
+  - tr
+Yıldız:
+  gender_flag: 1
+  lang:
+  - tr
+Yılma:
+  gender_flag: 2
+  lang:
+  - tr
+Yılmaz:
+  gender_flag: 2
+  lang:
+  - tr
+Yılmazok:
+  gender_flag: 2
+  lang:
+  - tr
+Yıpar:
+  gender_flag: 3
+  lang:
+  - tr
+Yəhya:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - az
+Yến:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Zabal:
+  gender_flag: 1
+  lang:
+  - eu
+Zabele:
+  gender_flag: 1
+  lang:
+  - wa
+Zabelle:
+  gender_flag: 1
+  is_equivalent_to:
+  - Isabella
+  lang:
+  - en
+  origin:
+  - hy
+Zabete:
+  gender_flag: 1
+  lang:
+  - wa
+Zabeth:
+  gender_flag: 1
+  is_short_for:
+  - Lisabé
+  lang:
+  - nrf
+Zabu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sw
+Zac:
+  gender_flag: 2
+  lang:
+  - en
+Zacarias:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zachary
+  lang:
+  - pt
+Zacarías:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zachary
+  lang:
+  - es
+Zaccaria:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - he
+Zacchaeus:
+  gender_flag: 2
+  lang:
+  - en
+Zaccheo:
+  gender_flag: 2
+  lang:
+  - it
+Zach:
+  gender_flag: 2
+  lang:
+  - en
+Zachariah:
+  gender_flag: 2
+  is_a_variant_of:
+  - Zachary
+  - Zechariah
+  lang:
+  - en
+Zacharias:
+  gender_flag: 2
+  is_a_variant_of:
+  - Zakarias
+  lang:
+  - da
+  - de
+  - en
+Zachariasz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zechariah
+  lang:
+  - pl
+Zacharie:
+  gender_flag: 2
+  lang:
+  - fr
+Zacharijas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zachary
+  lang:
+  - lt
+Zachary:
+  gender_flag: 2
+  lang:
+  - en
+Zack:
+  gender_flag: 2
+  lang:
+  - en
+Zackary:
+  gender_flag: 2
+  is_a_variant_of:
+  - Zachary
+  lang:
+  - en
+Zafer:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Zaha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Zahid:
+  gender_flag: 2
+  lang:
+  - az
+Zahir:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Zahra:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Zaid:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Zaida:
+  gender_flag: 1
+  lang:
+  - es
+Zaiden:
+  gender_flag: 2
+  lang:
+  - en
+Zaiga:
+  gender_flag: 1
+  lang:
+  - lv
+Zailee:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sally
+  lang:
+  - yol
+Zainabu:
+  gender_flag: 1
+  lang:
+  - ha
+Zaira:
+  gender_flag: 1
+  lang:
+  - es
+  - it
+Zak:
+  gender_flag: 2
+  lang:
+  - en
+Zakarias:
+  gender_flag: 2
+  is_a_variant_of:
+  - Sakarias
+  lang:
+  - da
+  - sv
+Zakario:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zachary
+  lang:
+  - eo
+Zakariás:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zechariah
+  lang:
+  - hu
+Zakhar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ru
+Zakhary:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ru
+Zala:
+  gender_flag: 3
+  lang:
+  - hu
+  - sl
+Zaldy:
+  gender_flag: 2
+  lang:
+  - ceb
+Zalika:
+  gender_flag: 1
+  lang:
+  - en
+Zallie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Zailee
+  lang:
+  - yol
+Zaman:
+  gender_flag: 2
+  lang:
+  - tr
+Zamir:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - ar
+Zan:
+  gender_flag: 1
+  is_short_for:
+  - Susan
+  - Susanna
+  - Susanne
+  - Suzanne
+  lang:
+  - en
+Zanda:
+  gender_flag: 1
+  lang:
+  - lv
+Zande:
+  gender_flag: 2
+  lang:
+  - wa
+Zandra:
+  gender_flag: 1
+  lang:
+  - en
+Zandrine:
+  gender_flag: 1
+  lang:
+  - wa
+Zane:
+  gender_flag: 3
+  lang:
+  - en
+  - lv
+Zanga:
+  gender_flag: 7
+  lang:
+  - bm
+Zaniyah:
+  gender_flag: 1
+  lang:
+  - en
+Zannah:
+  gender_flag: 1
+  is_short_for:
+  - Suzannah
+  lang:
+  - en
+Zanyar:
+  gender_flag: 2
+  lang:
+  - kmr
+Zanzande:
+  gender_flag: 2
+  lang:
+  - wa
+Zara:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+  - grc
+  - he
+  - la
+Zarah:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sarah
+  - Zara
+  lang:
+  - en
+  origin:
+  - ar
+  - grc
+  - he
+  - la
+Zariah:
+  gender_flag: 1
+  lang:
+  - en
+Zarina:
+  gender_flag: 1
+  lang:
+  - en
+Zariyah:
+  gender_flag: 1
+  lang:
+  - en
+Zarja:
+  gender_flag: 1
+  lang:
+  - sl
+Zarte:
+  gender_flag: 2
+  lang:
+  - en
+Zavier:
+  gender_flag: 2
+  lang:
+  - en
+Zavié:
+  gender_flag: 2
+  lang:
+  - wa
+Zavrene:
+  gender_flag: 1
+  lang:
+  - wa
+Zavreye:
+  gender_flag: 1
+  lang:
+  - wa
+Zavrine:
+  gender_flag: 1
+  lang:
+  - wa
+Zavriye:
+  gender_flag: 1
+  lang:
+  - wa
+Zavî:
+  gender_flag: 2
+  is_equivalent_to:
+  - Xavier
+  lang:
+  - wa
+Zavîr:
+  gender_flag: 2
+  lang:
+  - wa
+Zayd:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Zayden:
+  gender_flag: 2
+  lang:
+  - en
+Zaylee:
+  gender_flag: 1
+  lang:
+  - en
+Zayn:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Zaynab:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Zayne:
+  gender_flag: 2
+  lang:
+  - en
+Zayıd:
+  gender_flag: 2
+  lang:
+  - az
+Zazie:
+  gender_flag: 1
+  is_short_for:
+  - Isabelle
+  lang:
+  - fr
+Zağnos:
+  gender_flag: 2
+  lang:
+  - tr
+Zbigniew:
+  gender_flag: 2
+  lang:
+  - pl
+Zbylut:
+  gender_flag: 2
+  lang:
+  - pl
+Zbynďa:
+  gender_flag: 2
+  is_short_for:
+  - Zbyněk
+  lang:
+  - cs
+Zbyněk:
+  gender_flag: 2
+  lang:
+  - cs
+Zbyněček:
+  gender_flag: 2
+  is_short_for:
+  - Zbyněk
+  lang:
+  - cs
+Zbyszek:
+  gender_flag: 2
+  is_short_for:
+  - Zbigniew
+  lang:
+  - pl
+Zbyňa:
+  gender_flag: 2
+  is_short_for:
+  - Zbyněk
+  lang:
+  - cs
+Zbyšek:
+  gender_flag: 2
+  lang:
+  - cs
+Zdena:
+  gender_flag: 1
+  lang:
+  - cs
+Zdenda:
+  gender_flag: 2
+  is_short_for:
+  - Zdeněk
+  lang:
+  - cs
+Zdenička:
+  gender_flag: 1
+  is_short_for:
+  - Zdeňka
+  lang:
+  - cs
+Zdenka:
+  gender_flag: 1
+  lang:
+  - sk
+  - sl
+Zdenko:
+  gender_flag: 2
+  lang:
+  - sk
+Zdeněk:
+  gender_flag: 2
+  lang:
+  - cs
+Zdeněček:
+  gender_flag: 2
+  is_short_for:
+  - Zdeněk
+  lang:
+  - cs
+Zdeslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Zdeňka:
+  gender_flag: 1
+  lang:
+  - cs
+Zdislava:
+  gender_flag: 1
+  lang:
+  - cs
+Zdzisław:
+  gender_flag: 2
+  lang:
+  - pl
+Zdzisława:
+  gender_flag: 1
+  lang:
+  - pl
+Zeb:
+  gender_flag: 2
+  lang:
+  - en
+Zebadiah:
+  gender_flag: 2
+  lang:
+  - en
+Zebedee:
+  gender_flag: 2
+  lang:
+  - en
+Zebul:
+  gender_flag: 2
+  lang:
+  - en
+Zebulon:
+  gender_flag: 2
+  lang:
+  - en
+Zebulun:
+  gender_flag: 2
+  lang:
+  - en
+Zecharia:
+  gender_flag: 2
+  lang:
+  - en
+Zechariah:
+  gender_flag: 2
+  lang:
+  - en
+Zecolsav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Zed:
+  gender_flag: 2
+  is_short_for:
+  - Zedekiah
+  lang:
+  - en
+Zedekiah:
+  gender_flag: 2
+  lang:
+  - en
+Zeenat:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Zeeshan:
+  gender_flag: 2
+  lang:
+  - en
+Zef:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joe
+  - Joey
+  is_short_for:
+  - Jozef
+  lang:
+  - sq
+Zehra:
+  gender_flag: 1
+  lang:
+  - sh
+  - tr
+Zeke:
+  gender_flag: 2
+  is_short_for:
+  - Ezekiel
+  lang:
+  - en
+Zekoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Zelal:
+  gender_flag: 1
+  lang:
+  - kmr
+Zelda:
+  gender_flag: 1
+  lang:
+  - en
+  - pt
+  - wa
+  origin:
+  - gem
+Zelina:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - el
+Zeliye:
+  gender_flag: 1
+  lang:
+  - wa
+Zeliş:
+  gender_flag: 1
+  lang:
+  - tr
+Zelma:
+  gender_flag: 1
+  is_a_variant_of:
+  - Selma
+  lang:
+  - en
+  - lv
+  origin:
+  - ar
+Zelmira:
+  gender_flag: 1
+  lang:
+  - it
+Zelophehad:
+  gender_flag: 2
+  lang:
+  - en
+Zemfira: {}
+Zemljoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Zenaida:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - tl
+  origin:
+  - es
+Zendaya:
+  gender_flag: 1
+  lang:
+  - en
+Zengin:
+  gender_flag: 2
+  lang:
+  - tr
+Zenia:
+  gender_flag: 1
+  lang:
+  - da
+Zeno:
+  gender_flag: 2
+  lang:
+  - en
+  - it
+  - la
+Zenobia:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  - oc
+  - pl
+  origin:
+  - grc
+Zenobio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zenobius
+  lang:
+  - es
+  - it
+  origin:
+  - grc
+Zenobius:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - grc
+Zenobiusz:
+  gender_flag: 2
+  lang:
+  - pl
+Zenodorus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Zenon:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zeno
+  lang:
+  - la
+Zenonas:
+  gender_flag: 2
+  lang:
+  - lt
+Zenone:
+  gender_flag: 2
+  lang:
+  - it
+Zenonina:
+  gender_flag: 1
+  lang:
+  - la
+Zenothemis:
+  gender_flag: 2
+  lang:
+  - la
+Zenta:
+  gender_flag: 1
+  lang:
+  - lv
+Zenun:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zeus
+  lang:
+  - sq
+  origin:
+  - grc
+Zeny:
+  gender_flag: 1
+  is_short_for:
+  - Zenaida
+  lang:
+  - tl
+Zenóbia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Zenobia
+  lang:
+  - hu
+  - pt
+  origin:
+  - grc
+Zephaniah:
+  gender_flag: 2
+  lang:
+  - en
+Zeshan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Zeus:
+  gender_flag: 2
+  lang:
+  - en
+Zeuxis:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Zev:
+  gender_flag: 2
+  lang:
+  - en
+Zeynal:
+  gender_flag: 2
+  lang:
+  - az
+Zeynep:
+  gender_flag: 1
+  lang:
+  - en
+  - tr
+  origin:
+  - ar
+  - tr
+Zeyno:
+  gender_flag: 1
+  lang:
+  - tr
+Zhak:
+  gender_flag: 2
+  is_equivalent_to:
+  - James
+  lang:
+  - sq
+Zhivago:
+  gender_flag: 2
+  lang:
+  - en
+Zia:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Zidore:
+  gender_flag: 2
+  is_short_for:
+  - Isidore
+  lang:
+  - nrf
+Zidôre:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isidore
+  lang:
+  - wa
+Ziedonis:
+  gender_flag: 2
+  lang:
+  - lv
+Ziemowit:
+  gender_flag: 2
+  lang:
+  - pl
+Zigfrīds:
+  gender_flag: 2
+  lang:
+  - lv
+Zigmas:
+  gender_flag: 2
+  lang:
+  - lt
+Zigmunds:
+  gender_flag: 2
+  lang:
+  - lv
+Zigmārs:
+  gender_flag: 2
+  lang:
+  - lv
+Zigrīda:
+  gender_flag: 1
+  lang:
+  - lv
+Zigurds:
+  gender_flag: 2
+  lang:
+  - lv
+Zikmund:
+  gender_flag: 2
+  lang:
+  - cs
+Zila:
+  gender_flag: 2
+  lang:
+  - en
+Zilla:
+  gender_flag: 1
+  lang:
+  - it
+Zillah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Zilpah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Zimaan:
+  gender_flag: 2
+  is_a_variant_of:
+  - Zimoon
+  lang:
+  - yol
+Zimoon:
+  gender_flag: 2
+  is_equivalent_to:
+  - Simon
+  lang:
+  - yol
+Zina:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Zinaida:
+  gender_flag: 1
+  lang:
+  - lt
+  - lv
+Zinaīda:
+  gender_flag: 1
+  lang:
+  - lv
+Zindell:
+  gender_flag: 2
+  lang:
+  - en
+Zinnia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Zinta:
+  gender_flag: 1
+  lang:
+  - lv
+Zintis:
+  gender_flag: 2
+  lang:
+  - lv
+Zion:
+  gender_flag: 7
+  lang:
+  - en
+Zipporah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Zira:
+  gender_flag: 1
+  lang:
+  - en
+Ziré:
+  gender_flag: 2
+  lang:
+  - wa
+Zirêye:
+  gender_flag: 1
+  lang:
+  - wa
+Zita:
+  gender_flag: 1
+  lang:
+  - cs
+  - it
+  - lt
+  - lv
+  - oc
+  - sk
+Ziutek:
+  gender_flag: 2
+  is_short_for:
+  - Józef
+  lang:
+  - pl
+Zlata:
+  gender_flag: 1
+  lang:
+  - cs
+  - sl
+Zlatan:
+  gender_flag: 3
+  lang:
+  - sh
+  - sv
+Zlatica:
+  gender_flag: 1
+  lang:
+  - sk
+Zlatka: {}
+Zlatko:
+  gender_flag: 2
+  lang:
+  - sk
+  - sl
+Zlatomir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Zlatoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Zmagoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Zobu:
+  gender_flag: 2
+  lang:
+  - tr
+Zoe:
+  gender_flag: 1
+  is_a_variant_of:
+  - Zoë
+  is_equivalent_to:
+  - Zoë
+  lang:
+  - cs
+  - de
+  - en
+  - it
+  - oc
+  origin:
+  - grc
+Zoey:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Zofia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sophie
+  lang:
+  - pl
+Zohra:
+  gender_flag: 1
+  lang:
+  - en
+Zohrin:
+  gender_flag: 1
+  lang:
+  - en
+  - ms
+Zoie:
+  gender_flag: 1
+  lang:
+  - en
+Zoilo:
+  gender_flag: 2
+  lang:
+  - ceb
+  - it
+Zoja:
+  gender_flag: 1
+  lang:
+  - cs
+  - lv
+  - sk
+  - sl
+Zola:
+  gender_flag: 1
+  lang:
+  - en
+Zoli:
+  gender_flag: 2
+  is_short_for:
+  - Zoltán
+  lang:
+  - hu
+Zoltan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hu
+Zolten:
+  gender_flag: 2
+  lang:
+  - en
+Zoltán:
+  gender_flag: 2
+  lang:
+  - hu
+  - sk
+Zona:
+  gender_flag: 1
+  lang:
+  - en
+Zooey:
+  gender_flag: 1
+  is_a_variant_of:
+  - Zoë
+  lang:
+  - en
+  origin:
+  - grc
+Zora:
+  gender_flag: 1
+  lang:
+  - cs
+  - it
+  - sk
+  - sl
+Zoraida:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - tl
+  origin:
+  - es
+Zoral:
+  gender_flag: 2
+  lang:
+  - tr
+Zoran:
+  gender_flag: 2
+  lang:
+  - sh
+Zorana:
+  gender_flag: 1
+  lang:
+  - sh
+Zoraya:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+Zorbey:
+  gender_flag: 2
+  lang:
+  - tr
+Zorislav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Zorka:
+  gender_flag: 1
+  is_short_for:
+  - Zora
+  lang:
+  - cs
+Zorlu:
+  gender_flag: 2
+  lang:
+  - tr
+Zosia:
+  gender_flag: 1
+  is_short_for:
+  - Zofia
+  lang:
+  - pl
+Zosimo:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+  - tl
+  origin:
+  - es
+Zosing:
+  gender_flag: 2
+  is_short_for:
+  - Zosimo
+  lang:
+  - tl
+Zowé:
+  gender_flag: 1
+  lang:
+  - wa
+Zozan:
+  gender_flag: 1
+  lang:
+  - kmr
+Zoé:
+  gender_flag: 1
+  is_equivalent_to:
+  - Zoë
+  lang:
+  - fr
+  - hu
+  - nrf
+Zoë:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Zoëi:
+  gender_flag: 1
+  lang:
+  - sq
+Zośka:
+  gender_flag: 1
+  is_short_for:
+  - Zosia
+  lang:
+  - pl
+Zrinislav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Zrinko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Zrinoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Zsa Zsa:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - hu
+Zsanett:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jeannette
+  lang:
+  - hu
+Zsazsa:
+  gender_flag: 1
+  is_short_for:
+  - Zsuzsanna
+  lang:
+  - en
+  - hu
+Zselyke:
+  gender_flag: 1
+  lang:
+  - hu
+Zsiga:
+  gender_flag: 2
+  is_short_for:
+  - Zsigmond
+  lang:
+  - hu
+Zsigmond:
+  gender_flag: 2
+  lang:
+  - hu
+Zsolt:
+  gender_flag: 2
+  lang:
+  - hu
+Zsolti:
+  gender_flag: 2
+  is_short_for:
+  - Zsolt
+  lang:
+  - hu
+Zsombi:
+  gender_flag: 2
+  is_short_for:
+  - Zsombor
+  lang:
+  - hu
+Zsombor:
+  gender_flag: 2
+  lang:
+  - hu
+Zsu:
+  gender_flag: 1
+  is_short_for:
+  - Zsuzsa
+  - Zsófia
+  lang:
+  - hu
+Zsuzsa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Susan
+  lang:
+  - hu
+Zsuzsanna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Susan
+  - Susanna
+  - Susannah
+  lang:
+  - en
+  - hu
+  origin:
+  - hu
+Zsó:
+  gender_flag: 1
+  is_short_for:
+  - Zsófia
+  lang:
+  - hu
+Zsófi:
+  gender_flag: 1
+  is_short_for:
+  - Zsófia
+  lang:
+  - hu
+Zsófia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sophia
+  lang:
+  - hu
+Zuan:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - fur
+Zubairu:
+  gender_flag: 2
+  lang:
+  - ha
+Zuberi:
+  gender_flag: 2
+  lang:
+  - sw
+  origin:
+  - ar
+Zuleica:
+  gender_flag: 1
+  is_equivalent_to:
+  - Zuleika
+  lang:
+  - en
+  - pt
+Zuleika:
+  gender_flag: 1
+  lang:
+  - en
+Zulema:
+  gender_flag: 1
+  lang:
+  - es
+Zulma:
+  gender_flag: 1
+  lang:
+  - es
+  - wa
+Zuonimir: {}
+Zuri:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - sw
+Zuriñe:
+  gender_flag: 1
+  lang:
+  - eu
+Zuzana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Susan
+  lang:
+  - cs
+  - sk
+Zuzanka:
+  gender_flag: 1
+  is_short_for:
+  - Zuzana
+  lang:
+  - cs
+  - sk
+Zuzanna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Susan
+  lang:
+  - lv
+  - pl
+Zuzia:
+  gender_flag: 1
+  is_short_for:
+  - Zuzanna
+  lang:
+  - pl
+Zuzka:
+  gender_flag: 1
+  is_short_for:
+  - Zuzana
+  lang:
+  - cs
+  - sk
+Zvone:
+  gender_flag: 2
+  lang:
+  - sl
+Zvonimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Zygfryd:
+  gender_flag: 2
+  is_equivalent_to:
+  - Siegfried
+  lang:
+  - pl
+Zygmunt:
+  gender_flag: 2
+  lang:
+  - pl
+Zyguś:
+  gender_flag: 2
+  is_short_for:
+  - Zygmunt
+  lang:
+  - pl
+Zyta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Zita
+  lang:
+  - pl
+  origin:
+  - it
+Záviš:
+  gender_flag: 2
+  lang:
+  - cs
+Zâvier:
+  gender_flag: 2
+  lang:
+  - wa
+Zäzilia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Cäcilia
+  lang:
+  - de
+Zäzilie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Cäcilie
+  lang:
+  - de
+Zé:
+  gender_flag: 3
+  is_short_for:
+  - José
+  lang:
+  - pt
+Zéfir:
+  gender_flag: 2
+  lang:
+  - wa
+Zélie:
+  gender_flag: 1
+  lang:
+  - nrf
+Zélîye:
+  gender_flag: 1
+  lang:
+  - wa
+Zénaïde:
+  gender_flag: 1
+  lang:
+  - fr
+  - nrf
+Zénobe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zenobius
+  lang:
+  - fr
+  origin:
+  - grc
+Zénobie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Zenobia
+  lang:
+  - fr
+  origin:
+  - grc
+Zéphirin:
+  gender_flag: 2
+  lang:
+  - fr
+Zéphyr:
+  gender_flag: 2
+  lang:
+  - nrf
+Zétény:
+  gender_flag: 2
+  lang:
+  - hu
+Zéșar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Caesar
+  lang:
+  - rgn
+  origin:
+  - la
+Zéẓar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Caesar
+  lang:
+  - rgn
+  origin:
+  - la
+Zóphonías:
+  gender_flag: 2
+  lang:
+  - is
+Zöhre:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Zübeyde:
+  gender_flag: 1
+  lang:
+  - tr
+Zühre:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Zəhra:
+  gender_flag: 1
+  lang:
+  - az
+xauxi:
+  gender_flag: 2
+  lang:
+  - pzh
+  - uun
+ytwꜥw-bꜥr:
+  gender_flag: 2
+  lang:
+  - egy
+yꜥqb-hr:
+  lang:
+  - egy
+z-n-wsrt:
+  gender_flag: 2
+  lang:
+  - egy
+zꜣ-jmn:
+  gender_flag: 2
+  lang:
+  - egy
+zꜣ-nht:
+  gender_flag: 2
+  lang:
+  - egy
+zꜣ-ptḥ:
+  gender_flag: 2
+  lang:
+  - egy
+zꜣ-sbk:
+  gender_flag: 2
+  lang:
+  - egy
+zꜣ-ꜣst:
+  gender_flag: 2
+  lang:
+  - egy
+Ý:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Ýarmuhammet:
+  gender_flag: 2
+  lang:
+  - tk
+Ýja:
+  gender_flag: 1
+  lang:
+  - is
+Ýr:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Ýrar:
+  gender_flag: 2
+  lang:
+  - is
+Ýrr:
+  gender_flag: 1
+  lang:
+  - is
+Ýrún:
+  gender_flag: 1
+  lang:
+  - is
+Żaneta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jeannette
+  lang:
+  - pl
+  origin:
+  - fr
+Żegota:
+  gender_flag: 2
+  lang:
+  - pl
+Žadmantė:
+  gender_flag: 1
+  lang:
+  - lt
+Žaneta:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Žanete:
+  gender_flag: 1
+  lang:
+  - lv
+Žanetka:
+  gender_flag: 1
+  is_short_for:
+  - Žaneta
+  lang:
+  - cs
+Žanis:
+  gender_flag: 2
+  lang:
+  - lv
+Žanna:
+  gender_flag: 1
+  lang:
+  - lv
+  origin:
+  - fr
+Žarko:
+  gender_flag: 2
+  lang:
+  - sh
+Željka:
+  gender_flag: 1
+  lang:
+  - sh
+  - sl
+Željko:
+  gender_flag: 2
+  lang:
+  - sh
+  - sl
+Želmíra:
+  gender_flag: 1
+  lang:
+  - sk
+Žemyna:
+  gender_flag: 1
+  lang:
+  - lt
+Žiga:
+  gender_flag: 2
+  lang:
+  - sl
+Žigmund:
+  gender_flag: 2
+  lang:
+  - sk
+Žilvinas:
+  gender_flag: 2
+  lang:
+  - lt
+Živa:
+  gender_flag: 1
+  lang:
+  - sl
+Živilė:
+  gender_flag: 1
+  lang:
+  - lt
+Živko:
+  gender_flag: 2
+  lang:
+  - sl
+Žofia:
+  gender_flag: 1
+  lang:
+  - sk
+Žofie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sophia
+  lang:
+  - cs
+Žofka:
+  gender_flag: 1
+  is_short_for:
+  - Žofie
+  lang:
+  - cs
+Žydrūnas:
+  gender_flag: 2
+  lang:
+  - lt
+Žygimantas:
+  gender_flag: 2
+  lang:
+  - lt
+Žymantė:
+  gender_flag: 1
+  lang:
+  - lt

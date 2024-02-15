@@ -1,0 +1,7146 @@
+Ta-Allah:
+  gender_flag: 1
+  lang:
+  - ha
+Taaniel:
+  gender_flag: 2
+  lang:
+  - et
+Taatsiannguaq:
+  gender_flag: 2
+  lang:
+  - kl
+Taatsiaq:
+  gender_flag: 2
+  lang:
+  - kl
+Taava:
+  gender_flag: 1
+  lang:
+  - fi
+Taavet:
+  gender_flag: 2
+  lang:
+  - et
+Taavetti:
+  gender_flag: 2
+  lang:
+  - fi
+Taavi:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Taavo:
+  gender_flag: 2
+  lang:
+  - et
+Tabatha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Tabby:
+  gender_flag: 1
+  is_short_for:
+  - Tabitha
+  lang:
+  - en
+Tabea:
+  gender_flag: 1
+  lang:
+  - de
+Tabita:
+  gender_flag: 1
+  is_equivalent_to:
+  - Tabitha
+  lang:
+  - fo
+  - pt
+Tabitha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - arc
+Tacey:
+  gender_flag: 1
+  lang:
+  - en
+Tacəddin:
+  gender_flag: 2
+  lang:
+  - az
+Tad:
+  gender_flag: 2
+  lang:
+  - en
+Tadas:
+  gender_flag: 2
+  lang:
+  - lt
+Taddeo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thaddeus
+  lang:
+  - it
+Tadej:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thaddeus
+  lang:
+  - sl
+Tadek:
+  gender_flag: 2
+  is_short_for:
+  - Tadeusz
+  lang:
+  - pl
+Tadeo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thaddaeus
+  - Thaddeus
+  lang:
+  - es
+Tadeu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thaddaeus
+  lang:
+  - pt
+  origin:
+  - he
+Tadeusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thaddaeus
+  lang:
+  - pl
+Tadeáš:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thaddaeus
+  - Thaddeus
+  lang:
+  - cs
+Tadg:
+  gender_flag: 2
+  lang:
+  - sga
+  origin:
+  - cel-pro
+Tadhg:
+  gender_flag: 2
+  lang:
+  - ga
+  origin:
+  - sga
+Tadzio:
+  gender_flag: 2
+  is_short_for:
+  - Tadeusz
+  lang:
+  - pl
+Taega:
+  gender_flag: 1
+  lang:
+  - en
+Taeko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Tage:
+  gender_flag: 2
+  lang:
+  - da
+  - sv
+Tagesa:
+  gender_flag: 2
+  lang:
+  - en
+Tahar:
+  gender_flag: 2
+  lang:
+  - fr
+  - oc
+  origin:
+  - ar
+Tahir:
+  gender_flag: 2
+  lang:
+  - tr
+Tahirih:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fa
+Tahvo:
+  gender_flag: 2
+  lang:
+  - fi
+Tai:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - zh
+Taig:
+  gender_flag: 2
+  lang:
+  - gv
+  origin:
+  - sga
+Taija:
+  gender_flag: 1
+  lang:
+  - fi
+Taika:
+  gender_flag: 1
+  lang:
+  - fi
+Taimar:
+  gender_flag: 2
+  lang:
+  - et
+Taimi:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Taimo:
+  gender_flag: 2
+  lang:
+  - et
+Taina:
+  gender_flag: 1
+  lang:
+  - fi
+Tainara:
+  gender_flag: 1
+  is_a_variant_of:
+  - Tainá
+  lang:
+  - pt
+Tainá:
+  gender_flag: 1
+  lang:
+  - pt
+Taira:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Taisija:
+  gender_flag: 1
+  lang:
+  - lv
+  origin:
+  - ru
+Taisto:
+  gender_flag: 2
+  lang:
+  - fi
+Taito:
+  gender_flag: 2
+  lang:
+  - fi
+Taivo:
+  gender_flag: 2
+  lang:
+  - et
+Taiwo:
+  gender_flag: 7
+  lang:
+  - yo
+Tajana:
+  gender_flag: 1
+  lang:
+  - sh
+Takaki:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - ja
+Takako:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - ja
+Takamine:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Takashi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Takehisa:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Takeko:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Takemi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Takeo:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Takeshi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Takya:
+  gender_flag: 1
+  lang:
+  - ceb
+Takyo:
+  gender_flag: 2
+  lang:
+  - ceb
+Tal:
+  gender_flag: 2
+  lang:
+  - en
+Tala:
+  gender_flag: 1
+  lang:
+  - is
+Talabi:
+  gender_flag: 7
+  lang:
+  - yo
+Talasquaptewa:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hop
+Talat:
+  gender_flag: 2
+  lang:
+  - tr
+  - zza
+Talatu:
+  gender_flag: 1
+  lang:
+  - ha
+Talbot:
+  gender_flag: 2
+  lang:
+  - en
+Talia:
+  gender_flag: 1
+  lang:
+  - en
+Talina:
+  gender_flag: 1
+  lang:
+  - ceb
+Taling:
+  gender_flag: 1
+  lang:
+  - ceb
+Talip:
+  gender_flag: 2
+  lang:
+  - tr
+Talita:
+  gender_flag: 1
+  lang:
+  - fo
+Talitha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - arc
+Taliyah:
+  gender_flag: 1
+  lang:
+  - en
+Taliye:
+  gender_flag: 1
+  is_equivalent_to:
+  - Natalie
+  lang:
+  - wa
+Tallak:
+  gender_flag: 2
+  lang:
+  - 'no'
+Tallulah:
+  gender_flag: 1
+  lang:
+  - en
+Tally:
+  gender_flag: 7
+  lang:
+  - en
+Talon:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - en
+Talvi:
+  gender_flag: 1
+  lang:
+  - et
+Talvikki:
+  gender_flag: 1
+  lang:
+  - fi
+Talya:
+  gender_flag: 1
+  is_short_for:
+  - Natalia
+  lang:
+  - ceb
+  - tl
+Talyo:
+  gender_flag: 2
+  is_short_for:
+  - Natalio
+  lang:
+  - ceb
+Talía:
+  gender_flag: 1
+  lang:
+  - is
+Talʼat:
+  gender_flag: 2
+  lang:
+  - uz
+  origin:
+  - ar
+Tam:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tom
+  is_short_for:
+  - Thomas
+  - Thonmas
+  lang:
+  - nrf
+  - sco
+  - yol
+Tamaki:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - ja
+Tamami:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Tamar:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Tamara:
+  gender_flag: 1
+  is_equivalent_to:
+  - Tamar
+  lang:
+  - cs
+  - de
+  - en
+  - es
+  - fo
+  - lv
+  - pt
+  - ro
+  - sh
+  - sk
+  origin:
+  - he
+Tamarah:
+  gender_flag: 1
+  is_a_variant_of:
+  - Tamara
+  lang:
+  - en
+Tamay:
+  gender_flag: 3
+  lang:
+  - tr
+Tamaydın:
+  gender_flag: 2
+  lang:
+  - tr
+Tambet:
+  gender_flag: 2
+  lang:
+  - et
+Tame:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tom
+  lang:
+  - mi
+Tameka:
+  gender_flag: 1
+  lang:
+  - en
+Tamer:
+  gender_flag: 2
+  lang:
+  - tr
+Tamera:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Tamerlão:
+  gender_flag: 2
+  lang:
+  - pt
+Tamgül:
+  gender_flag: 1
+  lang:
+  - tr
+Tami:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Tamia:
+  gender_flag: 1
+  lang:
+  - en
+Tamika:
+  gender_flag: 1
+  lang:
+  - en
+Tamiko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - ja
+Tamilla:
+  gender_flag: 1
+  lang:
+  - az
+Tamisclaus: {}
+Tamislaus: {}
+Tamkut:
+  gender_flag: 2
+  lang:
+  - tr
+Tammaro:
+  gender_flag: 2
+  lang:
+  - it
+Tammas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thomas
+  lang:
+  - sco
+Tammie:
+  gender_flag: 1
+  lang:
+  - en
+Tammy:
+  gender_flag: 1
+  lang:
+  - en
+Tamra:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Tamsin:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - arc
+Tamsyn:
+  gender_flag: 1
+  lang:
+  - en
+Tamás:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thomas
+  lang:
+  - hu
+Tamāra:
+  gender_flag: 1
+  lang:
+  - lv
+Tan:
+  gender_flag: 3
+  lang:
+  - en
+  - tr
+Tana:
+  gender_flag: 1
+  lang:
+  - en
+Tanalp:
+  gender_flag: 2
+  lang:
+  - tr
+Tanasse:
+  gender_flag: 2
+  is_equivalent_to:
+  - Athanasius
+  lang:
+  - wa
+Tanaydın:
+  gender_flag: 3
+  lang:
+  - tr
+Tancorix:
+  gender_flag: 1
+  lang:
+  - la
+Tancred:
+  gender_flag: 2
+  lang:
+  - en
+Tancredi:
+  gender_flag: 2
+  lang:
+  - it
+Tancrède:
+  gender_flag: 2
+  lang:
+  - nrf
+Tandoğan:
+  gender_flag: 2
+  lang:
+  - tr
+Tandy:
+  gender_flag: 1
+  lang:
+  - en
+Tanel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Daniel
+  lang:
+  - et
+Taneli:
+  gender_flag: 2
+  lang:
+  - fi
+Taner:
+  gender_flag: 2
+  lang:
+  - tr
+Tangi:
+  gender_flag: 2
+  lang:
+  - br
+Tanguy:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - br
+Tangül:
+  gender_flag: 1
+  lang:
+  - tr
+Tania:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - fr
+Tanice:
+  gender_flag: 1
+  lang:
+  - en
+Taniko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Tanimu:
+  gender_flag: 2
+  lang:
+  - ha
+Taniqua:
+  gender_flag: 1
+  lang:
+  - en
+Tanisha:
+  gender_flag: 1
+  lang:
+  - en
+Tanith:
+  gender_flag: 1
+  lang:
+  - en
+Taniya:
+  gender_flag: 1
+  is_a_variant_of:
+  - Tania
+  - Tanya
+  lang:
+  - en
+  origin:
+  - ru
+Tanja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Tania
+  - Táňa
+  lang:
+  - cs
+  - da
+  - de
+  - fi
+  - fo
+  - 'no'
+  - sv
+Tanju:
+  gender_flag: 3
+  lang:
+  - tr
+  origin:
+  - zh
+Tankut:
+  gender_flag: 3
+  lang:
+  - tr
+Tanman:
+  gender_flag: 2
+  lang:
+  - tr
+Tanme:
+  gender_flag: 2
+  is_short_for:
+  - Thonmas
+  lang:
+  - nrf
+Tanminne:
+  gender_flag: 2
+  is_short_for:
+  - Thonmas
+  lang:
+  - nrf
+Tanmîn:
+  gender_flag: 2
+  is_short_for:
+  - Thonmas
+  lang:
+  - nrf
+Tanner:
+  gender_flag: 2
+  lang:
+  - en
+Tanrıverdi:
+  gender_flag: 2
+  lang:
+  - tr
+Tansal:
+  gender_flag: 2
+  lang:
+  - tr
+Tansel:
+  gender_flag: 3
+  lang:
+  - tr
+Tansu:
+  gender_flag: 3
+  lang:
+  - tr
+Tansy:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Tantan:
+  gender_flag: 3
+  lang:
+  - ceb
+Tantuğ:
+  gender_flag: 2
+  lang:
+  - tr
+Tanush:
+  gender_flag: 2
+  lang:
+  - sq
+Tanya:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - ru
+Tanța:
+  gender_flag: 1
+  is_short_for:
+  - Constanța
+  lang:
+  - ro
+Tao:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - cmn
+Taoroinai:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Tapani:
+  gender_flag: 2
+  lang:
+  - fi
+Tapio:
+  gender_flag: 2
+  lang:
+  - fi
+Tapsa:
+  gender_flag: 2
+  lang:
+  - fi
+Tara:
+  gender_flag: 7
+  lang:
+  - en
+  - is
+  origin:
+  - sa
+Tarah:
+  gender_flag: 1
+  lang:
+  - en
+Taran:
+  gender_flag: 3
+  lang:
+  - en
+  - 'no'
+Tarasio:
+  gender_flag: 2
+  lang:
+  - it
+Tarcisio:
+  gender_flag: 2
+  lang:
+  - it
+Tarcísio:
+  gender_flag: 2
+  lang:
+  - pt
+Tareq:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Targeir:
+  gender_flag: 2
+  is_a_variant_of:
+  - Torgeir
+  lang:
+  - nn
+  origin:
+  - non
+Tariman:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Tarimin:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Tariq:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Tarja:
+  gender_flag: 1
+  lang:
+  - fi
+Tarje:
+  gender_flag: 2
+  is_a_variant_of:
+  - Targeir
+  - Torgeir
+  lang:
+  - nn
+  origin:
+  - non
+Tarjei:
+  gender_flag: 2
+  is_a_variant_of:
+  - Targeir
+  - Torgeir
+  lang:
+  - nn
+  origin:
+  - non
+Tarjer:
+  gender_flag: 2
+  is_a_variant_of:
+  - Targeir
+  - Torgeir
+  lang:
+  - nn
+  origin:
+  - non
+Tarkan:
+  gender_flag: 2
+  lang:
+  - tr
+Tarmo:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Tarquinio:
+  gender_flag: 2
+  lang:
+  - it
+Tarren:
+  gender_flag: 2
+  lang:
+  - en
+Taru:
+  gender_flag: 1
+  lang:
+  - fi
+Tarvi:
+  gender_flag: 2
+  is_a_variant_of:
+  - Tarmo
+  - Tarvo
+  lang:
+  - et
+Tarvo:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Taryn:
+  gender_flag: 1
+  lang:
+  - en
+Tarık:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Tasalla:
+  gender_flag: 1
+  lang:
+  - ha
+Tash:
+  gender_flag: 1
+  lang:
+  - en
+Tasha:
+  gender_flag: 1
+  lang:
+  - en
+Tasimin:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Tasman:
+  gender_flag: 2
+  lang:
+  - en
+Tasmina:
+  gender_flag: 1
+  lang:
+  - en
+Tasya:
+  gender_flag: 1
+  lang:
+  - ceb
+Tasyo:
+  gender_flag: 2
+  lang:
+  - ceb
+Tata:
+  gender_flag: 3
+  lang:
+  - ceb
+Tatar:
+  gender_flag: 2
+  lang:
+  - tr
+Tate:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ang
+Tatiana:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - pt
+  - ro
+  - sk
+  origin:
+  - la
+  - ru
+Tatjana:
+  gender_flag: 1
+  lang:
+  - de
+  - lv
+  origin:
+  - ru
+Tatnoþ:
+  gender_flag: 2
+  lang:
+  - ang
+Tato:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+  origin:
+  - es
+  - ka
+Tatsuko:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Tatsumi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Tatu:
+  gender_flag: 2
+  lang:
+  - fi
+Tatum:
+  gender_flag: 7
+  lang:
+  - en
+Tatwine:
+  gender_flag: 2
+  lang:
+  - ang
+Tauane:
+  gender_flag: 1
+  is_a_variant_of:
+  - Tainá
+  lang:
+  - pt
+Taufik:
+  gender_flag: 2
+  lang:
+  - id
+  - ms
+  origin:
+  - ar
+Taulant:
+  gender_flag: 2
+  lang:
+  - sq
+  origin:
+  - xil
+Tauno:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Tauri:
+  gender_flag: 2
+  lang:
+  - et
+Tautvydas:
+  gender_flag: 2
+  lang:
+  - lt
+Tavy:
+  gender_flag: 1
+  is_short_for:
+  - Octavia
+  lang:
+  - en
+Taxile:
+  gender_flag: 2
+  lang:
+  - fr
+Tay:
+  gender_flag: 2
+  lang:
+  - tr
+Taya:
+  gender_flag: 1
+  lang:
+  - en
+Taydemir:
+  gender_flag: 2
+  lang:
+  - tr
+Taye:
+  gender_flag: 7
+  lang:
+  - en
+  - yo
+Tayfun:
+  gender_flag: 2
+  lang:
+  - tr
+Taying:
+  gender_flag: 1
+  lang:
+  - ceb
+Tayla:
+  gender_flag: 1
+  lang:
+  - en
+Taylan:
+  gender_flag: 3
+  lang:
+  - tr
+Tayler:
+  gender_flag: 7
+  lang:
+  - en
+Taylor:
+  gender_flag: 7
+  lang:
+  - en
+  - fr
+  origin:
+  - en
+Tayyar:
+  gender_flag: 2
+  lang:
+  - tr
+Tayyip:
+  gender_flag: 2
+  lang:
+  - tr
+Taze:
+  gender_flag: 1
+  lang:
+  - tr
+Taziano:
+  gender_flag: 2
+  lang:
+  - it
+Tazio:
+  gender_flag: 2
+  lang:
+  - it
+Taziye:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anastasia
+  lang:
+  - wa
+Taçkın:
+  gender_flag: 2
+  lang:
+  - tr
+Taís:
+  gender_flag: 1
+  is_equivalent_to:
+  - Thais
+  lang:
+  - pt
+Taísa:
+  gender_flag: 1
+  is_a_variant_of:
+  - Taís
+  lang:
+  - pt
+Taíse:
+  gender_flag: 1
+  is_a_variant_of:
+  - Taís
+  lang:
+  - pt
+Taðkr:
+  gender_flag: 2
+  lang:
+  - non
+Taşar:
+  gender_flag: 2
+  lang:
+  - tr
+Taşer:
+  gender_flag: 2
+  lang:
+  - tr
+Taşkın:
+  gender_flag: 2
+  lang:
+  - tr
+Taťána:
+  gender_flag: 1
+  is_equivalent_to:
+  - Tatiana
+  lang:
+  - cs
+Tchantchès:
+  gender_flag: 2
+  lang:
+  - wa
+Tchedôre:
+  gender_flag: 2
+  lang:
+  - wa
+Tchofile:
+  gender_flag: 2
+  lang:
+  - wa
+Tchåle:
+  gender_flag: 2
+  lang:
+  - wa
+Tchårlot:
+  gender_flag: 2
+  lang:
+  - wa
+Tchårlote:
+  gender_flag: 1
+  is_equivalent_to:
+  - Charlotte
+  lang:
+  - wa
+Tchèrli:
+  gender_flag: 2
+  is_equivalent_to:
+  - Charlie
+  is_short_for:
+  - Charles
+  - Charlot
+  lang:
+  - nrf
+Tea:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+  - fo
+Teagan:
+  gender_flag: 7
+  is_a_variant_of:
+  - Tegan
+  lang:
+  - en
+  origin:
+  - cy
+  - ga
+Teagene:
+  gender_flag: 2
+  lang:
+  - it
+  - ro
+Teague:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Teba:
+  gender_flag: 1
+  lang:
+  - en
+Tebaldello:
+  gender_flag: 2
+  lang:
+  - it
+Teban:
+  gender_flag: 2
+  lang:
+  - ceb
+Tebiresá:
+  gender_flag: 2
+  lang:
+  - tpw
+Tebrik:
+  gender_flag: 2
+  lang:
+  - tr
+Teca:
+  gender_flag: 1
+  is_short_for:
+  - Teréz
+  lang:
+  - hu
+Teck:
+  gender_flag: 2
+  lang:
+  - en
+Tecumseh:
+  gender_flag: 2
+  lang:
+  - en
+Tecwyn:
+  gender_flag: 2
+  lang:
+  - cy
+  - en
+  origin:
+  - cy
+Ted:
+  gender_flag: 2
+  lang:
+  - en
+  - sv
+Teddie:
+  gender_flag: 2
+  lang:
+  - en
+Teddy:
+  gender_flag: 2
+  is_short_for:
+  - Edward
+  - Theodore
+  lang:
+  - da
+  - en
+Tedusia:
+  gender_flag: 1
+  lang:
+  - la
+Tedusius:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Teedu:
+  gender_flag: 2
+  lang:
+  - et
+Teela:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+Teele:
+  gender_flag: 1
+  lang:
+  - et
+Teemu:
+  gender_flag: 2
+  lang:
+  - fi
+Teesi:
+  gender_flag: 1
+  lang:
+  - et
+Teet:
+  gender_flag: 2
+  lang:
+  - et
+Teeteto:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - grc
+Tefta:
+  gender_flag: 1
+  lang:
+  - sq
+Tegan:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - cy
+  - ga
+Tegghiaio:
+  gender_flag: 2
+  lang:
+  - it
+Tegoneg:
+  gender_flag: 2
+  is_short_for:
+  - Koneg
+  lang:
+  - br
+Tegwen:
+  gender_flag: 1
+  lang:
+  - cy
+Tehani:
+  gender_flag: 1
+  lang:
+  - en
+Tehara:
+  gender_flag: 1
+  lang:
+  - en
+Teifi:
+  gender_flag: 3
+  lang:
+  - cy
+Teighlor:
+  gender_flag: 1
+  lang:
+  - en
+Teija:
+  gender_flag: 1
+  lang:
+  - fi
+Teijo:
+  gender_flag: 2
+  lang:
+  - fi
+Teinar:
+  gender_flag: 2
+  lang:
+  - fo
+Teisutis:
+  gender_flag: 2
+  lang:
+  - lt
+Teitrun:
+  gender_flag: 1
+  lang:
+  - fo
+Teitur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Tejal:
+  gender_flag: 1
+  lang:
+  - en
+Tek:
+  gender_flag: 2
+  lang:
+  - tr
+Teker:
+  gender_flag: 2
+  lang:
+  - tr
+Tekil:
+  gender_flag: 2
+  lang:
+  - tr
+Tekin:
+  gender_flag: 2
+  lang:
+  - tr
+Tekinalp:
+  gender_flag: 2
+  lang:
+  - tr
+Tekinay:
+  gender_flag: 2
+  lang:
+  - tr
+Tekiner:
+  gender_flag: 2
+  lang:
+  - tr
+Tekir:
+  gender_flag: 2
+  lang:
+  - tr
+Tekla:
+  gender_flag: 1
+  is_equivalent_to:
+  - Thecla
+  lang:
+  - fi
+  - fo
+  - lv
+  - pl
+  - sv
+  origin:
+  - grc
+Tekol:
+  gender_flag: 2
+  lang:
+  - tr
+Teköz:
+  gender_flag: 2
+  lang:
+  - tr
+Teközer:
+  gender_flag: 2
+  lang:
+  - tr
+Telemaco:
+  gender_flag: 2
+  lang:
+  - it
+Telestis:
+  gender_flag: 1
+  lang:
+  - la
+Tella:
+  gender_flag: 1
+  lang:
+  - en
+Tellervo:
+  gender_flag: 1
+  lang:
+  - fi
+Telli:
+  gender_flag: 3
+  lang:
+  - tr
+Telma:
+  gender_flag: 1
+  is_equivalent_to:
+  - Thelma
+  lang:
+  - is
+Telmo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Elmo
+  lang:
+  - pt
+Temir:
+  gender_flag: 2
+  lang:
+  - tr
+Temistocle:
+  gender_flag: 2
+  lang:
+  - it
+Temiz:
+  gender_flag: 3
+  lang:
+  - tr
+Temperance:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Tempie:
+  gender_flag: 1
+  lang:
+  - en
+Temple:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - la
+Templeton:
+  gender_flag: 2
+  lang:
+  - en
+Temren:
+  gender_flag: 2
+  lang:
+  - tr
+Tengrumui:
+  gender_flag: 1
+  lang:
+  - owl
+Tenho:
+  gender_flag: 2
+  lang:
+  - fi
+Tenley:
+  gender_flag: 1
+  lang:
+  - en
+Tenna:
+  gender_flag: 1
+  lang:
+  - da
+Tennessee:
+  gender_flag: 3
+  lang:
+  - en
+Tenzin:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - bo
+Tenório:
+  gender_flag: 2
+  lang:
+  - pt
+Teobaldo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theobald
+  lang:
+  - eo
+  - es
+  - it
+  - pt
+  origin:
+  - gem-pro
+Teocrito:
+  gender_flag: 2
+  lang:
+  - it
+Teoctist:
+  gender_flag: 2
+  lang:
+  - ro
+Teoderico:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodoric
+  lang:
+  - gl
+Teodine:
+  gender_flag: 1
+  lang:
+  - 'no'
+Teodor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodore
+  lang:
+  - ca
+  - cs
+  - et
+  - fo
+  - sk
+  - sv
+Teodora:
+  gender_flag: 1
+  is_equivalent_to:
+  - Theodora
+  lang:
+  - es
+  - it
+Teodorico:
+  gender_flag: 2
+  is_equivalent_to:
+  - Derek
+  - Theodoric
+  lang:
+  - ceb
+  - es
+  - it
+  - pt
+Teodoro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodore
+  lang:
+  - eo
+  - es
+  - it
+  - pt
+  - tl
+  origin:
+  - es
+  - grc
+Teodors:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodore
+  lang:
+  - lv
+  origin:
+  - grc
+Teodosia:
+  gender_flag: 1
+  lang:
+  - es
+  - it
+  origin:
+  - grc
+Teodosio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodosius
+  lang:
+  - es
+  - it
+Teofil:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theophilus
+  lang:
+  - pl
+Teofila:
+  gender_flag: 1
+  lang:
+  - ceb
+  - pl
+Teofilo:
+  gender_flag: 3
+  is_equivalent_to:
+  - Theophilus
+  lang:
+  - ceb
+  - it
+Teoman:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - zh
+Teoruni:
+  lang:
+  - goh
+Tepoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Teppo:
+  gender_flag: 2
+  lang:
+  - fi
+Tera:
+  gender_flag: 1
+  lang:
+  - is
+Terah:
+  gender_flag: 2
+  lang:
+  - en
+Tere:
+  gender_flag: 1
+  is_short_for:
+  - Teresa
+  lang:
+  - es
+Tereese:
+  gender_flag: 1
+  is_equivalent_to:
+  - Theresa
+  lang:
+  - et
+Terence:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - la
+Terencio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Terence
+  lang:
+  - es
+  origin:
+  - la
+Terenia:
+  gender_flag: 1
+  is_short_for:
+  - Teresa
+  lang:
+  - pl
+Terenz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Terence
+  lang:
+  - de
+  origin:
+  - la
+Terenzio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Terence
+  lang:
+  - it
+Teresa:
+  gender_flag: 1
+  is_a_variant_of:
+  - Theresa
+  lang:
+  - ca
+  - de
+  - en
+  - es
+  - fi
+  - fo
+  - it
+  - pl
+  - pt
+  - tl
+  origin:
+  - grc
+Terese:
+  gender_flag: 1
+  lang:
+  - sv
+Teresia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Teresa
+  lang:
+  - sv
+Teresita:
+  gender_flag: 1
+  lang:
+  - ceb
+Tereska:
+  gender_flag: 1
+  is_short_for:
+  - Teresa
+  lang:
+  - pl
+Teressa:
+  gender_flag: 1
+  lang:
+  - en
+Teresía:
+  gender_flag: 1
+  is_equivalent_to:
+  - Teresa
+  lang:
+  - is
+Teresė:
+  gender_flag: 1
+  lang:
+  - lt
+Tereza:
+  gender_flag: 1
+  is_equivalent_to:
+  - Teresa
+  lang:
+  - cs
+  - sh
+Terezka:
+  gender_flag: 1
+  is_short_for:
+  - Tereza
+  lang:
+  - cs
+Terhi:
+  gender_flag: 1
+  lang:
+  - fi
+Terhikki:
+  gender_flag: 1
+  is_a_variant_of:
+  - Terhi
+  lang:
+  - fi
+Terho:
+  gender_flag: 2
+  lang:
+  - fi
+Teri:
+  gender_flag: 1
+  is_short_for:
+  - Teresa
+  - Teréz
+  - Terézia
+  lang:
+  - en
+  - hu
+Terim:
+  gender_flag: 3
+  lang:
+  - tr
+Terje:
+  gender_flag: 3
+  is_a_variant_of:
+  - Torgeir
+  lang:
+  - et
+  - nn
+  origin:
+  - non
+Terjer:
+  gender_flag: 2
+  is_a_variant_of:
+  - Torgeir
+  lang:
+  - nn
+  origin:
+  - non
+Terji:
+  gender_flag: 2
+  lang:
+  - fo
+Tero:
+  gender_flag: 2
+  lang:
+  - fi
+Terpimerus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Trpimir
+  lang:
+  - la
+  origin:
+  - sla
+Terra:
+  gender_flag: 1
+  lang:
+  - en
+Terrance:
+  gender_flag: 2
+  is_a_variant_of:
+  - Terence
+  lang:
+  - en
+  origin:
+  - la
+Terrell:
+  gender_flag: 2
+  lang:
+  - en
+Terrence:
+  gender_flag: 2
+  is_a_variant_of:
+  - Terence
+  lang:
+  - en
+  origin:
+  - la
+Terri:
+  gender_flag: 1
+  lang:
+  - en
+Terrianne:
+  gender_flag: 1
+  lang:
+  - en
+Terrie:
+  gender_flag: 1
+  lang:
+  - en
+Terrion:
+  gender_flag: 2
+  lang:
+  - en
+Terry:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - gem
+  - la
+Terttu:
+  gender_flag: 1
+  lang:
+  - fi
+Teruhisa:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Teruko:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Terumi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Terumitsu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Terunari:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Terus:
+  gender_flag: 1
+  is_short_for:
+  - Teréz
+  lang:
+  - hu
+Teruya:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - ja
+Teryo:
+  gender_flag: 2
+  lang:
+  - ceb
+Terèinsi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Terence
+  lang:
+  - egl
+  origin:
+  - la
+Teréz:
+  gender_flag: 1
+  is_equivalent_to:
+  - Theresa
+  lang:
+  - hu
+Terézia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Theresa
+  lang:
+  - hu
+  - sk
+Terêncio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Terence
+  lang:
+  - pt
+  origin:
+  - la
+Terēza:
+  gender_flag: 1
+  lang:
+  - lv
+Terēze:
+  gender_flag: 1
+  lang:
+  - lv
+Terēzija:
+  gender_flag: 1
+  lang:
+  - lv
+Tesauro:
+  gender_flag: 2
+  lang:
+  - it
+Tess:
+  gender_flag: 1
+  is_short_for:
+  - Teresa
+  lang:
+  - en
+Tessa:
+  gender_flag: 1
+  is_a_variant_of:
+  - Teresa
+  lang:
+  - en
+  - nl
+  origin:
+  - grc
+Tessica:
+  gender_flag: 1
+  lang:
+  - en
+Tessy:
+  gender_flag: 1
+  lang:
+  - en
+Testilus:
+  gender_flag: 2
+  lang:
+  - la
+Tetsuo:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Teun:
+  gender_flag: 2
+  lang:
+  - nl
+Teunis:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tony
+  lang:
+  - nl
+Teuta:
+  gender_flag: 1
+  lang:
+  - sq
+Teutë:
+  gender_flag: 1
+  lang:
+  - sq
+Teuvo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodore
+  lang:
+  - fi
+Tevfik:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Texas:
+  gender_flag: 7
+  lang:
+  - en
+Teyo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theo
+  lang:
+  - wa
+Teyodore:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodore
+  lang:
+  - wa
+Tezal:
+  gender_flag: 2
+  lang:
+  - tr
+Tezza:
+  gender_flag: 2
+  lang:
+  - en
+Teàrlach:
+  gender_flag: 2
+  is_equivalent_to:
+  - Charles
+  - Terence
+  lang:
+  - gd
+  origin:
+  - sga
+Teófilo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theophilus
+  lang:
+  - es
+  - pt
+Thad:
+  gender_flag: 2
+  is_short_for:
+  - Thaddaeus
+  - Thaddeus
+  lang:
+  - en
+Thaddaeus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Thaddeus:
+  gender_flag: 2
+  is_a_variant_of:
+  - Thaddaeus
+  lang:
+  - en
+  origin:
+  - grc
+Thaddäus:
+  gender_flag: 2
+  lang:
+  - de
+Thaddée:
+  gender_flag: 2
+  lang:
+  - fr
+Thais:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Thalia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Tália
+  lang:
+  - en
+  - pt
+  origin:
+  - grc
+Thamar:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Thangching:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Thanh:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Thankful:
+  gender_flag: 1
+  lang:
+  - en
+Thaís:
+  gender_flag: 1
+  is_equivalent_to:
+  - Thais
+  lang:
+  - pt
+Thaíse:
+  gender_flag: 1
+  is_a_variant_of:
+  - Taís
+  lang:
+  - pt
+Thaïs:
+  gender_flag: 1
+  is_equivalent_to:
+  - Thais
+  lang:
+  - fr
+Thea:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - en
+  - is
+  - 'no'
+  - sv
+  origin:
+  - en
+  - grc
+Theadore:
+  gender_flag: 2
+  lang:
+  - en
+Theckla:
+  gender_flag: 1
+  is_a_variant_of:
+  - Thecla
+  lang:
+  - en
+  origin:
+  - grc
+Thecla:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Theda:
+  gender_flag: 1
+  lang:
+  - en
+Theis:
+  gender_flag: 2
+  is_a_variant_of:
+  - Mathias
+  lang:
+  - da
+Thekla:
+  gender_flag: 1
+  is_equivalent_to:
+  - Thecla
+  lang:
+  - de
+Thelma:
+  gender_flag: 1
+  lang:
+  - en
+Themistius:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - grc
+Theo:
+  gender_flag: 7
+  is_short_for:
+  - Theodor
+  - Theodora
+  lang:
+  - af
+  - en
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - grc
+Theobald:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Theoderic:
+  gender_flag: 2
+  is_a_variant_of:
+  - Theodoric
+  is_equivalent_to:
+  - Derek
+  lang:
+  - en
+  origin:
+  - got
+Theodericus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Derek
+  - Theoderic
+  - Theodoric
+  lang:
+  - la
+  origin:
+  - got
+Theodfrit:
+  gender_flag: 1
+  lang:
+  - goh
+Theodor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodore
+  lang:
+  - da
+  - de
+  - 'no'
+  - sv
+  origin:
+  - grc
+Theodora:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  - la
+  origin:
+  - grc
+Theodore:
+  gender_flag: 2
+  lang:
+  - en
+Theodoric:
+  gender_flag: 2
+  lang:
+  - en
+Theodoros: {}
+Theodorus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodore
+  lang:
+  - la
+Theodosia:
+  gender_flag: 1
+  lang:
+  - en
+  - la
+  origin:
+  - grc
+Theodosius:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - grc
+Theodór:
+  gender_flag: 2
+  lang:
+  - is
+Theofanis: {}
+Theola:
+  gender_flag: 1
+  lang:
+  - en
+Theophilus:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  origin:
+  - grc
+Theopropides:
+  gender_flag: 2
+  lang:
+  - la
+Theosophus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Therapontigonus:
+  gender_flag: 2
+  lang:
+  - la
+Theres:
+  gender_flag: 1
+  lang:
+  - de
+  origin:
+  - fr
+Theresa:
+  gender_flag: 1
+  is_a_variant_of:
+  - Teresa
+  is_equivalent_to:
+  - Teresa
+  lang:
+  - de
+  - en
+  origin:
+  - grc
+Therese:
+  gender_flag: 1
+  is_a_variant_of:
+  - Theresa
+  is_equivalent_to:
+  - Teresa
+  lang:
+  - da
+  - de
+  - 'no'
+  - sv
+Theresia:
+  gender_flag: 1
+  lang:
+  - de
+Thestilus:
+  gender_flag: 2
+  lang:
+  - la
+Thestylis:
+  gender_flag: 1
+  lang:
+  - la
+Thestylus:
+  gender_flag: 2
+  lang:
+  - la
+Theudebald:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Theudebert:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Theunis:
+  gender_flag: 2
+  lang:
+  - nl
+Theódór:
+  gender_flag: 2
+  lang:
+  - is
+Thi:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Thiago: {}
+Thiare:
+  gender_flag: 1
+  is_a_variant_of:
+  - Tiare
+  lang:
+  - es
+Thibaud:
+  gender_flag: 2
+  is_a_variant_of:
+  - Thibault
+  lang:
+  - fr
+Thibault:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theobald
+  lang:
+  - fr
+Thibaut:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theobald
+  lang:
+  - fr
+Thiebaut:
+  gender_flag: 2
+  lang:
+  - fro
+Thieg:
+  gender_flag: 2
+  is_equivalent_to:
+  - Teague
+  lang:
+  - yol
+Thierry:
+  gender_flag: 2
+  is_equivalent_to:
+  - Derek
+  - Theodoric
+  lang:
+  - fr
+Thijs:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matt
+  is_short_for:
+  - Matthijs
+  lang:
+  - nl
+Thimothée:
+  gender_flag: 2
+  is_equivalent_to:
+  - Timothy
+  lang:
+  - nrf
+Thina:
+  gender_flag: 1
+  lang:
+  - 'no'
+Thiophile:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theophilus
+  lang:
+  - nrf
+Thioute:
+  gender_flag: 2
+  lang:
+  - fr
+Thiril:
+  gender_flag: 1
+  lang:
+  - 'no'
+Thiry:
+  gender_flag: 2
+  lang:
+  - nrf
+Thirza:
+  gender_flag: 1
+  is_a_variant_of:
+  - Tirza
+  lang:
+  - de
+  - en
+  origin:
+  - he
+Thiên:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Thiện:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Thiệu:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Thjeshtak:
+  gender_flag: 2
+  lang:
+  - sq
+Thobias:
+  gender_flag: 2
+  lang:
+  - sv
+Thoiba:
+  gender_flag: 2
+  lang:
+  - en
+Thoibi:
+  gender_flag: 1
+  lang:
+  - en
+Thom:
+  gender_flag: 2
+  is_a_variant_of:
+  - Tom
+  lang:
+  - en
+Thomaase:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thomas
+  lang:
+  - gv
+Thomas:
+  gender_flag: 2
+  is_a_variant_of:
+  - Tomas
+  lang:
+  - da
+  - de
+  - en
+  - enm
+  - fr
+  - la
+  - nl
+  - 'no'
+  - nrf
+  - sv
+  origin:
+  - arc
+Thomasin:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - arc
+Thomasina:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - arc
+Thomasine:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - arc
+Thomine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Tomine
+  lang:
+  - da
+  - 'no'
+Thommeen:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tommy
+  lang:
+  - yol
+Thomás: {}
+Thone:
+  gender_flag: 1
+  lang:
+  - 'no'
+Thongak Lairembi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mni
+Thongalen:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Thonje:
+  gender_flag: 1
+  lang:
+  - 'no'
+Thonmas:
+  gender_flag: 2
+  lang:
+  - nrf
+Thor:
+  gender_flag: 2
+  lang:
+  - da
+  - en
+  - is
+  - nb
+  - nn
+  origin:
+  - gem
+Thora:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  origin:
+  - gem
+Thorben:
+  gender_flag: 2
+  is_a_variant_of:
+  - Torben
+  lang:
+  - de
+  origin:
+  - da
+Thorbjörn:
+  gender_flag: 2
+  lang:
+  - sv
+Thorbjørn:
+  gender_flag: 2
+  lang:
+  - da
+  - 'no'
+Thord:
+  gender_flag: 2
+  lang:
+  - sv
+Thore:
+  gender_flag: 2
+  lang:
+  - 'no'
+  - sv
+Thorkild:
+  gender_flag: 2
+  lang:
+  - da
+Thorleif:
+  gender_flag: 2
+  is_a_variant_of:
+  - Torleif
+  lang:
+  - 'no'
+Thorley:
+  gender_flag: 2
+  lang:
+  - en
+Thornton:
+  gender_flag: 2
+  lang:
+  - en
+Thorsten:
+  gender_flag: 2
+  is_a_variant_of:
+  - Torsten
+  lang:
+  - de
+Thorvald:
+  gender_flag: 2
+  lang:
+  - da
+Thorwald:
+  gender_flag: 2
+  lang:
+  - de
+Thrasamunds:
+  gender_flag: 2
+  lang:
+  - xvn
+Thrine:
+  gender_flag: 1
+  lang:
+  - 'no'
+Throwend:
+  gender_flag: 2
+  lang:
+  - en
+Thu:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Thuli:
+  gender_flag: 1
+  lang:
+  - zu
+Thumleima:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mni
+Thunerulf:
+  gender_flag: 2
+  lang:
+  - osx
+Thure:
+  gender_flag: 2
+  lang:
+  - sv
+Thursa:
+  gender_flag: 1
+  lang:
+  - en
+Thurston:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Thuva:
+  gender_flag: 1
+  lang:
+  - 'no'
+Thuý:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Thuỳ:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Thuỵ:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Thuỷ:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Thyge:
+  gender_flag: 2
+  lang:
+  - da
+Thyra:
+  gender_flag: 1
+  lang:
+  - da
+  - sv
+Thyrsis:
+  gender_flag: 2
+  lang:
+  - en
+Thyrza:
+  gender_flag: 1
+  is_a_variant_of:
+  - Tirzah
+  lang:
+  - en
+  origin:
+  - he
+Thành:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Thái:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Thália:
+  gender_flag: 1
+  is_a_variant_of:
+  - Tália
+  lang:
+  - pt
+Thân:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Thècle:
+  gender_flag: 1
+  is_equivalent_to:
+  - Thecla
+  lang:
+  - fr
+Théa:
+  gender_flag: 1
+  lang:
+  - fr
+Théagène:
+  gender_flag: 2
+  lang:
+  - fr
+Thégonnec:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - br
+Théo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theo
+  lang:
+  - fr
+Théodore:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodore
+  lang:
+  - fr
+  - nrf
+Théodoric:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodoric
+  lang:
+  - fr
+Théophane:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - grc
+Théophile:
+  gender_flag: 2
+  lang:
+  - fr
+Thérèse:
+  gender_flag: 1
+  is_equivalent_to:
+  - Teresa
+  lang:
+  - fr
+Thìn:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Thơ:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Thơm:
+  gender_flag: 1
+  lang:
+  - vi
+Thư:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Thương:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Thường:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Thạch:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Thảo:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Thắm:
+  gender_flag: 1
+  lang:
+  - vi
+Thắng:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Thị:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Thịnh:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Thọ:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Thục:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Tia:
+  gender_flag: 1
+  lang:
+  - en
+Tiaan:
+  gender_flag: 2
+  lang:
+  - en
+Tiago:
+  gender_flag: 2
+  is_equivalent_to:
+  - James
+  lang:
+  - pt
+Tiaguinho:
+  gender_flag: 2
+  is_short_for:
+  - Tiago
+  lang:
+  - pt
+Tiana:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Tiannia:
+  gender_flag: 1
+  lang:
+  - en
+Tiara:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Tiare:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+Tibbie:
+  gender_flag: 1
+  is_short_for:
+  - Isabel
+  lang:
+  - en
+Tibby:
+  gender_flag: 1
+  is_short_for:
+  - Isabel
+  lang:
+  - en
+Tiberio:
+  gender_flag: 2
+  lang:
+  - it
+Tiberiu:
+  gender_flag: 2
+  lang:
+  - ro
+  origin:
+  - la
+Tiberius:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - la
+Tibi:
+  gender_flag: 2
+  is_short_for:
+  - Tibor
+  lang:
+  - hu
+Tibor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tiberius
+  lang:
+  - cs
+  - hu
+  - sk
+Tiburcio:
+  gender_flag: 2
+  lang:
+  - ceb
+Tibå:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theobald
+  lang:
+  - wa
+Tibério:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tiberius
+  lang:
+  - pt
+Tichomír:
+  gender_flag: 2
+  lang:
+  - sk
+Tidfriþ:
+  gender_flag: 2
+  lang:
+  - ang
+Tidhun:
+  gender_flag: 2
+  lang:
+  - ang
+Tienya:
+  lang:
+  - en
+Tiernan:
+  gender_flag: 2
+  lang:
+  - en
+Tierney:
+  gender_flag: 1
+  lang:
+  - en
+Tiernny:
+  gender_flag: 1
+  lang:
+  - en
+Tierri:
+  gender_flag: 2
+  lang:
+  - fro
+Tiest:
+  gender_flag: 2
+  lang:
+  - nl
+Tiff:
+  gender_flag: 1
+  is_short_for:
+  - Tiffany
+  lang:
+  - en
+Tiffani:
+  gender_flag: 1
+  lang:
+  - en
+Tiffany:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Tiffenn:
+  gender_flag: 1
+  lang:
+  - fr
+Tigran:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hy
+Tigranes:
+  gender_flag: 2
+  lang:
+  - en
+Tihomir:
+  gender_flag: 2
+  lang:
+  - sh
+Tiia:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Tiidrik:
+  gender_flag: 2
+  is_equivalent_to:
+  - Derek
+  lang:
+  - et
+Tiina:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Tiinasi:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Tiit:
+  gender_flag: 2
+  lang:
+  - et
+Tiitus:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Tiiu:
+  gender_flag: 1
+  lang:
+  - et
+Tija:
+  gender_flag: 1
+  lang:
+  - lv
+Tijn:
+  gender_flag: 2
+  is_short_for:
+  - Constantijn
+  lang:
+  - nl
+Tikya:
+  gender_flag: 1
+  lang:
+  - ceb
+Tikyo:
+  gender_flag: 2
+  lang:
+  - ceb
+Tila:
+  gender_flag: 1
+  lang:
+  - en
+Tilda:
+  gender_flag: 1
+  lang:
+  - en
+  - fi
+  - sv
+  origin:
+  - gem
+Tilde:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - sv
+Tilen:
+  gender_flag: 2
+  lang:
+  - sl
+Tilian:
+  gender_flag: 2
+  lang:
+  - en
+Tilkin:
+  gender_flag: 2
+  lang:
+  - wa
+Till:
+  gender_flag: 2
+  lang:
+  - de
+Tillie:
+  gender_flag: 1
+  is_short_for:
+  - Matilda
+  lang:
+  - en
+Tillmann:
+  gender_flag: 2
+  lang:
+  - de
+Tilly:
+  gender_flag: 1
+  is_short_for:
+  - Matilda
+  lang:
+  - en
+Tilman:
+  gender_flag: 2
+  is_a_variant_of:
+  - Tillmann
+  lang:
+  - de
+Tilmann:
+  gender_flag: 2
+  is_a_variant_of:
+  - Tillmann
+  lang:
+  - de
+Tilmon:
+  gender_flag: 2
+  lang:
+  - en
+Tim:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - nl
+  - 'no'
+  - sl
+  - sv
+Timaeus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Timeus:
+  gender_flag: 2
+  lang:
+  - en
+Timi:
+  gender_flag: 3
+  is_equivalent_to:
+  - Jim
+  is_short_for:
+  - Tímea
+  lang:
+  - fi
+  - hu
+  - mi
+  - yo
+Timm:
+  gender_flag: 2
+  lang:
+  - de
+Timmo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tim
+  - Timothy
+  lang:
+  - en
+  - et
+Timmons:
+  gender_flag: 1
+  lang:
+  - en
+Timmu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tim
+  - Timothy
+  lang:
+  - et
+Timmy:
+  gender_flag: 2
+  is_short_for:
+  - Timothy
+  lang:
+  - en
+Timo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Timothy
+  is_short_for:
+  - Dietmar
+  lang:
+  - de
+  - et
+  - fi
+  - nl
+Timon:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  origin:
+  - grc
+Timong:
+  gender_flag: 2
+  is_short_for:
+  - Timoteo
+  lang:
+  - ceb
+  - tl
+Timotei:
+  gender_flag: 2
+  is_equivalent_to:
+  - Timothy
+  lang:
+  - ro
+Timotej:
+  gender_flag: 2
+  lang:
+  - sk
+Timoteo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Timothy
+  lang:
+  - ceb
+  - es
+  - it
+  - tl
+  origin:
+  - es
+Timoteu:
+  gender_flag: 2
+  lang:
+  - ca
+  origin:
+  - grc
+Timoteus:
+  gender_flag: 2
+  lang:
+  - fi
+  - 'no'
+  - sv
+  origin:
+  - grc
+Timothy:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Timothée:
+  gender_flag: 2
+  is_equivalent_to:
+  - Timothy
+  lang:
+  - fr
+  - nrf
+Timotius:
+  gender_flag: 2
+  is_equivalent_to:
+  - Timothy
+  lang:
+  - id
+  origin:
+  - la
+Timotèye:
+  gender_flag: 2
+  lang:
+  - wa
+Timoté:
+  gender_flag: 2
+  is_equivalent_to:
+  - Timothy
+  lang:
+  - wa
+Timotêye:
+  gender_flag: 2
+  lang:
+  - wa
+Timoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Timur:
+  gender_flag: 2
+  lang:
+  - en
+  - tr
+Timão:
+  gender_flag: 2
+  is_equivalent_to:
+  - Timon
+  lang:
+  - pt
+  origin:
+  - grc
+Timón:
+  gender_flag: 2
+  is_equivalent_to:
+  - Timon
+  lang:
+  - es
+Timóteo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Timothy
+  lang:
+  - pt
+Tin:
+  gender_flag: 2
+  is_short_for:
+  - Kaourantin
+  - Kaourintin
+  lang:
+  - br
+  - tr
+  - wa
+Tina:
+  gender_flag: 1
+  is_short_for:
+  - Bettina
+  - Christina
+  - Kaourantina
+  - Kaourintina
+  - Kristina
+  - Martina
+  lang:
+  - br
+  - da
+  - de
+  - en
+  - fo
+  - 'no'
+  - sv
+  origin:
+  - grc
+  - la
+Tinaig:
+  gender_flag: 1
+  is_short_for:
+  - Kaourantina
+  - Kaourintina
+  lang:
+  - br
+Tinang:
+  gender_flag: 1
+  lang:
+  - ceb
+Tinca:
+  gender_flag: 1
+  lang:
+  - ro
+Tincy:
+  gender_flag: 1
+  lang:
+  - en
+Tindra:
+  gender_flag: 1
+  lang:
+  - sv
+Tine:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Tingting:
+  gender_flag: 2
+  lang:
+  - ceb
+Tinley:
+  gender_flag: 1
+  lang:
+  - en
+Tinna:
+  gender_flag: 1
+  lang:
+  - fo
+Tino:
+  gender_flag: 2
+  is_short_for:
+  - Valentino
+  lang:
+  - it
+Tinong:
+  gender_flag: 2
+  lang:
+  - ceb
+Tinsley:
+  gender_flag: 1
+  lang:
+  - en
+Tintin:
+  gender_flag: 3
+  lang:
+  - ceb
+  - fr
+Tinus:
+  gender_flag: 2
+  lang:
+  - nl
+Tiny:
+  gender_flag: 2
+  lang:
+  - nl
+Tiphaine:
+  gender_flag: 1
+  is_equivalent_to:
+  - Tiffany
+  lang:
+  - fr
+Tipi:
+  gender_flag: 2
+  lang:
+  - tr
+Tippu:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Tiray:
+  gender_flag: 1
+  lang:
+  - ceb
+Tiri:
+  gender_flag: 2
+  is_equivalent_to:
+  - Derek
+  lang:
+  - wa
+Tiril:
+  gender_flag: 1
+  lang:
+  - 'no'
+Tirpimirus: {}
+Tirso:
+  gender_flag: 2
+  lang:
+  - it
+Tirza:
+  gender_flag: 1
+  lang:
+  - de
+Tirzah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Tisang:
+  gender_flag: 1
+  lang:
+  - ceb
+Tisay:
+  gender_flag: 1
+  lang:
+  - ceb
+Tish:
+  gender_flag: 1
+  is_short_for:
+  - Letitia
+  lang:
+  - en
+Tisha:
+  gender_flag: 1
+  is_short_for:
+  - Letitia
+  lang:
+  - en
+Tisoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Tita:
+  gender_flag: 1
+  lang:
+  - fo
+  - it
+Titas:
+  gender_flag: 2
+  lang:
+  - lt
+Tithi:
+  gender_flag: 1
+  lang:
+  - en
+Titian:
+  gender_flag: 2
+  lang:
+  - en
+Titine:
+  gender_flag: 1
+  is_short_for:
+  - Christine
+  lang:
+  - fr
+Tito:
+  gender_flag: 2
+  is_equivalent_to:
+  - Titus
+  lang:
+  - es
+  - it
+  - pt
+Titta:
+  gender_flag: 1
+  lang:
+  - fi
+Titti:
+  gender_flag: 1
+  is_short_for:
+  - Kristina
+  lang:
+  - sv
+Titty:
+  gender_flag: 1
+  is_short_for:
+  - Letitia
+  lang:
+  - en
+Titus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Tivadar:
+  gender_flag: 2
+  lang:
+  - hu
+Tiyamiyu:
+  gender_flag: 2
+  lang:
+  - yo
+Tiyana:
+  gender_flag: 1
+  lang:
+  - fr
+Tizian:
+  gender_flag: 2
+  lang:
+  - de
+Tiziana:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  origin:
+  - it
+  - la
+Tiziano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Titian
+  lang:
+  - en
+  - it
+  origin:
+  - it
+  - la
+Tiên:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Tiğin:
+  gender_flag: 2
+  lang:
+  - tr
+Tiến:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Tjaden:
+  gender_flag: 2
+  lang:
+  - de
+Tjaša:
+  gender_flag: 1
+  lang:
+  - sl
+Tjoris:
+  gender_flag: 2
+  lang:
+  - nl
+Tjálvi:
+  gender_flag: 2
+  lang:
+  - fo
+Tjóðhild:
+  gender_flag: 1
+  lang:
+  - fo
+Tjóðolvur:
+  gender_flag: 2
+  lang:
+  - fo
+Tjörfi:
+  gender_flag: 2
+  lang:
+  - is
+Tobbe:
+  gender_flag: 2
+  is_short_for:
+  - Thobias
+  - Tobias
+  - Torbjörn
+  lang:
+  - sv
+Tobe:
+  gender_flag: 2
+  lang:
+  - en
+Tobia:
+  gender_flag: 2
+  lang:
+  - it
+Tobiah:
+  gender_flag: 2
+  lang:
+  - en
+Tobias:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fo
+  - la
+  - nl
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - he
+Tobie:
+  gender_flag: 7
+  lang:
+  - en
+  - fr
+Tobit:
+  gender_flag: 2
+  lang:
+  - en
+Tobiáš:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tobias
+  lang:
+  - cs
+Toby:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - he
+Tobyś:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tobias
+  lang:
+  - wym
+Tobías:
+  gender_flag: 2
+  lang:
+  - es
+Todd:
+  gender_flag: 2
+  lang:
+  - en
+Todger:
+  gender_flag: 2
+  lang:
+  - en
+Todhër:
+  gender_flag: 2
+  lang:
+  - sq
+Toenne:
+  gender_flag: 2
+  lang:
+  - wa
+Toennete:
+  gender_flag: 1
+  is_equivalent_to:
+  - Antoinette
+  lang:
+  - wa
+Togarmah:
+  gender_flag: 2
+  lang:
+  - en
+Toi:
+  gender_flag: 3
+  lang:
+  - en
+  - lou
+  - mi
+  - sm
+Toimi:
+  gender_flag: 2
+  lang:
+  - fi
+Toini:
+  gender_flag: 1
+  lang:
+  - fi
+Toirdhealbhach:
+  gender_flag: 2
+  lang:
+  - ga
+  origin:
+  - sga
+Toivo:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Tokalp:
+  gender_flag: 2
+  lang:
+  - tr
+Tokdemir:
+  gender_flag: 2
+  lang:
+  - tr
+Toke:
+  gender_flag: 2
+  lang:
+  - da
+Tokuhisa:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Tola:
+  gender_flag: 1
+  is_short_for:
+  - Otylia
+  lang:
+  - pl
+Tolay:
+  gender_flag: 2
+  lang:
+  - tr
+Tolga:
+  gender_flag: 2
+  lang:
+  - tr
+Tolgay:
+  gender_flag: 2
+  lang:
+  - tr
+Tolin:
+  gender_flag: 2
+  lang:
+  - ceb
+Tolindoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Toline:
+  gender_flag: 1
+  is_a_variant_of:
+  - Tolline
+  lang:
+  - 'no'
+Tollak:
+  gender_flag: 2
+  is_a_variant_of:
+  - Torlak
+  lang:
+  - nn
+Tollakur:
+  gender_flag: 2
+  lang:
+  - fo
+Tolline:
+  gender_flag: 1
+  lang:
+  - 'no'
+Tolome:
+  gender_flag: 2
+  is_short_for:
+  - Bartolome
+  lang:
+  - tl
+Tolun:
+  gender_flag: 2
+  lang:
+  - tr
+Tolunay:
+  gender_flag: 2
+  lang:
+  - tr
+Tolv:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Tom:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tony
+  is_short_for:
+  - Antônio
+  - Thomas
+  lang:
+  - da
+  - de
+  - en
+  - nl
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - en
+Toma:
+  gender_flag: 3
+  lang:
+  - lt
+  - tkl
+  origin:
+  - en
+Tomaidh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tommy
+  is_short_for:
+  - Tòmas
+  lang:
+  - gd
+Tomas:
+  gender_flag: 2
+  is_a_variant_of:
+  - Thomas
+  is_equivalent_to:
+  - Thomas
+  lang:
+  - ceb
+  - da
+  - lt
+  - nl
+  - 'no'
+  - sv
+  - tl
+  origin:
+  - es
+Tomasa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Tamsin
+  - Thomasina
+  lang:
+  - ceb
+  - es
+Tomasia:
+  gender_flag: 1
+  lang:
+  - fo
+Tomasine:
+  gender_flag: 1
+  lang:
+  - 'no'
+Tomasito:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tommy
+  is_short_for:
+  - Tomás
+  lang:
+  - es
+Tomass:
+  gender_flag: 2
+  lang:
+  - lv
+Tomasz:
+  gender_flag: 2
+  lang:
+  - pl
+Tomaz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thomas
+  lang:
+  - br
+Tomaž:
+  gender_flag: 2
+  lang:
+  - sl
+Tomba:
+  gender_flag: 2
+  lang:
+  - en
+Tombi:
+  gender_flag: 1
+  lang:
+  - en
+Tomek:
+  gender_flag: 2
+  is_short_for:
+  - Tomasz
+  lang:
+  - pl
+Tomesc:
+  gender_flag: 2
+  lang:
+  - lld
+Tomi:
+  gender_flag: 2
+  is_short_for:
+  - Tamás
+  lang:
+  - fi
+  - hu
+Tomiko:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Tomine:
+  gender_flag: 1
+  lang:
+  - 'no'
+Tomio:
+  gender_flag: 2
+  lang:
+  - cs
+  - en
+  origin:
+  - ja
+Tomislav:
+  gender_flag: 2
+  lang:
+  - sh
+Tommaso:
+  gender_flag: 2
+  lang:
+  - it
+Tommeen:
+  gender_flag: 2
+  is_a_variant_of:
+  - Thommeen
+  lang:
+  - yol
+Tommi:
+  gender_flag: 2
+  lang:
+  - fi
+  origin:
+  - he
+Tommie:
+  gender_flag: 7
+  lang:
+  - en
+Tommy:
+  gender_flag: 7
+  is_short_for:
+  - Thomas
+  - Thomasina
+  lang:
+  - da
+  - en
+  - 'no'
+  - sv
+Tomo:
+  gender_flag: 2
+  lang:
+  - sh
+Tomoe:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Tomoko:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Tomomi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Tomos:
+  gender_flag: 2
+  lang:
+  - cy
+Tomoyoshi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Toms:
+  gender_flag: 2
+  lang:
+  - lv
+Tomàs:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thomas
+  lang:
+  - ca
+Tomáisín:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tom
+  - Tommy
+  is_short_for:
+  - Tomás
+  lang:
+  - ga
+Tomás:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thomas
+  lang:
+  - es
+  - ga
+  - pt
+  origin:
+  - arc
+Tomáš:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thomas
+  lang:
+  - cs
+  - sk
+Tomášek:
+  gender_flag: 2
+  is_short_for:
+  - Tomáš
+  lang:
+  - cs
+Tomé:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thomas
+  lang:
+  - gl
+  - pt
+Ton:
+  gender_flag: 2
+  lang:
+  - nl
+Tonda:
+  gender_flag: 2
+  is_short_for:
+  - Antonín
+  lang:
+  - cs
+Tone:
+  gender_flag: 3
+  lang:
+  - en
+  - 'no'
+Tonelise:
+  gender_flag: 1
+  lang:
+  - 'no'
+Tonetta:
+  gender_flag: 1
+  is_a_variant_of:
+  - Tonette
+  lang:
+  - 'no'
+Tonette:
+  gender_flag: 1
+  lang:
+  - 'no'
+Tonguç:
+  gender_flag: 2
+  lang:
+  - tr
+Toni:
+  gender_flag: 7
+  is_equivalent_to:
+  - Tony
+  is_short_for:
+  - Anton
+  - Antonia
+  lang:
+  - cim
+  - en
+  - fi
+  - gsw
+  - wa
+  origin:
+  - la
+Tonia:
+  gender_flag: 1
+  is_short_for:
+  - Antonina
+  lang:
+  - en
+  - pl
+Tonibler:
+  gender_flag: 2
+  lang:
+  - sq
+Tonino:
+  gender_flag: 2
+  is_short_for:
+  - Antonio
+  lang:
+  - it
+Tonio:
+  gender_flag: 2
+  is_short_for:
+  - Antonio
+  lang:
+  - it
+Tonje:
+  gender_flag: 1
+  lang:
+  - 'no'
+Tonni:
+  gender_flag: 2
+  lang:
+  - da
+  - fo
+Tonny:
+  gender_flag: 3
+  lang:
+  - da
+  - nl
+Tonton:
+  gender_flag: 2
+  lang:
+  - ceb
+Tony:
+  gender_flag: 7
+  is_short_for:
+  - Antonio
+  lang:
+  - da
+  - en
+  - it
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - en
+Tonya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ru
+Tonying:
+  gender_flag: 2
+  lang:
+  - tl
+Tonyo:
+  gender_flag: 2
+  is_short_for:
+  - Antonio
+  lang:
+  - tl
+Toník:
+  gender_flag: 2
+  is_short_for:
+  - Tonda
+  lang:
+  - cs
+Toníček:
+  gender_flag: 2
+  is_short_for:
+  - Tonda
+  lang:
+  - cs
+Tooba: {}
+Toomas:
+  gender_flag: 2
+  lang:
+  - et
+Toon:
+  gender_flag: 2
+  lang:
+  - nl
+Topanga:
+  gender_flag: 1
+  lang:
+  - en
+Topaz:
+  gender_flag: 1
+  lang:
+  - en
+Tope:
+  gender_flag: 2
+  lang:
+  - ceb
+Toper:
+  gender_flag: 2
+  lang:
+  - ceb
+Topi:
+  gender_flag: 2
+  lang:
+  - fi
+Topias:
+  gender_flag: 2
+  lang:
+  - fi
+Toprak:
+  gender_flag: 3
+  lang:
+  - tr
+Tor:
+  gender_flag: 2
+  lang:
+  - da
+  - nb
+  - nn
+  - sv
+  - tr
+  origin:
+  - non
+Tora:
+  gender_flag: 1
+  lang:
+  - nn
+  - sv
+Torald:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Toralv:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Toraman:
+  gender_flag: 2
+  lang:
+  - tr
+Toran:
+  gender_flag: 2
+  lang:
+  - tr
+Torben:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+Torbera:
+  gender_flag: 1
+  lang:
+  - fo
+  - nn
+Torbergur:
+  gender_flag: 2
+  lang:
+  - fo
+Torbjörn:
+  gender_flag: 2
+  lang:
+  - sv
+Torbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+  - 'no'
+  origin:
+  - non
+Torbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+  - 'no'
+Torbjørt:
+  gender_flag: 1
+  lang:
+  - fo
+Torborg:
+  gender_flag: 1
+  lang:
+  - fo
+Torbrandur:
+  gender_flag: 2
+  lang:
+  - fo
+Torcall:
+  gender_flag: 2
+  lang:
+  - gd
+  origin:
+  - non
+Torcan:
+  gender_flag: 2
+  lang:
+  - tr
+Tord:
+  gender_flag: 2
+  lang:
+  - nb
+  - nn
+  - sv
+  origin:
+  - non
+Torda:
+  gender_flag: 2
+  lang:
+  - hu
+Tordine:
+  gender_flag: 1
+  lang:
+  - 'no'
+Tordis:
+  gender_flag: 1
+  lang:
+  - fo
+  - 'no'
+Tordy:
+  gender_flag: 1
+  lang:
+  - 'no'
+Tore:
+  gender_flag: 2
+  lang:
+  - nn
+  - 'no'
+  - sv
+Torel:
+  gender_flag: 2
+  lang:
+  - tr
+Torey:
+  gender_flag: 1
+  is_short_for:
+  - Victoria
+  lang:
+  - en
+Torfheiður:
+  gender_flag: 1
+  lang:
+  - is
+Torfi:
+  gender_flag: 2
+  lang:
+  - is
+Torfinn:
+  gender_flag: 2
+  lang:
+  - 'no'
+Torfinna:
+  gender_flag: 1
+  lang:
+  - fo
+Torfinnur:
+  gender_flag: 2
+  lang:
+  - fo
+Torfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Torfríður:
+  gender_flag: 2
+  lang:
+  - fo
+Torgay:
+  gender_flag: 2
+  lang:
+  - tr
+Torgeir:
+  gender_flag: 2
+  lang:
+  - fo
+  - nn
+Torgeira:
+  gender_flag: 1
+  lang:
+  - nn
+Torgen:
+  gender_flag: 2
+  lang:
+  - wa
+Torgerð:
+  gender_flag: 1
+  lang:
+  - fo
+Torgestur:
+  gender_flag: 2
+  lang:
+  - fo
+Torgny:
+  gender_flag: 2
+  lang:
+  - sv
+Torgrímur:
+  gender_flag: 2
+  lang:
+  - fo
+Torgunn:
+  gender_flag: 1
+  lang:
+  - fo
+Torgunna:
+  gender_flag: 1
+  lang:
+  - fo
+Torhan:
+  gender_flag: 2
+  lang:
+  - tr
+Torhild:
+  gender_flag: 1
+  lang:
+  - 'no'
+Torhthelm:
+  gender_flag: 2
+  lang:
+  - ang
+Torhtræd:
+  gender_flag: 2
+  lang:
+  - ang
+Torhtweald:
+  gender_flag: 2
+  lang:
+  - ang
+Tori:
+  gender_flag: 1
+  is_short_for:
+  - Victoria
+  lang:
+  - en
+Toribio:
+  gender_flag: 2
+  lang:
+  - es
+Toril:
+  gender_flag: 1
+  is_a_variant_of:
+  - Torhild
+  lang:
+  - 'no'
+Torild:
+  gender_flag: 3
+  is_a_variant_of:
+  - Torhild
+  lang:
+  - 'no'
+  - sv
+Torill:
+  gender_flag: 1
+  is_a_variant_of:
+  - Torhild
+  lang:
+  - 'no'
+Torkal:
+  gender_flag: 2
+  lang:
+  - tr
+Torkan:
+  gender_flag: 2
+  lang:
+  - tr
+Torkel:
+  gender_flag: 2
+  lang:
+  - sv
+Torkil:
+  gender_flag: 2
+  lang:
+  - fo
+Torkild:
+  gender_flag: 2
+  lang:
+  - da
+Torlak:
+  gender_flag: 2
+  lang:
+  - nb
+  - nn
+  - tr
+Torlav:
+  gender_flag: 2
+  lang:
+  - nn
+Torleif:
+  gender_flag: 2
+  lang:
+  - 'no'
+Torleik:
+  gender_flag: 2
+  lang:
+  - nb
+  - nn
+Torleiv:
+  gender_flag: 2
+  lang:
+  - nn
+Torleivur:
+  gender_flag: 2
+  lang:
+  - fo
+Torleyg:
+  gender_flag: 1
+  lang:
+  - fo
+Torleygur:
+  gender_flag: 2
+  lang:
+  - fo
+Tormann:
+  gender_flag: 2
+  lang:
+  - fo
+Tormar:
+  gender_flag: 2
+  lang:
+  - fo
+Tormi:
+  gender_flag: 2
+  lang:
+  - et
+Tormod:
+  gender_flag: 2
+  is_equivalent_to:
+  - Norman
+  lang:
+  - gd
+  - 'no'
+  origin:
+  - non
+Tormundur:
+  gender_flag: 2
+  lang:
+  - fo
+Tormóður:
+  gender_flag: 2
+  lang:
+  - fo
+Torný:
+  gender_flag: 1
+  lang:
+  - fo
+Torolf:
+  gender_flag: 2
+  lang:
+  - 'no'
+Toros:
+  gender_flag: 2
+  lang:
+  - tr
+Torquato:
+  gender_flag: 2
+  lang:
+  - it
+Torquil:
+  gender_flag: 2
+  lang:
+  - en
+Torri:
+  gender_flag: 2
+  lang:
+  - fo
+Torstein:
+  gender_flag: 2
+  lang:
+  - fo
+  - nn
+  origin:
+  - non
+Torsten:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - sv
+Torsti:
+  gender_flag: 2
+  lang:
+  - fi
+Torumtay:
+  gender_flag: 2
+  lang:
+  - tr
+Torun:
+  gender_flag: 3
+  lang:
+  - 'no'
+  - tr
+Torunn:
+  gender_flag: 1
+  lang:
+  - 'no'
+Torvald:
+  gender_flag: 2
+  lang:
+  - nn
+  - sv
+  origin:
+  - non
+Torvaldur:
+  gender_flag: 2
+  lang:
+  - fo
+Torvør:
+  gender_flag: 1
+  lang:
+  - fo
+Tory:
+  gender_flag: 7
+  lang:
+  - en
+Torène:
+  gender_flag: 1
+  lang:
+  - nrf
+Toshiharu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Toshikatsu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Toshiko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Toshimi:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ja
+Toshimitsu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Toshiyo:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Tosia:
+  gender_flag: 1
+  is_short_for:
+  - Antonia
+  - Antonina
+  lang:
+  - pl
+Tosing:
+  gender_flag: 1
+  lang:
+  - ceb
+Tossint:
+  gender_flag: 2
+  lang:
+  - wa
+Tosti:
+  gender_flag: 2
+  lang:
+  - ang
+Tostig:
+  gender_flag: 2
+  lang:
+  - ang
+Tosun:
+  gender_flag: 2
+  lang:
+  - tr
+Tosunbey:
+  gender_flag: 2
+  lang:
+  - tr
+Toti:
+  gender_flag: 2
+  lang:
+  - ca
+Totor:
+  gender_flag: 2
+  is_short_for:
+  - Victor
+  lang:
+  - fr
+Totti:
+  gender_flag: 2
+  lang:
+  - fi
+Totuk:
+  gender_flag: 2
+  lang:
+  - tr
+Totò:
+  gender_flag: 2
+  lang:
+  - it
+Touko:
+  gender_flag: 2
+  lang:
+  - fi
+Toumani:
+  gender_flag: 2
+  lang:
+  - fr
+Toumas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thomas
+  lang:
+  - wa
+Toumsin:
+  gender_flag: 2
+  lang:
+  - wa
+Touènette:
+  gender_flag: 1
+  lang:
+  - nrf
+Touénot:
+  gender_flag: 2
+  lang:
+  - nrf
+Tova:
+  gender_flag: 1
+  lang:
+  - fo
+  - sv
+Tove:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+  - sv
+Townsend:
+  gender_flag: 2
+  lang:
+  - en
+Toxilus:
+  gender_flag: 2
+  lang:
+  - la
+Toy:
+  gender_flag: 2
+  lang:
+  - tr
+Toya:
+  gender_flag: 1
+  is_short_for:
+  - Victoria
+  lang:
+  - es
+Toyah:
+  gender_flag: 1
+  lang:
+  - en
+Toyang:
+  gender_flag: 1
+  lang:
+  - ceb
+Toyboğa:
+  gender_flag: 2
+  lang:
+  - tr
+Toycan:
+  gender_flag: 2
+  lang:
+  - tr
+Toydemir:
+  gender_flag: 2
+  lang:
+  - tr
+Toydeniz:
+  gender_flag: 2
+  lang:
+  - tr
+Toygar:
+  gender_flag: 2
+  lang:
+  - tr
+Toygun:
+  gender_flag: 2
+  lang:
+  - tr
+Toyka:
+  gender_flag: 2
+  lang:
+  - tr
+Toyoko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Toyosaburo:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Tozan:
+  gender_flag: 2
+  lang:
+  - tr
+Tozun:
+  gender_flag: 2
+  lang:
+  - tr
+Toñi:
+  gender_flag: 1
+  is_short_for:
+  - Antonia
+  lang:
+  - es
+Toño:
+  gender_flag: 2
+  is_short_for:
+  - Antonio
+  lang:
+  - es
+Toğrul:
+  gender_flag: 2
+  lang:
+  - az
+Tracey:
+  gender_flag: 7
+  is_a_variant_of:
+  - Tracy
+  lang:
+  - en
+Trachalio:
+  gender_flag: 2
+  lang:
+  - la
+Traci:
+  gender_flag: 1
+  is_a_variant_of:
+  - Tracy
+  lang:
+  - en
+Tracie:
+  gender_flag: 1
+  lang:
+  - en
+Tracy:
+  gender_flag: 7
+  lang:
+  - en
+Traiano:
+  gender_flag: 2
+  lang:
+  - it
+Trajan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Trajanka: {}
+Trajka: {}
+Trajko: {}
+Trang:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - vi
+  origin:
+  - vi
+  - zh
+Tranio:
+  gender_flag: 2
+  lang:
+  - la
+Traostilo:
+  lang:
+  - goh
+Trasta:
+  lang:
+  - rom
+Trausti:
+  gender_flag: 2
+  lang:
+  - is
+Traute:
+  gender_flag: 1
+  lang:
+  - de
+Trav:
+  gender_flag: 2
+  lang:
+  - en
+Travis:
+  gender_flag: 2
+  lang:
+  - en
+Tray:
+  gender_flag: 1
+  is_short_for:
+  - Tracy
+  lang:
+  - en
+Treasure:
+  gender_flag: 1
+  lang:
+  - en
+Treblere:
+  gender_flag: 2
+  lang:
+  - yol
+Treelagh:
+  gender_flag: 2
+  lang:
+  - gv
+Trees:
+  gender_flag: 1
+  lang:
+  - nl
+Trefor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Trevor
+  lang:
+  - cy
+Trene:
+  gender_flag: 1
+  lang:
+  - wa
+Trent:
+  gender_flag: 2
+  lang:
+  - en
+Trenton:
+  gender_flag: 2
+  lang:
+  - en
+Tressa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Teresa
+  lang:
+  - gv
+  origin:
+  - grc
+Trev:
+  gender_flag: 2
+  is_short_for:
+  - Trevor
+  lang:
+  - en
+Trevonta:
+  gender_flag: 2
+  lang:
+  - en
+Trevontae:
+  gender_flag: 2
+  lang:
+  - en
+Trevor:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Trevour:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Trevs:
+  gender_flag: 2
+  is_short_for:
+  - Trevor
+  lang:
+  - en
+Trey:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - en
+Treysti:
+  gender_flag: 2
+  lang:
+  - fo
+Treyvon:
+  gender_flag: 2
+  lang:
+  - en
+Tri:
+  gender_flag: 7
+  lang:
+  - id
+  origin:
+  - jv
+Triana:
+  gender_flag: 1
+  lang:
+  - es
+Tricia:
+  gender_flag: 1
+  is_short_for:
+  - Patricia
+  lang:
+  - en
+Trifone:
+  gender_flag: 2
+  lang:
+  - it
+Triin:
+  gender_flag: 1
+  lang:
+  - et
+Triinu:
+  gender_flag: 1
+  lang:
+  - et
+Trijntje:
+  gender_flag: 1
+  lang:
+  - nl
+Trim:
+  gender_flag: 2
+  lang:
+  - sq
+Trimas:
+  gender_flag: 2
+  lang:
+  - sq
+Trina:
+  gender_flag: 1
+  is_short_for:
+  - Katrina
+  lang:
+  - en
+  - fo
+  origin:
+  - grc
+Trine:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+  origin:
+  - da
+Tringa:
+  gender_flag: 1
+  lang:
+  - sq
+Trini:
+  gender_flag: 1
+  is_short_for:
+  - Katrina
+  lang:
+  - en
+Trinidad:
+  gender_flag: 1
+  lang:
+  - es
+Trining:
+  gender_flag: 1
+  is_short_for:
+  - Trinidad
+  lang:
+  - tl
+Trinity:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Triphon:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Tripimirus: {}
+Tripti:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - hi
+Tripty:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - hi
+Tris:
+  gender_flag: 7
+  is_short_for:
+  - Patricia
+  - Tristram
+  lang:
+  - en
+Trish:
+  gender_flag: 1
+  is_short_for:
+  - Patricia
+  lang:
+  - en
+Trisha:
+  gender_flag: 1
+  is_short_for:
+  - Patricia
+  lang:
+  - en
+Trisno:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Tristan:
+  gender_flag: 7
+  lang:
+  - de
+  - en
+  - fo
+  - fr
+  - fro
+  - is
+  origin:
+  - cel
+Tristano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tristan
+  - Tristram
+  lang:
+  - it
+Tristen:
+  gender_flag: 6
+  lang:
+  - en
+Tristian:
+  gender_flag: 2
+  lang:
+  - en
+Tristin:
+  gender_flag: 6
+  lang:
+  - en
+Triston:
+  gender_flag: 2
+  lang:
+  - en
+Tristram:
+  gender_flag: 2
+  is_a_variant_of:
+  - Tristan
+  lang:
+  - en
+  origin:
+  - cel
+Tristran:
+  gender_flag: 2
+  lang:
+  - frm
+  - fro
+Tristán:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tristan
+  lang:
+  - es
+Tristão:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tristan
+  lang:
+  - pt
+Trixie:
+  gender_flag: 1
+  is_short_for:
+  - Beatrix
+  lang:
+  - en
+Trixy:
+  gender_flag: 1
+  lang:
+  - en
+Triết:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Triệu:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Troels:
+  gender_flag: 2
+  lang:
+  - da
+Troi:
+  gender_flag: 3
+  is_a_variant_of:
+  - Troy
+  lang:
+  - en
+Troilus:
+  gender_flag: 2
+  lang:
+  - en
+Trond:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Troy:
+  gender_flag: 2
+  lang:
+  - en
+Troyana:
+  gender_flag: 1
+  lang:
+  - en
+Troye:
+  gender_flag: 3
+  is_a_variant_of:
+  - Troy
+  lang:
+  - en
+Trpimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Truculentus:
+  gender_flag: 2
+  lang:
+  - la
+Trude:
+  gender_flag: 1
+  is_short_for:
+  - Gertrude
+  lang:
+  - de
+  - 'no'
+Trudi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Trudie:
+  gender_flag: 1
+  lang:
+  - en
+Trudy:
+  gender_flag: 1
+  lang:
+  - en
+Truett:
+  gender_flag: 2
+  lang:
+  - en
+Truls:
+  gender_flag: 2
+  lang:
+  - 'no'
+Truman:
+  gender_flag: 2
+  lang:
+  - en
+Trung:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Trupti:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mr
+Truus:
+  gender_flag: 1
+  lang:
+  - nl
+Tryggve:
+  gender_flag: 2
+  lang:
+  - sv
+Tryggvi:
+  gender_flag: 2
+  lang:
+  - is
+  - non
+  origin:
+  - non
+Tryggvína:
+  gender_flag: 1
+  lang:
+  - is
+Trygve:
+  gender_flag: 2
+  lang:
+  - 'no'
+Trygvi:
+  gender_flag: 2
+  lang:
+  - fo
+Trym:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Tryphena:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Tryphosa:
+  gender_flag: 1
+  lang:
+  - en
+Trysta:
+  gender_flag: 1
+  lang:
+  - en
+Trà:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Tráin:
+  gender_flag: 2
+  lang:
+  - fo
+Trân:
+  gender_flag: 2
+  lang:
+  - vi
+Trí:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Tróndur:
+  gender_flag: 2
+  lang:
+  - fo
+Trøstur:
+  gender_flag: 2
+  lang:
+  - fo
+Trīne:
+  gender_flag: 1
+  is_short_for:
+  - Katrīna
+  lang:
+  - lv
+Trường:
+  gender_flag: 2
+  lang:
+  - vi
+Tsering:
+  gender_flag: 6
+  lang:
+  - en
+  origin:
+  - bo
+Tsikhan: {}
+Tsolak:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hy
+Tsubaki:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Tsubasa:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Tsuguko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Tsukiko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Tsumiko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Tsuneko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Tsunemi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Tsutsuji:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Tsuyako:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Tsuyuko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Tuba:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Tuck:
+  gender_flag: 2
+  is_short_for:
+  - Tucker
+  lang:
+  - en
+Tucker:
+  gender_flag: 2
+  lang:
+  - en
+Tucídides:
+  gender_flag: 2
+  lang:
+  - pt
+Tudig:
+  gender_flag: 2
+  is_short_for:
+  - Iltud
+  lang:
+  - br
+Tudor:
+  gender_flag: 2
+  lang:
+  - ro
+Tudorel:
+  gender_flag: 2
+  is_short_for:
+  - Tudor
+  lang:
+  - ro
+Tue:
+  lang:
+  - en
+Tufan:
+  gender_flag: 2
+  lang:
+  - tr
+Tuija:
+  gender_flag: 1
+  lang:
+  - fi
+Tuire:
+  gender_flag: 1
+  lang:
+  - fi
+Tukijan:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Tukiman:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Tukimin:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Tukinem:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Tukiran:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Tukirin:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Tukummeq:
+  gender_flag: 1
+  lang:
+  - kl
+Tuli:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - hi
+Tullo:
+  gender_flag: 2
+  lang:
+  - it
+Tulsi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - hi
+Tulum:
+  gender_flag: 2
+  lang:
+  - tr
+Tumas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thomas
+  lang:
+  - fro
+Tumesc:
+  gender_flag: 2
+  lang:
+  - lld
+Tumi:
+  gender_flag: 2
+  lang:
+  - is
+Tuminem:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Tumirah:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Tummas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thomas
+  lang:
+  - fo
+Tun:
+  gender_flag: 2
+  lang:
+  - tr
+Tuna:
+  gender_flag: 3
+  lang:
+  - tr
+Tunau:
+  gender_flag: 2
+  lang:
+  - ha
+Tunay:
+  gender_flag: 2
+  lang:
+  - tr
+Tuncay:
+  gender_flag: 3
+  lang:
+  - tr
+Tune:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tony
+  is_short_for:
+  - Antune
+  lang:
+  - dlm
+Tunga:
+  gender_flag: 2
+  lang:
+  - tr
+Tunç:
+  gender_flag: 2
+  lang:
+  - tr
+Tunçboğa:
+  gender_flag: 2
+  lang:
+  - tr
+Tunçkol:
+  gender_flag: 2
+  lang:
+  - tr
+Tunçok:
+  gender_flag: 2
+  lang:
+  - tr
+Tunçsoy:
+  gender_flag: 2
+  lang:
+  - tr
+Tunèin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - egl
+  origin:
+  - la
+Tuomas:
+  gender_flag: 2
+  lang:
+  - fi
+Tuomo:
+  gender_flag: 2
+  lang:
+  - fi
+Tuone:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tony
+  is_short_for:
+  - Antune
+  lang:
+  - dlm
+Tuovi:
+  gender_flag: 1
+  lang:
+  - fi
+Tupaarnaq:
+  gender_flag: 1
+  lang:
+  - kl
+Tuppi:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Tuppia:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Tur:
+  gender_flag: 2
+  lang:
+  - tr
+  - wa
+Tura:
+  gender_flag: 2
+  lang:
+  - tr
+Turan:
+  gender_flag: 2
+  lang:
+  - tr
+Turbalio:
+  gender_flag: 2
+  lang:
+  - la
+Ture:
+  gender_flag: 2
+  is_a_variant_of:
+  - Tore
+  lang:
+  - sv
+Turgay:
+  gender_flag: 2
+  lang:
+  - tr
+Turgut:
+  gender_flag: 2
+  lang:
+  - tr
+Turid:
+  gender_flag: 1
+  lang:
+  - 'no'
+Turið:
+  gender_flag: 1
+  lang:
+  - fo
+Turkka:
+  gender_flag: 2
+  lang:
+  - fi
+Turna:
+  gender_flag: 1
+  lang:
+  - tr
+Tursunay: {}
+Tusiman:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Tutankhaten:
+  gender_flag: 2
+  lang:
+  - en
+Tutku:
+  gender_flag: 2
+  lang:
+  - tr
+Tutkun:
+  gender_flag: 3
+  lang:
+  - tr
+Tutta:
+  gender_flag: 1
+  lang:
+  - 'no'
+Tutti:
+  gender_flag: 1
+  lang:
+  - 'no'
+Tuudor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodore
+  lang:
+  - et
+Tuukka:
+  gender_flag: 2
+  lang:
+  - fi
+Tuula:
+  gender_flag: 1
+  lang:
+  - fi
+  - kl
+  origin:
+  - da
+Tuule:
+  gender_flag: 1
+  is_a_variant_of:
+  - Tuuli
+  lang:
+  - et
+Tuuli:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Tuulia:
+  gender_flag: 1
+  lang:
+  - fi
+Tuulike:
+  gender_flag: 1
+  lang:
+  - et
+Tuulikki:
+  gender_flag: 1
+  lang:
+  - fi
+Tuuma:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Tuumarsi:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Tuure:
+  gender_flag: 2
+  lang:
+  - fi
+Tuuvi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hop
+Tuva:
+  gender_flag: 1
+  is_a_variant_of:
+  - Tove
+  lang:
+  - 'no'
+  - sv
+Tuvanimptewa:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hop
+Tuyết:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Tuğ:
+  gender_flag: 2
+  lang:
+  - tr
+Tuğal:
+  gender_flag: 2
+  lang:
+  - tr
+Tuğalp:
+  gender_flag: 2
+  lang:
+  - tr
+Tuğba:
+  gender_flag: 1
+  lang:
+  - tr
+Tuğra:
+  gender_flag: 2
+  lang:
+  - tr
+Tuğrul:
+  gender_flag: 2
+  lang:
+  - tr
+Tuğtekin:
+  gender_flag: 2
+  lang:
+  - tr
+Tuğçe:
+  gender_flag: 1
+  lang:
+  - tr
+Tuấn:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Tuất:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Tuệ:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Tvisha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Tvrtko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Twan:
+  gender_flag: 2
+  lang:
+  - nl
+Twila:
+  gender_flag: 1
+  lang:
+  - en
+Twyla:
+  gender_flag: 1
+  lang:
+  - en
+Twènete:
+  gender_flag: 1
+  lang:
+  - wa
+Txell:
+  gender_flag: 1
+  is_short_for:
+  - Meritxell
+  lang:
+  - ca
+Ty:
+  gender_flag: 2
+  lang:
+  - en
+Tyan:
+  gender_flag: 2
+  lang:
+  - en
+Tyberiusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Tiberius
+  lang:
+  - pl
+Tycho:
+  gender_flag: 2
+  lang:
+  - la
+Tylenis:
+  gender_flag: 2
+  lang:
+  - lt
+Tyler:
+  gender_flag: 7
+  lang:
+  - en
+Tyme:
+  gender_flag: 2
+  lang:
+  - en
+Tymek:
+  gender_flag: 2
+  is_short_for:
+  - Tymoteusz
+  lang:
+  - pl
+Tymon:
+  gender_flag: 2
+  is_equivalent_to:
+  - Timon
+  lang:
+  - pl
+Tymoteusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Timothy
+  lang:
+  - pl
+Tyndarus:
+  gender_flag: 2
+  lang:
+  - la
+Tynisha:
+  gender_flag: 1
+  lang:
+  - en
+Tyra:
+  gender_flag: 1
+  lang:
+  - en
+  - sv
+  origin:
+  - sv
+Tyre:
+  gender_flag: 2
+  lang:
+  - en
+Tyrece:
+  gender_flag: 2
+  lang:
+  - en
+Tyree:
+  gender_flag: 2
+  lang:
+  - en
+Tyreece:
+  gender_flag: 2
+  lang:
+  - en
+Tyreek:
+  gender_flag: 2
+  lang:
+  - en
+Tyreese:
+  gender_flag: 2
+  lang:
+  - en
+Tyrell:
+  gender_flag: 2
+  lang:
+  - en
+Tyrese:
+  gender_flag: 2
+  lang:
+  - en
+Tyrni:
+  gender_flag: 2
+  lang:
+  - fo
+Tyrnir:
+  gender_flag: 2
+  lang:
+  - fo
+Tyron:
+  gender_flag: 2
+  is_a_variant_of:
+  - Tyrone
+  lang:
+  - en
+Tyrone:
+  gender_flag: 2
+  lang:
+  - en
+Tyson:
+  gender_flag: 2
+  lang:
+  - en
+Tytti:
+  gender_flag: 1
+  lang:
+  - fi
+Tytus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Titus
+  lang:
+  - pl
+Tywanda:
+  gender_flag: 1
+  lang:
+  - en
+Tyyne:
+  gender_flag: 1
+  lang:
+  - fi
+  origin:
+  - fi
+Tyyni:
+  gender_flag: 1
+  lang:
+  - fi
+Tzipi: {}
+Tzvi:
+  gender_flag: 2
+  lang:
+  - en
+Tài:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Tània:
+  gender_flag: 1
+  is_equivalent_to:
+  - Tania
+  lang:
+  - ca
+Tábata:
+  gender_flag: 1
+  is_equivalent_to:
+  - Tabitha
+  lang:
+  - pt
+Tácito:
+  gender_flag: 2
+  lang:
+  - pt
+Tália:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - grc
+Tánička:
+  gender_flag: 1
+  is_short_for:
+  - Táňa
+  lang:
+  - cs
+Táňa:
+  gender_flag: 1
+  is_short_for:
+  - Taťána
+  lang:
+  - cs
+Tâm:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Tân:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Tânia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Tania
+  lang:
+  - pt
+  origin:
+  - ru
+Tâve:
+  gender_flag: 2
+  lang:
+  - wa
+Tây:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Tähti:
+  gender_flag: 1
+  lang:
+  - et
+Tåve:
+  gender_flag: 2
+  lang:
+  - wa
+Téa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Thea
+  lang:
+  - pt
+Téo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theo
+  lang:
+  - pt
+Térence:
+  gender_flag: 2
+  is_equivalent_to:
+  - Terence
+  lang:
+  - fr
+  origin:
+  - la
+Têye:
+  gender_flag: 1
+  lang:
+  - wa
+Tí:
+  gender_flag: 7
+  lang:
+  - vi
+Tímea:
+  gender_flag: 1
+  lang:
+  - hu
+Típo:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Tístram:
+  gender_flag: 2
+  lang:
+  - fo
+Tíðrikur:
+  gender_flag: 2
+  lang:
+  - fo
+Tînase:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Tòmas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thomas
+  lang:
+  - gd
+  origin:
+  - arc
+Tódor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodore
+  lang:
+  - hu
+Tóki:
+  gender_flag: 2
+  lang:
+  - fo
+Tómas:
+  gender_flag: 2
+  lang:
+  - is
+Tóna:
+  gender_flag: 3
+  is_short_for:
+  - Antonie
+  - Antonín
+  lang:
+  - cs
+  - fo
+Tóra:
+  gender_flag: 1
+  lang:
+  - fo
+Tóraldur:
+  gender_flag: 2
+  lang:
+  - fo
+Tórarin:
+  gender_flag: 2
+  lang:
+  - fo
+Tórhalla:
+  gender_flag: 1
+  lang:
+  - fo
+Tórhallur:
+  gender_flag: 2
+  lang:
+  - fo
+Tórheðin:
+  gender_flag: 2
+  lang:
+  - fo
+Tórhild:
+  gender_flag: 1
+  lang:
+  - fo
+Tóri:
+  gender_flag: 2
+  lang:
+  - fo
+Tórir:
+  gender_flag: 2
+  lang:
+  - fo
+Tóroddur:
+  gender_flag: 2
+  lang:
+  - fo
+Tórolvur:
+  gender_flag: 2
+  lang:
+  - fo
+Tórunn:
+  gender_flag: 1
+  lang:
+  - fo
+Tórur:
+  gender_flag: 2
+  lang:
+  - fo
+Tórálvur:
+  gender_flag: 2
+  lang:
+  - fo
+Tórður:
+  gender_flag: 2
+  lang:
+  - fo
+Tóta:
+  gender_flag: 1
+  lang:
+  - fo
+Tóti:
+  gender_flag: 2
+  lang:
+  - fo
+Tóva:
+  gender_flag: 1
+  lang:
+  - fo
+Tô:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Tônete:
+  gender_flag: 1
+  lang:
+  - wa
+Tõnis:
+  gender_flag: 2
+  lang:
+  - et
+Tõnn:
+  gender_flag: 2
+  lang:
+  - et
+Tõnu:
+  gender_flag: 2
+  lang:
+  - et
+Tønnes:
+  gender_flag: 2
+  lang:
+  - da
+Tørjer:
+  gender_flag: 2
+  is_a_variant_of:
+  - Torgeir
+  lang:
+  - nn
+  origin:
+  - non
+Tùng:
+  gender_flag: 2
+  lang:
+  - vi
+Tú:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Túlio:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - la
+Túpe:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Túpia:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Tûla:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Tûma:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Tûmarse:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Tülay:
+  gender_flag: 1
+  lang:
+  - tr
+Tüma:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thomas
+  lang:
+  - wym
+Tümay:
+  gender_flag: 3
+  lang:
+  - tr
+Tümenboğa:
+  gender_flag: 2
+  lang:
+  - tr
+Tümer:
+  gender_flag: 2
+  lang:
+  - tr
+Tümkor:
+  gender_flag: 2
+  lang:
+  - tr
+Tümkoç:
+  gender_flag: 2
+  lang:
+  - tr
+Tün:
+  gender_flag: 1
+  lang:
+  - tr
+Tünaydın:
+  gender_flag: 3
+  lang:
+  - tr
+Tünde:
+  gender_flag: 1
+  lang:
+  - hu
+Tündi:
+  gender_flag: 1
+  is_short_for:
+  - Tünde
+  lang:
+  - hu
+Tüner:
+  gender_flag: 2
+  lang:
+  - tr
+Türk:
+  gender_flag: 2
+  lang:
+  - tr
+Türkay:
+  gender_flag: 3
+  lang:
+  - tr
+Türkdoğan:
+  gender_flag: 2
+  lang:
+  - tr
+Türkdoğdu:
+  gender_flag: 2
+  lang:
+  - tr
+Türker:
+  gender_flag: 3
+  lang:
+  - tr
+Türkiye:
+  gender_flag: 1
+  lang:
+  - tr
+Türkmen:
+  gender_flag: 3
+  lang:
+  - tr
+Türkol:
+  gender_flag: 2
+  lang:
+  - tr
+Türkoğlu:
+  gender_flag: 2
+  lang:
+  - tr
+Türkân:
+  gender_flag: 1
+  lang:
+  - tr
+Týna:
+  gender_flag: 1
+  is_short_for:
+  - Justýna
+  - Kristýna
+  lang:
+  - cs
+Týra:
+  gender_flag: 1
+  lang:
+  - fo
+Týrur:
+  gender_flag: 2
+  lang:
+  - fo
+Tālis:
+  gender_flag: 2
+  lang:
+  - lv
+Tālivaldis:
+  gender_flag: 2
+  lang:
+  - lv
+Tāmati:
+  gender_flag: 2
+  is_equivalent_to:
+  - Thomas
+  lang:
+  - mi
+Tāniora:
+  gender_flag: 2
+  is_equivalent_to:
+  - Daniel
+  lang:
+  - mi
+Tāre:
+  gender_flag: 2
+  is_equivalent_to:
+  - Charles
+  lang:
+  - mi
+Tănase:
+  gender_flag: 2
+  lang:
+  - ro
+Tēpene:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - mi
+Tīmoti:
+  gender_flag: 2
+  is_equivalent_to:
+  - Timothy
+  lang:
+  - mi
+Tīpene:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - mi
+Tırkiya:
+  gender_flag: 1
+  lang:
+  - zza
+Təhmasib:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - fa
+Təhminə:
+  gender_flag: 1
+  lang:
+  - az
+Tələt:
+  gender_flag: 2
+  lang:
+  - az
+Tị:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Tốt:
+  gender_flag: 2
+  lang:
+  - vi
+tjkrṯ:
+  gender_flag: 2
+  lang:
+  - egy
+tjw:
+  gender_flag: 2
+  lang:
+  - egy
+tjꜥꜣ:
+  gender_flag: 1
+  lang:
+  - egy
+topo:
+  lang:
+  - anq
+ttj:
+  gender_flag: 1
+  lang:
+  - egy
+twt-ꜥnḫ-jmn:
+  gender_flag: 2
+  lang:
+  - egy
+twt-ꜥnḫ-jmn-ḥqꜣ-jwnw-šmꜥw:
+  gender_flag: 2
+  lang:
+  - egy
+twt-ꜥnḫ-jtn:
+  gender_flag: 2
+  lang:
+  - egy
+tybꜣrys:
+  gender_flag: 2
+  lang:
+  - egy
+  origin:
+  - la
+tyts:
+  gender_flag: 2
+  lang:
+  - egy
+tꜣ-nt-jmn:
+  gender_flag: 1
+  lang:
+  - egy
+tꜣ.f-nḫt:
+  gender_flag: 2
+  lang:
+  - egy
+tꜣhꜣrqꜣ:
+  gender_flag: 2
+  lang:
+  - egy
+tꜣnwꜣtj-jmn:
+  gender_flag: 2
+  lang:
+  - egy
+Þangbrandur:
+  gender_flag: 2
+  lang:
+  - is
+Þengill:
+  gender_flag: 2
+  lang:
+  - is
+Þeodgar:
+  gender_flag: 2
+  lang:
+  - ang
+Þeodmær:
+  gender_flag: 2
+  lang:
+  - ang
+Þeodric:
+  gender_flag: 2
+  lang:
+  - ang
+Þeodræd:
+  gender_flag: 2
+  lang:
+  - ang
+Þeodwulf:
+  gender_flag: 2
+  lang:
+  - ang
+Þeódís:
+  gender_flag: 1
+  lang:
+  - is
+Þjálfi:
+  gender_flag: 2
+  lang:
+  - is
+Þjóðgerður:
+  gender_flag: 1
+  lang:
+  - is
+Þoka:
+  gender_flag: 1
+  lang:
+  - is
+Þor:
+  gender_flag: 2
+  lang:
+  - gmq-osw
+Þorbergur:
+  gender_flag: 2
+  lang:
+  - is
+Þorbjörg:
+  gender_flag: 1
+  lang:
+  - is
+Þorbjörn:
+  gender_flag: 2
+  lang:
+  - is
+Þorbjǫrn:
+  gender_flag: 2
+  lang:
+  - non
+Þorfríður:
+  gender_flag: 1
+  lang:
+  - is
+Þorgeir:
+  gender_flag: 2
+  lang:
+  - is
+Þorgeirr:
+  gender_flag: 2
+  lang:
+  - non
+Þorgerður:
+  gender_flag: 1
+  lang:
+  - is
+Þorgilsína:
+  gender_flag: 1
+  lang:
+  - is
+Þorgnýr:
+  gender_flag: 2
+  lang:
+  - is
+  - non
+Þorkell:
+  gender_flag: 2
+  lang:
+  - is
+Þorkelína:
+  gender_flag: 1
+  lang:
+  - is
+Þorlaugur:
+  gender_flag: 2
+  lang:
+  - is
+Þorleifur:
+  gender_flag: 2
+  lang:
+  - is
+Þorleifína:
+  gender_flag: 1
+  lang:
+  - is
+Þorlákur:
+  gender_flag: 2
+  lang:
+  - is
+Þorlákína:
+  gender_flag: 1
+  lang:
+  - is
+Þormóður:
+  gender_flag: 2
+  lang:
+  - is
+Þorný:
+  gender_flag: 1
+  lang:
+  - non
+Þorsteina:
+  gender_flag: 1
+  lang:
+  - is
+Þorsteinn:
+  gender_flag: 2
+  lang:
+  - is
+  - non
+  origin:
+  - non
+Þorsteinína:
+  gender_flag: 1
+  lang:
+  - is
+Þorvaldur:
+  gender_flag: 2
+  lang:
+  - is
+  origin:
+  - non
+Þorvaldína:
+  gender_flag: 1
+  lang:
+  - is
+Þorvarðína:
+  gender_flag: 1
+  lang:
+  - is
+Þráinn:
+  gender_flag: 2
+  lang:
+  - is
+Þrándur:
+  gender_flag: 2
+  lang:
+  - is
+Þróndr:
+  gender_flag: 2
+  is_equivalent_to:
+  - Throwend
+  lang:
+  - non
+Þröstur:
+  gender_flag: 2
+  lang:
+  - is
+Þrúður:
+  gender_flag: 1
+  lang:
+  - is
+Þuríður:
+  gender_flag: 1
+  lang:
+  - is
+Þyri:
+  gender_flag: 1
+  lang:
+  - is
+Þyrnir:
+  gender_flag: 2
+  lang:
+  - is
+Þór:
+  gender_flag: 2
+  lang:
+  - is
+Þóra:
+  gender_flag: 1
+  is_equivalent_to:
+  - Thora
+  lang:
+  - is
+Þóranna:
+  gender_flag: 1
+  lang:
+  - is
+Þórarinn:
+  gender_flag: 2
+  lang:
+  - is
+Þórbergur:
+  gender_flag: 2
+  lang:
+  - is
+Þórbjǫrn: {}
+Þórdís:
+  gender_flag: 1
+  lang:
+  - is
+Þórey:
+  gender_flag: 1
+  lang:
+  - is
+Þórfreðr:
+  gender_flag: 2
+  lang:
+  - non
+Þórfríður:
+  gender_flag: 1
+  lang:
+  - is
+Þórgnýr:
+  gender_flag: 2
+  lang:
+  - is
+Þórgunnur:
+  gender_flag: 1
+  lang:
+  - is
+  origin:
+  - non
+Þórhalli:
+  gender_flag: 2
+  lang:
+  - is
+Þórhallur:
+  gender_flag: 2
+  lang:
+  - is
+Þórir:
+  gender_flag: 2
+  lang:
+  - is
+  - non
+Þórlaug:
+  gender_flag: 1
+  lang:
+  - is
+Þórmundur:
+  gender_flag: 2
+  lang:
+  - is
+Þóroddur:
+  gender_flag: 2
+  lang:
+  - is
+Þórunn:
+  gender_flag: 1
+  lang:
+  - is
+Þórvör:
+  gender_flag: 1
+  lang:
+  - is
+Þórður:
+  gender_flag: 2
+  lang:
+  - is
+Þórólfur:
+  gender_flag: 2
+  lang:
+  - is
+Þöll:
+  gender_flag: 1
+  lang:
+  - is
+Þúfa:
+  gender_flag: 1
+  lang:
+  - is
+ṯš:
+  gender_flag: 2
+  lang:
+  - egy

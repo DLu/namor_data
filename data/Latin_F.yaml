@@ -1,0 +1,3635 @@
+Faatuma:
+  gender_flag: 1
+  lang:
+  - aa
+Fabi:
+  gender_flag: 2
+  lang:
+  - oc
+Fabia:
+  gender_flag: 1
+  lang:
+  - en
+Fabian:
+  gender_flag: 2
+  lang:
+  - ceb
+  - de
+  - en
+  - fo
+  - oc
+  - pl
+  - sv
+  origin:
+  - la
+Fabiana:
+  gender_flag: 1
+  lang:
+  - es
+  - it
+Fabiano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Fabian
+  lang:
+  - it
+  - pt
+  origin:
+  - la
+Fabien:
+  gender_flag: 2
+  is_equivalent_to:
+  - Fabian
+  lang:
+  - fr
+Fabienne:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - fr
+  origin:
+  - fr
+Fabio:
+  gender_flag: 2
+  lang:
+  - de
+  - es
+  - it
+  origin:
+  - la
+Fabius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Fabián:
+  gender_flag: 2
+  is_equivalent_to:
+  - Fabian
+  lang:
+  - es
+Fabrice:
+  gender_flag: 2
+  lang:
+  - fr
+Fabrici:
+  gender_flag: 2
+  lang:
+  - oc
+Fabricia:
+  gender_flag: 1
+  lang:
+  - es
+Fabricio:
+  gender_flag: 2
+  lang:
+  - es
+Fabrizio:
+  gender_flag: 2
+  lang:
+  - it
+Faby:
+  gender_flag: 3
+  is_short_for:
+  - Fabien
+  - Fabienne
+  lang:
+  - fr
+Fachtna:
+  gender_flag: 2
+  lang:
+  - ga
+Facunda:
+  gender_flag: 1
+  lang:
+  - es
+Facundo:
+  gender_flag: 2
+  lang:
+  - es
+Fadil:
+  gender_flag: 2
+  lang:
+  - id
+  - kmr
+  origin:
+  - ar
+Fadilah:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - ar
+Fadime:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Fadrique:
+  gender_flag: 2
+  lang:
+  - es
+Fadọrọlemi:
+  gender_flag: 2
+  lang:
+  - yo
+Fael:
+  gender_flag: 2
+  is_short_for:
+  - Rafael
+  lang:
+  - pt
+Fagundo:
+  gender_flag: 2
+  lang:
+  - es
+Fagunwa:
+  gender_flag: 2
+  lang:
+  - yo
+Faheem:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Faik:
+  gender_flag: 2
+  lang:
+  - tr
+Faisal:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Faith:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Faizan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Fake:
+  gender_flag: 2
+  lang:
+  - nl
+Falco:
+  gender_flag: 2
+  lang:
+  - it
+Falgeir:
+  gender_flag: 2
+  lang:
+  - is
+Falibèrt:
+  gender_flag: 2
+  lang:
+  - oc
+Falk:
+  gender_flag: 2
+  lang:
+  - de
+Falur:
+  gender_flag: 2
+  lang:
+  - is
+Famke:
+  gender_flag: 1
+  lang:
+  - nl
+Fana:
+  gender_flag: 1
+  lang:
+  - ro
+Faney:
+  gender_flag: 1
+  is_equivalent_to:
+  - Fanny
+  lang:
+  - yol
+Fani:
+  gender_flag: 1
+  is_short_for:
+  - Estefanía
+  lang:
+  - es
+Fanie:
+  gender_flag: 2
+  lang:
+  - af
+Faniye:
+  gender_flag: 1
+  lang:
+  - wa
+Fanni:
+  gender_flag: 1
+  lang:
+  - fi
+Fannie:
+  gender_flag: 1
+  lang:
+  - en
+Fanny:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - fr
+  - sv
+Fanný:
+  gender_flag: 1
+  lang:
+  - fo
+Fanouš:
+  gender_flag: 2
+  is_short_for:
+  - František
+  lang:
+  - cs
+Fanoušek:
+  gender_flag: 2
+  is_short_for:
+  - Fanouš
+  lang:
+  - cs
+Fançon:
+  gender_flag: 2
+  is_short_for:
+  - Frances
+  lang:
+  - oc
+Fanîye:
+  gender_flag: 1
+  lang:
+  - wa
+Faolán:
+  gender_flag: 2
+  lang:
+  - ga
+  origin:
+  - sga
+Fara:
+  gender_flag: 1
+  lang:
+  - en
+Farah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Faranak:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fa
+Farangis:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fa
+Fareed: {}
+Farhana:
+  gender_flag: 1
+  lang:
+  - ms
+  origin:
+  - ar
+Farhanah:
+  gender_flag: 1
+  lang:
+  - ms
+  origin:
+  - ar
+Fari:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Farkas:
+  gender_flag: 2
+  lang:
+  - hu
+Farley:
+  gender_flag: 2
+  lang:
+  - en
+Farrah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Farruco:
+  gender_flag: 2
+  is_short_for:
+  - Francisco
+  lang:
+  - gl
+Faruk:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Faruƙu:
+  gender_flag: 2
+  lang:
+  - ha
+Fathallah:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - ar
+Fatih:
+  gender_flag: 2
+  lang:
+  - tr
+Fatima:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Fatimata:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - ar
+Fatimə:
+  gender_flag: 1
+  lang:
+  - az
+  origin:
+  - ar
+Fatjon:
+  gender_flag: 2
+  lang:
+  - sq
+Fatma:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Fatmagül:
+  gender_flag: 1
+  lang:
+  - tr
+Fatmir:
+  gender_flag: 2
+  lang:
+  - sq
+Fatos:
+  gender_flag: 2
+  lang:
+  - sq
+Fatuma:
+  gender_flag: 1
+  lang:
+  - sw
+Fauna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Fausta:
+  gender_flag: 1
+  lang:
+  - pt
+Faustas:
+  gender_flag: 2
+  lang:
+  - lt
+Faustina:
+  gender_flag: 1
+  lang:
+  - it
+Faustiniano:
+  gender_flag: 2
+  lang:
+  - it
+Faustino:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+Fausto:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+  - it
+  origin:
+  - la
+Faviola:
+  gender_flag: 1
+  lang:
+  - ceb
+Fay:
+  gender_flag: 1
+  lang:
+  - en
+Faye:
+  gender_flag: 1
+  lang:
+  - en
+Fayette:
+  gender_flag: 2
+  lang:
+  - en
+Fayzulla:
+  gender_flag: 2
+  lang:
+  - uz
+Fayçal:
+  gender_flag: 2
+  is_equivalent_to:
+  - Faisal
+  lang:
+  - fr
+  origin:
+  - ar
+Fazil:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+Fazıl:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Fañch:
+  gender_flag: 2
+  lang:
+  - br
+Faɗimatu:
+  gender_flag: 1
+  lang:
+  - ha
+Fearchar:
+  gender_flag: 2
+  lang:
+  - gd
+  origin:
+  - sga
+Feardorcha:
+  gender_flag: 2
+  lang:
+  - ga
+Fearghas:
+  gender_flag: 2
+  lang:
+  - ga
+  - gd
+  origin:
+  - sga
+Febe:
+  gender_flag: 1
+  lang:
+  - it
+Febo:
+  gender_flag: 2
+  lang:
+  - it
+February:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Fede:
+  gender_flag: 3
+  is_short_for:
+  - Federica
+  - Federico
+  lang:
+  - es
+  - it
+Fedele:
+  gender_flag: 2
+  lang:
+  - it
+Federica:
+  gender_flag: 1
+  lang:
+  - it
+Federico:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frederick
+  lang:
+  - es
+  - it
+Federigo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Federico
+  lang:
+  - it
+Fedir: {}
+Fedlimid:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Fedor:
+  gender_flag: 2
+  lang:
+  - sk
+Fedora:
+  gender_flag: 1
+  lang:
+  - it
+Fedrico:
+  gender_flag: 2
+  is_a_variant_of:
+  - Federico
+  lang:
+  - it
+Feilan:
+  gender_flag: 2
+  lang:
+  - is
+  origin:
+  - sga
+Felibèrt:
+  gender_flag: 2
+  lang:
+  - oc
+Felice:
+  gender_flag: 2
+  is_equivalent_to:
+  - Felix
+  lang:
+  - it
+Felicia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Felizia
+  lang:
+  - de
+  - en
+  - sv
+  origin:
+  - la
+Feliciana:
+  gender_flag: 1
+  lang:
+  - es
+  - la
+Feliciano:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+  - tl
+  origin:
+  - es
+Felicianus:
+  gender_flag: 2
+  lang:
+  - la
+Felicidad:
+  gender_flag: 1
+  is_equivalent_to:
+  - Felicity
+  lang:
+  - es
+  - tl
+  origin:
+  - es
+  - la
+Felicija:
+  gender_flag: 1
+  is_equivalent_to:
+  - Felicia
+  lang:
+  - lt
+Felicisimo:
+  gender_flag: 2
+  lang:
+  - ceb
+Felicita:
+  gender_flag: 1
+  is_equivalent_to:
+  - Felicity
+  lang:
+  - it
+Felicitas:
+  gender_flag: 1
+  lang:
+  - de
+  - la
+Felicity:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Felicja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Felicia
+  lang:
+  - pl
+Felicyin:
+  gender_flag: 2
+  lang:
+  - wa
+Feliks:
+  gender_flag: 2
+  is_equivalent_to:
+  - Felix
+  lang:
+  - et
+  - pl
+  - sl
+Feliksas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Felix
+  lang:
+  - lt
+Felikss:
+  gender_flag: 2
+  lang:
+  - lv
+Feling:
+  gender_flag: 1
+  is_short_for:
+  - Felicidad
+  - Felisa
+  lang:
+  - tl
+Felip:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - ca
+Felipa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Philippa
+  lang:
+  - es
+Felipe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - es
+  - pt
+  origin:
+  - grc
+Felisa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Felicia
+  lang:
+  - ceb
+  - es
+  origin:
+  - es
+Felisia:
+  gender_flag: 1
+  lang:
+  - fo
+Felisse:
+  gender_flag: 2
+  is_equivalent_to:
+  - Felix
+  lang:
+  - wa
+Feliu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Felix
+  lang:
+  - ca
+Felix:
+  gender_flag: 2
+  lang:
+  - ceb
+  - cs
+  - da
+  - de
+  - en
+  - is
+  - 'no'
+  - sv
+  origin:
+  - es
+  - la
+Felizia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Felicia
+  lang:
+  - de
+Felizitas:
+  gender_flag: 1
+  is_a_variant_of:
+  - Felicitas
+  lang:
+  - de
+Fella:
+  gender_flag: 1
+  lang:
+  - en
+Fely:
+  gender_flag: 1
+  is_short_for:
+  - Felicidad
+  lang:
+  - tl
+Femja:
+  gender_flag: 1
+  lang:
+  - fo
+Femke:
+  gender_flag: 1
+  lang:
+  - nl
+Fenella:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gd
+Fenny:
+  gender_flag: 1
+  lang:
+  - en
+Fentsch:
+  gender_flag: 2
+  is_short_for:
+  - Frank
+  lang:
+  - gmw-ecg
+Feoht:
+  lang:
+  - goh
+Fer:
+  gender_flag: 2
+  is_short_for:
+  - Fernando
+  lang:
+  - es
+Feramorz:
+  gender_flag: 2
+  lang:
+  - en
+Ferda:
+  gender_flag: 2
+  lang:
+  - wym
+Ferdi:
+  gender_flag: 2
+  lang:
+  - tr
+Ferdie:
+  gender_flag: 2
+  is_short_for:
+  - Ferdinand
+  lang:
+  - tl
+Ferdinand:
+  gender_flag: 2
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - fo
+  - 'no'
+  - sk
+  - sv
+  origin:
+  - gem
+Ferdinandas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ferdinand
+  lang:
+  - lt
+Ferdinando:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ferdinand
+  lang:
+  - it
+  - pt
+Ferdinandus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ferdinand
+  lang:
+  - la
+  origin:
+  - gem-pro
+Ferdynand:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ferdinand
+  lang:
+  - pl
+Ferenc:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - hu
+Fergal:
+  gender_flag: 2
+  lang:
+  - sga
+Fergus:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - sga
+  origin:
+  - gd
+Ferhat:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - fa
+Feri:
+  gender_flag: 2
+  is_short_for:
+  - Ferenc
+  lang:
+  - hu
+Feride:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Feridun:
+  gender_flag: 2
+  lang:
+  - tr
+  - zza
+  origin:
+  - fa
+Ferit:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Ferkó:
+  gender_flag: 2
+  is_short_for:
+  - Ferenc
+  lang:
+  - hu
+Fermin:
+  gender_flag: 2
+  lang:
+  - ceb
+Fermina:
+  gender_flag: 1
+  lang:
+  - es
+Fermo:
+  gender_flag: 2
+  lang:
+  - it
+Fermín:
+  gender_flag: 2
+  lang:
+  - es
+Fern:
+  gender_flag: 1
+  lang:
+  - en
+Fernan:
+  gender_flag: 2
+  lang:
+  - ceb
+Fernand:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ferdinand
+  lang:
+  - fr
+Fernanda:
+  gender_flag: 1
+  lang:
+  - es
+  - pt
+Fernande:
+  gender_flag: 1
+  lang:
+  - fr
+Fernando:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ferdinand
+  lang:
+  - ceb
+  - en
+  - es
+  - pt
+  - tl
+  origin:
+  - es
+  - got
+Fernán:
+  gender_flag: 2
+  lang:
+  - es
+Fernão:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ferdinand
+  lang:
+  - pt
+Fero:
+  gender_flag: 2
+  is_short_for:
+  - František
+  lang:
+  - sk
+Ferran:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ferdinand
+  lang:
+  - ca
+Ferrando:
+  gender_flag: 2
+  lang:
+  - es
+Ferrante:
+  gender_flag: 2
+  lang:
+  - it
+Ferruccio:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Feryal:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - fa
+Festus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Fevzi:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Feykir:
+  gender_flag: 2
+  lang:
+  - is
+Feysəl:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+Fi:
+  gender_flag: 1
+  lang:
+  - en
+Fia:
+  gender_flag: 1
+  is_short_for:
+  - Sofia
+  lang:
+  - sv
+Fiadh:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Fidaa:
+  gender_flag: 2
+  lang:
+  - en
+Fidel:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - es
+  - tl
+  origin:
+  - es
+  - la
+Fidela:
+  gender_flag: 1
+  lang:
+  - ceb
+Fidelia:
+  gender_flag: 1
+  lang:
+  - en
+Fides:
+  gender_flag: 1
+  lang:
+  - la
+Fie:
+  gender_flag: 1
+  lang:
+  - da
+Fien:
+  gender_flag: 1
+  is_short_for:
+  - Josephine
+  lang:
+  - gmw-ecg
+Fiete:
+  gender_flag: 2
+  lang:
+  - de
+Fifi:
+  gender_flag: 3
+  is_short_for:
+  - Philippe
+  - Sophie
+  lang:
+  - en
+  - fr
+Fifine:
+  gender_flag: 1
+  lang:
+  - wa
+Fikir:
+  gender_flag: 1
+  lang:
+  - tr
+Fikret:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Fikri:
+  gender_flag: 2
+  lang:
+  - tr
+Filemon:
+  gender_flag: 2
+  lang:
+  - ceb
+Filemón:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philemon
+  lang:
+  - es
+Filiberto:
+  gender_flag: 2
+  lang:
+  - it
+Filip:
+  gender_flag: 2
+  is_a_variant_of:
+  - Philipp
+  is_equivalent_to:
+  - Philip
+  lang:
+  - ca
+  - cs
+  - da
+  - de
+  - fo
+  - 'no'
+  - pl
+  - sh
+  - sk
+  - sv
+  origin:
+  - grc
+Filipa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Philippa
+  lang:
+  - pt
+Filipe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - pt
+Filippa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Philippa
+  lang:
+  - da
+  - fo
+  - it
+  - sv
+Filippo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - it
+  origin:
+  - grc
+Filippus:
+  gender_flag: 2
+  lang:
+  - fo
+Filippía:
+  gender_flag: 1
+  lang:
+  - is
+Filips:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - grc
+Filiz:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - el
+Fille:
+  gender_flag: 2
+  is_short_for:
+  - Filip
+  lang:
+  - sv
+Fillide:
+  gender_flag: 1
+  lang:
+  - it
+Filomena:
+  gender_flag: 3
+  is_equivalent_to:
+  - Philomena
+  lang:
+  - ceb
+  - en
+  - es
+  - it
+  - lt
+  - nl
+  - pt
+  origin:
+  - es
+  - grc
+  - roa
+Filomeno:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - es
+Filominne:
+  gender_flag: 1
+  is_equivalent_to:
+  - Philomena
+  lang:
+  - wa
+Filoména:
+  gender_flag: 1
+  lang:
+  - sk
+Filon:
+  gender_flag: 2
+  lang:
+  - pl
+Filípek:
+  gender_flag: 2
+  is_short_for:
+  - Filip
+  lang:
+  - cs
+Fina:
+  gender_flag: 1
+  is_short_for:
+  - Josefina
+  lang:
+  - es
+  - it
+  - mul
+Finbar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Fine:
+  gender_flag: 1
+  lang:
+  - wa
+Fineghan:
+  gender_flag: 2
+  lang:
+  - en
+Fingal:
+  gender_flag: 2
+  lang:
+  - en
+Finja:
+  gender_flag: 1
+  lang:
+  - de
+Finlay:
+  gender_flag: 2
+  lang:
+  - en
+Finley:
+  gender_flag: 2
+  lang:
+  - en
+Finn:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  - nn
+  - 'no'
+  origin:
+  - da
+  - en
+  - ga
+  - 'no'
+  - non
+Finnabair:
+  gender_flag: 1
+  lang:
+  - sga
+Finnacán:
+  gender_flag: 2
+  lang:
+  - sga
+Finnbjartur:
+  gender_flag: 2
+  lang:
+  - fo
+Finnbjörg:
+  gender_flag: 1
+  lang:
+  - is
+Finnbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Finnbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Finnbogi:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Finndís:
+  gender_flag: 1
+  lang:
+  - is
+Finnegan:
+  gender_flag: 2
+  lang:
+  - en
+Finney:
+  gender_flag: 1
+  lang:
+  - is
+Finnfríði:
+  gender_flag: 2
+  lang:
+  - fo
+Finngeir:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Finngerð:
+  gender_flag: 1
+  lang:
+  - fo
+  origin:
+  - non
+Finnian:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Finnja:
+  gender_flag: 1
+  lang:
+  - de
+Finnlaug:
+  gender_flag: 1
+  lang:
+  - is
+Finnlaugur:
+  gender_flag: 2
+  lang:
+  - is
+Finnleivur:
+  gender_flag: 2
+  lang:
+  - fo
+Finnley:
+  gender_flag: 2
+  lang:
+  - en
+Finnleyg:
+  gender_flag: 1
+  lang:
+  - fo
+Finnr:
+  gender_flag: 2
+  lang:
+  - non
+Finnur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+  origin:
+  - non
+Finnvarður:
+  gender_flag: 2
+  lang:
+  - is
+Fintan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Fiodar: {}
+Fiodor: {}
+Fiona:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - fi
+  - fr
+Fionn:
+  gender_flag: 2
+  lang:
+  - ga
+  - gd
+  origin:
+  - sga
+Fionnghal:
+  gender_flag: 1
+  is_equivalent_to:
+  - Fiona
+  - Flora
+  lang:
+  - gd
+Fionnghall:
+  gender_flag: 2
+  lang:
+  - ga
+Fionnghuala:
+  gender_flag: 1
+  is_equivalent_to:
+  - Fenella
+  lang:
+  - ga
+  origin:
+  - sga
+Fionnlagh:
+  gender_flag: 2
+  lang:
+  - gd
+Fiore:
+  gender_flag: 3
+  lang:
+  - it
+Fiorella:
+  gender_flag: 1
+  is_a_variant_of:
+  - Fiore
+  lang:
+  - en
+  - it
+  origin:
+  - it
+Fiorello:
+  gender_flag: 2
+  lang:
+  - it
+Fiorenza:
+  gender_flag: 1
+  is_equivalent_to:
+  - Florence
+  lang:
+  - it
+  origin:
+  - la
+Fiorenzo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Florent
+  lang:
+  - it
+  origin:
+  - la
+Fiorina:
+  gender_flag: 1
+  lang:
+  - it
+Firjas:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - gnc
+Firmin:
+  gender_flag: 2
+  lang:
+  - en
+  - nrf
+  origin:
+  - la
+Firmino:
+  gender_flag: 2
+  lang:
+  - it
+Firminus:
+  gender_flag: 2
+  lang:
+  - la
+Firudin:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - fa
+Firuzə:
+  gender_flag: 1
+  lang:
+  - az
+  origin:
+  - fa
+Firəngiz:
+  gender_flag: 1
+  lang:
+  - az
+Fito:
+  gender_flag: 2
+  is_short_for:
+  - Adolfo
+  - Rodolfo
+  lang:
+  - es
+Fitri:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - ar
+Fitz:
+  gender_flag: 2
+  lang:
+  - en
+Fjalldís:
+  gender_flag: 1
+  lang:
+  - is
+Fjodor: {}
+Fjodors:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - ru
+Fjóla:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Fjólmundur:
+  gender_flag: 2
+  lang:
+  - is
+Flaminia:
+  gender_flag: 1
+  lang:
+  - it
+Flaminio:
+  gender_flag: 2
+  lang:
+  - it
+Flamur:
+  gender_flag: 2
+  lang:
+  - sq
+Flann:
+  gender_flag: 7
+  lang:
+  - sga
+Flavia:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - it
+  - ro
+  origin:
+  - la
+Flaviano:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - it
+Flavie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Flavia
+  lang:
+  - fr
+  origin:
+  - la
+Flavio:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+  origin:
+  - la
+Flavius:
+  gender_flag: 2
+  lang:
+  - ro
+Fleda:
+  gender_flag: 1
+  lang:
+  - en
+Flem:
+  gender_flag: 2
+  lang:
+  - en
+Fleming:
+  gender_flag: 2
+  lang:
+  - en
+Flemming:
+  gender_flag: 2
+  lang:
+  - da
+Flemmingur:
+  gender_flag: 2
+  lang:
+  - fo
+Fleur:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Fleurette:
+  gender_flag: 1
+  lang:
+  - fr
+Fleurine:
+  gender_flag: 1
+  lang:
+  - nrf
+Flick:
+  gender_flag: 1
+  is_short_for:
+  - Felicia
+  - Felicity
+  lang:
+  - en
+Flieur:
+  gender_flag: 1
+  is_equivalent_to:
+  - Flora
+  lang:
+  - nrf
+Flint:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - en
+Flipe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - wa
+Fliss:
+  gender_flag: 1
+  is_short_for:
+  - Felicity
+  lang:
+  - en
+Fllavie:
+  gender_flag: 1
+  lang:
+  - nrf
+Fllipin:
+  gender_flag: 2
+  lang:
+  - nrf
+Fllocé:
+  gender_flag: 2
+  lang:
+  - nrf
+Flo:
+  gender_flag: 1
+  is_short_for:
+  - Flora
+  - Florence
+  lang:
+  - en
+Floarea:
+  gender_flag: 1
+  lang:
+  - ro
+Floh:
+  gender_flag: 2
+  is_short_for:
+  - Florian
+  lang:
+  - gmw-ecg
+Floor:
+  gender_flag: 3
+  lang:
+  - nl
+Flora:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - es
+  - fr
+  - it
+  - pl
+  - pt
+  - tl
+Florance:
+  gender_flag: 1
+  lang:
+  - en
+Flordeliz:
+  gender_flag: 1
+  lang:
+  - ceb
+Flore:
+  gender_flag: 1
+  is_equivalent_to:
+  - Flora
+  lang:
+  - fr
+  origin:
+  - la
+Florence:
+  gender_flag: 3
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - en
+  - la
+Florencia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Florence
+  lang:
+  - es
+Florencio:
+  gender_flag: 2
+  lang:
+  - ceb
+Florent:
+  gender_flag: 2
+  lang:
+  - fr
+Florentin:
+  gender_flag: 2
+  lang:
+  - de
+  - fr
+Florentina:
+  gender_flag: 1
+  lang:
+  - de
+Florentine:
+  gender_flag: 1
+  lang:
+  - de
+  origin:
+  - la
+Florentino:
+  gender_flag: 2
+  lang:
+  - es
+Floria:
+  gender_flag: 1
+  lang:
+  - es
+Florian:
+  gender_flag: 2
+  lang:
+  - de
+  - fr
+  - pl
+Floriana:
+  gender_flag: 1
+  lang:
+  - pl
+Florianne:
+  gender_flag: 1
+  lang:
+  - fr
+Floriano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Florian
+  lang:
+  - it
+Florica:
+  gender_flag: 1
+  lang:
+  - ro
+Florido:
+  gender_flag: 2
+  lang:
+  - it
+Florie:
+  gender_flag: 2
+  is_short_for:
+  - Florian
+  lang:
+  - gmw-ecg
+Florin:
+  gender_flag: 2
+  lang:
+  - ro
+Florina:
+  gender_flag: 1
+  lang:
+  - ro
+Florinda:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  origin:
+  - la
+Florio:
+  gender_flag: 2
+  lang:
+  - es
+Floris:
+  gender_flag: 2
+  lang:
+  - en
+  - nl
+  origin:
+  - nl
+Florita:
+  gender_flag: 1
+  is_short_for:
+  - Flora
+  lang:
+  - en
+  - es
+  - tl
+  origin:
+  - es
+Florián:
+  gender_flag: 2
+  lang:
+  - sk
+Floro:
+  gender_flag: 2
+  lang:
+  - es
+Florrie:
+  gender_flag: 1
+  lang:
+  - en
+Florência:
+  gender_flag: 1
+  is_equivalent_to:
+  - Florence
+  lang:
+  - pt
+Flosi:
+  gender_flag: 2
+  lang:
+  - fo
+Flossie:
+  gender_flag: 1
+  is_short_for:
+  - Flora
+  - Florence
+  lang:
+  - en
+Flossy:
+  gender_flag: 1
+  lang:
+  - en
+Floy:
+  gender_flag: 1
+  lang:
+  - en
+Floyd:
+  gender_flag: 2
+  lang:
+  - en
+Flumencio:
+  gender_flag: 2
+  lang:
+  - es
+Flykra:
+  gender_flag: 1
+  lang:
+  - fo
+Flynn:
+  gender_flag: 2
+  lang:
+  - en
+Flávia:
+  gender_flag: 1
+  lang:
+  - pt
+Flávio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Flavius
+  lang:
+  - pt
+Flæmingur:
+  gender_flag: 2
+  lang:
+  - fo
+Flòraidh:
+  gender_flag: 1
+  is_equivalent_to:
+  - Flora
+  lang:
+  - gd
+Flóki:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Flóra:
+  gender_flag: 1
+  is_equivalent_to:
+  - Flora
+  lang:
+  - cs
+  - hu
+Flóvin:
+  gender_flag: 2
+  lang:
+  - fo
+Fokke:
+  gender_flag: 2
+  lang:
+  - nl
+Folcberht:
+  gender_flag: 2
+  lang:
+  - ang
+Folcmær:
+  gender_flag: 2
+  lang:
+  - ang
+Folco:
+  gender_flag: 2
+  lang:
+  - it
+Folcwine:
+  gender_flag: 2
+  lang:
+  - ang
+Folderich:
+  gender_flag: 2
+  lang:
+  - goh
+Foldet:
+  gender_flag: 2
+  lang:
+  - goh
+Foldger:
+  gender_flag: 2
+  lang:
+  - goh
+Foldulf:
+  gender_flag: 2
+  lang:
+  - goh
+Folke:
+  gender_flag: 2
+  lang:
+  - sv
+Folkert:
+  gender_flag: 2
+  lang:
+  - nl
+Folkmar:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - fy
+  - nl
+  - 'no'
+Fons:
+  gender_flag: 2
+  lang:
+  - nl
+Fonsa:
+  gender_flag: 1
+  lang:
+  - goh
+Fonse:
+  gender_flag: 2
+  lang:
+  - wa
+Fonzi:
+  gender_flag: 2
+  lang:
+  - en
+Fooma:
+  gender_flag: 2
+  lang:
+  - sms
+Forest:
+  gender_flag: 2
+  lang:
+  - en
+Forrest:
+  gender_flag: 2
+  lang:
+  - en
+Fortescue:
+  gender_flag: 2
+  lang:
+  - en
+Fortunato:
+  gender_flag: 2
+  lang:
+  - it
+Foster:
+  gender_flag: 2
+  lang:
+  - en
+Fotini: {}
+Fouad:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Foulques:
+  gender_flag: 2
+  is_equivalent_to:
+  - Fulk
+  lang:
+  - fr
+Fourie:
+  gender_flag: 2
+  lang:
+  - af
+Fouyin:
+  gender_flag: 2
+  lang:
+  - wa
+Fouyène:
+  gender_flag: 1
+  lang:
+  - wa
+Fox:
+  gender_flag: 2
+  lang:
+  - en
+Foyene:
+  gender_flag: 1
+  lang:
+  - wa
+Foyin:
+  gender_flag: 2
+  lang:
+  - wa
+Fozil:
+  gender_flag: 2
+  lang:
+  - uz
+  origin:
+  - ar
+Fozio:
+  gender_flag: 2
+  lang:
+  - it
+Fran:
+  gender_flag: 3
+  lang:
+  - en
+Franc:
+  gender_flag: 2
+  lang:
+  - sl
+Franca:
+  gender_flag: 1
+  lang:
+  - it
+France:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+Franceis:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - fro
+Frances:
+  gender_flag: 3
+  is_equivalent_to:
+  - Francis
+  lang:
+  - en
+  - oc
+  origin:
+  - la
+Francesa:
+  gender_flag: 1
+  lang:
+  - oc
+Francesc:
+  gender_flag: 2
+  lang:
+  - ca
+  origin:
+  - it
+Francesca:
+  gender_flag: 1
+  is_equivalent_to:
+  - Frances
+  lang:
+  - ca
+  - en
+  - it
+  origin:
+  - it
+  - la
+Francesco:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - it
+  origin:
+  - la
+Franceton:
+  gender_flag: 2
+  is_short_for:
+  - Frances
+  lang:
+  - oc
+Francia:
+  gender_flag: 1
+  lang:
+  - en
+Francicon:
+  gender_flag: 2
+  is_short_for:
+  - Frances
+  lang:
+  - oc
+Francie:
+  gender_flag: 1
+  lang:
+  - en
+Francilh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - oc
+Francilhon:
+  gender_flag: 2
+  is_short_for:
+  - Frances
+  lang:
+  - oc
+Francine:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Francinet:
+  gender_flag: 2
+  is_short_for:
+  - Frances
+  lang:
+  - oc
+Francis:
+  gender_flag: 7
+  is_a_variant_of:
+  - François
+  lang:
+  - ceb
+  - en
+  - fr
+  - lv
+  - nl
+  origin:
+  - en
+  - la
+Francisc:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - ro
+  origin:
+  - la
+Francisca:
+  gender_flag: 1
+  is_equivalent_to:
+  - Frances
+  lang:
+  - ceb
+  - es
+  - la
+  - pt
+  - tl
+  origin:
+  - es
+  - la
+Francisco:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - ceb
+  - en
+  - es
+  - pt
+  - tl
+  origin:
+  - es
+  - pt
+Franciscus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - la
+  origin:
+  - gem-pro
+Franciska:
+  gender_flag: 1
+  lang:
+  - hu
+Francisko:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - eo
+  origin:
+  - la
+Francisquito:
+  gender_flag: 2
+  is_short_for:
+  - Francisco
+  lang:
+  - es
+Franciszek:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - pl
+Franciszka:
+  gender_flag: 1
+  is_equivalent_to:
+  - Francesca
+  lang:
+  - pl
+Franck:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frank
+  lang:
+  - fr
+Franco:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frank
+  lang:
+  - ceb
+  - en
+  - es
+  - it
+  - nl
+  - pt
+  - tl
+  origin:
+  - es
+  - it
+Francois:
+  gender_flag: 2
+  lang:
+  - af
+Francés:
+  gender_flag: 2
+  lang:
+  - ca
+Frands:
+  gender_flag: 2
+  lang:
+  - da
+Franek:
+  gender_flag: 2
+  is_short_for:
+  - Franciszek
+  lang:
+  - pl
+Frang:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  - Frank
+  lang:
+  - gd
+Frangag:
+  gender_flag: 1
+  is_equivalent_to:
+  - Frances
+  lang:
+  - gd
+Frangaid:
+  gender_flag: 1
+  is_equivalent_to:
+  - Frances
+  lang:
+  - gv
+Frank:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  is_short_for:
+  - Francis
+  lang:
+  - da
+  - de
+  - en
+  - fo
+  - fr
+  - gv
+  - is
+  - nl
+  - 'no'
+  - pt
+  - sv
+Frankie:
+  gender_flag: 7
+  is_short_for:
+  - Frances
+  - Frank
+  lang:
+  - en
+Franklin:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Franklín:
+  gender_flag: 2
+  lang:
+  - is
+Franko:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frank
+  lang:
+  - cim
+  origin:
+  - gem
+Frannie:
+  gender_flag: 1
+  lang:
+  - en
+Franny:
+  gender_flag: 1
+  lang:
+  - en
+Frans:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - da
+  - fi
+  - fo
+  - is
+  - nl
+  - 'no'
+  - sv
+Franta:
+  gender_flag: 2
+  is_short_for:
+  - František
+  lang:
+  - cs
+František:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - cs
+  - sk
+Františka:
+  gender_flag: 1
+  is_equivalent_to:
+  - Frances
+  lang:
+  - cs
+  - sk
+Frantík:
+  gender_flag: 2
+  is_short_for:
+  - František
+  lang:
+  - cs
+Franz:
+  gender_flag: 3
+  lang:
+  - de
+  - en
+  origin:
+  - la
+Franzischu:
+  gender_flag: 2
+  lang:
+  - sdc
+Franziska:
+  gender_flag: 1
+  is_equivalent_to:
+  - Frances
+  lang:
+  - de
+Franziskus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - de
+Franzl:
+  gender_flag: 1
+  is_short_for:
+  - Franziska
+  lang:
+  - gmw-ecg
+François:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - en
+  - fr
+Françoise:
+  gender_flag: 1
+  is_equivalent_to:
+  - Frances
+  lang:
+  - fr
+Françon:
+  gender_flag: 1
+  is_short_for:
+  - Francesa
+  lang:
+  - oc
+Françoneta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Francine
+  lang:
+  - oc
+Françot:
+  gender_flag: 2
+  lang:
+  - nrf
+Françouais:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - nrf
+Françwès:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - wa
+Fraser:
+  gender_flag: 2
+  lang:
+  - en
+Frasquita:
+  gender_flag: 1
+  is_short_for:
+  - Francisca
+  lang:
+  - es
+Frasse:
+  gender_flag: 2
+  is_short_for:
+  - Frans
+  lang:
+  - sv
+Frauke:
+  gender_flag: 1
+  lang:
+  - de
+Fraunchinot:
+  gender_flag: 2
+  is_short_for:
+  - Fraunçouès
+  lang:
+  - nrf
+Fraunchoun:
+  gender_flag: 1
+  lang:
+  - nrf
+Fraunchounette:
+  gender_flag: 1
+  is_short_for:
+  - Fraunchoun
+  lang:
+  - nrf
+Frauncis:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Fraunçouès:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - nrf
+Fraziye:
+  gender_flag: 1
+  lang:
+  - wa
+Frea:
+  gender_flag: 1
+  lang:
+  - enm
+Fred:
+  gender_flag: 2
+  lang:
+  - en
+  - 'no'
+  - sv
+Freda:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Fredbalum:
+  gender_flag: 2
+  lang:
+  - xvn
+Fredde:
+  gender_flag: 2
+  is_short_for:
+  - Fredrik
+  lang:
+  - sv
+Freddie:
+  gender_flag: 2
+  is_short_for:
+  - Frederick
+  lang:
+  - en
+Freddy:
+  gender_flag: 2
+  is_short_for:
+  - Frederick
+  lang:
+  - da
+  - en
+  - 'no'
+  - sv
+Frede:
+  gender_flag: 2
+  lang:
+  - da
+Frederic:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frederick
+  lang:
+  - ca
+  - en
+  - oc
+  origin:
+  - gem
+Frederica:
+  gender_flag: 1
+  lang:
+  - en
+  - oc
+Frederick:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - gem
+Frederico:
+  gender_flag: 2
+  is_a_variant_of:
+  - Federico
+  is_equivalent_to:
+  - Frederick
+  lang:
+  - it
+  - pt
+Frederik:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frederic
+  - Frederick
+  lang:
+  - af
+  - da
+  - nl
+  - sk
+Frederikas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frederick
+  lang:
+  - lt
+Frederikke:
+  gender_flag: 1
+  lang:
+  - da
+Frederiko:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frederick
+  lang:
+  - eo
+  origin:
+  - gem-pro
+Frediano:
+  gender_flag: 2
+  lang:
+  - it
+Fredna:
+  gender_flag: 1
+  lang:
+  - en
+Fredo:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - it
+Fredon:
+  gender_flag: 2
+  is_short_for:
+  - Frederic
+  lang:
+  - oc
+Fredrick:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Fredrik:
+  gender_flag: 2
+  lang:
+  - 'no'
+  - sv
+Fredrika:
+  gender_flag: 1
+  lang:
+  - sv
+Freed:
+  gender_flag: 2
+  lang:
+  - gmw-ecg
+Freeda:
+  gender_flag: 1
+  lang:
+  - en
+Freek:
+  gender_flag: 2
+  lang:
+  - af
+  - nl
+Frej:
+  gender_flag: 2
+  lang:
+  - sv
+Freja:
+  gender_flag: 1
+  lang:
+  - da
+  - sv
+  origin:
+  - is
+  - non
+Frenchie:
+  gender_flag: 6
+  lang:
+  - en
+Frenchin:
+  gender_flag: 1
+  lang:
+  - goh
+Frenchy:
+  gender_flag: 6
+  lang:
+  - en
+Frenk: {}
+Freoþoberht:
+  gender_flag: 2
+  lang:
+  - ang
+Freoþomund:
+  gender_flag: 2
+  lang:
+  - ang
+Freoþoric:
+  gender_flag: 2
+  lang:
+  - ang
+Freoþoræd:
+  gender_flag: 2
+  lang:
+  - ang
+Fresin:
+  gender_flag: 1
+  lang:
+  - goh
+Freuuihilt:
+  gender_flag: 1
+  lang:
+  - goh
+Freya:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - pt
+  origin:
+  - gem
+Freybjörn:
+  gender_flag: 2
+  lang:
+  - is
+Freydís:
+  gender_flag: 1
+  lang:
+  - is
+Freygerður:
+  gender_flag: 1
+  lang:
+  - is
+Freyja:
+  gender_flag: 1
+  lang:
+  - is
+Freyr:
+  gender_flag: 2
+  lang:
+  - is
+Freysteinn:
+  gender_flag: 2
+  lang:
+  - is
+Freyviðr:
+  gender_flag: 2
+  lang:
+  - non
+Fricis:
+  gender_flag: 2
+  lang:
+  - lv
+Frida:
+  gender_flag: 1
+  is_a_variant_of:
+  - Frieda
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - fo
+  - 'no'
+  - sv
+  origin:
+  - gem
+Fridamal:
+  gender_flag: 2
+  lang:
+  - xvn
+Frideborg:
+  gender_flag: 1
+  lang:
+  - sv
+Fridegunde:
+  gender_flag: 1
+  is_a_variant_of:
+  - Friedegund
+  lang:
+  - de
+Friderica:
+  gender_flag: 1
+  is_equivalent_to:
+  - Frederica
+  lang:
+  - la
+Fridericus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frederick
+  lang:
+  - la
+  origin:
+  - gem
+Fridhger:
+  gender_flag: 2
+  lang:
+  - gmq-osw
+Fridleivur:
+  gender_flag: 2
+  lang:
+  - fo
+Fridolf:
+  gender_flag: 2
+  lang:
+  - sv
+Fridrich:
+  gender_flag: 2
+  lang:
+  - sk
+Fridrihs:
+  gender_flag: 2
+  lang:
+  - lv
+Fridtjof:
+  gender_flag: 2
+  is_a_variant_of:
+  - Fridtjov
+  lang:
+  - nb
+  - nn
+Fridtjov:
+  gender_flag: 2
+  is_a_variant_of:
+  - Fridtjof
+  lang:
+  - nb
+  - nn
+  origin:
+  - non
+Fridus:
+  gender_flag: 2
+  lang:
+  - xvn
+Frieda:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+Friedbert:
+  gender_flag: 2
+  lang:
+  - de
+Friedegund:
+  gender_flag: 1
+  lang:
+  - de
+Friedegunde:
+  gender_flag: 1
+  is_a_variant_of:
+  - Friedegund
+  lang:
+  - de
+Friederike:
+  gender_flag: 1
+  lang:
+  - de
+Friedrich:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frederick
+  lang:
+  - de
+  - en
+  origin:
+  - de
+Frigyes:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frederick
+  lang:
+  - hu
+Frikkeo:
+  gender_flag: 2
+  lang:
+  - goh
+Frikkie:
+  gender_flag: 2
+  lang:
+  - af
+Friseal:
+  gender_flag: 2
+  is_equivalent_to:
+  - Fraser
+  lang:
+  - gd
+Frithiof:
+  gender_flag: 2
+  is_a_variant_of:
+  - Frithjof
+  lang:
+  - da
+Frithjof:
+  gender_flag: 2
+  lang:
+  - da
+Fritiof:
+  gender_flag: 2
+  lang:
+  - sv
+Fritjof:
+  gender_flag: 2
+  lang:
+  - sv
+Frits:
+  gender_flag: 2
+  lang:
+  - da
+  - fo
+  - nl
+Fritz:
+  gender_flag: 2
+  is_short_for:
+  - Friedrich
+  lang:
+  - de
+  - en
+Fritzgerald:
+  gender_flag: 2
+  lang:
+  - ceb
+Fritzl:
+  gender_flag: 2
+  lang:
+  - gmw-ecg
+Friðbjört:
+  gender_flag: 1
+  lang:
+  - is
+Friðgeir:
+  gender_flag: 2
+  lang:
+  - is
+Friðgerð:
+  gender_flag: 1
+  lang:
+  - fo
+Friðjón:
+  gender_flag: 2
+  lang:
+  - is
+Friðjóna:
+  gender_flag: 1
+  lang:
+  - is
+Friðmundur:
+  gender_flag: 2
+  lang:
+  - is
+Friðrik:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frederick
+  lang:
+  - is
+Friðrós:
+  gender_flag: 1
+  lang:
+  - is
+Friðrún:
+  gender_flag: 1
+  lang:
+  - is
+Friðsteinn:
+  gender_flag: 2
+  lang:
+  - is
+Friðþjófr:
+  gender_flag: 2
+  lang:
+  - non
+Friðþjófur:
+  gender_flag: 2
+  lang:
+  - is
+Friþelaf:
+  gender_flag: 2
+  lang:
+  - ang
+Friþestan:
+  gender_flag: 2
+  lang:
+  - ang
+Friþugar:
+  gender_flag: 2
+  lang:
+  - ang
+Friþuric:
+  gender_flag: 2
+  lang:
+  - ang
+Frode:
+  gender_flag: 2
+  lang:
+  - da
+  - nn
+  - 'no'
+  origin:
+  - non
+Froihilt:
+  gender_flag: 1
+  lang:
+  - goh
+Froila:
+  gender_flag: 2
+  lang:
+  - es
+  - gl
+  - pt
+Froilan:
+  gender_flag: 2
+  lang:
+  - tl
+  origin:
+  - es
+Froilana:
+  gender_flag: 1
+  lang:
+  - es
+Froilán:
+  gender_flag: 2
+  lang:
+  - es
+Fronnie:
+  gender_flag: 1
+  lang:
+  - en
+Frouuihilt:
+  gender_flag: 1
+  lang:
+  - goh
+Froya:
+  gender_flag: 1
+  lang:
+  - fo
+Froydis:
+  gender_flag: 1
+  lang:
+  - fo
+Froygerð:
+  gender_flag: 1
+  lang:
+  - fo
+Fructuosa:
+  gender_flag: 1
+  lang:
+  - ceb
+Fructuoso:
+  gender_flag: 2
+  lang:
+  - ceb
+Fructuós:
+  gender_flag: 2
+  lang:
+  - ca
+Fruzsina:
+  gender_flag: 1
+  lang:
+  - hu
+Frwdwr:
+  gender_flag: 2
+  lang:
+  - cy
+Fryderyk:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frederick
+  lang:
+  - pl
+Fryderyka:
+  gender_flag: 1
+  is_equivalent_to:
+  - Frederica
+  lang:
+  - pl
+Frànz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - gsw
+  origin:
+  - la
+Fráňa:
+  gender_flag: 3
+  is_short_for:
+  - František
+  - Františka
+  lang:
+  - cs
+Frète:
+  gender_flag: 2
+  lang:
+  - wa
+Frédo:
+  gender_flag: 2
+  lang:
+  - nrf
+Frédéric:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frederick
+  lang:
+  - fr
+Frédérick:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frederick
+  lang:
+  - fr
+Frédérique:
+  gender_flag: 1
+  lang:
+  - fr
+Frédéris:
+  gender_flag: 2
+  lang:
+  - nrf
+Fréton:
+  gender_flag: 2
+  lang:
+  - nrf
+Frída:
+  gender_flag: 1
+  lang:
+  - cs
+Frímann:
+  gender_flag: 2
+  lang:
+  - fo
+Frímannía:
+  gender_flag: 1
+  lang:
+  - is
+Fríða:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+  origin:
+  - non
+Fríðbjartur:
+  gender_flag: 2
+  lang:
+  - fo
+Fríðbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Fríðbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Fríðborg:
+  gender_flag: 1
+  lang:
+  - fo
+Fríðfinnur:
+  gender_flag: 2
+  lang:
+  - fo
+Fríðgerð:
+  gender_flag: 1
+  lang:
+  - fo
+Fríðhild:
+  gender_flag: 1
+  lang:
+  - fo
+Fríði:
+  gender_flag: 2
+  lang:
+  - fo
+Fríðmundur:
+  gender_flag: 2
+  lang:
+  - fo
+Fríðolvur:
+  gender_flag: 2
+  lang:
+  - fo
+Fríðrika:
+  gender_flag: 1
+  lang:
+  - fo
+Fríðrikur:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frederick
+  lang:
+  - fo
+Fríðrun:
+  gender_flag: 1
+  lang:
+  - fo
+Fríðrún:
+  gender_flag: 1
+  lang:
+  - fo
+Fríðunn:
+  gender_flag: 1
+  lang:
+  - fo
+Fríður:
+  gender_flag: 3
+  lang:
+  - fo
+  - is
+Fríðvør:
+  gender_flag: 1
+  lang:
+  - fo
+Fríðálvur:
+  gender_flag: 2
+  lang:
+  - fo
+Fróða:
+  gender_flag: 1
+  lang:
+  - fo
+Fróðar:
+  gender_flag: 2
+  lang:
+  - fo
+Fróði:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+  - non
+Fróðný:
+  gender_flag: 1
+  lang:
+  - is
+Frøya:
+  gender_flag: 1
+  lang:
+  - nn
+Frøydis:
+  gender_flag: 1
+  lang:
+  - nn
+  - 'no'
+  origin:
+  - non
+Fuad:
+  gender_flag: 2
+  lang:
+  - az
+  - id
+  - tr
+  origin:
+  - ar
+Fuat:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Fuchsia:
+  gender_flag: 1
+  lang:
+  - en
+Fuco:
+  gender_flag: 2
+  is_short_for:
+  - Francisco
+  lang:
+  - gl
+Fujie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Fujimatsu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Fulberta:
+  gender_flag: 1
+  lang:
+  - es
+Fulberto:
+  gender_flag: 2
+  lang:
+  - es
+Fulca:
+  gender_flag: 1
+  lang:
+  - es
+Fulco:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - it
+Fuldoin:
+  gender_flag: 2
+  lang:
+  - goh
+Fulgencio:
+  gender_flag: 2
+  lang:
+  - es
+  - tl
+  origin:
+  - es
+Fulgenzio:
+  gender_flag: 2
+  lang:
+  - it
+Fulk:
+  gender_flag: 2
+  lang:
+  - en
+Fuller:
+  gender_flag: 2
+  lang:
+  - en
+Fulton:
+  gender_flag: 2
+  lang:
+  - en
+Fulvie:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - la
+Fulvio:
+  gender_flag: 2
+  lang:
+  - it
+Fumie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Fumiko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Funda:
+  gender_flag: 1
+  lang:
+  - tr
+Funi:
+  gender_flag: 2
+  lang:
+  - is
+Funkẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Funtan:
+  gender_flag: 2
+  lang:
+  - goh
+Fura:
+  gender_flag: 1
+  lang:
+  - is
+Furkan:
+  gender_flag: 2
+  lang:
+  - tr
+Fusako:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Fusca:
+  gender_flag: 1
+  lang:
+  - goh
+Fuscari:
+  gender_flag: 2
+  lang:
+  - goh
+Fuscias:
+  gender_flag: 2
+  lang:
+  - goh
+Fuscildis:
+  gender_flag: 1
+  lang:
+  - goh
+Fusco:
+  gender_flag: 2
+  lang:
+  - goh
+Fusculo:
+  gender_flag: 2
+  lang:
+  - goh
+Fuyuko:
+  gender_flag: 1
+  lang:
+  - en
+  - pt
+  origin:
+  - ja
+Fuyumi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Fyodar: {}
+Fyodor: {}
+Fábio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Fabius
+  lang:
+  - pt
+Fáelán:
+  gender_flag: 2
+  lang:
+  - sga
+Fálgeir:
+  gender_flag: 2
+  lang:
+  - fo
+Fálki:
+  gender_flag: 2
+  lang:
+  - is
+Fátima:
+  gender_flag: 1
+  lang:
+  - es
+  - pt
+Fèlix:
+  gender_flag: 2
+  is_equivalent_to:
+  - Felix
+  lang:
+  - ca
+Félicie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Felicia
+  lang:
+  - fr
+Félicien:
+  gender_flag: 2
+  lang:
+  - fr
+Félicitaé:
+  gender_flag: 1
+  lang:
+  - nrf
+Félicité:
+  gender_flag: 1
+  is_equivalent_to:
+  - Felicity
+  lang:
+  - fr
+Féliciye:
+  gender_flag: 1
+  lang:
+  - wa
+Félicîye:
+  gender_flag: 1
+  lang:
+  - wa
+Félix:
+  gender_flag: 2
+  is_equivalent_to:
+  - Felix
+  lang:
+  - es
+  - fr
+  - nrf
+  - pt
+  - sk
+  origin:
+  - la
+Féloche:
+  gender_flag: 1
+  is_short_for:
+  - Félicie
+  lang:
+  - fr
+Féréolle:
+  gender_flag: 1
+  lang:
+  - nrf
+Fía:
+  gender_flag: 1
+  lang:
+  - fo
+Fíachrai:
+  gender_flag: 2
+  lang:
+  - sga
+Fífa:
+  gender_flag: 1
+  lang:
+  - is
+Fínín:
+  gender_flag: 2
+  lang:
+  - ga
+  origin:
+  - sga
+Fípa:
+  gender_flag: 1
+  lang:
+  - fo
+Fólki:
+  gender_flag: 2
+  lang:
+  - is
+Fövzi:
+  gender_flag: 2
+  lang:
+  - az
+Fövziyyə:
+  gender_flag: 1
+  lang:
+  - az
+Følva:
+  gender_flag: 1
+  lang:
+  - fo
+Fülöp:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - hu
+Fēlikss:
+  gender_flag: 2
+  lang:
+  - lv
+Fīlips:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - grc
+Fırat:
+  gender_flag: 2
+  lang:
+  - tr
+Fərhad:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - fa
+Fərhəng:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - fa
+Fərid:
+  gender_flag: 2
+  lang:
+  - az
+Fəridə:
+  gender_flag: 1
+  lang:
+  - az
+Fərman:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - fa
+Fərrux:
+  gender_flag: 2
+  lang:
+  - az
+Fərəc:
+  gender_flag: 2
+  lang:
+  - az
+Fətulla:
+  gender_flag: 2
+  lang:
+  - az
+Fətəli:
+  gender_flag: 2
+  lang:
+  - az
+Fɨnyuyn:
+  gender_flag: 1
+  lang:
+  - bkm
+Fɨ̀nkuyn:
+  gender_flag: 1
+  lang:
+  - bkm
+Fọlawiyọ:
+  gender_flag: 2
+  lang:
+  - yo

@@ -1,0 +1,6468 @@
+Gaabi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gabe
+  is_short_for:
+  - Gabriel
+  lang:
+  - gsw
+  origin:
+  - he
+Gab:
+  gender_flag: 2
+  is_short_for:
+  - Gabriel
+  lang:
+  - en
+Gaba:
+  gender_flag: 1
+  is_short_for:
+  - Gabriela
+  lang:
+  - sk
+Gabbe:
+  gender_flag: 2
+  is_short_for:
+  - Gabriel
+  lang:
+  - sv
+Gabbie:
+  gender_flag: 1
+  is_short_for:
+  - Gabriella
+  lang:
+  - en
+Gabby:
+  gender_flag: 7
+  lang:
+  - en
+Gabe:
+  gender_flag: 2
+  is_short_for:
+  - Gabriel
+  lang:
+  - en
+Gabi:
+  gender_flag: 3
+  is_equivalent_to:
+  - Gabby
+  - Gabe
+  is_short_for:
+  - Gabriel
+  - Gabriela
+  - Gabriella
+  - Gábor
+  lang:
+  - es
+  - hu
+  - pt
+Gabija:
+  gender_flag: 1
+  lang:
+  - lt
+Gabinu:
+  gender_flag: 2
+  lang:
+  - sc
+  - sdc
+Gabo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gabe
+  is_short_for:
+  - Gabriel
+  lang:
+  - es
+  - sk
+Gabourey:
+  gender_flag: 1
+  lang:
+  - en
+Gabrial:
+  gender_flag: 2
+  lang:
+  - fo
+Gabriel:
+  gender_flag: 2
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - es
+  - fi
+  - fo
+  - fr
+  - 'no'
+  - nrf
+  - pl
+  - pt
+  - sk
+  - sv
+  - tl
+  origin:
+  - grc
+  - he
+  - la
+Gabriela:
+  gender_flag: 1
+  is_a_variant_of:
+  - Gabriele
+  is_equivalent_to:
+  - Gabriella
+  lang:
+  - cs
+  - de
+  - en
+  - es
+  - pl
+  - pt
+  - sk
+Gabriele:
+  gender_flag: 3
+  is_equivalent_to:
+  - Gabriel
+  lang:
+  - de
+  - en
+  - it
+Gabrielius:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gabriel
+  lang:
+  - lt
+Gabrielka:
+  gender_flag: 1
+  is_short_for:
+  - Gabriela
+  lang:
+  - cs
+Gabriella:
+  gender_flag: 1
+  lang:
+  - en
+  - fo
+  - hu
+  - id
+  - it
+  - sv
+  origin:
+  - he
+  - it
+Gabrielle:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - tl
+Gabrielo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gabriel
+  lang:
+  - eo
+  origin:
+  - he
+Gabriyel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gabriel
+  lang:
+  - wa
+Gabriyele:
+  gender_flag: 1
+  lang:
+  - wa
+Gabríel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gabriel
+  lang:
+  - is
+Gabríela:
+  gender_flag: 1
+  lang:
+  - is
+Gabrî:
+  gender_flag: 2
+  lang:
+  - wa
+Gabrïél:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gabriel
+  lang:
+  - roa-opt
+  origin:
+  - he
+Gaby:
+  gender_flag: 3
+  is_short_for:
+  - Gabriel
+  - Gabrielle
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Gabyelle:
+  gender_flag: 1
+  lang:
+  - nrf
+Gad:
+  gender_flag: 2
+  lang:
+  - en
+Gaddo:
+  gender_flag: 2
+  lang:
+  - it
+Gadel:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - ceb
+Gael:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+Gaetan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cajetan
+  lang:
+  - en
+  origin:
+  - fr
+Gaetano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cajetan
+  lang:
+  - it
+Gaetàṅ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cajetan
+  lang:
+  - egl
+  origin:
+  - it
+Gaga:
+  gender_flag: 1
+  lang:
+  - ceb
+Gagarau:
+  gender_flag: 2
+  lang:
+  - ha
+Gage:
+  gender_flag: 7
+  lang:
+  - en
+Gaguite:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - wa
+Gaida:
+  gender_flag: 1
+  lang:
+  - lv
+Gail:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Gaiseric:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Gaisericus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - xvn
+Gajere:
+  gender_flag: 2
+  lang:
+  - ha
+Gal:
+  gender_flag: 1
+  lang:
+  - en
+  - pt
+Galahad:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cel
+Galderic:
+  gender_flag: 2
+  lang:
+  - ca
+Galdino:
+  gender_flag: 2
+  lang:
+  - it
+Galdric:
+  gender_flag: 2
+  lang:
+  - ca
+Galeazzo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Galahad
+  lang:
+  - it
+Galen:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Galeotto:
+  gender_flag: 2
+  lang:
+  - it
+Galgano:
+  gender_flag: 2
+  lang:
+  - it
+Galileo:
+  gender_flag: 2
+  lang:
+  - ceb
+  - it
+Galileu:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - it
+Galileus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - it
+Galina:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Gallicles:
+  gender_flag: 2
+  lang:
+  - la
+Galtier:
+  gender_flag: 2
+  is_equivalent_to:
+  - Walter
+  lang:
+  - fro
+Galuh:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Galvano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gavin
+  lang:
+  - it
+Gamaliel:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+  - la
+Gamaliele:
+  gender_flag: 2
+  lang:
+  - it
+Gambrinus:
+  gender_flag: 2
+  lang:
+  - en
+Gamuth:
+  gender_flag: 2
+  lang:
+  - xvn
+Gamze:
+  gender_flag: 1
+  lang:
+  - tr
+Ganau:
+  gender_flag: 2
+  lang:
+  - ha
+Gandalf:
+  gender_flag: 2
+  lang:
+  - en
+  - sv
+  origin:
+  - gem
+  - non
+Gandalfr:
+  gender_flag: 2
+  lang:
+  - non
+Gandalv:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Gandolfo:
+  gender_flag: 2
+  lang:
+  - it
+Ganesh:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Ganesha:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  origin:
+  - sa
+Ganga:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Gangadhar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Gangan:
+  gender_flag: 2
+  lang:
+  - ceb
+Gangl:
+  gender_flag: 2
+  is_short_for:
+  - Wolfgang
+  lang:
+  - gmw-ecg
+Ganiyu:
+  gender_flag: 2
+  lang:
+  - yo
+  origin:
+  - ar
+Gannon:
+  gender_flag: 2
+  lang:
+  - en
+Gaozrich:
+  gender_flag: 2
+  lang:
+  - goh
+Gaprial:
+  gender_flag: 2
+  lang:
+  - fo
+Gara:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - gnc
+Garanwyn:
+  gender_flag: 2
+  lang:
+  - cy
+Garbiñe:
+  gender_flag: 1
+  lang:
+  - eu
+Garciano:
+  gender_flag: 2
+  lang:
+  - ceb
+García:
+  gender_flag: 2
+  lang:
+  - es
+Gard:
+  gender_flag: 2
+  lang:
+  - 'no'
+Gardner:
+  gender_flag: 2
+  lang:
+  - en
+Gareth:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Garfield:
+  gender_flag: 2
+  lang:
+  - en
+Garheard:
+  gender_flag: 2
+  lang:
+  - ang
+Garibald:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - de
+Garikoitz:
+  gender_flag: 2
+  lang:
+  - eu
+Garin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Warren
+  lang:
+  - pro
+Garip:
+  gender_flag: 2
+  lang:
+  - tr
+Garret:
+  gender_flag: 2
+  lang:
+  - en
+Garrett:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Garrick:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Garry:
+  gender_flag: 2
+  lang:
+  - en
+Garth:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Garwulf:
+  gender_flag: 2
+  lang:
+  - ang
+Gary:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Garðar:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Gaspar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Caspar
+  - Casper
+  lang:
+  - es
+  - pt
+Gaspard:
+  gender_flag: 2
+  lang:
+  - fr
+Gaspare:
+  gender_flag: 2
+  is_equivalent_to:
+  - Caspar
+  - Jasper
+  lang:
+  - it
+Gaston:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Gastone:
+  gender_flag: 2
+  lang:
+  - it
+Gatis:
+  gender_flag: 2
+  lang:
+  - lv
+Gatot:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Gaudencia:
+  gender_flag: 1
+  lang:
+  - ceb
+Gaudencio:
+  gender_flag: 2
+  lang:
+  - ceb
+Gaudentius:
+  gender_flag: 2
+  lang:
+  - la
+Gaudenzio:
+  gender_flag: 2
+  lang:
+  - it
+Gauderic:
+  gender_flag: 2
+  lang:
+  - oc
+Gaudioso:
+  gender_flag: 2
+  lang:
+  - it
+Gaudéric:
+  gender_flag: 2
+  lang:
+  - fr
+Gaudérique:
+  gender_flag: 2
+  lang:
+  - fr
+Gauge:
+  gender_flag: 2
+  lang:
+  - en
+Gauja:
+  gender_flag: 1
+  lang:
+  - is
+Gaukur:
+  gender_flag: 2
+  lang:
+  - is
+Gauri:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Gaut:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Gautam:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Gautama:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Gaute:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Gauthier:
+  gender_flag: 2
+  lang:
+  - fr
+Gauti:
+  gender_flag: 2
+  lang:
+  - is
+Gautier:
+  gender_flag: 2
+  is_equivalent_to:
+  - Walter
+  lang:
+  - fr
+Gautstafr:
+  gender_flag: 2
+  lang:
+  - non
+Gautstav:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Gautur:
+  gender_flag: 2
+  lang:
+  - is
+Gav:
+  gender_flag: 2
+  lang:
+  - en
+Gavin:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cel
+Gavino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gavin
+  lang:
+  - it
+Gavriil:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ru
+Gavril:
+  gender_flag: 2
+  lang:
+  - ro
+Gavyn:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cel
+Gawie:
+  gender_flag: 2
+  lang:
+  - af
+Gay:
+  gender_flag: 7
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Gayatri:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Gaye:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Gayelle:
+  gender_flag: 1
+  lang:
+  - en
+Gayla:
+  gender_flag: 1
+  lang:
+  - en
+Gayle:
+  gender_flag: 3
+  lang:
+  - en
+Gaylord:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+Gaynor:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cy
+Gaz:
+  gender_flag: 2
+  lang:
+  - en
+Gazsi:
+  gender_flag: 2
+  is_short_for:
+  - Gáspár
+  lang:
+  - hu
+Gazza:
+  gender_flag: 2
+  lang:
+  - en
+Gaétan:
+  gender_flag: 2
+  lang:
+  - fr
+Gaétane:
+  gender_flag: 1
+  lang:
+  - fr
+Gaël:
+  gender_flag: 2
+  lang:
+  - fr
+Gaëlle:
+  gender_flag: 1
+  lang:
+  - fr
+Gaļina:
+  gender_flag: 1
+  lang:
+  - lv
+  origin:
+  - ru
+Gašpar:
+  gender_flag: 2
+  lang:
+  - sk
+Gašper:
+  gender_flag: 2
+  lang:
+  - sl
+Gbɛnanyɔ:
+  gender_flag: 7
+  lang:
+  - guw
+Gbẹnayọn:
+  gender_flag: 7
+  lang:
+  - guw
+Gearóid:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gerard
+  lang:
+  - ga
+  origin:
+  - fro
+Ged:
+  gender_flag: 2
+  is_short_for:
+  - Gerard
+  lang:
+  - en
+Gede:
+  gender_flag: 2
+  lang:
+  - id
+Gedeon:
+  gender_flag: 2
+  lang:
+  - hu
+Gedeone:
+  gender_flag: 2
+  lang:
+  - it
+Gediminas:
+  gender_flag: 2
+  lang:
+  - lt
+Gediz:
+  gender_flag: 7
+  lang:
+  - tr
+Gee:
+  gender_flag: 2
+  lang:
+  - en
+Geert:
+  gender_flag: 2
+  lang:
+  - nl
+Geerten:
+  gender_flag: 2
+  lang:
+  - nl
+Geevarghese:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - en
+  origin:
+  - ml
+Geffrai:
+  gender_flag: 2
+  is_equivalent_to:
+  - Geoffrey
+  lang:
+  - nrf
+Geffrey:
+  gender_flag: 2
+  lang:
+  - en
+  - enm
+  origin:
+  - gem
+Gefrei:
+  gender_flag: 2
+  is_equivalent_to:
+  - Geoffrey
+  - Jeffery
+  lang:
+  - fro
+Gehr:
+  gender_flag: 2
+  is_short_for:
+  - Gerhard
+  lang:
+  - gmw-ecg
+Geilarith:
+  gender_flag: 2
+  lang:
+  - xvn
+Geir:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+  - nn
+  origin:
+  - non
+Geira:
+  gender_flag: 1
+  lang:
+  - fo
+Geirbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Geirbrandur:
+  gender_flag: 2
+  lang:
+  - fo
+Geirdís:
+  gender_flag: 1
+  lang:
+  - is
+Geirfinnur:
+  gender_flag: 2
+  lang:
+  - fo
+Geirfríður:
+  gender_flag: 1
+  lang:
+  - is
+Geirharður:
+  gender_flag: 2
+  lang:
+  - is
+Geirhild:
+  gender_flag: 1
+  lang:
+  - fo
+Geiri:
+  gender_flag: 2
+  lang:
+  - fo
+Geirlaug:
+  gender_flag: 1
+  lang:
+  - is
+Geirlaugur:
+  gender_flag: 2
+  lang:
+  - is
+Geirmund:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Geirmundr:
+  gender_flag: 2
+  lang:
+  - non
+Geirmundur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Geirolvur:
+  gender_flag: 2
+  lang:
+  - fo
+Geirr:
+  gender_flag: 2
+  lang:
+  - non
+Geirríður:
+  gender_flag: 1
+  lang:
+  - is
+Geirtrud:
+  gender_flag: 1
+  lang:
+  - nn
+  origin:
+  - non
+Geirtrúð:
+  gender_flag: 1
+  lang:
+  - fo
+Geirur:
+  gender_flag: 2
+  lang:
+  - fo
+Geirþrúður:
+  gender_flag: 1
+  lang:
+  - is
+Geirþór:
+  gender_flag: 2
+  lang:
+  - is
+Geiseric:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Geisericus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - xvn
+Geisirith:
+  gender_flag: 2
+  lang:
+  - xvn
+Geisli:
+  gender_flag: 2
+  lang:
+  - is
+Gejza:
+  gender_flag: 2
+  lang:
+  - sk
+Gelasimus:
+  gender_flag: 2
+  lang:
+  - la
+Gelasius:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+Gelimer:
+  gender_flag: 2
+  lang:
+  - la
+Gelin:
+  gender_flag: 1
+  lang:
+  - tr
+Gelindo:
+  gender_flag: 2
+  lang:
+  - it
+Gellért:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gerard
+  lang:
+  - hu
+Gelot:
+  gender_flag: 2
+  lang:
+  - ceb
+Gelsomina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jasmine
+  lang:
+  - it
+Geltrude:
+  gender_flag: 1
+  is_equivalent_to:
+  - Gertrude
+  lang:
+  - it
+  origin:
+  - gem-pro
+Gem:
+  gender_flag: 1
+  is_short_for:
+  - Gemma
+  lang:
+  - en
+Gema:
+  gender_flag: 1
+  lang:
+  - es
+Geminiano:
+  gender_flag: 2
+  lang:
+  - it
+Gemma:
+  gender_flag: 1
+  lang:
+  - ca
+  - ceb
+  - en
+  - it
+  - tl
+  origin:
+  - en
+  - es
+  - it
+  - la
+Gen:
+  gender_flag: 1
+  lang:
+  - en
+Gena:
+  gender_flag: 1
+  lang:
+  - en
+Genadijs: {}
+Genar:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - ceb
+Genaro:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+  origin:
+  - es
+Genc:
+  gender_flag: 2
+  lang:
+  - sq
+Gence:
+  gender_flag: 2
+  lang:
+  - tr
+Gencer:
+  gender_flag: 2
+  lang:
+  - tr
+Gencian:
+  gender_flag: 2
+  lang:
+  - sq
+Gendis:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Gene:
+  gender_flag: 2
+  lang:
+  - en
+Genek:
+  gender_flag: 2
+  is_short_for:
+  - Eugeniusz
+  lang:
+  - pl
+Genelle:
+  gender_flag: 1
+  lang:
+  - en
+Gener:
+  gender_flag: 2
+  lang:
+  - ceb
+Generoso:
+  gender_flag: 2
+  lang:
+  - it
+Genesis:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Geneva:
+  gender_flag: 1
+  lang:
+  - en
+Genevieve:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+Geneviève:
+  gender_flag: 1
+  is_equivalent_to:
+  - Genevieve
+  lang:
+  - fr
+Geng:
+  gender_flag: 2
+  is_short_for:
+  - Wolfgang
+  lang:
+  - gmw-ecg
+Gengl:
+  gender_flag: 2
+  is_short_for:
+  - Wolfgang
+  lang:
+  - gmw-ecg
+Genia:
+  gender_flag: 1
+  is_short_for:
+  - Eugenia
+  - Genowefa
+  lang:
+  - pl
+Genie:
+  gender_flag: 7
+  is_short_for:
+  - Eugénie
+  lang:
+  - en
+  - fr
+Genio:
+  gender_flag: 2
+  is_short_for:
+  - Eugeniusz
+  lang:
+  - pl
+Gennadio:
+  gender_flag: 2
+  lang:
+  - it
+Gennaro:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Genny:
+  gender_flag: 1
+  lang:
+  - en
+Genovaitė:
+  gender_flag: 1
+  is_equivalent_to:
+  - Genevieve
+  lang:
+  - lt
+Genovefa:
+  gender_flag: 1
+  lang:
+  - lv
+Genoveffa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Genevieve
+  lang:
+  - it
+Genoveva:
+  gender_flag: 1
+  is_equivalent_to:
+  - Genevieve
+  lang:
+  - ca
+  - de
+  - pt
+  origin:
+  - gem
+Genovéva:
+  gender_flag: 1
+  is_equivalent_to:
+  - Genevieve
+  lang:
+  - sk
+Genowefa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Genevieve
+  lang:
+  - pl
+Genseric:
+  gender_flag: 2
+  lang:
+  - en
+Genserico:
+  gender_flag: 2
+  lang:
+  - it
+Gent:
+  gender_flag: 2
+  lang:
+  - sq
+Gentian:
+  gender_flag: 2
+  lang:
+  - sq
+Gento:
+  gender_flag: 2
+  lang:
+  - xvn
+Genç:
+  gender_flag: 2
+  lang:
+  - tr
+Gençer:
+  gender_flag: 2
+  lang:
+  - tr
+Genís:
+  gender_flag: 2
+  lang:
+  - ca
+Genādijs: {}
+Genė:
+  gender_flag: 1
+  lang:
+  - lt
+Geo:
+  gender_flag: 1
+  is_short_for:
+  - Georgina
+  lang:
+  - es
+Geoff:
+  gender_flag: 2
+  is_short_for:
+  - Geoffrey
+  lang:
+  - en
+Geoffie:
+  gender_flag: 2
+  is_short_for:
+  - Geoffrey
+  lang:
+  - en
+Geoffrey:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Geoffroy:
+  gender_flag: 2
+  is_equivalent_to:
+  - Geoffrey
+  lang:
+  - fr
+Geordie:
+  gender_flag: 3
+  is_short_for:
+  - George
+  - Georgette
+  - Georgia
+  - Georgiana
+  - Georgina
+  lang:
+  - en
+Georg:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - fo
+  - is
+  - 'no'
+  - sv
+George:
+  gender_flag: 7
+  is_short_for:
+  - Georgia
+  - Georgina
+  lang:
+  - ceb
+  - en
+  - ro
+  - sco
+  - sv
+  origin:
+  - en
+  - grc
+Georges:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Georgette:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+Georgia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Georgiana:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Georgianna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Georgică:
+  gender_flag: 2
+  lang:
+  - ro
+Georgie:
+  gender_flag: 7
+  is_short_for:
+  - George
+  - Georgina
+  lang:
+  - en
+Georgina:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Georgios: {}
+Georgius:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - la
+Georgo:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - eo
+  origin:
+  - grc
+Georgs:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - la
+Georgy:
+  gender_flag: 2
+  is_short_for:
+  - George
+  lang:
+  - en
+Georgína:
+  gender_flag: 1
+  lang:
+  - is
+  - sk
+Geovane:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - it
+Geppetto:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  lang:
+  - it
+Geppino:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  lang:
+  - it
+Geraint:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Gerald:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  origin:
+  - gem
+Geraldina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Geraldine
+  lang:
+  - it
+Geraldine:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+  - gem
+Geraldo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gerald
+  lang:
+  - pt
+Geraldyn:
+  gender_flag: 1
+  lang:
+  - en
+Gerard:
+  gender_flag: 2
+  lang:
+  - en
+  - eu
+  - nl
+  origin:
+  - gem
+Gerardas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gerard
+  lang:
+  - lt
+Gerardo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gerard
+  lang:
+  - ceb
+  - es
+  - eu
+  - it
+  - pt
+  origin:
+  - es
+  - gem
+Gerardus:
+  gender_flag: 2
+  lang:
+  - nl
+Gerart:
+  gender_flag: 2
+  lang:
+  - fro
+Geraxan:
+  gender_flag: 2
+  lang:
+  - eu
+Geraxane:
+  gender_flag: 1
+  lang:
+  - eu
+Geraxi:
+  gender_flag: 1
+  lang:
+  - eu
+Geraxina:
+  gender_flag: 1
+  lang:
+  - eu
+Gerazi:
+  gender_flag: 1
+  lang:
+  - eu
+Gerbert:
+  gender_flag: 2
+  lang:
+  - fr
+Gerbertus:
+  gender_flag: 2
+  lang:
+  - la
+Gerd:
+  gender_flag: 3
+  is_short_for:
+  - Gerhard
+  - Gertrud
+  lang:
+  - da
+  - de
+  - 'no'
+  - sv
+Gerda:
+  gender_flag: 1
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - eo
+  - et
+  - fo
+  - nl
+  - 'no'
+  - sv
+  - tl
+  origin:
+  - en
+  - gem
+Geremia:
+  gender_flag: 2
+  lang:
+  - it
+Gereon:
+  gender_flag: 2
+  lang:
+  - de
+Gerexan:
+  gender_flag: 2
+  lang:
+  - eu
+Gereña:
+  gender_flag: 1
+  lang:
+  - eu
+Gergely:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - hu
+Gergoana:
+  gender_flag: 1
+  lang:
+  - eu
+Gergori:
+  gender_flag: 2
+  lang:
+  - eu
+Gergorio:
+  gender_flag: 2
+  lang:
+  - eu
+Gergő:
+  gender_flag: 2
+  is_short_for:
+  - Gergely
+  lang:
+  - hu
+Gerhard:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gerard
+  lang:
+  - da
+  - de
+  - sv
+Gerhardt:
+  gender_flag: 2
+  lang:
+  - de
+Geri:
+  gender_flag: 3
+  is_short_for:
+  - Geraldine
+  - Gergely
+  - Gergő
+  lang:
+  - en
+  - hu
+Gerizpe:
+  gender_flag: 1
+  lang:
+  - eu
+Gerlach:
+  gender_flag: 2
+  lang:
+  - de
+  - lb
+  - li
+  - nl
+Gerlachus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - gem
+Gerlando:
+  gender_flag: 2
+  lang:
+  - it
+Gerli:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kerli
+  lang:
+  - et
+Gerlind:
+  gender_flag: 1
+  is_a_variant_of:
+  - Gerlinde
+  lang:
+  - de
+Gerlinde:
+  gender_flag: 1
+  lang:
+  - de
+Gerlyn:
+  gender_flag: 1
+  lang:
+  - ceb
+Germain:
+  gender_flag: 2
+  lang:
+  - fr
+Germaine:
+  gender_flag: 7
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+German:
+  gender_flag: 2
+  lang:
+  - eu
+  - nrf
+Germana:
+  gender_flag: 1
+  lang:
+  - eu
+Germany:
+  gender_flag: 2
+  lang:
+  - en
+Germund:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - sv
+Germà:
+  gender_flag: 2
+  lang:
+  - ca
+  origin:
+  - la
+Germán:
+  gender_flag: 2
+  lang:
+  - es
+Gerolamo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jerome
+  lang:
+  - it
+Gerold:
+  gender_flag: 2
+  is_a_variant_of:
+  - Gerald
+  lang:
+  - de
+Gerone:
+  gender_flag: 2
+  lang:
+  - it
+Geronimo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jerome
+  lang:
+  - en
+  origin:
+  - it
+Geronzio:
+  gender_flag: 2
+  lang:
+  - it
+Gerrard:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gerard
+  lang:
+  - en
+  - gv
+  origin:
+  - gem
+Gerri:
+  gender_flag: 1
+  lang:
+  - en
+Gerrit:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gerard
+  lang:
+  - nl
+Gerry:
+  gender_flag: 7
+  lang:
+  - en
+Gerrylt:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gerald
+  lang:
+  - gv
+Gershom:
+  gender_flag: 2
+  lang:
+  - en
+Gershu:
+  gender_flag: 2
+  is_short_for:
+  - Germán
+  lang:
+  - es
+Gert:
+  gender_flag: 2
+  is_short_for:
+  - Gerhard
+  lang:
+  - da
+  - de
+  - et
+  - nl
+  - sq
+  - sv
+Gerta:
+  gender_flag: 1
+  lang:
+  - de
+Gertie:
+  gender_flag: 1
+  is_short_for:
+  - Gertrude
+  lang:
+  - en
+Gertraud:
+  gender_flag: 1
+  is_a_variant_of:
+  - Gertrud
+  lang:
+  - de
+Gertrud:
+  gender_flag: 1
+  is_equivalent_to:
+  - Gertrude
+  lang:
+  - da
+  - de
+  - sv
+Gertruda:
+  gender_flag: 1
+  is_equivalent_to:
+  - Gertrude
+  lang:
+  - cs
+Gertrude:
+  gender_flag: 1
+  lang:
+  - en
+  - eu
+  origin:
+  - gem
+Gertrudes:
+  gender_flag: 3
+  is_equivalent_to:
+  - Gertrude
+  lang:
+  - ceb
+  - pt
+Gertrudis:
+  gender_flag: 1
+  is_equivalent_to:
+  - Gertrude
+  lang:
+  - de
+  - eu
+Gertrudo:
+  gender_flag: 1
+  is_equivalent_to:
+  - Gertrude
+  lang:
+  - eo
+  origin:
+  - gem-pro
+Gertrúda:
+  gender_flag: 1
+  lang:
+  - sk
+Gervais:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gervase
+  lang:
+  - fr
+Gervaise:
+  gender_flag: 1
+  lang:
+  - fr
+Gervas:
+  gender_flag: 2
+  lang:
+  - en
+Gervase:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Gervasio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gervase
+  lang:
+  - it
+Gervasius:
+  gender_flag: 2
+  lang:
+  - la
+Gervaso:
+  gender_flag: 2
+  is_a_variant_of:
+  - Gervasio
+  is_equivalent_to:
+  - Gervase
+  lang:
+  - it
+Gervásio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gervase
+  lang:
+  - pt
+Gerwald:
+  gender_flag: 2
+  is_a_variant_of:
+  - Gerald
+  lang:
+  - de
+Gerwyn:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Gerçek:
+  gender_flag: 2
+  lang:
+  - tr
+Gerð:
+  gender_flag: 1
+  lang:
+  - fo
+Gerða:
+  gender_flag: 1
+  lang:
+  - is
+Gerðr:
+  gender_flag: 1
+  lang:
+  - non
+Gerður:
+  gender_flag: 1
+  lang:
+  - is
+Gesa:
+  gender_flag: 1
+  lang:
+  - de
+Gesine:
+  gender_flag: 1
+  lang:
+  - de
+Gestheiður:
+  gender_flag: 1
+  lang:
+  - is
+Gestur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Gestína:
+  gender_flag: 1
+  lang:
+  - is
+Gesualdo:
+  gender_flag: 2
+  lang:
+  - it
+Getter:
+  gender_flag: 1
+  lang:
+  - et
+Gexan:
+  gender_flag: 2
+  lang:
+  - eu
+Geythild:
+  gender_flag: 1
+  lang:
+  - fo
+Geyti:
+  gender_flag: 2
+  lang:
+  - fo
+Gezan:
+  gender_flag: 2
+  lang:
+  - eu
+Geórgia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Georgia
+  lang:
+  - pt
+Ghani:
+  gender_flag: 2
+  lang:
+  - en
+Ghelasie:
+  gender_flag: 2
+  lang:
+  - ro
+Ghenadie:
+  gender_flag: 2
+  lang:
+  - ro
+Gheorghe:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - ro
+  origin:
+  - grc
+Gherardo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gerard
+  lang:
+  - it
+Ghislain:
+  gender_flag: 2
+  lang:
+  - fr
+Ghislaine:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+  - gem
+Ghisolabella:
+  gender_flag: 1
+  lang:
+  - it
+Ghiță:
+  gender_flag: 2
+  lang:
+  - ro
+Ghyslain:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - gem
+Ghyslaine:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - gem
+Gi:
+  gender_flag: 1
+  is_short_for:
+  - Giovana
+  lang:
+  - pt
+Gia:
+  gender_flag: 3
+  is_short_for:
+  - Georgia
+  lang:
+  - en
+  - it
+  - vi
+Giacinta:
+  gender_flag: 1
+  lang:
+  - it
+Giacinto:
+  gender_flag: 2
+  lang:
+  - it
+Giacobbe:
+  gender_flag: 2
+  lang:
+  - it
+Giacomina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jacqueline
+  lang:
+  - it
+Giacomo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  - James
+  lang:
+  - it
+  origin:
+  - he
+Giada:
+  gender_flag: 1
+  lang:
+  - it
+Giaele:
+  gender_flag: 1
+  lang:
+  - it
+Giairo:
+  gender_flag: 2
+  lang:
+  - it
+Giambattista:
+  gender_flag: 2
+  lang:
+  - it
+Giampiero:
+  gender_flag: 2
+  lang:
+  - it
+Gian Marco:
+  gender_flag: 2
+  lang:
+  - it
+Giana:
+  gender_flag: 1
+  lang:
+  - en
+Giancarlo:
+  gender_flag: 2
+  lang:
+  - en
+  - it
+  origin:
+  - it
+Gianfranco:
+  gender_flag: 2
+  lang:
+  - it
+Giang:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Gianluca:
+  gender_flag: 2
+  lang:
+  - en
+  - it
+Gianluigi:
+  gender_flag: 2
+  lang:
+  - it
+Gianmarco:
+  gender_flag: 2
+  lang:
+  - it
+Gianmaria:
+  gender_flag: 2
+  lang:
+  - it
+Gianna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - it
+Gianni:
+  gender_flag: 2
+  lang:
+  - it
+Giannina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jane
+  - Joan
+  is_short_for:
+  - Giovanna
+  lang:
+  - it
+Giannis: {}
+Gianpaolo:
+  gender_flag: 2
+  lang:
+  - it
+Giasone:
+  gender_flag: 2
+  lang:
+  - it
+Giavanna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - it
+Gibby:
+  gender_flag: 2
+  is_short_for:
+  - Gibson
+  lang:
+  - en
+Gibson:
+  gender_flag: 2
+  lang:
+  - en
+Gida:
+  gender_flag: 3
+  lang:
+  - en
+Giddenis:
+  gender_flag: 2
+  lang:
+  - la
+Gideon:
+  gender_flag: 2
+  lang:
+  - en
+  - fi
+  - nl
+Giedrius:
+  gender_flag: 2
+  lang:
+  - lt
+Giedrė:
+  gender_flag: 1
+  lang:
+  - lt
+Giffrei:
+  gender_flag: 2
+  is_equivalent_to:
+  - Geoffrey
+  lang:
+  - fro
+Gifløgh:
+  gender_flag: 2
+  lang:
+  - gmq-osw
+Giggi:
+  gender_flag: 2
+  lang:
+  - it
+Gigi:
+  gender_flag: 3
+  is_short_for:
+  - Georgette
+  - Gilberte
+  - Gisèle
+  - Luigi
+  - Virginie
+  lang:
+  - en
+  - fr
+  - it
+  origin:
+  - fr
+Gijs:
+  gender_flag: 2
+  lang:
+  - nl
+Gijsbert:
+  gender_flag: 2
+  lang:
+  - nl
+Gil:
+  gender_flag: 2
+  is_equivalent_to:
+  - Giles
+  is_short_for:
+  - Gilbert
+  lang:
+  - ca
+  - ceb
+  - en
+  - eu
+Gilamu:
+  gender_flag: 2
+  lang:
+  - eu
+Gilbert:
+  gender_flag: 2
+  lang:
+  - ceb
+  - de
+  - en
+  - fo
+  - fr
+  origin:
+  - en
+  - gem
+Gilberte:
+  gender_flag: 1
+  lang:
+  - fr
+Gilberto:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gilbert
+  lang:
+  - ceb
+  - es
+  - it
+  - pt
+  - tl
+  origin:
+  - es
+  - gem
+  - gem-pro
+Gilchreest:
+  gender_flag: 2
+  lang:
+  - gv
+Gilda:
+  gender_flag: 1
+  lang:
+  - en
+Gildas:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+Gildasius:
+  gender_flag: 2
+  lang:
+  - la
+Gilead:
+  gender_flag: 2
+  lang:
+  - en
+Gilebert:
+  gender_flag: 2
+  lang:
+  - fro
+Gileminge:
+  gender_flag: 2
+  lang:
+  - eu
+Gilen:
+  gender_flag: 2
+  lang:
+  - eu
+Gilermo:
+  gender_flag: 2
+  lang:
+  - eu
+Giles:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Gilet:
+  gender_flag: 2
+  lang:
+  - eu
+Gilgamesh: {}
+Gilio:
+  gender_flag: 2
+  lang:
+  - it
+Giljanna:
+  gender_flag: 1
+  lang:
+  - fo
+Gill:
+  gender_flag: 7
+  is_a_variant_of:
+  - Jill
+  is_short_for:
+  - Giles
+  - Gillian
+  - Julian
+  - William
+  lang:
+  - en
+Gilleasbuig:
+  gender_flag: 2
+  is_equivalent_to:
+  - Archibald
+  lang:
+  - gd
+  origin:
+  - sga
+Gillebrìghde:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gilbert
+  lang:
+  - gd
+  origin:
+  - sga
+Gillechrìosd:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - gd
+  origin:
+  - sga
+Gillem:
+  gender_flag: 2
+  lang:
+  - eu
+Gillemenaut:
+  gender_flag: 2
+  lang:
+  - eu
+Gillemin:
+  gender_flag: 2
+  lang:
+  - eu
+Gillemosea:
+  gender_flag: 2
+  lang:
+  - eu
+Gillen:
+  gender_flag: 2
+  lang:
+  - eu
+Gillermo:
+  gender_flag: 2
+  lang:
+  - eu
+Gilles:
+  gender_flag: 2
+  is_equivalent_to:
+  - Giles
+  lang:
+  - fr
+Gilli:
+  gender_flag: 2
+  lang:
+  - fo
+Gillian:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Gillingast:
+  gender_flag: 2
+  lang:
+  - eu
+Gilliosa:
+  gender_flag: 2
+  lang:
+  - gd
+  origin:
+  - sga
+Gillis:
+  gender_flag: 2
+  is_equivalent_to:
+  - Giles
+  lang:
+  - sv
+Gillo:
+  gender_flag: 2
+  lang:
+  - it
+Gilmoitz:
+  gender_flag: 2
+  lang:
+  - eu
+Gilmore:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Gilot:
+  gender_flag: 2
+  lang:
+  - eu
+Gilou:
+  gender_flag: 2
+  is_short_for:
+  - Gilles
+  lang:
+  - fr
+Gilstein:
+  gender_flag: 2
+  lang:
+  - fo
+Gimeno:
+  gender_flag: 2
+  lang:
+  - eu
+Gimli:
+  gender_flag: 2
+  lang:
+  - en
+Gina:
+  gender_flag: 3
+  is_short_for:
+  - Georgina
+  - Regina
+  lang:
+  - ceb
+  - de
+  - en
+  - it
+  - 'no'
+  - tl
+  origin:
+  - en
+  - grc
+  - it
+  - la
+Ginalyn:
+  gender_flag: 1
+  lang:
+  - ceb
+Ginebra:
+  gender_flag: 1
+  is_equivalent_to:
+  - Guinevere
+  - Jennifer
+  lang:
+  - ca
+  - es
+Ginette:
+  gender_flag: 1
+  lang:
+  - fr
+Ginevra:
+  gender_flag: 1
+  is_a_variant_of:
+  - Guinevere
+  lang:
+  - en
+  - it
+  origin:
+  - it
+Ginewra:
+  gender_flag: 1
+  is_equivalent_to:
+  - Guinevere
+  lang:
+  - pl
+Ging:
+  gender_flag: 1
+  lang:
+  - en
+Ginger:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Gingging:
+  gender_flag: 1
+  lang:
+  - ceb
+Gingin:
+  gender_flag: 1
+  lang:
+  - ceb
+Giniego:
+  gender_flag: 2
+  lang:
+  - eu
+Ginnie:
+  gender_flag: 1
+  is_short_for:
+  - Ginevra
+  - Virginia
+  lang:
+  - en
+Ginny:
+  gender_flag: 1
+  is_short_for:
+  - Ginevra
+  - Virginia
+  lang:
+  - en
+Gino:
+  gender_flag: 2
+  lang:
+  - it
+Ginot:
+  gender_flag: 2
+  lang:
+  - eu
+Gint:
+  gender_flag: 2
+  is_short_for:
+  - Günther
+  lang:
+  - gmw-ecg
+Ginta:
+  gender_flag: 1
+  lang:
+  - lv
+Gintaras:
+  gender_flag: 2
+  lang:
+  - lt
+Gintars:
+  gender_flag: 2
+  lang:
+  - lv
+Gintarė:
+  gender_flag: 1
+  lang:
+  - lt
+Gintas:
+  gender_flag: 2
+  lang:
+  - lt
+Gintautas:
+  gender_flag: 2
+  lang:
+  - lt
+Gintauts:
+  gender_flag: 2
+  lang:
+  - lv
+Gints:
+  gender_flag: 2
+  lang:
+  - lv
+Ginés:
+  gender_flag: 2
+  lang:
+  - es
+Gio:
+  gender_flag: 2
+  lang:
+  - en
+  - it
+Gioacchino:
+  gender_flag: 2
+  lang:
+  - it
+Gioachino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joachim
+  lang:
+  - it
+Giobbe:
+  gender_flag: 2
+  lang:
+  - it
+Gioconda:
+  gender_flag: 1
+  lang:
+  - it
+  - pt
+  origin:
+  - it
+  - la
+Gioele:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joel
+  lang:
+  - it
+Gioia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Joy
+  lang:
+  - it
+Giona:
+  gender_flag: 2
+  lang:
+  - it
+Gionata:
+  gender_flag: 2
+  lang:
+  - it
+Giordano:
+  gender_flag: 2
+  lang:
+  - eu
+Giorgia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Georgia
+  lang:
+  - it
+Giorgio:
+  gender_flag: 2
+  lang:
+  - it
+Giorsal:
+  gender_flag: 1
+  is_equivalent_to:
+  - Grace
+  - Griselda
+  lang:
+  - gd
+Gioseffo:
+  gender_flag: 2
+  lang:
+  - it
+Giosia:
+  gender_flag: 2
+  lang:
+  - it
+Giosuè:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joshua
+  lang:
+  - it
+Giotto:
+  gender_flag: 2
+  lang:
+  - it
+Giovana:
+  gender_flag: 1
+  lang:
+  - pt
+Giovani:
+  gender_flag: 2
+  lang:
+  - en
+Giovanna:
+  gender_flag: 1
+  lang:
+  - it
+Giovanni:
+  gender_flag: 3
+  is_equivalent_to:
+  - John
+  lang:
+  - en
+  - it
+  origin:
+  - he
+  - it
+Giovanny:
+  gender_flag: 2
+  lang:
+  - es
+Giovenale:
+  gender_flag: 2
+  is_equivalent_to:
+  - Juvenal
+  lang:
+  - en
+  origin:
+  - la
+Girald:
+  gender_flag: 2
+  lang:
+  - eu
+Giralda:
+  gender_flag: 1
+  lang:
+  - eu
+Giralt:
+  gender_flag: 2
+  lang:
+  - eu
+Giranta:
+  gender_flag: 2
+  lang:
+  - eu
+Girantina:
+  gender_flag: 1
+  lang:
+  - eu
+Girautine:
+  gender_flag: 1
+  lang:
+  - eu
+Giray:
+  gender_flag: 2
+  lang:
+  - tr
+Girdutis:
+  gender_flag: 2
+  lang:
+  - lt
+Giriment:
+  gender_flag: 2
+  lang:
+  - eu
+Girlie:
+  gender_flag: 1
+  lang:
+  - ceb
+Girolamo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jerome
+  lang:
+  - it
+Giròni:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jerome
+  lang:
+  - oc
+  origin:
+  - grc
+Gisabel:
+  gender_flag: 1
+  lang:
+  - eu
+Gisela:
+  gender_flag: 1
+  is_equivalent_to:
+  - Giselle
+  lang:
+  - de
+  - eu
+  - pt
+  origin:
+  - gem
+Gisele:
+  gender_flag: 1
+  is_a_variant_of:
+  - Gisela
+  lang:
+  - pt
+Gisella:
+  gender_flag: 1
+  lang:
+  - pt
+Giselle:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - pt
+  origin:
+  - fr
+Gisle:
+  gender_flag: 2
+  lang:
+  - 'no'
+Gisleyg:
+  gender_flag: 1
+  lang:
+  - fo
+Gissunn:
+  gender_flag: 1
+  lang:
+  - is
+Gissur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Gissurína:
+  gender_flag: 1
+  lang:
+  - is
+Gisèle:
+  gender_flag: 1
+  lang:
+  - fr
+Gita:
+  gender_flag: 1
+  lang:
+  - cs
+  - en
+  - et
+  - lv
+  origin:
+  - sa
+Gitka:
+  gender_flag: 1
+  is_short_for:
+  - Gita
+  lang:
+  - cs
+Gittan:
+  gender_flag: 1
+  is_short_for:
+  - Birgitta
+  lang:
+  - sv
+Gitte:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  origin:
+  - da
+Giuda:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jude
+  lang:
+  - it
+Giuditta:
+  gender_flag: 1
+  lang:
+  - it
+Giulia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Julia
+  lang:
+  - it
+Giuliana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Gillian
+  - Juliana
+  lang:
+  - it
+Giuliano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julian
+  lang:
+  - it
+Giulio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julius
+  lang:
+  - it
+Giunio:
+  gender_flag: 2
+  lang:
+  - it
+Giurgiu:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - ro
+  origin:
+  - grc
+Giuseppe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - it
+Giuseppina:
+  gender_flag: 1
+  lang:
+  - it
+Giustina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Justina
+  - Justine
+  lang:
+  - it
+Giustino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Justin
+  lang:
+  - it
+Giusto:
+  gender_flag: 2
+  is_equivalent_to:
+  - Justus
+  lang:
+  - it
+Giuàn:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - egl
+  origin:
+  - he
+Giuśèpe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - egl
+  origin:
+  - he
+Gixane:
+  gender_flag: 1
+  lang:
+  - eu
+Gixon:
+  gender_flag: 2
+  lang:
+  - eu
+Giz:
+  gender_flag: 2
+  lang:
+  - tr
+Gizakunde:
+  gender_flag: 1
+  lang:
+  - eu
+Gizane:
+  gender_flag: 1
+  lang:
+  - eu
+Gizela:
+  gender_flag: 1
+  is_equivalent_to:
+  - Giselle
+  lang:
+  - cs
+  - sk
+Gizella:
+  gender_flag: 1
+  lang:
+  - hu
+Gizem:
+  gender_flag: 1
+  lang:
+  - tr
+Gizer:
+  gender_flag: 2
+  lang:
+  - tr
+Gizi:
+  gender_flag: 1
+  is_short_for:
+  - Gizella
+  lang:
+  - hu
+Gizon:
+  gender_flag: 2
+  lang:
+  - eu
+Gizonto:
+  gender_flag: 2
+  lang:
+  - eu
+Gizurr:
+  gender_flag: 2
+  lang:
+  - non
+Giàni:
+  gender_flag: 2
+  is_equivalent_to:
+  - Johnny
+  is_short_for:
+  - Giuàn
+  lang:
+  - egl
+  origin:
+  - he
+Giàu:
+  gender_flag: 1
+  lang:
+  - vi
+Giáp:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Giöxèppe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - lij
+  origin:
+  - he
+Giüsèpp:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - egl
+  origin:
+  - he
+Giỏi:
+  gender_flag: 2
+  lang:
+  - vi
+Gjaflaugr:
+  gender_flag: 2
+  lang:
+  - non
+Gjalt:
+  gender_flag: 2
+  lang:
+  - fy
+Gjergj:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - sq
+  origin:
+  - grc
+Gjergji: {}
+Gjermund:
+  gender_flag: 2
+  is_a_variant_of:
+  - Geirmund
+  lang:
+  - nn
+  origin:
+  - non
+Gjertrud:
+  gender_flag: 1
+  is_equivalent_to:
+  - Gertrude
+  lang:
+  - 'no'
+Gjin:
+  gender_flag: 2
+  lang:
+  - sq
+Gjo:
+  gender_flag: 2
+  lang:
+  - sq
+Gjok:
+  gender_flag: 2
+  lang:
+  - sq
+Gjokë:
+  gender_flag: 2
+  lang:
+  - sq
+Gjon:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - sq
+  origin:
+  - he
+Gjyiam:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - sq
+Gjúki:
+  gender_flag: 2
+  lang:
+  - is
+Glad:
+  gender_flag: 1
+  is_short_for:
+  - Gladys
+  lang:
+  - en
+Gladys:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  origin:
+  - cy
+  - en
+Glauber:
+  gender_flag: 2
+  is_a_variant_of:
+  - Gláuber
+  lang:
+  - pt
+Glauco:
+  gender_flag: 2
+  lang:
+  - it
+  - pt
+  origin:
+  - grc
+Glen:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+Glenda:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - cy
+  - en
+Glenn:
+  gender_flag: 7
+  lang:
+  - ceb
+  - en
+  - 'no'
+  - sv
+  origin:
+  - en
+Glenna:
+  gender_flag: 1
+  lang:
+  - en
+Glenys:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cy
+Glicerio:
+  gender_flag: 2
+  lang:
+  - ceb
+Gllâome:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - nrf
+Gllâomin:
+  gender_flag: 2
+  is_short_for:
+  - Gllâome
+  lang:
+  - nrf
+Glo:
+  gender_flag: 1
+  lang:
+  - ceb
+Gloria:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - es
+  - fo
+  - it
+  - pl
+  - tl
+  origin:
+  - la
+Glorvina:
+  gender_flag: 1
+  is_a_variant_of:
+  - Gloria
+  lang:
+  - en
+Glory:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Gloría:
+  gender_flag: 1
+  lang:
+  - is
+Gloyw:
+  gender_flag: 2
+  lang:
+  - cy
+Glyndwr:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Glynis:
+  gender_flag: 1
+  is_a_variant_of:
+  - Glenys
+  lang:
+  - en
+  origin:
+  - cy
+Glàvca:
+  gender_flag: 1
+  lang:
+  - egl
+Glàvco:
+  gender_flag: 2
+  lang:
+  - egl
+  origin:
+  - grc
+Gláuber:
+  gender_flag: 2
+  lang:
+  - pt
+Glæma:
+  gender_flag: 1
+  lang:
+  - fo
+Gló:
+  gender_flag: 1
+  lang:
+  - is
+Glóa:
+  gender_flag: 1
+  lang:
+  - fo
+Glódís:
+  gender_flag: 1
+  lang:
+  - is
+Glóð:
+  gender_flag: 1
+  lang:
+  - is
+Glúmur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Gniewosz:
+  gender_flag: 2
+  lang:
+  - pl
+Gná:
+  gender_flag: 1
+  lang:
+  - is
+Gnádís:
+  gender_flag: 1
+  lang:
+  - is
+Gnýr:
+  gender_flag: 2
+  lang:
+  - is
+Goaillart:
+  gender_flag: 2
+  lang:
+  - eu
+Goaita:
+  gender_flag: 2
+  lang:
+  - eu
+Goca: {}
+Goce: {}
+Gocław:
+  gender_flag: 2
+  lang:
+  - pl
+Godantzia:
+  gender_flag: 1
+  lang:
+  - eu
+Goddard:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Godefridus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Godfrey
+  lang:
+  - la
+Godefroy:
+  gender_flag: 2
+  is_equivalent_to:
+  - Godfrey
+  lang:
+  - fr
+Godeleine:
+  gender_flag: 1
+  lang:
+  - fr
+Godelieve:
+  gender_flag: 1
+  lang:
+  - nl
+Godeliève:
+  gender_flag: 1
+  lang:
+  - fr
+Godfrey:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Godfrwèd:
+  gender_flag: 2
+  is_equivalent_to:
+  - Godfrey
+  lang:
+  - wa
+Godgjest:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Godigisel:
+  gender_flag: 2
+  lang:
+  - xvn
+Godmund:
+  gender_flag: 2
+  lang:
+  - ang
+Godofredo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Godfrey
+  - Jeffrey
+  lang:
+  - es
+  - pt
+Godric:
+  gender_flag: 2
+  lang:
+  - ang
+Godschalk:
+  gender_flag: 2
+  lang:
+  - de
+Godwine:
+  gender_flag: 2
+  lang:
+  - ang
+Goedele:
+  gender_flag: 1
+  lang:
+  - nl
+Goele:
+  gender_flag: 1
+  lang:
+  - nl
+Goffredo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Geoffrey
+  - Godfrey
+  lang:
+  - it
+Goggi:
+  gender_flag: 2
+  is_short_for:
+  - Georg
+  lang:
+  - is
+Gohan:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - ja
+Gohanne:
+  gender_flag: 1
+  is_short_for:
+  - Johanne
+  lang:
+  - gmw-ecg
+Gojko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Gojslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Golda:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - yi
+Golden:
+  gender_flag: 7
+  lang:
+  - en
+Goldie:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Goldwine:
+  gender_flag: 2
+  lang:
+  - ang
+Goldy:
+  gender_flag: 1
+  is_short_for:
+  - Golda
+  lang:
+  - en
+Golem:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - sq
+  origin:
+  - la
+Goliath:
+  gender_flag: 2
+  lang:
+  - en
+Gon:
+  gender_flag: 2
+  is_short_for:
+  - Egon
+  lang:
+  - gmw-ecg
+Gondianda:
+  gender_flag: 1
+  lang:
+  - roa-opt
+Gonzalo:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+  origin:
+  - es
+Gonçal:
+  gender_flag: 2
+  lang:
+  - ca
+Gonçalo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Gonçalvo
+  lang:
+  - pt
+Gonçalvo:
+  gender_flag: 2
+  lang:
+  - pt
+Goodwin:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Goody:
+  gender_flag: 7
+  lang:
+  - en
+Gopal:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Gopala:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Goraidh:
+  gender_flag: 2
+  lang:
+  - gd
+  origin:
+  - non
+Goran:
+  gender_flag: 2
+  lang:
+  - sh
+Gord:
+  gender_flag: 2
+  is_short_for:
+  - Gordon
+  lang:
+  - en
+Gordana:
+  gender_flag: 1
+  lang:
+  - sh
+Gordiano:
+  gender_flag: 2
+  lang:
+  - it
+Gordie:
+  gender_flag: 2
+  is_short_for:
+  - Gordon
+  lang:
+  - en
+Gordinho:
+  gender_flag: 2
+  lang:
+  - pt
+Gordo:
+  gender_flag: 2
+  is_short_for:
+  - Gordon
+  lang:
+  - en
+Gordon:
+  gender_flag: 2
+  lang:
+  - en
+Gordy:
+  gender_flag: 2
+  is_short_for:
+  - Gordon
+  lang:
+  - en
+Gore:
+  gender_flag: 2
+  lang:
+  - ro
+Gorge:
+  gender_flag: 2
+  lang:
+  - en
+Gorgines:
+  gender_flag: 2
+  lang:
+  - la
+Gorgonia:
+  gender_flag: 1
+  lang:
+  - ceb
+Gorislav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Gorka:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - eu
+Gorm:
+  gender_flag: 2
+  lang:
+  - da
+Gormail:
+  gender_flag: 1
+  is_a_variant_of:
+  - Gormshuil
+  lang:
+  - gd
+Gormflaith:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Gormshuil:
+  gender_flag: 1
+  lang:
+  - gd
+Gormundur:
+  gender_flag: 2
+  lang:
+  - fo
+Gormur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Gorree:
+  gender_flag: 2
+  is_equivalent_to:
+  - Godfrey
+  lang:
+  - gv
+Gorry:
+  gender_flag: 2
+  is_equivalent_to:
+  - Godfrey
+  lang:
+  - gv
+Gortra:
+  gender_flag: 1
+  lang:
+  - fo
+Goryo:
+  gender_flag: 2
+  is_short_for:
+  - Gregorio
+  lang:
+  - ceb
+  - tl
+Gosia:
+  gender_flag: 1
+  is_short_for:
+  - Małgorzata
+  lang:
+  - pl
+Goten:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - ja
+Gotfred:
+  gender_flag: 2
+  is_equivalent_to:
+  - Godfrey
+  lang:
+  - da
+Gothards:
+  gender_flag: 2
+  lang:
+  - lv
+Gottfrid:
+  gender_flag: 2
+  is_equivalent_to:
+  - Godfrey
+  lang:
+  - sv
+Gottfried:
+  gender_flag: 2
+  is_equivalent_to:
+  - Godfrey
+  lang:
+  - de
+  origin:
+  - gem
+Gotthard:
+  gender_flag: 2
+  lang:
+  - de
+Gottlieb:
+  gender_flag: 2
+  lang:
+  - de
+Gottschalk:
+  gender_flag: 2
+  lang:
+  - de
+Govinda:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Goyo:
+  gender_flag: 2
+  is_short_for:
+  - Gregorio
+  lang:
+  - es
+Goyong:
+  gender_flag: 2
+  is_short_for:
+  - Gregorio
+  lang:
+  - tl
+Goyslauus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gojslav
+  lang:
+  - la
+Gozhilt:
+  gender_flag: 1
+  lang:
+  - goh
+Gołda:
+  gender_flag: 1
+  is_equivalent_to:
+  - Golda
+  lang:
+  - pl
+Gośka:
+  gender_flag: 1
+  is_short_for:
+  - Gosia
+  lang:
+  - pl
+Grabiel:
+  gender_flag: 2
+  is_a_variant_of:
+  - Gabriel
+  lang:
+  - ca
+Grace:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Grace Ann:
+  gender_flag: 1
+  lang:
+  - ceb
+Gracelyn:
+  gender_flag: 1
+  lang:
+  - en
+Gracelynn:
+  gender_flag: 1
+  lang:
+  - en
+Gracia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Grace
+  lang:
+  - es
+Gracie:
+  gender_flag: 1
+  is_short_for:
+  - Grace
+  lang:
+  - en
+Graciela:
+  gender_flag: 1
+  is_short_for:
+  - Gracia
+  lang:
+  - es
+Gracjan:
+  gender_flag: 2
+  lang:
+  - pl
+Grady:
+  gender_flag: 2
+  lang:
+  - en
+Graeme:
+  gender_flag: 2
+  lang:
+  - en
+Graham:
+  gender_flag: 2
+  lang:
+  - en
+Grainney:
+  gender_flag: 1
+  lang:
+  - gv
+  origin:
+  - sga
+Gram:
+  gender_flag: 2
+  lang:
+  - en
+Gramoz:
+  gender_flag: 2
+  lang:
+  - sq
+Grant:
+  gender_flag: 2
+  lang:
+  - en
+Granville:
+  gender_flag: 2
+  lang:
+  - en
+Gray:
+  gender_flag: 2
+  lang:
+  - en
+Graysen:
+  gender_flag: 2
+  lang:
+  - en
+Grayson:
+  gender_flag: 2
+  lang:
+  - en
+Grazia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Grace
+  lang:
+  - it
+Graziano:
+  gender_flag: 2
+  lang:
+  - it
+Graziella:
+  gender_flag: 1
+  lang:
+  - it
+Graça:
+  gender_flag: 1
+  is_equivalent_to:
+  - Grace
+  lang:
+  - pt
+Grażyna:
+  gender_flag: 1
+  lang:
+  - pl
+Grażynka:
+  gender_flag: 1
+  is_short_for:
+  - Grażyna
+  lang:
+  - pl
+Gražina:
+  gender_flag: 1
+  lang:
+  - lt
+Gražutė:
+  gender_flag: 1
+  lang:
+  - lt
+Grdislav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Grdonja:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Grdoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Greer:
+  gender_flag: 3
+  lang:
+  - en
+Greete:
+  gender_flag: 1
+  is_equivalent_to:
+  - Greta
+  - Margaret
+  lang:
+  - et
+Greg:
+  gender_flag: 2
+  lang:
+  - en
+Greger:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - sv
+Gregers:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - da
+Gregg:
+  gender_flag: 2
+  is_short_for:
+  - Gregory
+  lang:
+  - en
+Gregoir:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - gv
+Gregoire:
+  gender_flag: 2
+  lang:
+  - fro
+Gregor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - de
+  - en
+  - sk
+  origin:
+  - grc
+Gregori: {}
+Gregorio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - ceb
+  - es
+  - it
+  - tl
+  origin:
+  - es
+  - grc
+Gregory:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Gregório:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - pt
+  origin:
+  - grc
+Greig:
+  gender_flag: 2
+  lang:
+  - en
+Greipur:
+  gender_flag: 2
+  lang:
+  - fo
+Grendel:
+  gender_flag: 2
+  lang:
+  - en
+Greshan:
+  gender_flag: 1
+  lang:
+  - en
+Gresë:
+  gender_flag: 1
+  lang:
+  - sq
+Greta:
+  gender_flag: 1
+  lang:
+  - en
+  - fo
+  - 'no'
+  - pl
+  - sv
+  origin:
+  - grc
+Gretchen:
+  gender_flag: 1
+  is_short_for:
+  - Margarete
+  lang:
+  - de
+  - en
+  origin:
+  - de
+Grete:
+  gender_flag: 1
+  is_equivalent_to:
+  - Greta
+  - Margaret
+  is_short_for:
+  - Margarete
+  lang:
+  - da
+  - de
+  - et
+  - 'no'
+Gretel:
+  gender_flag: 1
+  is_short_for:
+  - Margarete
+  lang:
+  - de
+  - en
+  - es
+  origin:
+  - de
+Grethe:
+  gender_flag: 1
+  is_short_for:
+  - Margarethe
+  lang:
+  - da
+  - de
+  - 'no'
+Gretta:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Grettir:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Greysen:
+  gender_flag: 2
+  lang:
+  - en
+Greyson:
+  gender_flag: 2
+  lang:
+  - en
+Grias:
+  gender_flag: 2
+  lang:
+  - fo
+Grieta:
+  gender_flag: 1
+  lang:
+  - lv
+Griff:
+  gender_flag: 2
+  lang:
+  - en
+Griffin:
+  gender_flag: 5
+  lang:
+  - en
+Griffinus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Griffin
+  - Griffith
+  lang:
+  - la
+  origin:
+  - wlm
+Griffith:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Grifyuth:
+  gender_flag: 2
+  is_equivalent_to:
+  - Griffith
+  lang:
+  - kw
+Grigalius:
+  gender_flag: 2
+  lang:
+  - lt
+Grigore:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - ro
+  origin:
+  - grc
+Grigoris: {}
+Grigory:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ru
+Grigwere:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - wa
+Grillán:
+  gender_flag: 2
+  lang:
+  - sga
+Grillíne:
+  gender_flag: 2
+  lang:
+  - sga
+Grimhild:
+  gender_flag: 1
+  lang:
+  - fo
+Grimhildr:
+  gender_flag: 1
+  lang:
+  - non
+Griogair:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - gd
+  origin:
+  - la
+Gripur:
+  gender_flag: 2
+  lang:
+  - fo
+Gripus:
+  gender_flag: 2
+  lang:
+  - la
+Grischa:
+  gender_flag: 2
+  is_equivalent_to:
+  - Greg
+  lang:
+  - en
+Griselda:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Griselio:
+  gender_flag: 2
+  lang:
+  - es
+Grissel:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Grizel:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Gro:
+  gender_flag: 1
+  lang:
+  - 'no'
+Grog:
+  gender_flag: 2
+  lang:
+  - en
+Grover:
+  gender_flag: 2
+  lang:
+  - en
+Grozdimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Gruffudd:
+  gender_flag: 2
+  lang:
+  - cy
+  origin:
+  - owl
+Grumio:
+  gender_flag: 2
+  lang:
+  - la
+Gry:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Gryffyn:
+  gender_flag: 2
+  lang:
+  - kw
+Grytė:
+  gender_flag: 1
+  lang:
+  - lt
+Grzech:
+  gender_flag: 2
+  lang:
+  - pl
+Grzegorz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - pl
+Grzesiek:
+  gender_flag: 2
+  is_short_for:
+  - Grzegorz
+  lang:
+  - pl
+Grześ:
+  gender_flag: 2
+  is_short_for:
+  - Grzegorz
+  lang:
+  - pl
+Gráinde:
+  gender_flag: 1
+  lang:
+  - sga
+Gráinne:
+  gender_flag: 1
+  lang:
+  - ga
+Grâce:
+  gender_flag: 1
+  is_equivalent_to:
+  - Grace
+  lang:
+  - nrf
+Grækaris:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - fo
+Gréagóir:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - ga
+  origin:
+  - grc
+Grégoire:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - fr
+Grégory:
+  gender_flag: 2
+  lang:
+  - fr
+Grétar:
+  gender_flag: 2
+  lang:
+  - is
+Grífíne:
+  gender_flag: 2
+  lang:
+  - sga
+Gríma:
+  gender_flag: 1
+  lang:
+  - is
+Grímkell:
+  gender_flag: 2
+  lang:
+  - is
+Grímolvur:
+  gender_flag: 2
+  lang:
+  - fo
+Grímr:
+  gender_flag: 2
+  lang:
+  - non
+Grímur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Grímólfur:
+  gender_flag: 2
+  lang:
+  - is
+Gróa:
+  gender_flag: 1
+  lang:
+  - fo
+Guadalupe:
+  gender_flag: 3
+  lang:
+  - es
+  - nci
+  origin:
+  - es
+Gualberto:
+  gender_flag: 2
+  lang:
+  - es
+Gualdrada:
+  gender_flag: 1
+  lang:
+  - it
+Gualter:
+  gender_flag: 2
+  is_equivalent_to:
+  - Walter
+  lang:
+  - fro
+Gualterius:
+  gender_flag: 2
+  is_equivalent_to:
+  - Walter
+  lang:
+  - la
+  origin:
+  - gem-pro
+Gualtiero:
+  gender_flag: 2
+  is_equivalent_to:
+  - Walter
+  lang:
+  - it
+Gualtierre:
+  gender_flag: 2
+  lang:
+  - es
+Gualtério:
+  gender_flag: 2
+  is_equivalent_to:
+  - Walter
+  lang:
+  - pt
+Guaraci:
+  gender_flag: 3
+  lang:
+  - pt
+  origin:
+  - tpw
+Gubiet:
+  gender_flag: 2
+  lang:
+  - wa
+Gucio:
+  gender_flag: 2
+  is_short_for:
+  - Gustaw
+  lang:
+  - pl
+Gudbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Gudbrand:
+  gender_flag: 2
+  lang:
+  - nn
+Gudfinna:
+  gender_flag: 1
+  lang:
+  - fo
+Gudfinnur:
+  gender_flag: 2
+  lang:
+  - fo
+Gudjón:
+  gender_flag: 2
+  lang:
+  - fo
+Gudleik:
+  gender_flag: 2
+  lang:
+  - nn
+Gudleyg:
+  gender_flag: 1
+  lang:
+  - fo
+Gudleygur:
+  gender_flag: 2
+  lang:
+  - fo
+Gudmar:
+  gender_flag: 2
+  lang:
+  - fo
+Gudmund:
+  gender_flag: 2
+  lang:
+  - 'no'
+  - sv
+Gudmundur:
+  gender_flag: 2
+  lang:
+  - fo
+Gudný:
+  gender_flag: 1
+  lang:
+  - fo
+Gudrid:
+  gender_flag: 1
+  lang:
+  - nn
+Gudrun:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - fo
+  - nb
+  - nn
+  - sv
+Gudtorm:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Gudula:
+  gender_flag: 1
+  lang:
+  - nl
+Gudule:
+  gender_flag: 1
+  is_equivalent_to:
+  - Gudula
+  lang:
+  - wa
+Gudvør:
+  gender_flag: 1
+  lang:
+  - fo
+Gudwal:
+  gender_flag: 2
+  lang:
+  - br
+Guelda:
+  gender_flag: 1
+  lang:
+  - en
+Guelfo:
+  gender_flag: 2
+  lang:
+  - it
+Guendalina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Gwendolen
+  - Gwendoline
+  lang:
+  - it
+Guendolen:
+  gender_flag: 1
+  is_a_variant_of:
+  - Gwendolen
+  lang:
+  - en
+  origin:
+  - cy
+Guenièvre:
+  gender_flag: 1
+  lang:
+  - fr
+Guglielma:
+  gender_flag: 1
+  lang:
+  - it
+Guglielmina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Wilhelmina
+  lang:
+  - it
+Guglielmo:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - it
+Guglo: {}
+Gugu:
+  gender_flag: 2
+  is_short_for:
+  - Augusto
+  - Gustavo
+  lang:
+  - pt
+Guhtur:
+  gender_flag: 2
+  lang:
+  - se
+Gui:
+  gender_flag: 2
+  is_equivalent_to:
+  - Guy
+  lang:
+  - wa
+Guian:
+  gender_flag: 2
+  lang:
+  - nrf
+Guido:
+  gender_flag: 2
+  is_equivalent_to:
+  - Guy
+  lang:
+  - en
+  - it
+  - pt
+  origin:
+  - it
+Guidobaldo:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - gem-pro
+Guifré:
+  gender_flag: 2
+  is_equivalent_to:
+  - Wilfred
+  lang:
+  - ca
+Guiguite:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - wa
+Guilbert:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gilbert
+  lang:
+  - nrf
+Guilhem:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - fr
+Guilherme:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - pt
+Guilhermina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Wilhelmina
+  lang:
+  - pt
+Guilhèm:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - oc
+Guilin:
+  gender_flag: 2
+  lang:
+  - wa
+Guillalme:
+  gender_flag: 2
+  is_a_variant_of:
+  - Willame
+  lang:
+  - fro
+Guillame:
+  gender_flag: 2
+  is_a_variant_of:
+  - Willame
+  lang:
+  - fro
+Guillaspick:
+  gender_flag: 2
+  lang:
+  - gv
+Guillaume:
+  gender_flag: 2
+  is_a_variant_of:
+  - Willame
+  is_equivalent_to:
+  - William
+  lang:
+  - fr
+  - fro
+Guille:
+  gender_flag: 2
+  is_equivalent_to:
+  - Will
+  - Willie
+  is_short_for:
+  - Guillermo
+  lang:
+  - es
+Guillem:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - ca
+Guillemette:
+  gender_flag: 1
+  lang:
+  - fr
+Guillemme:
+  gender_flag: 2
+  lang:
+  - frm
+Guiller:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - ceb
+Guillerme:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - gl
+Guillermina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Wilhelmina
+  lang:
+  - es
+Guillermo:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - ceb
+  - es
+  - tl
+  origin:
+  - es
+Guimar:
+  gender_flag: 2
+  lang:
+  - en
+Guinevere:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cel-pro
+  - cy
+Guinevieve:
+  gender_flag: 1
+  lang:
+  - en
+Guinâte:
+  gender_flag: 1
+  lang:
+  - nrf
+Guion:
+  gender_flag: 2
+  lang:
+  - fr
+  - fro
+Guiot:
+  gender_flag: 2
+  lang:
+  - fro
+Guiromène:
+  gender_flag: 1
+  lang:
+  - nrf
+Guiscardo:
+  gender_flag: 2
+  lang:
+  - it
+Guitifrida:
+  gender_flag: 1
+  lang:
+  - xvn
+Guittone:
+  gender_flag: 2
+  lang:
+  - it
+Guiu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Guy
+  lang:
+  - ca
+Guiânette:
+  gender_flag: 1
+  is_short_for:
+  - Guiâné
+  lang:
+  - nrf
+Guiâné:
+  gender_flag: 1
+  lang:
+  - nrf
+Gujar:
+  gender_flag: 2
+  lang:
+  - en
+Gulakur:
+  gender_flag: 2
+  lang:
+  - fo
+Gulbahar:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - ug
+Gulielmus:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - la
+Gulistan:
+  gender_flag: 1
+  lang:
+  - kmr
+Gullbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Gullborg:
+  gender_flag: 1
+  lang:
+  - fo
+Gullbrandur:
+  gender_flag: 2
+  lang:
+  - fo
+Gulle:
+  gender_flag: 1
+  lang:
+  - 'no'
+Gulli:
+  gender_flag: 2
+  lang:
+  - is
+Gulnora:
+  gender_flag: 1
+  lang:
+  - uz
+Gulzira:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - kk
+Gumelar:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Gumer:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - ceb
+Gumersindo:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - es
+Gun:
+  gender_flag: 1
+  lang:
+  - sv
+  origin:
+  - non
+Gun-Britt:
+  gender_flag: 1
+  lang:
+  - sv
+Guna:
+  gender_flag: 1
+  lang:
+  - lv
+Gunawan:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Gunborg:
+  gender_flag: 1
+  lang:
+  - sv
+Gunda:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - 'no'
+  - sv
+Gundars:
+  gender_flag: 2
+  lang:
+  - lv
+Gundega:
+  gender_flag: 1
+  lang:
+  - lv
+Gunder:
+  gender_flag: 2
+  lang:
+  - da
+Gundula:
+  gender_flag: 1
+  is_short_for:
+  - Gunda
+  lang:
+  - de
+Gundulfus:
+  gender_flag: 2
+  lang:
+  - la
+Gundur:
+  gender_flag: 2
+  lang:
+  - fo
+Gunhild:
+  gender_flag: 1
+  lang:
+  - da
+  - nn
+  - 'no'
+  - sv
+  origin:
+  - non
+Gunill:
+  gender_flag: 1
+  lang:
+  - gmq-jmk
+Gunilla:
+  gender_flag: 1
+  lang:
+  - sv
+Gunita:
+  gender_flag: 1
+  lang:
+  - lv
+Gunløg:
+  gender_flag: 2
+  lang:
+  - da
+Gunn:
+  gender_flag: 1
+  lang:
+  - fo
+  - nn
+  origin:
+  - non
+Gunna:
+  gender_flag: 1
+  is_short_for:
+  - Guðrún
+  lang:
+  - da
+  - fo
+  - is
+Gunnar:
+  gender_flag: 2
+  lang:
+  - da
+  - et
+  - fo
+  - is
+  - nn
+  - 'no'
+  - sv
+  origin:
+  - non
+Gunnarr:
+  gender_flag: 2
+  lang:
+  - non
+Gunnarína:
+  gender_flag: 1
+  lang:
+  - is
+Gunnbjörn:
+  gender_flag: 2
+  lang:
+  - is
+Gunnbjört:
+  gender_flag: 1
+  lang:
+  - is
+Gunnbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Gunnbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Gunnbrit:
+  gender_flag: 1
+  lang:
+  - fo
+Gunndís:
+  gender_flag: 1
+  lang:
+  - is
+Gunnel:
+  gender_flag: 1
+  is_a_variant_of:
+  - Gunhild
+  lang:
+  - sv
+Gunner:
+  gender_flag: 2
+  is_a_variant_of:
+  - Gunnar
+  lang:
+  - da
+Gunnfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Gunnfríður:
+  gender_flag: 1
+  lang:
+  - is
+Gunngerð:
+  gender_flag: 1
+  lang:
+  - fo
+Gunnhild:
+  gender_flag: 1
+  lang:
+  - fo
+  - nn
+  origin:
+  - non
+Gunnhildr:
+  gender_flag: 1
+  lang:
+  - non
+Gunni:
+  gender_flag: 2
+  lang:
+  - fo
+Gunnlaug:
+  gender_flag: 1
+  lang:
+  - is
+Gunnlaugur:
+  gender_flag: 2
+  lang:
+  - is
+Gunnleikur:
+  gender_flag: 2
+  lang:
+  - fo
+Gunnleivur:
+  gender_flag: 2
+  lang:
+  - fo
+Gunnleyg:
+  gender_flag: 1
+  lang:
+  - fo
+Gunnleygur:
+  gender_flag: 2
+  lang:
+  - fo
+Gunnolvur:
+  gender_flag: 2
+  lang:
+  - fo
+Gunnor:
+  gender_flag: 1
+  lang:
+  - fro
+Gunnr:
+  gender_flag: 1
+  lang:
+  - non
+Gunnrið:
+  gender_flag: 1
+  lang:
+  - fo
+Gunnrød:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Gunnstein:
+  gender_flag: 2
+  lang:
+  - fo
+Gunnsteinn:
+  gender_flag: 2
+  lang:
+  - is
+Gunnur:
+  gender_flag: 1
+  lang:
+  - is
+Gunnvaldur:
+  gender_flag: 2
+  lang:
+  - fo
+Gunnvarður:
+  gender_flag: 2
+  lang:
+  - fo
+Gunnvá:
+  gender_flag: 1
+  lang:
+  - fo
+Gunnvör:
+  gender_flag: 1
+  lang:
+  - is
+Gunnvør:
+  gender_flag: 1
+  lang:
+  - fo
+Gunnvǫr:
+  gender_flag: 1
+  lang:
+  - non
+Gunnálvur:
+  gender_flag: 2
+  lang:
+  - fo
+Gunnólfur:
+  gender_flag: 2
+  lang:
+  - is
+Gunnóli:
+  gender_flag: 2
+  lang:
+  - is
+Gunnþór:
+  gender_flag: 2
+  lang:
+  - is
+Gunnþórunn:
+  gender_flag: 1
+  lang:
+  - is
+Gunt:
+  gender_flag: 2
+  is_short_for:
+  - Gunter
+  lang:
+  - gmw-ecg
+Gunta:
+  gender_flag: 1
+  lang:
+  - lv
+Guntars:
+  gender_flag: 2
+  lang:
+  - lv
+Gunter:
+  gender_flag: 2
+  is_a_variant_of:
+  - Günther
+  lang:
+  - de
+  - en
+  origin:
+  - gem
+Guntha:
+  gender_flag: 2
+  lang:
+  - xvn
+Gunthamunds:
+  gender_flag: 2
+  lang:
+  - xvn
+Gunther:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  origin:
+  - de
+Guntis:
+  gender_flag: 2
+  lang:
+  - lv
+Guntur:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Gunvor:
+  gender_flag: 1
+  lang:
+  - 'no'
+  - sv
+Gunça:
+  gender_flag: 1
+  lang:
+  - tk
+Gunārs:
+  gender_flag: 2
+  lang:
+  - lv
+Guran:
+  gender_flag: 2
+  lang:
+  - sq
+Gurbanguly:
+  gender_flag: 2
+  lang:
+  - tk
+Gurbanmämmet:
+  gender_flag: 2
+  lang:
+  - tk
+Guri:
+  gender_flag: 1
+  is_a_variant_of:
+  - Gudrid
+  lang:
+  - nb
+  - nn
+Gurjit:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Gurli:
+  gender_flag: 1
+  lang:
+  - da
+  - fo
+  - sv
+Guro:
+  gender_flag: 1
+  is_a_variant_of:
+  - Gudrun
+  lang:
+  - nn
+Gurra:
+  gender_flag: 2
+  is_short_for:
+  - Gustav
+  lang:
+  - sv
+Gurrý:
+  gender_flag: 1
+  lang:
+  - is
+Gurvinder:
+  gender_flag: 2
+  lang:
+  - en
+Gus:
+  gender_flag: 2
+  is_short_for:
+  - Augustus
+  - Gustav
+  lang:
+  - en
+Gusse:
+  gender_flag: 2
+  lang:
+  - wa
+Gust:
+  gender_flag: 2
+  is_short_for:
+  - August
+  lang:
+  - gmw-ecg
+Gusta:
+  gender_flag: 3
+  is_short_for:
+  - August
+  - Augusta
+  - Augustin
+  - Augustina
+  - Gustav
+  - Gustava
+  lang:
+  - cs
+Gustaaf:
+  gender_flag: 2
+  lang:
+  - nl
+Gustaf:
+  gender_flag: 2
+  lang:
+  - en
+  - sv
+  origin:
+  - sv
+Gustav:
+  gender_flag: 2
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - et
+  - fo
+  - 'no'
+  - sv
+  origin:
+  - gem
+  - sv
+Gustava:
+  gender_flag: 1
+  lang:
+  - sv
+Gustave:
+  gender_flag: 2
+  is_a_variant_of:
+  - Gustav
+  is_equivalent_to:
+  - Gustav
+  lang:
+  - en
+  - fr
+  origin:
+  - gem
+Gustavo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gustav
+  - Gustavus
+  lang:
+  - es
+  - it
+  - pt
+  origin:
+  - sv
+Gustavs:
+  gender_flag: 2
+  lang:
+  - lv
+Gustavus:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+Gustaw:
+  gender_flag: 2
+  lang:
+  - pl
+Guste:
+  gender_flag: 1
+  is_short_for:
+  - Auguste
+  lang:
+  - gmw-ecg
+Gusti:
+  gender_flag: 2
+  lang:
+  - fo
+Gustin:
+  gender_flag: 2
+  lang:
+  - wa
+Gustine:
+  gender_flag: 1
+  lang:
+  - wa
+Gusts:
+  gender_flag: 2
+  lang:
+  - lv
+Gustáv:
+  gender_flag: 2
+  lang:
+  - sk
+Gustík:
+  gender_flag: 2
+  is_short_for:
+  - Gusta
+  lang:
+  - cs
+Gusztáv:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gustav
+  lang:
+  - hu
+Guterre:
+  gender_flag: 2
+  lang:
+  - gl
+Gutierre:
+  gender_flag: 2
+  lang:
+  - es
+Gutnel:
+  gender_flag: 1
+  lang:
+  - se
+Gutti:
+  gender_flag: 2
+  lang:
+  - fo
+Guttorm:
+  gender_flag: 2
+  is_a_variant_of:
+  - Gudtorm
+  lang:
+  - nn
+Guttormur:
+  gender_flag: 2
+  lang:
+  - fo
+Guustave:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gustav
+  lang:
+  - nrf
+Guuste:
+  gender_flag: 2
+  lang:
+  - nrf
+Guustin:
+  gender_flag: 2
+  is_short_for:
+  - Guuste
+  lang:
+  - nrf
+Guustène:
+  gender_flag: 1
+  lang:
+  - nrf
+Guvançmyrat:
+  gender_flag: 2
+  lang:
+  - tk
+Guy:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  - nrf
+  origin:
+  - gem
+Guyon:
+  gender_flag: 2
+  lang:
+  - fr
+  - frm
+Guyot:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - fro
+Guytounet:
+  gender_flag: 2
+  is_short_for:
+  - Guy
+  lang:
+  - nrf
+Guálter:
+  gender_flag: 2
+  is_equivalent_to:
+  - Walter
+  lang:
+  - pt
+Guèrite:
+  gender_flag: 1
+  is_equivalent_to:
+  - Margaret
+  lang:
+  - wa
+Guénin:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - br
+Guénolé:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - br
+Guérôme:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jerome
+  lang:
+  - nrf
+Guéânne:
+  gender_flag: 1
+  lang:
+  - nrf
+Guðbjartur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Guðbjörg:
+  gender_flag: 1
+  lang:
+  - is
+Guðbjörn:
+  gender_flag: 2
+  lang:
+  - is
+Guðbjört:
+  gender_flag: 1
+  lang:
+  - is
+Guðbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Guðbrandr:
+  gender_flag: 2
+  lang:
+  - non
+Guðbrandur:
+  gender_flag: 2
+  lang:
+  - fo
+Guðbrandína:
+  gender_flag: 1
+  lang:
+  - is
+Guðdís:
+  gender_flag: 1
+  lang:
+  - is
+Guðfinnur:
+  gender_flag: 2
+  lang:
+  - is
+Guðfríður:
+  gender_flag: 1
+  lang:
+  - is
+Guðgeir:
+  gender_flag: 2
+  lang:
+  - is
+Guðjón:
+  gender_flag: 2
+  lang:
+  - is
+Guðjóna:
+  gender_flag: 1
+  lang:
+  - is
+Guðjónína:
+  gender_flag: 1
+  lang:
+  - is
+Guðlakur:
+  gender_flag: 2
+  lang:
+  - fo
+Guðlaug:
+  gender_flag: 1
+  lang:
+  - is
+Guðlaugur:
+  gender_flag: 2
+  lang:
+  - is
+Guðleifur:
+  gender_flag: 2
+  lang:
+  - is
+Guðmunda:
+  gender_flag: 1
+  lang:
+  - is
+Guðmundr:
+  gender_flag: 2
+  lang:
+  - non
+Guðmundur:
+  gender_flag: 2
+  lang:
+  - is
+Guðmundína:
+  gender_flag: 1
+  lang:
+  - is
+Guðna:
+  gender_flag: 1
+  lang:
+  - is
+Guðni:
+  gender_flag: 2
+  lang:
+  - is
+Guðný:
+  gender_flag: 1
+  lang:
+  - is
+Guðrið:
+  gender_flag: 1
+  lang:
+  - fo
+Guðrun:
+  gender_flag: 1
+  lang:
+  - fo
+Guðríður:
+  gender_flag: 1
+  lang:
+  - is
+Guðrún:
+  gender_flag: 1
+  lang:
+  - is
+  - non
+Guðsteina:
+  gender_flag: 1
+  lang:
+  - is
+Guðsteinn:
+  gender_flag: 2
+  lang:
+  - is
+Guðvaldína:
+  gender_flag: 1
+  lang:
+  - is
+Guðvarður:
+  gender_flag: 2
+  lang:
+  - is
+Guðveig:
+  gender_flag: 1
+  lang:
+  - is
+Guþlac:
+  gender_flag: 2
+  lang:
+  - ang
+Gvido:
+  gender_flag: 2
+  lang:
+  - lv
+Gvozden:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Gwaggo:
+  gender_flag: 1
+  lang:
+  - ha
+Gwaloe:
+  gender_flag: 2
+  is_short_for:
+  - Gwenole
+  lang:
+  - br
+Gweltaz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gildas
+  lang:
+  - en
+Gwen:
+  gender_flag: 1
+  lang:
+  - br
+  - cy
+  - en
+  - kw
+Gwenaël:
+  gender_flag: 2
+  lang:
+  - fr
+Gwenaëlle:
+  gender_flag: 1
+  lang:
+  - fr
+Gwenda:
+  gender_flag: 1
+  lang:
+  - en
+Gwendal:
+  gender_flag: 2
+  lang:
+  - br
+Gwendi:
+  gender_flag: 1
+  lang:
+  - en
+Gwendie:
+  gender_flag: 1
+  lang:
+  - en
+Gwendolen:
+  gender_flag: 1
+  lang:
+  - cy
+  - en
+  origin:
+  - cy
+Gwendoline:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - cy
+Gwendolyn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Gwendolen
+  lang:
+  - en
+  origin:
+  - cy
+Gwendy:
+  gender_flag: 1
+  is_short_for:
+  - Gwendoline
+  lang:
+  - en
+Gwenegan:
+  gender_flag: 2
+  lang:
+  - br
+Gwener:
+  gender_flag: 1
+  lang:
+  - cy
+Gwenfrewi:
+  gender_flag: 1
+  lang:
+  - cy
+Gwenhwyfar:
+  gender_flag: 1
+  is_equivalent_to:
+  - Guinevere
+  lang:
+  - cy
+Gwenina:
+  gender_flag: 1
+  lang:
+  - br
+Gwenivar:
+  gender_flag: 1
+  is_equivalent_to:
+  - Guinevere
+  lang:
+  - br
+Gweniver:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - kw
+Gwenllian:
+  gender_flag: 1
+  lang:
+  - cy
+  - en
+  origin:
+  - cy
+Gwenn:
+  gender_flag: 7
+  lang:
+  - br
+Gwenneg:
+  gender_flag: 2
+  lang:
+  - br
+Gwennin:
+  gender_flag: 2
+  lang:
+  - br
+Gwennog:
+  gender_flag: 2
+  lang:
+  - br
+Gwenog:
+  gender_flag: 1
+  lang:
+  - cy
+Gwenola:
+  gender_flag: 1
+  lang:
+  - br
+Gwenole:
+  gender_flag: 2
+  lang:
+  - br
+Gwilym:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - cy
+Gwladys: {}
+Gwydion:
+  gender_flag: 2
+  lang:
+  - cy
+Gwyn:
+  gender_flag: 7
+  is_short_for:
+  - Gwyneth
+  lang:
+  - en
+  origin:
+  - cy
+Gwynedd:
+  gender_flag: 3
+  lang:
+  - cy
+Gwyneira:
+  gender_flag: 1
+  lang:
+  - cy
+Gwyneth:
+  gender_flag: 1
+  lang:
+  - cy
+  - en
+  origin:
+  - cy
+Gwynllyw:
+  gender_flag: 2
+  lang:
+  - owl
+Gwynn:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Gwynne:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - cy
+Gwynnie:
+  gender_flag: 1
+  is_short_for:
+  - Gwyneth
+  lang:
+  - en
+Gydda:
+  gender_flag: 2
+  lang:
+  - ang
+Gyenes:
+  gender_flag: 2
+  is_a_variant_of:
+  - Dénes
+  lang:
+  - hu
+Gyles:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Gylfi:
+  gender_flag: 2
+  lang:
+  - is
+Gylta:
+  gender_flag: 1
+  lang:
+  - fo
+Gylvi:
+  gender_flag: 2
+  lang:
+  - fo
+Gymnasium:
+  gender_flag: 1
+  lang:
+  - la
+  origin:
+  - grc
+Gypsy:
+  gender_flag: 1
+  lang:
+  - en
+Gyrðir:
+  gender_flag: 2
+  lang:
+  - is
+Gysbert:
+  gender_flag: 2
+  lang:
+  - fy
+Gytis:
+  gender_flag: 2
+  lang:
+  - lt
+Gyula:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julius
+  lang:
+  - hu
+Gyuri:
+  gender_flag: 2
+  is_short_for:
+  - György
+  lang:
+  - hu
+Gyuszi:
+  gender_flag: 2
+  is_short_for:
+  - Gyula
+  - György
+  lang:
+  - hu
+Gyða:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Gyöngyi:
+  gender_flag: 1
+  lang:
+  - hu
+György:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - hu
+Györgyi:
+  gender_flag: 1
+  lang:
+  - hu
+Győző:
+  gender_flag: 2
+  lang:
+  - hu
+Gzim:
+  gender_flag: 2
+  lang:
+  - sq
+Gábina:
+  gender_flag: 1
+  is_short_for:
+  - Gabriela
+  lang:
+  - cs
+Gábor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gabriel
+  lang:
+  - hu
+Gáddjá:
+  gender_flag: 1
+  lang:
+  - se
+Gál:
+  gender_flag: 2
+  lang:
+  - hu
+Gáren:
+  gender_flag: 1
+  lang:
+  - se
+Gáspár:
+  gender_flag: 2
+  lang:
+  - hu
+Gärd:
+  gender_flag: 1
+  lang:
+  - sv
+Gélique:
+  gender_flag: 1
+  lang:
+  - nrf
+Génie:
+  gender_flag: 1
+  lang:
+  - nrf
+Génotin:
+  gender_flag: 2
+  lang:
+  - nrf
+Génîn:
+  gender_flag: 1
+  is_short_for:
+  - Génie
+  lang:
+  - nrf
+Gérald:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gerald
+  lang:
+  - fr
+Géraldine:
+  gender_flag: 1
+  is_equivalent_to:
+  - Geraldine
+  lang:
+  - fr
+Gérard:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gerard
+  lang:
+  - fr
+Gérold:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gerald
+  lang:
+  - nrf
+Gérson:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gershom
+  lang:
+  - pt
+Gérôme:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jerome
+  lang:
+  - fr
+Géza:
+  gender_flag: 2
+  lang:
+  - hu
+Gësmëni:
+  gender_flag: 2
+  lang:
+  - sq
+Gëzim:
+  gender_flag: 2
+  lang:
+  - sq
+Gíslar:
+  gender_flag: 2
+  lang:
+  - fo
+Gísley:
+  gender_flag: 1
+  lang:
+  - is
+Gísleyg:
+  gender_flag: 1
+  lang:
+  - fo
+Gísli:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Gíslrún:
+  gender_flag: 1
+  lang:
+  - is
+Gíslína:
+  gender_flag: 1
+  lang:
+  - is
+Gòrdan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gordon
+  lang:
+  - gd
+Gói:
+  gender_flag: 2
+  lang:
+  - is
+Gök:
+  gender_flag: 1
+  lang:
+  - tr
+Gökay:
+  gender_flag: 3
+  lang:
+  - tr
+Gökberk:
+  gender_flag: 2
+  lang:
+  - tr
+Gökbörü:
+  gender_flag: 2
+  lang:
+  - tr
+Göker:
+  gender_flag: 2
+  lang:
+  - tr
+Gökhan:
+  gender_flag: 2
+  lang:
+  - tr
+Gökmen:
+  gender_flag: 2
+  lang:
+  - tr
+Göksel:
+  gender_flag: 3
+  lang:
+  - tr
+Göksu:
+  gender_flag: 3
+  lang:
+  - tr
+Göktaş:
+  gender_flag: 2
+  lang:
+  - tr
+Göktuğ:
+  gender_flag: 2
+  lang:
+  - tr
+Gökçe:
+  gender_flag: 3
+  lang:
+  - tr
+Gökçek:
+  gender_flag: 3
+  lang:
+  - tr
+Gönül:
+  gender_flag: 1
+  lang:
+  - tr
+Göran:
+  gender_flag: 2
+  lang:
+  - sv
+Görgü:
+  gender_flag: 2
+  lang:
+  - tr
+Görkem:
+  gender_flag: 7
+  lang:
+  - tr
+Gösta:
+  gender_flag: 2
+  is_a_variant_of:
+  - Gustav
+  lang:
+  - sv
+Göta:
+  gender_flag: 1
+  lang:
+  - sv
+Göte:
+  gender_flag: 2
+  lang:
+  - sv
+Gözde:
+  gender_flag: 1
+  lang:
+  - tr
+Göçer:
+  gender_flag: 2
+  lang:
+  - tr
+Gøran:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - 'no'
+  origin:
+  - sv
+Gøtstaf:
+  gender_flag: 2
+  lang:
+  - gmq-osw
+Gúa:
+  gender_flag: 1
+  lang:
+  - is
+Gúndi:
+  gender_flag: 2
+  is_short_for:
+  - Guðmundur
+  lang:
+  - is
+Gústi:
+  gender_flag: 2
+  lang:
+  - is
+Gül:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - fa
+Gülcan:
+  gender_flag: 1
+  lang:
+  - tr
+Güldeste:
+  gender_flag: 1
+  lang:
+  - tr
+Gülen:
+  gender_flag: 1
+  lang:
+  - tr
+Güler:
+  gender_flag: 1
+  lang:
+  - tr
+Gülhan:
+  gender_flag: 3
+  lang:
+  - tr
+Güliz:
+  gender_flag: 1
+  lang:
+  - tr
+Güllü:
+  gender_flag: 1
+  lang:
+  - tr
+Gülnarə:
+  gender_flag: 1
+  lang:
+  - az
+Gülsu:
+  gender_flag: 1
+  lang:
+  - tr
+Gülüm:
+  gender_flag: 1
+  lang:
+  - tr
+Gülüş:
+  gender_flag: 1
+  lang:
+  - tr
+Gülşah:
+  gender_flag: 1
+  lang:
+  - tr
+Gülşat:
+  gender_flag: 1
+  lang:
+  - tk
+Gülşen:
+  gender_flag: 1
+  lang:
+  - tr
+Gümüş:
+  gender_flag: 3
+  lang:
+  - tr
+Gün:
+  gender_flag: 3
+  lang:
+  - tr
+Günay:
+  gender_flag: 3
+  lang:
+  - tr
+Günaydın:
+  gender_flag: 3
+  lang:
+  - tr
+Gündoğan:
+  gender_flag: 2
+  lang:
+  - tr
+Gündüz:
+  gender_flag: 3
+  lang:
+  - tr
+Gündüzalp:
+  gender_flag: 2
+  lang:
+  - tr
+Gündüzhan:
+  gender_flag: 2
+  lang:
+  - tr
+Günel:
+  gender_flag: 3
+  lang:
+  - tr
+Güner:
+  gender_flag: 3
+  lang:
+  - tr
+Güney:
+  gender_flag: 7
+  lang:
+  - tr
+Güneş:
+  gender_flag: 3
+  lang:
+  - tr
+Günhan:
+  gender_flag: 3
+  lang:
+  - tr
+Güntekin:
+  gender_flag: 2
+  lang:
+  - tr
+Günter:
+  gender_flag: 2
+  is_a_variant_of:
+  - Günther
+  lang:
+  - de
+Günther:
+  gender_flag: 2
+  lang:
+  - de
+Günçiçek:
+  gender_flag: 1
+  lang:
+  - tr
+Günçiçeği:
+  gender_flag: 1
+  lang:
+  - tr
+Gür:
+  gender_flag: 2
+  lang:
+  - tr
+Güray:
+  gender_flag: 3
+  lang:
+  - tr
+Gürbüz:
+  gender_flag: 3
+  lang:
+  - tr
+Gürcan:
+  gender_flag: 2
+  lang:
+  - tr
+Gürgen:
+  gender_flag: 2
+  lang:
+  - tr
+Gürkan:
+  gender_flag: 2
+  lang:
+  - tr
+Güven:
+  gender_flag: 2
+  lang:
+  - tr
+Güz:
+  gender_flag: 1
+  lang:
+  - tr
+Güzel:
+  gender_flag: 1
+  lang:
+  - tr
+Güç:
+  gender_flag: 2
+  lang:
+  - tr
+Güçlü:
+  gender_flag: 2
+  lang:
+  - tr
+Gŵyr:
+  gender_flag: 2
+  lang:
+  - cy
+Gạo:
+  gender_flag: 1
+  lang:
+  - vi
+Ğezal:
+  gender_flag: 1
+  lang:
+  - zza
+  origin:
+  - fa
+Ġakbu:
+  gender_flag: 2
+  is_equivalent_to:
+  - James
+  lang:
+  - mt
+  origin:
+  - grc
+  - he
+  - la
+  - scn
+Ġakmu:
+  gender_flag: 2
+  is_equivalent_to:
+  - James
+  lang:
+  - mt
+  origin:
+  - grc
+  - he
+  - it
+  - la
+Ġakobb:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - mt
+  origin:
+  - grc
+  - he
+  - it
+  - la
+Ġwann:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - mt
+  origin:
+  - grc
+  - he
+  - la
+  - scn
+Ģirts:
+  gender_flag: 2
+  lang:
+  - lv

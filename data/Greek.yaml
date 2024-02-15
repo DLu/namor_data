@@ -1,0 +1,5474 @@
+Άγγελος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Angelo
+  lang:
+  - el
+Άδωνης:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adonis
+  lang:
+  - el
+Άκης:
+  gender_flag: 2
+  lang:
+  - el
+Άλκη:
+  gender_flag: 1
+  lang:
+  - el
+Άνθιμος:
+  gender_flag: 2
+  lang:
+  - el
+Άννα:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ann
+  - Anna
+  - Anne
+  lang:
+  - el
+Άννυ:
+  gender_flag: 1
+  lang:
+  - el
+Άνταμ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - el
+Άρης:
+  gender_flag: 2
+  is_short_for:
+  - Αριστείδης
+  - Αριστοτέλης
+  - Βελισσάριος
+  lang:
+  - el
+Άρτα:
+  gender_flag: 2
+  lang:
+  - grc
+Άρτεμη:
+  gender_flag: 1
+  lang:
+  - el
+Άρτεμις:
+  gender_flag: 1
+  lang:
+  - el
+Έκτορας:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hector
+  lang:
+  - el
+Έντγκαρ:
+  gender_flag: 2
+  lang:
+  - el
+Ήρα:
+  gender_flag: 1
+  lang:
+  - el
+Όλγα:
+  gender_flag: 1
+  is_equivalent_to:
+  - Olga
+  lang:
+  - el
+  origin:
+  - ru
+Αίαντας:
+  gender_flag: 2
+  lang:
+  - el
+Αίας:
+  gender_flag: 2
+  lang:
+  - el
+Ααρών:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aaron
+  lang:
+  - el
+Αβραάμ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - el
+Αγάθη:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - el
+Αγγέλα:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angela
+  lang:
+  - el
+Αγγέλω:
+  gender_flag: 1
+  is_short_for:
+  - Αγγέλα
+  lang:
+  - el
+Αγγελική:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angelica
+  lang:
+  - el
+Αγησίλαος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Agesilaus
+  lang:
+  - el
+Αγρίππας:
+  gender_flag: 2
+  lang:
+  - el
+Αδάμ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - el
+Αδελαΐδα:
+  gender_flag: 1
+  is_equivalent_to:
+  - Adelaide
+  lang:
+  - el
+Αδριανός:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adrian
+  - Hadrian
+  lang:
+  - el
+Αδόλφος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adolphus
+  lang:
+  - el
+Αζιλίσης:
+  gender_flag: 2
+  lang:
+  - grc
+Αθανάσιος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Athanasius
+  lang:
+  - el
+Αθανασία:
+  gender_flag: 1
+  lang:
+  - el
+Αθηνά:
+  gender_flag: 1
+  lang:
+  - el
+Αικατερίνη:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  - Katherine
+  lang:
+  - el
+Αινείας:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aeneas
+  lang:
+  - el
+Αισχίνης:
+  gender_flag: 2
+  lang:
+  - el
+Αισχύλος:
+  gender_flag: 2
+  lang:
+  - el
+Ακίνδυνος:
+  gender_flag: 2
+  lang:
+  - el
+Αλάριχος:
+  gender_flag: 2
+  lang:
+  - el
+Αλέκος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alec
+  - Alex
+  - Xan
+  is_short_for:
+  - Αλέξανδρος
+  lang:
+  - el
+Αλέξανδρος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - el
+Αλβέρτος:
+  gender_flag: 2
+  lang:
+  - el
+Αλεξάνδρα:
+  gender_flag: 1
+  lang:
+  - el
+Αλφρέδος:
+  gender_flag: 2
+  lang:
+  - el
+Αλφόνσος:
+  gender_flag: 2
+  lang:
+  - el
+Αμφιτρίτη:
+  gender_flag: 1
+  lang:
+  - el
+Ανάργυρος:
+  gender_flag: 2
+  lang:
+  - el
+Αναστάσιος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anastasius
+  lang:
+  - el
+Αναστασία:
+  gender_flag: 1
+  lang:
+  - el
+Ανατολή:
+  gender_flag: 1
+  lang:
+  - el
+Ανδρέας:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - el
+Ανδροκλής:
+  gender_flag: 2
+  lang:
+  - el
+Ανδρομάχη:
+  gender_flag: 1
+  lang:
+  - el
+Ανδρομέδα:
+  gender_flag: 1
+  lang:
+  - el
+Ανδρόνικος:
+  gender_flag: 2
+  lang:
+  - el
+Αννούλα:
+  gender_flag: 1
+  is_equivalent_to:
+  - Annie
+  is_short_for:
+  - Άννα
+  lang:
+  - el
+Αντίνοος:
+  gender_flag: 2
+  lang:
+  - el
+Αντίοχος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Antiochus
+  lang:
+  - el
+Αντιγόνη:
+  gender_flag: 1
+  lang:
+  - el
+Αντωνάκης:
+  gender_flag: 2
+  lang:
+  - el
+Αντύπας:
+  gender_flag: 2
+  lang:
+  - el
+Αντώνης:
+  gender_flag: 2
+  lang:
+  - el
+Αντώνιος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  - Antony
+  lang:
+  - el
+Αποστολάκης:
+  gender_flag: 2
+  is_short_for:
+  - Απόστολος
+  lang:
+  - el
+Απόστολος:
+  gender_flag: 2
+  lang:
+  - el
+Αργυρώ:
+  gender_flag: 1
+  lang:
+  - el
+Αργύρης:
+  gender_flag: 2
+  lang:
+  - el
+Αρθούρος:
+  gender_flag: 2
+  lang:
+  - el
+Αριστείδης:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aristides
+  lang:
+  - el
+Αριστοκλής:
+  gender_flag: 2
+  lang:
+  - el
+Αριστοτέλη:
+  gender_flag: 1
+  lang:
+  - el
+Αριστοτέλης:
+  gender_flag: 2
+  lang:
+  - el
+Αριστοφάνης:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aristophanes
+  lang:
+  - el
+Αρριανός:
+  gender_flag: 2
+  is_equivalent_to:
+  - Arrian
+  lang:
+  - el
+Αρτεμισία:
+  gender_flag: 1
+  lang:
+  - el
+Αρχίας:
+  gender_flag: 2
+  lang:
+  - el
+Αρχίδαμος:
+  gender_flag: 2
+  lang:
+  - el
+Ασκάλαφος:
+  gender_flag: 2
+  lang:
+  - el
+Αυτόλυκος:
+  gender_flag: 2
+  lang:
+  - el
+Αφροδίτη:
+  gender_flag: 1
+  lang:
+  - el
+Αφροδίτος:
+  gender_flag: 2
+  lang:
+  - el
+Αφρόδιτος:
+  gender_flag: 2
+  lang:
+  - el
+Αχαιός:
+  gender_flag: 2
+  is_equivalent_to:
+  - Achaeus
+  lang:
+  - el
+Αχιλλέας:
+  gender_flag: 2
+  is_equivalent_to:
+  - Achilles
+  lang:
+  - el
+Αἰγεύς:
+  gender_flag: 2
+  lang:
+  - grc
+Αἰγιαλεύς:
+  gender_flag: 2
+  lang:
+  - grc
+Αἰθαλίδης:
+  gender_flag: 2
+  lang:
+  - grc
+Αἰκατερίνη:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  - Katharine
+  lang:
+  - grc
+Αἰνεσίδημος:
+  gender_flag: 2
+  lang:
+  - grc
+Αἰσιμίδης:
+  gender_flag: 2
+  lang:
+  - grc
+Αἰσχίνης:
+  gender_flag: 2
+  lang:
+  - grc
+Αἰσχύλος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aeschylus
+  lang:
+  - grc
+Αἴας:
+  gender_flag: 2
+  lang:
+  - grc
+Αἴθαλος:
+  gender_flag: 2
+  lang:
+  - grc
+Αὐγείας:
+  gender_flag: 2
+  lang:
+  - grc
+Αὐγουστῖνος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Augustine
+  lang:
+  - grc
+Αὐτονόη:
+  gender_flag: 1
+  lang:
+  - grc
+Αὐτοφραδάτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Βάιος:
+  gender_flag: 2
+  lang:
+  - el
+Βάσω:
+  gender_flag: 1
+  lang:
+  - el
+Βέρα:
+  gender_flag: 1
+  lang:
+  - el
+Βήσσος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Βίκυ:
+  gender_flag: 1
+  is_short_for:
+  - Βασιλική
+  lang:
+  - el
+Βίων:
+  gender_flag: 2
+  lang:
+  - grc
+Βαγαπάτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Βαγασάκης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Βαγαῖος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Βαγώας:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Βαιόρασπος:
+  gender_flag: 2
+  lang:
+  - grc
+Βακχυλίδης:
+  gender_flag: 2
+  lang:
+  - grc
+Βανάδασπος:
+  gender_flag: 2
+  lang:
+  - grc
+Βαρβάρα:
+  gender_flag: 1
+  lang:
+  - el
+Βασίλειος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Basil
+  lang:
+  - el
+  - grc
+Βασίλης:
+  gender_flag: 2
+  is_equivalent_to:
+  - Basil
+  is_short_for:
+  - Βασίλειος
+  lang:
+  - el
+Βασιλική:
+  gender_flag: 1
+  lang:
+  - el
+Βασσιλική:
+  gender_flag: 1
+  lang:
+  - el
+Βελισσάριος:
+  gender_flag: 2
+  lang:
+  - el
+Βενέδικτος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - el
+Βενιαμίν:
+  gender_flag: 2
+  lang:
+  - el
+  - grc
+  origin:
+  - he
+Βερενίκη:
+  gender_flag: 1
+  is_equivalent_to:
+  - Berenice
+  - Bernice
+  - Veronica
+  lang:
+  - grc
+  origin:
+  - xmk
+Βερνάρδος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bernard
+  lang:
+  - el
+Βιάνωρ:
+  gender_flag: 2
+  lang:
+  - grc
+Βιθυνός:
+  gender_flag: 2
+  lang:
+  - el
+Βιτοριξ:
+  gender_flag: 2
+  lang:
+  - xga
+Βλάσιος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Blaise
+  lang:
+  - el
+Βλαδίμηρος:
+  gender_flag: 2
+  lang:
+  - el
+Βουβάρης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Βουκόλος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bucolus
+  lang:
+  - el
+Βούλα:
+  gender_flag: 1
+  is_short_for:
+  - Βασιλική
+  - Παρασκευή
+  lang:
+  - el
+Βρασίδας:
+  gender_flag: 2
+  lang:
+  - grc
+Βρογιμάρος:
+  gender_flag: 2
+  lang:
+  - xga
+Βόγης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Βόλκων:
+  gender_flag: 2
+  lang:
+  - grc
+Βόρασπος:
+  gender_flag: 2
+  lang:
+  - grc
+Βύζας:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - txh
+Βᾶτις:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Γάιος:
+  gender_flag: 2
+  lang:
+  - el
+Γαβριήλ:
+  gender_flag: 2
+  lang:
+  - el
+Γαμαλιήλ:
+  gender_flag: 2
+  lang:
+  - el
+  - grc
+Γανυμήδης:
+  gender_flag: 2
+  lang:
+  - el
+  - grc
+Γεράσιμος:
+  gender_flag: 2
+  lang:
+  - el
+  - grc
+Γεωργάκης:
+  gender_flag: 2
+  is_short_for:
+  - Γεώργιος
+  lang:
+  - el
+Γεωργία:
+  gender_flag: 1
+  is_equivalent_to:
+  - Georgia
+  lang:
+  - el
+Γεώργιος:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - el
+  - grc
+Γιάννα:
+  gender_flag: 1
+  lang:
+  - el
+Γιάννης:
+  gender_flag: 2
+  lang:
+  - el
+Γιαννάκης:
+  gender_flag: 2
+  is_short_for:
+  - Γιάννης
+  lang:
+  - el
+Γιαννούλα:
+  gender_flag: 1
+  is_short_for:
+  - Γιάννα
+  lang:
+  - el
+Γιαννούλης:
+  gender_flag: 2
+  is_short_for:
+  - Γιάννης
+  lang:
+  - el
+Γιωργάκης:
+  gender_flag: 2
+  lang:
+  - el
+Γιωργής:
+  gender_flag: 2
+  lang:
+  - el
+Γιωργία:
+  gender_flag: 1
+  lang:
+  - el
+Γιώργαινα: {}
+Γιώργης:
+  gender_flag: 2
+  lang:
+  - el
+Γιώργιος:
+  gender_flag: 2
+  lang:
+  - el
+Γιώργος:
+  gender_flag: 2
+  lang:
+  - el
+Γιώτα:
+  gender_flag: 1
+  is_short_for:
+  - Παναγιώτα
+  lang:
+  - el
+Γκας:
+  gender_flag: 2
+  lang:
+  - el
+Γλαύκων:
+  gender_flag: 2
+  lang:
+  - grc
+Γοβρύας:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Γοζίνης:
+  gender_flag: 2
+  lang:
+  - grc
+Γουλιέλμος:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - el
+Γρηγόρης:
+  gender_flag: 2
+  lang:
+  - el
+Γρηγόριος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - el
+  - grc
+Γωβρύης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Γωσίθρης:
+  gender_flag: 2
+  lang:
+  - grc
+Γόργιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Γύλιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Δέξιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Δέσποινα:
+  gender_flag: 1
+  lang:
+  - el
+Δήμητρα:
+  gender_flag: 1
+  lang:
+  - el
+Δήμος:
+  gender_flag: 2
+  is_short_for:
+  - Δημήτριος
+  - Δημοσθένης
+  lang:
+  - el
+Δίφιλος:
+  gender_flag: 2
+  lang:
+  - grc
+Δίων:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dion
+  lang:
+  - grc
+Δαδάκης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Δαμασίθυμος:
+  gender_flag: 2
+  lang:
+  - grc
+Δαμασπία:
+  gender_flag: 1
+  lang:
+  - grc
+  origin:
+  - peo
+Δανιήλ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Daniel
+  lang:
+  - el
+  - grc
+  origin:
+  - he
+Δαρεῖος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Δατάμης:
+  gender_flag: 2
+  lang:
+  - grc
+Δαταφέρνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Δαυρίσης:
+  gender_flag: 2
+  lang:
+  - grc
+Δείναρχος:
+  gender_flag: 2
+  lang:
+  - grc
+Δεινοκράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Δεινοσθένης:
+  gender_flag: 2
+  lang:
+  - grc
+Δεινόλοχος:
+  gender_flag: 2
+  lang:
+  - grc
+Δεινόστρατος:
+  gender_flag: 2
+  lang:
+  - grc
+Δεκέβαλος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - xdc
+Δεξιφάνης:
+  gender_flag: 2
+  lang:
+  - grc
+Δερκυλίδας:
+  gender_flag: 2
+  lang:
+  - grc
+Δηΐφοβος:
+  gender_flag: 2
+  lang:
+  - grc
+Δημάρατος:
+  gender_flag: 2
+  lang:
+  - grc
+Δημήτρης:
+  gender_flag: 2
+  lang:
+  - el
+Δημήτριος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Demetrius
+  lang:
+  - el
+  - grc
+Δημητράκης:
+  gender_flag: 2
+  is_short_for:
+  - Δημήτρης
+  lang:
+  - el
+Δημητρούλα:
+  gender_flag: 1
+  is_short_for:
+  - Δήμητρα
+  lang:
+  - el
+Δημοκλείδης:
+  gender_flag: 2
+  lang:
+  - grc
+Δημοκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Δημομέλης:
+  gender_flag: 2
+  lang:
+  - grc
+Δημοπτόλεμος:
+  gender_flag: 2
+  lang:
+  - grc
+Δημοσθένης:
+  gender_flag: 2
+  is_equivalent_to:
+  - Demosthenes
+  lang:
+  - grc
+Δημοφάνης:
+  gender_flag: 2
+  lang:
+  - grc
+Δημοφῶν:
+  gender_flag: 2
+  lang:
+  - grc
+Δημόδοκος:
+  gender_flag: 2
+  lang:
+  - grc
+Δημόκλειτος:
+  gender_flag: 2
+  lang:
+  - grc
+Δημόκριτος:
+  gender_flag: 2
+  lang:
+  - grc
+Δημόστρατος:
+  gender_flag: 2
+  lang:
+  - grc
+Δημόφιλος:
+  gender_flag: 2
+  lang:
+  - grc
+Δηϊδάμεια:
+  gender_flag: 1
+  lang:
+  - grc
+Διαγόρας:
+  gender_flag: 2
+  lang:
+  - grc
+Δικαίαρχος:
+  gender_flag: 2
+  lang:
+  - grc
+Διογένης:
+  gender_flag: 2
+  is_equivalent_to:
+  - Diogenes
+  lang:
+  - grc
+Διοκλείδης:
+  gender_flag: 2
+  lang:
+  - grc
+Διοκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Διομέδων:
+  gender_flag: 2
+  lang:
+  - grc
+Διομήδης:
+  gender_flag: 2
+  lang:
+  - grc
+Διονυσικλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Διονυσόδωρος:
+  gender_flag: 2
+  lang:
+  - grc
+Διονύσιος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dennis
+  - Dionysius
+  lang:
+  - grc
+Διοπείθης:
+  gender_flag: 2
+  lang:
+  - grc
+Διοφάνης:
+  gender_flag: 2
+  lang:
+  - grc
+Διόγνητος:
+  gender_flag: 2
+  lang:
+  - grc
+Διόδοτος:
+  gender_flag: 2
+  lang:
+  - grc
+Διόδωρος:
+  gender_flag: 2
+  lang:
+  - grc
+Διότιμος:
+  gender_flag: 2
+  lang:
+  - grc
+Διόφαντος:
+  gender_flag: 2
+  lang:
+  - grc
+Διόφιλος:
+  gender_flag: 2
+  lang:
+  - grc
+Δομνείων:
+  gender_flag: 2
+  lang:
+  - xga
+Δοσίθεος:
+  gender_flag: 2
+  lang:
+  - grc
+Δρυπῆτις:
+  gender_flag: 1
+  lang:
+  - grc
+  origin:
+  - peo
+Δωρίμαχος:
+  gender_flag: 2
+  lang:
+  - grc
+Δωροθέα:
+  gender_flag: 1
+  is_equivalent_to:
+  - Dorothy
+  lang:
+  - grc
+Δωρόθεος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Dorotheus
+  lang:
+  - grc
+Δόμνα:
+  gender_flag: 1
+  lang:
+  - el
+Δώρα:
+  gender_flag: 1
+  is_short_for:
+  - Θεοδώρα
+  lang:
+  - el
+Δᾶτις:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Εδουάρδος:
+  gender_flag: 2
+  lang:
+  - el
+Ειρήνη:
+  gender_flag: 1
+  lang:
+  - el
+Ελένη:
+  gender_flag: 1
+  lang:
+  - el
+Ελενίτσα:
+  gender_flag: 1
+  is_short_for:
+  - Ελένη
+  lang:
+  - el
+Ελευθέριος:
+  gender_flag: 2
+  lang:
+  - el
+Ελευθεράκης:
+  gender_flag: 2
+  lang:
+  - el
+Ελευθερία:
+  gender_flag: 1
+  lang:
+  - el
+Ελισάβετ:
+  gender_flag: 1
+  is_equivalent_to:
+  - Elizabeth
+  lang:
+  - el
+Εμμανουήλ:
+  gender_flag: 2
+  lang:
+  - el
+Ερρίκος:
+  gender_flag: 2
+  lang:
+  - el
+Ευγένιος:
+  gender_flag: 2
+  lang:
+  - el
+Ευγενία:
+  gender_flag: 1
+  lang:
+  - el
+Ευθυμία:
+  gender_flag: 1
+  lang:
+  - el
+Ευριπίδης:
+  gender_flag: 2
+  lang:
+  - el
+Ευτυχία:
+  gender_flag: 1
+  lang:
+  - el
+Ευφροσύνη:
+  gender_flag: 1
+  lang:
+  - el
+Εύα:
+  gender_flag: 1
+  lang:
+  - el
+Εύη:
+  gender_flag: 1
+  lang:
+  - el
+Εὐαγόρας:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐθυκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐθυμένης:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐθύδημος:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐθύφρων:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐκλείδης:
+  gender_flag: 2
+  is_equivalent_to:
+  - Euclid
+  lang:
+  - grc
+Εὐκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐμένης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Εὐνίκη:
+  gender_flag: 1
+  is_equivalent_to:
+  - Eunice
+  lang:
+  - grc
+Εὐριπίδης:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐρυβιάδης:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐρυδίκη:
+  gender_flag: 1
+  is_equivalent_to:
+  - Eurydice
+  lang:
+  - grc
+Εὐρυκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐρυκράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐρυμέδων:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐρυνόμη:
+  gender_flag: 1
+  lang:
+  - grc
+Εὐρυπτόλεμος:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐρυσάκης:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐρύαλος:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐρύβατος:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐρύκλεια:
+  gender_flag: 1
+  lang:
+  - grc
+Εὐρύλοχος:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐρύμαχος:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐρύπυλος:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐρύτιμος:
+  gender_flag: 2
+  lang:
+  - grc
+Εὐσέβιος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Eusebius
+  lang:
+  - grc
+Εὐφράτας:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Εὔβουλος:
+  gender_flag: 2
+  lang:
+  - grc
+Εὔδημος:
+  gender_flag: 2
+  lang:
+  - grc
+Εὔμαιος:
+  gender_flag: 2
+  lang:
+  - grc
+Εὔμηλος:
+  gender_flag: 2
+  lang:
+  - grc
+Εὔμολπος:
+  gender_flag: 2
+  lang:
+  - grc
+Εὔφημος:
+  gender_flag: 2
+  lang:
+  - grc
+Ζέλντα:
+  gender_flag: 1
+  is_equivalent_to:
+  - Zelda
+  lang:
+  - el
+Ζήνα:
+  gender_flag: 1
+  is_equivalent_to:
+  - Xena
+  - Zina
+  lang:
+  - el
+Ζήνων:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zeno
+  lang:
+  - grc
+Ζαβεργάν:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ζαβεργάνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ζαβρικαν:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ζαμάσφης:
+  gender_flag: 2
+  lang:
+  - grc
+Ζαριάσπης:
+  gender_flag: 2
+  lang:
+  - grc
+Ζειονίσης:
+  gender_flag: 2
+  lang:
+  - grc
+Ζευάκος:
+  gender_flag: 2
+  lang:
+  - grc
+Ζεύξιππη:
+  gender_flag: 1
+  lang:
+  - grc
+Ζεύξιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Ζεῦξις:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zeuxis
+  lang:
+  - grc
+Ζηνοβία:
+  gender_flag: 1
+  is_equivalent_to:
+  - Zenobia
+  lang:
+  - grc
+Ζηνόβιος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zenobius
+  lang:
+  - grc
+Ζηνόδωρος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Zenodorus
+  lang:
+  - grc
+Ζισέλμιος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - txh
+Ζωή:
+  gender_flag: 1
+  lang:
+  - el
+Ζόλτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - txh
+Ηλέκτρα:
+  gender_flag: 1
+  lang:
+  - el
+Ηλίας:
+  gender_flag: 2
+  is_equivalent_to:
+  - Elias
+  - Elijah
+  lang:
+  - el
+Ησαΐας:
+  gender_flag: 2
+  is_equivalent_to:
+  - Isaiah
+  lang:
+  - el
+Θάμυρις:
+  gender_flag: 2
+  lang:
+  - grc
+Θέκλα:
+  gender_flag: 1
+  lang:
+  - el
+Θέτις:
+  gender_flag: 1
+  lang:
+  - el
+Θαλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Θεαίτητος:
+  gender_flag: 2
+  lang:
+  - grc
+Θεαγένης:
+  gender_flag: 2
+  lang:
+  - grc
+Θεμίστιος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Themistius
+  lang:
+  - grc
+Θεμιστοκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Θεογένης:
+  gender_flag: 2
+  lang:
+  - grc
+Θεοδοσία:
+  gender_flag: 1
+  is_equivalent_to:
+  - Theodosia
+  lang:
+  - el
+  - grc
+Θεοδωράκης:
+  gender_flag: 2
+  is_short_for:
+  - Θεόδωρος
+  lang:
+  - el
+Θεοδόσιος:
+  gender_flag: 2
+  lang:
+  - grc
+Θεοδώρα:
+  gender_flag: 1
+  lang:
+  - el
+Θεοδώριχος:
+  gender_flag: 2
+  lang:
+  - el
+Θεοφάνης:
+  gender_flag: 2
+  lang:
+  - grc
+Θεοφόρος:
+  gender_flag: 2
+  lang:
+  - el
+Θερσίτης:
+  gender_flag: 2
+  lang:
+  - grc
+Θευδέριχος:
+  gender_flag: 2
+  is_a_variant_of:
+  - Θεοδώριχος
+  is_equivalent_to:
+  - Derek
+  - Theoderic
+  - Theodoric
+  lang:
+  - el
+  - grc
+  origin:
+  - got
+Θεόδουλος:
+  gender_flag: 2
+  lang:
+  - el
+  - grc
+Θεόδωρος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theodore
+  lang:
+  - el
+  - grc
+Θεόκριτος:
+  gender_flag: 2
+  lang:
+  - grc
+Θεόμβροτος:
+  gender_flag: 2
+  lang:
+  - grc
+Θεόμνηστος:
+  gender_flag: 2
+  lang:
+  - grc
+Θεόπομπος:
+  gender_flag: 2
+  lang:
+  - grc
+Θεόφιλος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Theophilus
+  lang:
+  - grc
+Θεόφοβος:
+  gender_flag: 2
+  lang:
+  - grc
+Θεόφραστος:
+  gender_flag: 2
+  lang:
+  - grc
+Θηραμένης:
+  gender_flag: 2
+  lang:
+  - grc
+Θηρεσία:
+  gender_flag: 1
+  lang:
+  - el
+Θηρικλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Θοδωρής:
+  gender_flag: 2
+  is_short_for:
+  - Θεόδωρος
+  lang:
+  - el
+Θουκυδίδης:
+  gender_flag: 2
+  lang:
+  - grc
+Θράσυλλος:
+  gender_flag: 2
+  lang:
+  - grc
+Θρασύβουλος:
+  gender_flag: 2
+  lang:
+  - el
+  - grc
+Θρασύμαχος:
+  gender_flag: 2
+  lang:
+  - grc
+Θωμάς:
+  gender_flag: 2
+  lang:
+  - el
+Θόας:
+  gender_flag: 2
+  lang:
+  - grc
+Θόδωρος:
+  gender_flag: 2
+  lang:
+  - el
+Ιεσική:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jessica
+  lang:
+  - el
+Ιωάννα:
+  gender_flag: 1
+  lang:
+  - el
+Ιωάννης:
+  gender_flag: 2
+  lang:
+  - el
+Ιώβ:
+  gender_flag: 2
+  lang:
+  - el
+Κάκια:
+  gender_flag: 1
+  lang:
+  - el
+Κάλχας:
+  gender_flag: 2
+  lang:
+  - grc
+Κάμμα:
+  gender_flag: 2
+  lang:
+  - xga
+Κάρολος:
+  gender_flag: 2
+  lang:
+  - el
+Κάσσανδρος:
+  gender_flag: 2
+  lang:
+  - grc
+Κίλισσα:
+  gender_flag: 1
+  lang:
+  - grc
+Κίμων:
+  gender_flag: 2
+  lang:
+  - grc
+Καλλίας:
+  gender_flag: 2
+  lang:
+  - grc
+Καλλίμαχος:
+  gender_flag: 2
+  lang:
+  - grc
+Καλλίξενος:
+  gender_flag: 2
+  lang:
+  - grc
+Καλλίστρατος:
+  gender_flag: 2
+  lang:
+  - grc
+Καλλικλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Καλλικράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Καλλικρατίδας:
+  gender_flag: 2
+  lang:
+  - grc
+Καλλισθένης:
+  gender_flag: 2
+  lang:
+  - grc
+Καλλιστώ:
+  gender_flag: 1
+  lang:
+  - grc
+Καλλιφῶν:
+  gender_flag: 2
+  lang:
+  - grc
+Καλλιόπη:
+  gender_flag: 1
+  lang:
+  - el
+Καμβύσης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Καρούχας:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Καρποκράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Κασσάνδρα:
+  gender_flag: 1
+  lang:
+  - el
+  - grc
+Κασσανδάνη:
+  gender_flag: 1
+  lang:
+  - grc
+  origin:
+  - peo
+Κασσιανή:
+  gender_flag: 1
+  lang:
+  - grc
+Κασσιόπη:
+  gender_flag: 1
+  lang:
+  - el
+Κελαγαστός:
+  gender_flag: 2
+  lang:
+  - grc
+Κερσοβλέπτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - txh
+Κετρίπορις:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - txh
+Κηφισοφῶν:
+  gender_flag: 2
+  lang:
+  - grc
+Κηφισόδωρος:
+  gender_flag: 2
+  lang:
+  - grc
+Κλέανδρος:
+  gender_flag: 2
+  lang:
+  - grc
+Κλέαρχος:
+  gender_flag: 2
+  lang:
+  - grc
+Κλέων:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cleon
+  lang:
+  - grc
+Κλεάνθης:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cleanthes
+  lang:
+  - grc
+Κλείταρχος:
+  gender_flag: 2
+  lang:
+  - grc
+Κλεαίνετος:
+  gender_flag: 2
+  lang:
+  - grc
+Κλεινίας:
+  gender_flag: 2
+  lang:
+  - grc
+Κλεισθένης:
+  gender_flag: 2
+  lang:
+  - grc
+Κλειτοφῶν:
+  gender_flag: 2
+  lang:
+  - grc
+Κλειτόμαχος:
+  gender_flag: 2
+  lang:
+  - grc
+Κλεομένης:
+  gender_flag: 2
+  lang:
+  - grc
+Κλεομήδης:
+  gender_flag: 2
+  lang:
+  - grc
+Κλεοπτόλεμος:
+  gender_flag: 2
+  lang:
+  - grc
+Κλεοπᾶς:
+  gender_flag: 2
+  lang:
+  - grc
+Κλεοφῶν:
+  gender_flag: 2
+  lang:
+  - grc
+Κλεόβουλος:
+  gender_flag: 2
+  lang:
+  - grc
+Κλεόμβροτος:
+  gender_flag: 2
+  lang:
+  - grc
+Κλεόξενος:
+  gender_flag: 2
+  lang:
+  - grc
+Κλεόπατρος:
+  gender_flag: 2
+  lang:
+  - grc
+Κλεόπομπος:
+  gender_flag: 2
+  lang:
+  - grc
+Κλεώνυμος:
+  gender_flag: 2
+  lang:
+  - grc
+Κλεῖτος:
+  gender_flag: 2
+  lang:
+  - grc
+Κλυταιμνήστρα:
+  gender_flag: 1
+  lang:
+  - grc
+Κοζουλο:
+  gender_flag: 2
+  lang:
+  - grc
+Κούλα:
+  gender_flag: 1
+  is_short_for:
+  - Αγγελική
+  - Βασιλική
+  lang:
+  - el
+Κράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Κράτιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Κρέων:
+  gender_flag: 2
+  lang:
+  - grc
+Κρατύλος:
+  gender_flag: 2
+  lang:
+  - grc
+Κρατῖνος:
+  gender_flag: 2
+  lang:
+  - grc
+Κριεζής:
+  gender_flag: 2
+  lang:
+  - el
+Κριτόβουλος:
+  gender_flag: 2
+  lang:
+  - grc
+Κτήσιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Κτησίας:
+  gender_flag: 2
+  lang:
+  - grc
+Κτησίβιος:
+  gender_flag: 2
+  lang:
+  - grc
+Κτησιφῶν:
+  gender_flag: 2
+  lang:
+  - grc
+Κυβερνίσκος:
+  gender_flag: 2
+  lang:
+  - grc
+Κυνθία:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cynthia
+  lang:
+  - el
+Κυριακή:
+  gender_flag: 1
+  lang:
+  - el
+Κωνσταντής:
+  gender_flag: 2
+  lang:
+  - el
+Κωνσταντία:
+  gender_flag: 1
+  is_equivalent_to:
+  - Constance
+  lang:
+  - el
+Κωνσταντίνα:
+  gender_flag: 1
+  lang:
+  - el
+Κωνσταντίνος:
+  gender_flag: 2
+  lang:
+  - el
+Κωνσταντινάκης:
+  gender_flag: 2
+  lang:
+  - el
+Κωνσταντῖνος:
+  gender_flag: 2
+  lang:
+  - el
+Κωστάκης:
+  gender_flag: 2
+  is_short_for:
+  - Κωνσταντίνος
+  lang:
+  - el
+Κωστής:
+  gender_flag: 2
+  lang:
+  - el
+Κωσταντής:
+  gender_flag: 2
+  lang:
+  - el
+Κωστούλης:
+  gender_flag: 2
+  lang:
+  - el
+Κότυς:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - txh
+Κύριλλος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cyril
+  lang:
+  - el
+  - grc
+Κώστας:
+  gender_flag: 2
+  lang:
+  - el
+Λάζαρος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - he
+Λέαγρος:
+  gender_flag: 2
+  lang:
+  - grc
+Λέων:
+  gender_flag: 2
+  is_equivalent_to:
+  - Leo
+  lang:
+  - el
+Λίνος:
+  gender_flag: 2
+  lang:
+  - el
+Λαΐς:
+  gender_flag: 1
+  lang:
+  - grc
+Λαέρτης:
+  gender_flag: 2
+  lang:
+  - grc
+Λαμπροκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Λαομέδων:
+  gender_flag: 2
+  lang:
+  - grc
+Λαύρα:
+  gender_flag: 1
+  lang:
+  - el
+Λεμονιά:
+  gender_flag: 1
+  lang:
+  - el
+Λενιώ:
+  gender_flag: 1
+  is_equivalent_to:
+  - Nelly
+  is_short_for:
+  - Ελένη
+  lang:
+  - el
+Λεξιφάνης:
+  gender_flag: 2
+  lang:
+  - grc
+Λεονάρδος:
+  gender_flag: 2
+  lang:
+  - el
+Λευθέρης:
+  gender_flag: 2
+  lang:
+  - el
+Λευθέριος:
+  gender_flag: 2
+  lang:
+  - el
+Λευτέρης:
+  gender_flag: 2
+  lang:
+  - el
+Λευτέριος:
+  gender_flag: 2
+  lang:
+  - el
+Λευτεράκης:
+  gender_flag: 2
+  lang:
+  - el
+Λευτεριά:
+  gender_flag: 1
+  lang:
+  - el
+Λεωγόρας:
+  gender_flag: 2
+  lang:
+  - grc
+Λεωνάρδος:
+  gender_flag: 2
+  lang:
+  - el
+Λεωνίδας:
+  gender_flag: 2
+  lang:
+  - grc
+Λεωσθένης:
+  gender_flag: 2
+  lang:
+  - grc
+Λεωτυχίδης:
+  gender_flag: 2
+  lang:
+  - grc
+Λεύκιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Λεώνη:
+  gender_flag: 1
+  lang:
+  - el
+Λιακο:
+  gender_flag: 2
+  lang:
+  - grc
+Λουκάς:
+  gender_flag: 2
+  lang:
+  - el
+Λούκιος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lucius
+  lang:
+  - grc
+Λυδία:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lydia
+  lang:
+  - el
+Λυκομήδης:
+  gender_flag: 2
+  lang:
+  - grc
+Λυκοῦργος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lycurgus
+  lang:
+  - grc
+Λυκόφρων:
+  gender_flag: 2
+  lang:
+  - grc
+Λυσίας:
+  gender_flag: 2
+  lang:
+  - grc
+Λυσίμαχος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Lysimachus
+  lang:
+  - grc
+Λυσίστρατος:
+  gender_flag: 2
+  lang:
+  - grc
+Λυσιδίκη:
+  gender_flag: 1
+  lang:
+  - grc
+Λυσικλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Λυσιστράτη:
+  gender_flag: 1
+  lang:
+  - grc
+Λύκος:
+  gender_flag: 2
+  lang:
+  - grc
+Λύσανδρος:
+  gender_flag: 2
+  lang:
+  - grc
+Λύσιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Μάικ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mike
+  lang:
+  - el
+Μάικλ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Michael
+  lang:
+  - el
+Μάλχος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - he
+Μάρθα:
+  gender_flag: 1
+  lang:
+  - grc
+  origin:
+  - arc
+Μάρκελλος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Marcellus
+  lang:
+  - grc
+  origin:
+  - la
+Μάρκος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mark
+  lang:
+  - el
+Μάτα:
+  gender_flag: 1
+  is_short_for:
+  - Σταματία
+  lang:
+  - el
+Μέδουσα:
+  gender_flag: 1
+  lang:
+  - grc
+Μέλισσα:
+  gender_flag: 1
+  is_equivalent_to:
+  - Melissa
+  lang:
+  - grc
+Μέναιχμος:
+  gender_flag: 2
+  lang:
+  - grc
+Μένανδρος:
+  gender_flag: 2
+  lang:
+  - grc
+Μένιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Μέντωρ:
+  gender_flag: 2
+  lang:
+  - grc
+Μήσακος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μήτρος:
+  gender_flag: 2
+  is_short_for:
+  - Δημήτριος
+  lang:
+  - el
+Μήτσος:
+  gender_flag: 2
+  is_short_for:
+  - Δημήτριος
+  lang:
+  - el
+Μίμης:
+  gender_flag: 2
+  lang:
+  - el
+Μαΐφαρνος:
+  gender_flag: 2
+  lang:
+  - grc
+Μαζάκης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μαζάρης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μαζαῖος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μαιβουζάνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μαιδάτας:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μακάριος:
+  gender_flag: 2
+  lang:
+  - grc
+Μαλαχίας:
+  gender_flag: 2
+  is_equivalent_to:
+  - Malachi
+  lang:
+  - grc
+Μανεθών:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - egy
+Μανόλης:
+  gender_flag: 2
+  lang:
+  - el
+Μανώλης:
+  gender_flag: 2
+  lang:
+  - el
+Μαρία:
+  gender_flag: 1
+  is_equivalent_to:
+  - Maria
+  - Mary
+  lang:
+  - el
+Μαρίνος:
+  gender_flag: 2
+  lang:
+  - el
+Μαρδόνιος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μαρκ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Mark
+  lang:
+  - el
+Μαρκίων:
+  gender_flag: 2
+  is_equivalent_to:
+  - Marcion
+  is_short_for:
+  - Μάρκος
+  lang:
+  - el
+  - grc
+  origin:
+  - grc
+  - la
+Μασίστης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μασίστρης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μασκάμης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ματθαίος:
+  gender_flag: 2
+  lang:
+  - el
+Ματθαῖος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Matthew
+  lang:
+  - grc
+  origin:
+  - arc
+Ματταθίας:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - he
+Μαυδάκα:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μαυρίκιος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maurice
+  - Morris
+  lang:
+  - el
+  - grc
+  origin:
+  - la
+Μαχανίδας:
+  gender_flag: 2
+  lang:
+  - grc
+Μαύης:
+  gender_flag: 2
+  lang:
+  - grc
+Μεγάβυζος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μεγάβυξος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μεγαβάτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μεγαδόστης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μεγακλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Μεγασίδρης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μεγασθένης:
+  gender_flag: 2
+  lang:
+  - grc
+Μεθόδιος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Methodius
+  lang:
+  - el
+Μελάνιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Μελέαγρος:
+  gender_flag: 2
+  lang:
+  - grc
+Μελέτιος:
+  gender_flag: 2
+  lang:
+  - grc
+Μελανίππη:
+  gender_flag: 1
+  lang:
+  - grc
+Μενέδημος:
+  gender_flag: 2
+  lang:
+  - grc
+Μενέλαος:
+  gender_flag: 2
+  lang:
+  - grc
+Μενέξενος:
+  gender_flag: 2
+  lang:
+  - grc
+Μενέσαιχμος:
+  gender_flag: 2
+  lang:
+  - grc
+Μενεκράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Μενοίτιος:
+  gender_flag: 2
+  lang:
+  - grc
+Μενοικεύς:
+  gender_flag: 2
+  lang:
+  - grc
+Μενοστάνης:
+  gender_flag: 2
+  lang:
+  - grc
+Μητρόδωρος:
+  gender_flag: 2
+  lang:
+  - grc
+Μιθράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Μιθραβαυζάνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μιθραδάτης:
+  gender_flag: 2
+  lang:
+  - grc
+Μιθραφέρνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μιθραύστης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μιθραῖος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μιθριδάτης:
+  gender_flag: 2
+  lang:
+  - grc
+Μιθροβαρζάνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μιθροβαυζάνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μιθροπαύστης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μιθρωπάστης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μιθρώστης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μικιάδης:
+  gender_flag: 2
+  lang:
+  - grc
+Μιμή:
+  gender_flag: 1
+  lang:
+  - el
+Μιτράνης:
+  gender_flag: 2
+  lang:
+  - grc
+Μιτραδάτης:
+  gender_flag: 2
+  lang:
+  - grc
+Μιτραῖος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μιτροβάτης:
+  gender_flag: 2
+  lang:
+  - grc
+Μιχαήλ:
+  gender_flag: 2
+  lang:
+  - el
+  - grc
+  origin:
+  - he
+Μνήσαρχος:
+  gender_flag: 2
+  lang:
+  - grc
+Μναῖος:
+  gender_flag: 2
+  lang:
+  - grc
+Μοναίσης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μοννήσης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Μπάμπης:
+  gender_flag: 2
+  is_short_for:
+  - Χαράλαμπος
+  - Χαραλάμπης
+  lang:
+  - el
+Μπράιαν:
+  gender_flag: 2
+  is_equivalent_to:
+  - Brian
+  - Bryan
+  lang:
+  - el
+Μωρίς:
+  gender_flag: 2
+  is_equivalent_to:
+  - Maurice
+  - Morris
+  lang:
+  - el
+Μωϋσῆς:
+  gender_flag: 2
+  is_equivalent_to:
+  - Moses
+  lang:
+  - grc
+  origin:
+  - he
+Μύρων:
+  gender_flag: 2
+  is_equivalent_to:
+  - Myron
+  lang:
+  - grc
+Νάβις:
+  gender_flag: 2
+  lang:
+  - grc
+Νάρκισσος:
+  gender_flag: 2
+  lang:
+  - el
+Νέαρχος:
+  gender_flag: 2
+  lang:
+  - grc
+Νίκανδρος:
+  gender_flag: 2
+  lang:
+  - grc
+Νίκαρχος:
+  gender_flag: 2
+  lang:
+  - grc
+Νίκος:
+  gender_flag: 2
+  lang:
+  - el
+Ναηαπάνα:
+  gender_flag: 2
+  lang:
+  - grc
+Ναθαναήλ:
+  gender_flag: 2
+  lang:
+  - el
+  - grc
+  origin:
+  - he
+Ναυσικά:
+  gender_flag: 1
+  lang:
+  - el
+Ναυσιφάνης:
+  gender_flag: 2
+  lang:
+  - grc
+Νεκτάναβις:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - egy
+Νεοκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Νεοπτόλεμος:
+  gender_flag: 2
+  lang:
+  - grc
+Νεφέλη:
+  gender_flag: 1
+  lang:
+  - el
+Νεόφρων:
+  gender_flag: 2
+  lang:
+  - grc
+Νικήρατος:
+  gender_flag: 2
+  lang:
+  - grc
+Νικίας:
+  gender_flag: 2
+  lang:
+  - grc
+Νικοκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Νικολός:
+  gender_flag: 2
+  lang:
+  - el
+Νικομήδης:
+  gender_flag: 2
+  lang:
+  - grc
+Νικόδημος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Nicodemus
+  lang:
+  - grc
+Νικόλαος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Nicholas
+  lang:
+  - el
+  - grc
+Νικόλας:
+  gender_flag: 2
+  lang:
+  - el
+Νικόμαχος:
+  gender_flag: 2
+  lang:
+  - grc
+Νικόστρατος:
+  gender_flag: 2
+  lang:
+  - grc
+Ντέιβιντ:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - el
+Ντίνα:
+  gender_flag: 1
+  lang:
+  - el
+Ντίνος:
+  gender_flag: 2
+  lang:
+  - el
+Ντόρα:
+  gender_flag: 1
+  is_short_for:
+  - Θεοδώρα
+  lang:
+  - el
+Νυμφόδωρος:
+  gender_flag: 2
+  lang:
+  - grc
+Ξάνθιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Ξένη:
+  gender_flag: 1
+  is_short_for:
+  - Πολυξένη
+  lang:
+  - el
+Ξένια:
+  gender_flag: 1
+  is_short_for:
+  - Πολυξένη
+  lang:
+  - el
+Ξέρξης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ξανθίας:
+  gender_flag: 2
+  lang:
+  - grc
+Ξανθίππη:
+  gender_flag: 1
+  lang:
+  - el
+  - grc
+Ξενίας:
+  gender_flag: 2
+  lang:
+  - grc
+Ξενοκλείδας:
+  gender_flag: 2
+  lang:
+  - grc
+Ξενοκλείδης:
+  gender_flag: 2
+  lang:
+  - grc
+Ξενοκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Ξενοκράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Ξενοφάνης:
+  gender_flag: 2
+  lang:
+  - grc
+Ξενοφῶν:
+  gender_flag: 2
+  lang:
+  - grc
+Οδυσσέας:
+  gender_flag: 2
+  is_equivalent_to:
+  - Odysseus
+  lang:
+  - el
+Ολυμπία:
+  gender_flag: 1
+  lang:
+  - el
+Ουίλλιαμ:
+  gender_flag: 2
+  is_equivalent_to:
+  - William
+  lang:
+  - el
+Ουρανία:
+  gender_flag: 1
+  lang:
+  - el
+  origin:
+  - grc
+Οἰβάρης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Οἰκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Οἰλεύς:
+  gender_flag: 2
+  lang:
+  - grc
+Οἰνεύς:
+  gender_flag: 2
+  lang:
+  - grc
+Οἴαξ:
+  gender_flag: 2
+  lang:
+  - grc
+Οὐρβανός:
+  gender_flag: 2
+  lang:
+  - grc
+Πάρμυς:
+  gender_flag: 1
+  lang:
+  - grc
+  origin:
+  - peo
+Πάτροκλος:
+  gender_flag: 2
+  lang:
+  - grc
+Πέλλιχος:
+  gender_flag: 2
+  lang:
+  - grc
+Πέτρος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - el
+Παδάγος:
+  gender_flag: 2
+  lang:
+  - grc
+Παναγιώτα:
+  gender_flag: 1
+  lang:
+  - el
+Παναγιώτης:
+  gender_flag: 2
+  lang:
+  - el
+Πανδώρα:
+  gender_flag: 1
+  lang:
+  - el
+Παντάγνωτος:
+  gender_flag: 2
+  lang:
+  - grc
+Παντελής:
+  gender_flag: 2
+  lang:
+  - el
+Παρασκευή:
+  gender_flag: 1
+  lang:
+  - el
+Παρθάων:
+  gender_flag: 2
+  lang:
+  - grc
+Παρμίσης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Παρμενίδης:
+  gender_flag: 2
+  lang:
+  - grc
+Παρύσατις:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Πασικλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Πασχαλία:
+  gender_flag: 1
+  lang:
+  - el
+Πατιράμφης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Παυλάκης:
+  gender_flag: 2
+  is_short_for:
+  - Παύλος
+  lang:
+  - el
+Παυσανίας:
+  gender_flag: 2
+  lang:
+  - grc
+Παχώμιος:
+  gender_flag: 2
+  lang:
+  - el
+Παύλος:
+  gender_flag: 2
+  lang:
+  - el
+Πείσανδρος:
+  gender_flag: 2
+  lang:
+  - grc
+Πειρίθοος:
+  gender_flag: 2
+  lang:
+  - grc
+Πεισίστρατος:
+  gender_flag: 2
+  lang:
+  - grc
+Περίανδρος:
+  gender_flag: 2
+  lang:
+  - grc
+Περικλῆς:
+  gender_flag: 2
+  is_equivalent_to:
+  - Pericles
+  lang:
+  - grc
+Περσέας:
+  gender_flag: 2
+  lang:
+  - el
+Πετράκης:
+  gender_flag: 2
+  is_short_for:
+  - Πέτρος
+  lang:
+  - el
+Πισσούθνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Πλάτων:
+  gender_flag: 2
+  is_equivalent_to:
+  - Platon
+  lang:
+  - el
+Πλείσταρχος:
+  gender_flag: 2
+  lang:
+  - grc
+Πλειστοάναξ:
+  gender_flag: 2
+  lang:
+  - grc
+Πλούταρχος:
+  gender_flag: 2
+  lang:
+  - grc
+Ποίας:
+  gender_flag: 2
+  lang:
+  - grc
+Πολέμων:
+  gender_flag: 2
+  is_equivalent_to:
+  - Polemon
+  lang:
+  - grc
+Πολυδάμας:
+  gender_flag: 2
+  lang:
+  - grc
+Πολυκράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Πολυξένη:
+  gender_flag: 1
+  lang:
+  - el
+  - grc
+Πολυποίτης:
+  gender_flag: 2
+  lang:
+  - grc
+Πολύγνωτος:
+  gender_flag: 2
+  lang:
+  - grc
+Πολύδωρος:
+  gender_flag: 2
+  lang:
+  - grc
+Πολύκλειτος:
+  gender_flag: 2
+  lang:
+  - grc
+Πολύφημος:
+  gender_flag: 2
+  lang:
+  - grc
+Ποσείδιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Ποσειδώνιος:
+  gender_flag: 2
+  lang:
+  - grc
+Πραξαγόρας:
+  gender_flag: 2
+  lang:
+  - grc
+Πραξιτέλης:
+  gender_flag: 2
+  lang:
+  - grc
+Πραξιφάνης:
+  gender_flag: 2
+  lang:
+  - grc
+Πρηξάσπης:
+  gender_flag: 2
+  lang:
+  - grc
+Προκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Προκόπης:
+  gender_flag: 2
+  lang:
+  - el
+Προκόπιος:
+  gender_flag: 2
+  lang:
+  - el
+  - grc
+  origin:
+  - grc
+Προμηθέας:
+  gender_flag: 2
+  is_equivalent_to:
+  - Prometheus
+  lang:
+  - el
+Πρωτέας:
+  gender_flag: 2
+  lang:
+  - grc
+Πρωταγόρας:
+  gender_flag: 2
+  lang:
+  - grc
+Πρωτεσίλαος:
+  gender_flag: 2
+  lang:
+  - grc
+Πρόκλος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Proclus
+  lang:
+  - grc
+Πρόξενος:
+  gender_flag: 2
+  lang:
+  - grc
+Πτολεμαῖος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ptolemy
+  lang:
+  - grc
+Πυθαγόρας:
+  gender_flag: 2
+  lang:
+  - grc
+Πυθοκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Πυθόδωρος:
+  gender_flag: 2
+  lang:
+  - grc
+Πόλυβος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Polybus
+  lang:
+  - grc
+Ρίτσαρντ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Richard
+  lang:
+  - el
+Ροβέρτος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robert
+  lang:
+  - el
+Ρογήρος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roger
+  lang:
+  - el
+  origin:
+  - gem
+Ρομπέν:
+  gender_flag: 3
+  lang:
+  - el
+  origin:
+  - en
+Ρόμπερτ:
+  gender_flag: 2
+  lang:
+  - el
+Σάββας:
+  gender_flag: 2
+  lang:
+  - el
+Σέλευκος:
+  gender_flag: 2
+  lang:
+  - grc
+Σίλας:
+  gender_flag: 2
+  lang:
+  - el
+Σαιταφάρνης:
+  gender_flag: 2
+  lang:
+  - grc
+Σανδάκη:
+  gender_flag: 1
+  lang:
+  - grc
+  origin:
+  - peo
+Σατάσπης:
+  gender_flag: 2
+  lang:
+  - grc
+Σατιβαρζάνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Σατιφέρνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Σατράκης:
+  gender_flag: 2
+  lang:
+  - grc
+Σαῦλος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Saul
+  lang:
+  - grc
+  origin:
+  - he
+Σεβαστιανός:
+  gender_flag: 2
+  lang:
+  - el
+Σεύθης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - txh
+Σθένελος:
+  gender_flag: 2
+  lang:
+  - grc
+Σθενέλαος:
+  gender_flag: 2
+  lang:
+  - grc
+Σιαστανσας:
+  gender_flag: 2
+  lang:
+  - grc
+Σιαυακος:
+  gender_flag: 2
+  lang:
+  - grc
+Σιαυος:
+  gender_flag: 2
+  lang:
+  - grc
+Σιλάς:
+  gender_flag: 2
+  lang:
+  - el
+Σιλουανός:
+  gender_flag: 2
+  is_equivalent_to:
+  - Silas
+  - Silvanus
+  lang:
+  - el
+  - grc
+Σιλᾶς:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - arc
+Σιρομίτρης:
+  gender_flag: 2
+  lang:
+  - grc
+Σισάμνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Σισαμάκης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Σισιμίθρης:
+  gender_flag: 2
+  lang:
+  - grc
+Σιτάλκης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - txh
+Σιώμαχος:
+  gender_flag: 2
+  lang:
+  - grc
+Σμαράγδα:
+  gender_flag: 1
+  lang:
+  - el
+Σολομών:
+  gender_flag: 2
+  is_equivalent_to:
+  - Solomon
+  lang:
+  - grc
+  origin:
+  - he
+Σοσθάνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Σουσισκάνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - egy
+Σοφία:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sophia
+  lang:
+  - el
+Σοφοκλής:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sophocles
+  lang:
+  - el
+  origin:
+  - grc
+Σοφοκλῆς:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sophocles
+  lang:
+  - grc
+Σπάδακος:
+  gender_flag: 2
+  lang:
+  - grc
+Σπάρτακος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - txh
+Σπαδάγας:
+  gender_flag: 2
+  lang:
+  - grc
+Σπαλαχόρης:
+  gender_flag: 2
+  lang:
+  - grc
+Σπαλιρίσης:
+  gender_flag: 2
+  lang:
+  - grc
+Σπαλύρις:
+  gender_flag: 2
+  lang:
+  - grc
+Σπαράδοκος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - txh
+Σπαργαπίσης:
+  gender_flag: 2
+  lang:
+  - grc
+Σπαργαπείθης:
+  gender_flag: 2
+  lang:
+  - grc
+Σπεύσιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Σπιθάμης:
+  gender_flag: 2
+  lang:
+  - grc
+Σπιθραδάτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Σπιθριδάτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Σπιτάκης:
+  gender_flag: 2
+  lang:
+  - grc
+Σπιταμένης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - sog
+Σπιταμᾶς:
+  gender_flag: 2
+  lang:
+  - grc
+Σπυρίδων:
+  gender_flag: 2
+  lang:
+  - el
+  - grc
+Στέλιος:
+  gender_flag: 2
+  lang:
+  - el
+Στέλλα:
+  gender_flag: 1
+  lang:
+  - el
+Στέφανος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - el
+  - grc
+Στίλπων:
+  gender_flag: 2
+  lang:
+  - el
+  - grc
+Σταμάτης:
+  gender_flag: 2
+  lang:
+  - el
+Σταμάτιος:
+  gender_flag: 2
+  lang:
+  - el
+Σταματία:
+  gender_flag: 1
+  lang:
+  - el
+Σταύρος:
+  gender_flag: 2
+  lang:
+  - el
+Στησίμβροτος:
+  gender_flag: 2
+  lang:
+  - grc
+Στησίχορος:
+  gender_flag: 2
+  lang:
+  - grc
+Στράττις:
+  gender_flag: 2
+  lang:
+  - grc
+Στρατονίκη:
+  gender_flag: 1
+  lang:
+  - grc
+Στρούθας:
+  gender_flag: 2
+  lang:
+  - grc
+Στρόμβιχος:
+  gender_flag: 2
+  lang:
+  - grc
+Στυλιανή:
+  gender_flag: 1
+  lang:
+  - el
+Στυλιανός:
+  gender_flag: 2
+  lang:
+  - el
+Συλοσῶν:
+  gender_flag: 2
+  lang:
+  - grc
+Συμαῖος:
+  gender_flag: 2
+  lang:
+  - grc
+Σφενδαδάτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Σωκράτης:
+  gender_flag: 2
+  is_equivalent_to:
+  - Socrates
+  lang:
+  - el
+  - grc
+Σωσίας:
+  gender_flag: 2
+  lang:
+  - grc
+Σωσθένης:
+  gender_flag: 2
+  lang:
+  - grc
+Σωσιγένης:
+  gender_flag: 2
+  lang:
+  - grc
+Σωστράτη:
+  gender_flag: 1
+  lang:
+  - grc
+Σώστρατος:
+  gender_flag: 2
+  lang:
+  - grc
+Τάβαλος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Τήλεφος:
+  gender_flag: 2
+  lang:
+  - grc
+Τήρης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - txh
+Τίμων:
+  gender_flag: 2
+  is_equivalent_to:
+  - Timon
+  lang:
+  - grc
+Τεΐσπης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Τελευτίας:
+  gender_flag: 2
+  lang:
+  - grc
+Τελεύτας:
+  gender_flag: 2
+  lang:
+  - grc
+Τετραφέρνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Τζέιμς:
+  gender_flag: 2
+  is_equivalent_to:
+  - James
+  lang:
+  - el
+Τζένη:
+  gender_flag: 1
+  is_short_for:
+  - Ευγενία
+  lang:
+  - el
+Τζον:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - el
+Τηλέμαχος:
+  gender_flag: 2
+  lang:
+  - grc
+Τιαστανης:
+  gender_flag: 2
+  lang:
+  - grc
+Τιθραύστης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Τιμάνθης:
+  gender_flag: 2
+  lang:
+  - grc
+Τιμάνωρ:
+  gender_flag: 2
+  lang:
+  - grc
+Τιμοκράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Τιμοκρέων:
+  gender_flag: 2
+  lang:
+  - grc
+Τιμολέων:
+  gender_flag: 2
+  lang:
+  - grc
+Τιμοσθένης:
+  gender_flag: 2
+  lang:
+  - grc
+Τιμοφάνης:
+  gender_flag: 2
+  lang:
+  - grc
+Τιμόδημος:
+  gender_flag: 2
+  lang:
+  - grc
+Τιμόθεος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Timothy
+  lang:
+  - grc
+Τιμόξενος:
+  gender_flag: 2
+  lang:
+  - grc
+Τιμῶναξ:
+  gender_flag: 2
+  lang:
+  - grc
+Τιρίβαζος:
+  gender_flag: 2
+  lang:
+  - grc
+Τιραῖος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Τιριδάτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Τισίας:
+  gender_flag: 2
+  lang:
+  - grc
+Τισαμενός:
+  gender_flag: 2
+  lang:
+  - grc
+Τισσαφέρνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Τληπόλεμος:
+  gender_flag: 2
+  lang:
+  - grc
+Τριτανταίχμης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Τυδεύς:
+  gender_flag: 2
+  lang:
+  - grc
+Τυχικός:
+  gender_flag: 2
+  lang:
+  - grc
+Τόμυρις:
+  gender_flag: 1
+  lang:
+  - grc
+Υπαπαντή:
+  gender_flag: 1
+  lang:
+  - el
+Φίληβος:
+  gender_flag: 2
+  lang:
+  - grc
+Φίλιππος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - el
+  - grc
+Φίλισκος:
+  gender_flag: 2
+  lang:
+  - grc
+Φίλων:
+  gender_flag: 2
+  lang:
+  - grc
+Φαλίος:
+  gender_flag: 2
+  lang:
+  - grc
+Φαρανδάτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Φαρνάβαζος:
+  gender_flag: 2
+  lang:
+  - grc
+Φαρνάκης:
+  gender_flag: 2
+  lang:
+  - grc
+Φαρνάσπης:
+  gender_flag: 2
+  lang:
+  - grc
+Φαρνούχης:
+  gender_flag: 2
+  lang:
+  - grc
+Φαρνοῦχος:
+  gender_flag: 2
+  lang:
+  - grc
+Φειδίας:
+  gender_flag: 2
+  lang:
+  - grc
+Φερεκύδης:
+  gender_flag: 2
+  lang:
+  - grc
+Φερενίκη:
+  gender_flag: 1
+  lang:
+  - grc
+Φερενδάτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Φερετίμη:
+  gender_flag: 1
+  lang:
+  - grc
+Φιλήμων:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philemon
+  lang:
+  - grc
+Φιλοκράτης:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philocrates
+  lang:
+  - grc
+Φιλοκτήτης:
+  gender_flag: 2
+  lang:
+  - grc
+Φιλομήλη:
+  gender_flag: 1
+  lang:
+  - grc
+Φιλόδημος:
+  gender_flag: 2
+  lang:
+  - grc
+Φιλόλαος:
+  gender_flag: 2
+  lang:
+  - grc
+Φιλόξενος:
+  gender_flag: 2
+  lang:
+  - grc
+Φοιβίδας:
+  gender_flag: 2
+  lang:
+  - grc
+Φραάτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - xpr
+Φραγκίσκος:
+  gender_flag: 2
+  lang:
+  - el
+Φραταφέρνης:
+  gender_flag: 2
+  lang:
+  - grc
+Φραόρτης:
+  gender_flag: 2
+  lang:
+  - grc
+Φρόσω:
+  gender_flag: 1
+  is_short_for:
+  - Ευφροσύνη
+  lang:
+  - el
+Φωτεινή:
+  gender_flag: 1
+  lang:
+  - el
+Φωτεινός:
+  gender_flag: 2
+  lang:
+  - grc
+Φώτιος:
+  gender_flag: 2
+  lang:
+  - grc
+Χάρης:
+  gender_flag: 2
+  is_short_for:
+  - Χαράλαμπος
+  - Χαρίλαος
+  lang:
+  - el
+  - grc
+Χάρις:
+  gender_flag: 1
+  lang:
+  - el
+  origin:
+  - grc
+Χαιρεφῶν:
+  gender_flag: 2
+  lang:
+  - grc
+Χαράλαμπος:
+  gender_flag: 2
+  lang:
+  - el
+Χαρίδημος:
+  gender_flag: 2
+  lang:
+  - grc
+Χαρίκλεια:
+  gender_flag: 1
+  is_equivalent_to:
+  - Chariclea
+  lang:
+  - el
+Χαρίλαος:
+  gender_flag: 2
+  lang:
+  - grc
+Χαραηώστης:
+  gender_flag: 2
+  lang:
+  - grc
+Χαραλάμπης:
+  gender_flag: 2
+  lang:
+  - el
+Χαρικλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Χαρμίδης:
+  gender_flag: 2
+  lang:
+  - grc
+Χαροβαλανο:
+  gender_flag: 2
+  lang:
+  - grc
+Χειρίσοφος:
+  gender_flag: 2
+  lang:
+  - grc
+Χεφρῆν:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - egy
+Χλόη:
+  gender_flag: 1
+  lang:
+  - el
+Χρήστος:
+  gender_flag: 2
+  lang:
+  - el
+Χρίστος:
+  gender_flag: 2
+  lang:
+  - el
+Χρηστάκης:
+  gender_flag: 2
+  is_short_for:
+  - Χρήστος
+  lang:
+  - el
+Χρηστάκος:
+  gender_flag: 2
+  is_short_for:
+  - Χρήστος
+  lang:
+  - el
+Χριστάκης:
+  gender_flag: 2
+  is_short_for:
+  - Χρίστος
+  lang:
+  - el
+Χριστάκος:
+  gender_flag: 2
+  is_short_for:
+  - Χρίστος
+  lang:
+  - el
+Χριστίνα:
+  gender_flag: 1
+  lang:
+  - el
+Χριστινάκι:
+  gender_flag: 1
+  is_short_for:
+  - Χριστίνα
+  lang:
+  - el
+Χριστινούλα:
+  gender_flag: 1
+  is_short_for:
+  - Χριστίνα
+  lang:
+  - el
+Χριστόδουλος:
+  gender_flag: 2
+  lang:
+  - el
+  - grc
+Χριστόφορος:
+  gender_flag: 2
+  lang:
+  - grc
+Χρόμιος:
+  gender_flag: 2
+  lang:
+  - grc
+Χρύσης:
+  gender_flag: 2
+  lang:
+  - grc
+Χρύσιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Ψάμμις:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - egy
+Ψαμμήτιχος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - egy
+Ψαῦμις:
+  gender_flag: 2
+  lang:
+  - grc
+μαρικᾶς:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀέθλιος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀβαρβαρέη:
+  gender_flag: 1
+  lang:
+  - grc
+Ἀβραάμ:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - he
+Ἀβραγος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀγάθαρχος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀγάθων:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀγέλαος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀγήνωρ:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀγαθή:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - grc
+Ἀγαθοκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀγαμέμνων:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀγασίας:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀγησίλαος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Agesilaus
+  lang:
+  - grc
+Ἀγλαοφῶν:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀγχίσης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀδείμαντος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀδιατόριξ:
+  gender_flag: 2
+  lang:
+  - xga
+Ἀδούσιος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀθήνιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀθηναγόρας:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀθηνοφάνης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀθηνόδωρος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀκουσίλαος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀκταίων:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀλέξανδρος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - grc
+Ἀλέξαρχος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀλέξιος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀλκάθοος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀλκίνοος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀλκίφρων:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀλκαμένης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀλκαῖος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀλκιβιάδης:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alcibiades
+  lang:
+  - grc
+Ἀλκμήνη:
+  gender_flag: 1
+  lang:
+  - grc
+Ἀλκμαίων:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀλυάττης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - xld
+Ἀμάδοκος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - txh
+Ἀμεινοκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀμμινάπης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀμφίλοχος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀμφικράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀμόργης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀμύνανδρος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀνάξαρχος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀνακρέων:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀνακτορία:
+  gender_flag: 1
+  lang:
+  - grc
+Ἀνανίας:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ananias
+  lang:
+  - grc
+  origin:
+  - he
+Ἀναξίβιος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀναξαγόρας:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀναξικράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀναξιμένης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀναστάσιος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anastasius
+  lang:
+  - grc
+Ἀναστασία:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anastasia
+  lang:
+  - grc
+Ἀνδοκίδης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀνδρέας:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - grc
+Ἀνδραίμων:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀνδροκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀνδρομάχη:
+  gender_flag: 1
+  lang:
+  - grc
+Ἀνδροσθένης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀνδρόμαχος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀνδρόνικος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀντίγονος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀντίμαχος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀντίνοος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀντίοχος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Antiochus
+  lang:
+  - grc
+Ἀντίπατρος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀντίφιλος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀνταλκίδας:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀντιγένης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀντιγόνη:
+  gender_flag: 1
+  lang:
+  - grc
+Ἀντικλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀντικράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀντισθένης:
+  gender_flag: 2
+  is_equivalent_to:
+  - Antisthenes
+  lang:
+  - grc
+Ἀντιφῶν:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀξίοχος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀπολλόδωρος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀπολλῶς:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρίσταιχμος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρίστανδρος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρίσταρχος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aristarchus
+  lang:
+  - grc
+Ἀρίστιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρίφρων:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρβάκης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρβάριος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρβίνας:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρβαζάκιος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρβουπάλης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀργεντοκόξος:
+  gender_flag: 2
+  lang:
+  - cel-bry-pro
+Ἀριαβίγνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀριαμάζης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - sog
+Ἀριαμένης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀριαπείθης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀριαράμνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀριοβαρζάνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρισταίνετος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀριστείδης:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aristides
+  lang:
+  - grc
+Ἀριστογένης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀριστογείτων:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀριστοκλείδης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀριστοκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀριστοτέλης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀριστοφάνης:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aristophanes
+  lang:
+  - grc
+Ἀριστοφῶν:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀριστόβουλος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aristobulus
+  lang:
+  - grc
+Ἀριστόδημος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀριστόμαχος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀριστόνοος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀριστόξενος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀριστότιμος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀριστώνυμος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρκεσίλαος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρσάμης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρσής:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρσίνοος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρσίτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρσαμένης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρτάβαζος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρτάβης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρτάμης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρτάοζος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρτίμας:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρταΰντης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρταβάζης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρταβαζάνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρταζώστρη:
+  gender_flag: 1
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρτακάμας:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρταξέρξης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρταουάσδης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρτασύρας:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρταφέρνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρταχαίης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρταῖος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρτεμίδωρος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρτεμβάρης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρτοξάρης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρτυστώνη:
+  gender_flag: 1
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρτόντης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρτύκας:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρτύφιος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρυάνδης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀρχέδημος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρχέδικος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρχέλαος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρχέστρατος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρχέτιμος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρχίας:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρχίδαμος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρχίλοχος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρχιμήδης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀρύσης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀσά:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀσκληπιόδωρος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀσκληπιός:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀσπαθίνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀστυΐγας:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀστυάγης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀστυάναξ:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀστύοχος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἀτιζύης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀτραδάτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀτροπάτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀχαιμένης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἀχιλλεύς:
+  gender_flag: 2
+  lang:
+  - grc
+Ἁλφαῖος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - he
+Ἄζης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἄλεξις:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexis
+  lang:
+  - grc
+Ἄννα:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anna
+  - Hannah
+  lang:
+  - grc
+  origin:
+  - he
+Ἄντανδρος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἄντιφος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἄρατος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἄσυχις:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - egy
+Ἄτοσσα:
+  gender_flag: 1
+  lang:
+  - grc
+  origin:
+  - peo
+Ἆγις:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐλισσαῖος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Elisha
+  lang:
+  - grc
+  origin:
+  - he
+Ἐμμανουήλ:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - he
+Ἐμπεδοκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐξαίνετος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐπίκουρος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐπίκτητος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐπίμαχος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐπίχαρμος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐπαμεινώνδας:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐπικλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐπιμενίδης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐρίγυιος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐρασίστρατος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐρατοκλείδης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐρατοσθένης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐρεχθεύς:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐριφύλη:
+  gender_flag: 1
+  lang:
+  - grc
+Ἐτεοκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐτεόνικος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐχέμβροτος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐχίων:
+  gender_flag: 2
+  lang:
+  - grc
+Ἐχεκράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἑβρύζελμις:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - txh
+Ἑλένη:
+  gender_flag: 1
+  is_equivalent_to:
+  - Helen
+  lang:
+  - grc
+Ἑλλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Ἑρμαγόρας:
+  gender_flag: 2
+  lang:
+  - grc
+Ἑρμιόνη:
+  gender_flag: 1
+  lang:
+  - grc
+Ἑρμογένης:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hermogenes
+  lang:
+  - grc
+Ἑρμοκράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἑρμόλαος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἔφιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἕλενος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἕρμαρχος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἕρμιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἠλέκτρα:
+  gender_flag: 1
+  is_equivalent_to:
+  - Electra
+  lang:
+  - grc
+Ἠλίας:
+  gender_flag: 2
+  is_equivalent_to:
+  - Elias
+  - Elijah
+  lang:
+  - grc
+  origin:
+  - he
+Ἡγήσιππος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἡγησιπύλη:
+  gender_flag: 1
+  lang:
+  - grc
+Ἡλιόδωρος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἡράκλειτος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Heraclitus
+  lang:
+  - grc
+Ἡρακλείδης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἡρόδοτος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἡρόστρατος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἡρόφιλος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἡρώ:
+  gender_flag: 1
+  lang:
+  - grc
+Ἡσύχιος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hesychius
+  lang:
+  - grc
+Ἰάκωβος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  - James
+  lang:
+  - grc
+  origin:
+  - he
+Ἰάσων:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jason
+  lang:
+  - grc
+Ἰγνάτιος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἰδάνθυρσος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἰδομενεύς:
+  gender_flag: 2
+  lang:
+  - grc
+Ἰερεμίας:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - he
+Ἰεσσαί:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - he
+Ἰνταφέρνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἰουλιανός:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julian
+  lang:
+  - grc
+Ἰσαγόρας:
+  gender_flag: 2
+  lang:
+  - grc
+Ἰσαρχίδας:
+  gender_flag: 2
+  lang:
+  - grc
+Ἰσοκράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἰφικράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἰωάννης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - he
+Ἰωνάθαν:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - he
+Ἰωσήφ:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - he
+Ἱέρων:
+  gender_flag: 2
+  lang:
+  - grc
+Ἱδριεύς:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ἱεροκλῆς:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hierocles
+  lang:
+  - grc
+Ἱεροφῶν:
+  gender_flag: 2
+  lang:
+  - grc
+Ἱερώνυμος:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hieronymus
+  lang:
+  - grc
+Ἱπποδάμεια:
+  gender_flag: 1
+  lang:
+  - grc
+Ἱπποκλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Ἱπποκράτης:
+  gender_flag: 2
+  lang:
+  - grc
+Ἱππομέδων:
+  gender_flag: 2
+  lang:
+  - grc
+Ἱππόλοχος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἱππόλυτος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἴσαρχος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἴφικλος:
+  gender_flag: 2
+  lang:
+  - grc
+Ἵππαρχος:
+  gender_flag: 2
+  lang:
+  - grc
+Ὀλυμπιάς:
+  gender_flag: 1
+  lang:
+  - grc
+Ὀλυμπιόδωρος:
+  gender_flag: 2
+  lang:
+  - grc
+Ὀνησίκριτος:
+  gender_flag: 2
+  lang:
+  - grc
+Ὀξυάρτης:
+  gender_flag: 2
+  lang:
+  - grc
+Ὀροίτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ὀροντοβάτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ὀροντοπάτης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ὀσαρσίφ:
+  gender_flag: 2
+  lang:
+  - grc
+Ὀστάνης:
+  gender_flag: 2
+  lang:
+  - grc
+Ὀτάνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ὄλορος:
+  gender_flag: 2
+  lang:
+  - grc
+Ὑδάρνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ὑμέης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ὑμαίς:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ὑπέρβολος:
+  gender_flag: 2
+  lang:
+  - grc
+Ὑπατία:
+  gender_flag: 1
+  is_equivalent_to:
+  - Hypatia
+  lang:
+  - grc
+Ὑπεράνθης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ὑπερείδης:
+  gender_flag: 2
+  lang:
+  - grc
+Ὑροιάδης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ὑστάσπης:
+  gender_flag: 2
+  lang:
+  - grc
+Ὑσταίχμας:
+  gender_flag: 2
+  lang:
+  - grc
+Ὑψικλῆς:
+  gender_flag: 2
+  lang:
+  - grc
+Ὠβαρις:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ὠμάνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ὠρομέδων:
+  gender_flag: 2
+  lang:
+  - grc
+Ῥάσκος:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - txh
+Ῥαδαμασις:
+  gender_flag: 2
+  lang:
+  - grc
+Ῥεομίθρης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ῥησκούπορις:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - txh
+Ῥοιμητάλκης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - txh
+Ῥοισάκης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ῥωξάνης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo
+Ῥωσάκης:
+  gender_flag: 2
+  lang:
+  - grc
+  origin:
+  - peo

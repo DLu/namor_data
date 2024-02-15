@@ -1,0 +1,6907 @@
+K'itura:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+K'ítôra:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Ka'ioby:
+  gender_flag: 2
+  lang:
+  - tpw
+Kaalat:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kaali:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kaaliina:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kaamil:
+  gender_flag: 2
+  lang:
+  - aa
+Kaan:
+  gender_flag: 2
+  lang:
+  - tr
+Kaapo:
+  gender_flag: 2
+  lang:
+  - fi
+Kaappo:
+  gender_flag: 2
+  lang:
+  - fi
+Kaapro:
+  gender_flag: 2
+  lang:
+  - fi
+Kaarali:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kaarel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Charles
+  lang:
+  - et
+Kaarin:
+  gender_flag: 1
+  is_a_variant_of:
+  - Karin
+  lang:
+  - et
+  - fi
+Kaarina:
+  gender_flag: 1
+  lang:
+  - fi
+Kaarle:
+  gender_flag: 2
+  lang:
+  - fi
+Kaarlo:
+  gender_flag: 2
+  lang:
+  - fi
+Kaat:
+  gender_flag: 1
+  is_a_variant_of:
+  - Caut
+  lang:
+  - nl
+  - yol
+Kaba:
+  gender_flag: 2
+  lang:
+  - hu
+Kabrina:
+  gender_flag: 1
+  lang:
+  - en
+Kacee:
+  gender_flag: 1
+  is_a_variant_of:
+  - Casey
+  lang:
+  - en
+Kacey:
+  gender_flag: 7
+  lang:
+  - en
+Kacie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Casey
+  lang:
+  - en
+Kacper:
+  gender_flag: 2
+  is_equivalent_to:
+  - Casper
+  - Jasper
+  lang:
+  - pl
+Kade:
+  gender_flag: 2
+  lang:
+  - en
+Kadeg:
+  gender_flag: 2
+  lang:
+  - br
+Kaden:
+  gender_flag: 2
+  is_a_variant_of:
+  - Caden
+  lang:
+  - en
+Kadence:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Kadi:
+  gender_flag: 1
+  lang:
+  - et
+Kadir:
+  gender_flag: 2
+  lang:
+  - tr
+Kado:
+  gender_flag: 2
+  lang:
+  - br
+Kadri:
+  gender_flag: 3
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - et
+  - tr
+Kadwalon:
+  gender_flag: 2
+  lang:
+  - br
+Kadyo:
+  gender_flag: 2
+  lang:
+  - ceb
+Kadın:
+  gender_flag: 1
+  lang:
+  - tr
+Kaede:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Kaeden:
+  gender_flag: 7
+  lang:
+  - en
+Kaelyn:
+  gender_flag: 1
+  lang:
+  - en
+Kaelynn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kaylyn
+  lang:
+  - en
+Kahalaomāpuana:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kahale:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kahananui:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kahaʻi:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+  - poz-pol-pro
+Kahealani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kaheem:
+  gender_flag: 2
+  lang:
+  - en
+Kahele:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kahina:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - ar
+Kahleesi:
+  gender_flag: 1
+  is_a_variant_of:
+  - Khaleesi
+  lang:
+  - en
+Kahlil:
+  gender_flag: 2
+  lang:
+  - en
+Kahraman:
+  gender_flag: 2
+  lang:
+  - tr
+Kahue:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kahula:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kai:
+  gender_flag: 7
+  is_short_for:
+  - Katharina
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - fo
+  - haw
+  - 'no'
+  - tr
+  origin:
+  - gem
+  - haw
+Kaia:
+  gender_flag: 1
+  lang:
+  - et
+  - fo
+Kaiden:
+  gender_flag: 2
+  is_a_variant_of:
+  - Caden
+  - Kayden
+  lang:
+  - en
+Kaidence:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Kaidi:
+  gender_flag: 1
+  lang:
+  - et
+Kaido:
+  gender_flag: 2
+  lang:
+  - et
+Kaie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kaia
+  lang:
+  - et
+Kaija:
+  gender_flag: 1
+  lang:
+  - fi
+Kaila:
+  gender_flag: 1
+  lang:
+  - en
+  - haw
+  origin:
+  - haw
+  - yi
+Kailani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kailash:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Kailee:
+  gender_flag: 1
+  lang:
+  - en
+Kailey:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kaylee
+  lang:
+  - en
+Kaili:
+  gender_flag: 1
+  lang:
+  - et
+Kailyn:
+  gender_flag: 1
+  lang:
+  - en
+Kaimana:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kaimar:
+  gender_flag: 2
+  lang:
+  - et
+Kaimo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Kaimar
+  lang:
+  - et
+Kain:
+  gender_flag: 2
+  lang:
+  - fi
+Kainalu:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kaino:
+  gender_flag: 3
+  lang:
+  - fi
+Kainoa:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kaipo:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kairi:
+  gender_flag: 1
+  lang:
+  - et
+Kaisa:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Kaiser:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - de
+  - en
+Kaisla:
+  gender_flag: 1
+  lang:
+  - fi
+Kaison:
+  gender_flag: 2
+  lang:
+  - en
+Kaisu:
+  gender_flag: 1
+  lang:
+  - fi
+Kait:
+  gender_flag: 1
+  is_short_for:
+  - Kaitlyn
+  lang:
+  - en
+Kaitlin:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Kaitlyn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Kaitlynn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Kaiwi:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kaiya:
+  gender_flag: 1
+  lang:
+  - en
+Kaj:
+  gender_flag: 2
+  lang:
+  - da
+  - 'no'
+  - sv
+Kaja:
+  gender_flag: 1
+  lang:
+  - et
+  - 'no'
+Kajar:
+  gender_flag: 2
+  lang:
+  - et
+Kajetan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cajetan
+  lang:
+  - de
+  - pl
+Kajistiaat:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kajistiât:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kajsa:
+  gender_flag: 1
+  is_short_for:
+  - Karin
+  lang:
+  - sv
+Kaka:
+  gender_flag: 3
+  lang:
+  - ha
+Kakageldi:
+  gender_flag: 2
+  lang:
+  - tk
+Kakalia:
+  gender_flag: 2
+  lang:
+  - haw
+Kakalina:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Kakeen:
+  gender_flag: 1
+  is_equivalent_to:
+  - Katy
+  lang:
+  - yol
+Kala:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kalai:
+  gender_flag: 1
+  lang:
+  - haw
+Kalalaina:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Kalama:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kalani:
+  gender_flag: 7
+  lang:
+  - en
+  - haw
+  origin:
+  - haw
+Kalavati:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Kalawaiʻa:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kalaʻi:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kale:
+  gender_flag: 2
+  lang:
+  - haw
+  - kl
+  origin:
+  - da
+  - en
+Kaleb:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  - fo
+  - sv
+Kaleesi:
+  gender_flag: 1
+  is_a_variant_of:
+  - Khaleesi
+  lang:
+  - en
+Kalehua:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kalei:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kaleialoha:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kaleigh:
+  gender_flag: 1
+  lang:
+  - en
+Kaleikaumaka:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kaleiokalani:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kalel:
+  gender_flag: 2
+  lang:
+  - en
+Kalena:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+  - haw
+Kaleo:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kaleolani:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kalervo:
+  gender_flag: 2
+  lang:
+  - fi
+Kalev:
+  gender_flag: 2
+  lang:
+  - et
+Kaleva:
+  gender_flag: 2
+  lang:
+  - fi
+Kalevi:
+  gender_flag: 2
+  lang:
+  - fi
+Kali:
+  gender_flag: 3
+  lang:
+  - en
+  - kl
+  origin:
+  - da
+  - sa
+Kalia:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kalie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kaylee
+  lang:
+  - en
+Kaliko:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kalili:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kalina:
+  gender_flag: 2
+  lang:
+  - izh
+Kalistat:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kalistiaat:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kalistiât:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kaliyah:
+  gender_flag: 1
+  lang:
+  - en
+Kaliʻa:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kaljo:
+  gender_flag: 2
+  lang:
+  - et
+  origin:
+  - et
+Kalju:
+  gender_flag: 2
+  lang:
+  - et
+  origin:
+  - et
+Kalla:
+  gender_flag: 1
+  lang:
+  - fi
+Kalle:
+  gender_flag: 2
+  is_short_for:
+  - Karl
+  lang:
+  - et
+  - fi
+  - sv
+  origin:
+  - fi
+  - sv
+Kallie:
+  gender_flag: 1
+  lang:
+  - en
+Kalliopi: {}
+Kalliopé:
+  gender_flag: 1
+  lang:
+  - hu
+Kallu:
+  gender_flag: 2
+  is_short_for:
+  - Kaarle
+  - Kaarlo
+  - Kalevi
+  - Kalle
+  lang:
+  - fi
+Kalman:
+  gender_flag: 2
+  lang:
+  - is
+  - non
+  origin:
+  - sga
+Kalmer:
+  gender_flag: 2
+  lang:
+  - et
+Kalo:
+  gender_flag: 2
+  lang:
+  - rom
+  origin:
+  - dra-pro
+  - sa
+Kalolaina:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Kalomoira: {}
+Kaloy:
+  gender_flag: 2
+  lang:
+  - ceb
+Kalpana:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Kalua:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kaluliit:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kalulît:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kalā:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kam:
+  gender_flag: 2
+  lang:
+  - tr
+Kama:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kamahiʻai:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kamaile:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kamaka:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kamaki:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Kamal:
+  gender_flag: 2
+  lang:
+  - az
+  - en
+Kamala:
+  gender_flag: 1
+  lang:
+  - en
+  - haw
+  origin:
+  - haw
+  - he
+  - sa
+Kamalani:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kamalei:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kamari:
+  gender_flag: 6
+  lang:
+  - en
+Kamau:
+  gender_flag: 2
+  lang:
+  - ki
+Kamber:
+  gender_flag: 2
+  lang:
+  - tr
+Kamden:
+  gender_flag: 2
+  lang:
+  - en
+Kamdyn:
+  gender_flag: 2
+  lang:
+  - en
+Kamer:
+  gender_flag: 1
+  lang:
+  - tr
+Kameron:
+  gender_flag: 2
+  is_a_variant_of:
+  - Cameron
+  lang:
+  - en
+Kameāloha:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kamiko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Kamil:
+  gender_flag: 2
+  lang:
+  - cs
+  - pl
+  - sk
+  origin:
+  - la
+Kamila:
+  gender_flag: 1
+  is_equivalent_to:
+  - Camilla
+  lang:
+  - cs
+  - haw
+  - pl
+  - sk
+  origin:
+  - haw
+Kamilka:
+  gender_flag: 1
+  is_short_for:
+  - Kamila
+  lang:
+  - cs
+Kamilla:
+  gender_flag: 1
+  is_equivalent_to:
+  - Camilla
+  lang:
+  - da
+  - fi
+  - fo
+  - hu
+  - 'no'
+Kamma:
+  gender_flag: 1
+  lang:
+  - da
+  - fo
+Kammryn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kamryn
+  lang:
+  - en
+Kamren:
+  gender_flag: 2
+  lang:
+  - en
+Kamron:
+  gender_flag: 2
+  lang:
+  - en
+Kamryn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Cameron
+  lang:
+  - en
+Kamuela:
+  gender_flag: 2
+  lang:
+  - haw
+Kamuzu:
+  gender_flag: 7
+  lang:
+  - ny
+Kamwendo:
+  gender_flag: 2
+  lang:
+  - ny
+Kamâl:
+  gender_flag: 2
+  lang:
+  - tr
+Kamča:
+  gender_flag: 1
+  is_short_for:
+  - Kamila
+  lang:
+  - cs
+Kan:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - ja
+Kana:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Kanako:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Kanaloa:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kanami:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Kanani:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kanat:
+  gender_flag: 2
+  lang:
+  - tr
+Kandice:
+  gender_flag: 1
+  lang:
+  - en
+Kandrat: {}
+Kaner:
+  gender_flag: 2
+  lang:
+  - tr
+Kanerva:
+  gender_flag: 1
+  lang:
+  - fi
+Kaniela:
+  gender_flag: 2
+  lang:
+  - haw
+Kanjo:
+  gender_flag: 1
+  is_short_for:
+  - Katarino
+  lang:
+  - eo
+Kanoa:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kanoelani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kanor:
+  gender_flag: 2
+  is_short_for:
+  - Nicanor
+  lang:
+  - ceb
+  - tl
+Kanoy:
+  gender_flag: 2
+  is_short_for:
+  - Nicanor
+  lang:
+  - tl
+Kanstantsin: {}
+Kanye:
+  gender_flag: 2
+  lang:
+  - en
+Kaori:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  origin:
+  - ja
+Kaoru:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ja
+Kaospela:
+  gender_flag: 2
+  is_equivalent_to:
+  - Caspar
+  - Casper
+  - Gaspar
+  - Jasper
+  lang:
+  - wym
+Kaour:
+  gender_flag: 2
+  is_short_for:
+  - Kaourantin
+  - Kaourintin
+  lang:
+  - br
+Kaoura:
+  gender_flag: 1
+  is_short_for:
+  - Kaourantina
+  - Kaourintina
+  lang:
+  - br
+Kaourantin:
+  gender_flag: 2
+  lang:
+  - br
+Kaourantina:
+  gender_flag: 1
+  lang:
+  - br
+Kaourintin:
+  gender_flag: 2
+  lang:
+  - br
+Kaourintina:
+  gender_flag: 1
+  lang:
+  - br
+Kaouther:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - ar
+Kapeka:
+  gender_flag: 1
+  lang:
+  - haw
+Kapeliela:
+  gender_flag: 2
+  lang:
+  - haw
+Kapika:
+  gender_flag: 1
+  lang:
+  - haw
+Kapiʻolani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kapono:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kaptan:
+  gender_flag: 2
+  lang:
+  - tr
+Kapua:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kapule:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kara:
+  gender_flag: 3
+  lang:
+  - en
+  - is
+  - tr
+Karadağ:
+  gender_flag: 2
+  lang:
+  - tr
+Karadeg:
+  gender_flag: 2
+  lang:
+  - br
+Karagöz:
+  gender_flag: 3
+  lang:
+  - tr
+Karakalpak:
+  gender_flag: 2
+  lang:
+  - tr
+Karaman:
+  gender_flag: 2
+  lang:
+  - tr
+Karan:
+  gender_flag: 2
+  lang:
+  - tr
+Kararaina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Caroline
+  lang:
+  - mi
+Karcsi:
+  gender_flag: 2
+  is_short_for:
+  - Károly
+  lang:
+  - hu
+Kardelen:
+  gender_flag: 1
+  lang:
+  - tr
+Karding:
+  gender_flag: 2
+  is_short_for:
+  - Ricardo
+  lang:
+  - tl
+Kardo:
+  gender_flag: 2
+  is_short_for:
+  - Ricardo
+  lang:
+  - ceb
+  - et
+  - tl
+Kardos:
+  gender_flag: 2
+  lang:
+  - hu
+Kare:
+  gender_flag: 2
+  lang:
+  - fi
+  - kl
+  origin:
+  - da
+Kareem:
+  gender_flag: 2
+  is_a_variant_of:
+  - Karim
+  lang:
+  - en
+  origin:
+  - ar
+Karel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Charles
+  lang:
+  - cs
+  - is
+  - nl
+  - sl
+Karen:
+  gender_flag: 5
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - is
+  - 'no'
+  origin:
+  - da
+  - en
+  - grc
+Karene:
+  gender_flag: 3
+  is_a_variant_of:
+  - Karen
+  lang:
+  - en
+Karet:
+  gender_flag: 1
+  lang:
+  - ceb
+Karete:
+  gender_flag: 1
+  lang:
+  - 'no'
+Karethe:
+  gender_flag: 1
+  lang:
+  - 'no'
+Karette:
+  gender_flag: 1
+  lang:
+  - 'no'
+Kari:
+  gender_flag: 3
+  is_equivalent_to:
+  - Carrie
+  - Cary
+  is_short_for:
+  - Karina
+  lang:
+  - en
+  - es
+  - fi
+  - kl
+  - 'no'
+  origin:
+  - da
+  - 'no'
+Kariane:
+  gender_flag: 1
+  is_a_variant_of:
+  - Karianne
+  lang:
+  - 'no'
+Kariann:
+  gender_flag: 1
+  lang:
+  - 'no'
+Karianne:
+  gender_flag: 1
+  lang:
+  - 'no'
+Kariita:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Karijanne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Karianne
+  lang:
+  - 'no'
+Karim:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Karin:
+  gender_flag: 1
+  is_a_variant_of:
+  - Karen
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - fo
+  - fr
+  - 'no'
+  - sv
+Karina:
+  gender_flag: 1
+  is_a_variant_of:
+  - Carina
+  - Karin
+  - Katariina
+  is_equivalent_to:
+  - Karin
+  is_short_for:
+  - Katarina
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - es
+  - et
+  - fo
+  - fr
+  - lv
+  - 'no'
+  - sk
+  - sv
+  origin:
+  - en
+  - grc
+Karine:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Karita:
+  gender_flag: 1
+  lang:
+  - fi
+  - fo
+  - 'no'
+Karitas:
+  gender_flag: 1
+  lang:
+  - is
+Kariũki:
+  gender_flag: 2
+  lang:
+  - ki
+Karl:
+  gender_flag: 2
+  is_equivalent_to:
+  - Carl
+  - Charles
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - et
+  - fo
+  - gmq-osw
+  - is
+  - 'no'
+  - sv
+  origin:
+  - en
+  - gem
+Karla:
+  gender_flag: 1
+  is_a_variant_of:
+  - Carla
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - fo
+  origin:
+  - gem
+Karlchen:
+  gender_flag: 2
+  is_equivalent_to:
+  - Charlie
+  is_short_for:
+  - Karl
+  lang:
+  - de
+Karlee:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Karleigh:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Karlene:
+  gender_flag: 1
+  lang:
+  - en
+Karley:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Karlheinz:
+  gender_flag: 2
+  lang:
+  - de
+Karli:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Karlie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Karlina:
+  gender_flag: 1
+  lang:
+  - fo
+Karlička:
+  gender_flag: 1
+  is_short_for:
+  - Karla
+  lang:
+  - cs
+Karlo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Carl
+  - Charles
+  lang:
+  - eo
+  origin:
+  - gem-pro
+Karlotta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Charlotte
+  lang:
+  - is
+Karly:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Karlyn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Carlene
+  - Carolyn
+  lang:
+  - en
+  origin:
+  - gem
+Karlík:
+  gender_flag: 2
+  is_short_for:
+  - Karel
+  lang:
+  - cs
+Karlíček:
+  gender_flag: 2
+  is_short_for:
+  - Karel
+  lang:
+  - cs
+Karlīna:
+  gender_flag: 1
+  lang:
+  - lv
+Karm:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Karmele:
+  gender_flag: 1
+  is_equivalent_to:
+  - Carmel
+  lang:
+  - eu
+Karmen:
+  gender_flag: 1
+  lang:
+  - et
+Karol:
+  gender_flag: 2
+  is_equivalent_to:
+  - Charles
+  lang:
+  - pl
+  - sk
+Karoliina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Caroline
+  lang:
+  - et
+  - fi
+Karoliine:
+  gender_flag: 1
+  lang:
+  - et
+Karolin:
+  gender_flag: 1
+  is_a_variant_of:
+  - Caroline
+  - Karoliina
+  - Karolina
+  lang:
+  - de
+  - et
+  - sv
+Karolina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Caroline
+  lang:
+  - fo
+  - pl
+  - sv
+Karoline:
+  gender_flag: 1
+  is_a_variant_of:
+  - Caroline
+  lang:
+  - da
+  - de
+  - 'no'
+Karolis:
+  gender_flag: 2
+  is_equivalent_to:
+  - Charles
+  lang:
+  - lt
+Karolína:
+  gender_flag: 1
+  is_equivalent_to:
+  - Caroline
+  lang:
+  - cs
+  - sk
+Karolínka:
+  gender_flag: 1
+  is_short_for:
+  - Karolína
+  lang:
+  - cs
+Karolīna:
+  gender_flag: 1
+  lang:
+  - lv
+Karri:
+  gender_flag: 2
+  lang:
+  - fi
+Karson:
+  gender_flag: 2
+  lang:
+  - en
+Karsten:
+  gender_flag: 2
+  is_a_variant_of:
+  - Carsten
+  lang:
+  - da
+  - de
+  - 'no'
+Karstin:
+  gender_flag: 2
+  lang:
+  - fo
+Karsyn:
+  gender_flag: 1
+  lang:
+  - en
+Kartal:
+  gender_flag: 2
+  lang:
+  - tr
+Karter:
+  gender_flag: 6
+  lang:
+  - en
+Kartni:
+  gender_flag: 2
+  lang:
+  - fo
+Karun:
+  gender_flag: 2
+  lang:
+  - en
+Karvel:
+  gender_flag: 2
+  lang:
+  - is
+Karya:
+  gender_flag: 1
+  lang:
+  - ceb
+Karyn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Karyna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Karina
+  lang:
+  - pl
+Karyne:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - en
+  - grc
+Karyo:
+  gender_flag: 2
+  lang:
+  - ceb
+Karîta:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Karīna:
+  gender_flag: 1
+  lang:
+  - lv
+Kasandra:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cassandra
+  lang:
+  - pl
+Kase:
+  gender_flag: 2
+  lang:
+  - en
+Kasen:
+  gender_flag: 2
+  lang:
+  - en
+Kasey:
+  gender_flag: 7
+  lang:
+  - en
+Kash:
+  gender_flag: 2
+  lang:
+  - en
+Kashonda:
+  gender_flag: 1
+  lang:
+  - en
+Kashton:
+  gender_flag: 2
+  lang:
+  - en
+Kasi:
+  gender_flag: 2
+  is_short_for:
+  - Kasimir
+  lang:
+  - gsw
+  origin:
+  - pl
+Kasia:
+  gender_flag: 1
+  is_short_for:
+  - Katarzyna
+  lang:
+  - pl
+Kasijan:
+  gender_flag: 2
+  lang:
+  - sh
+Kasim:
+  gender_flag: 2
+  lang:
+  - en
+Kasimir:
+  gender_flag: 2
+  is_equivalent_to:
+  - Casimir
+  lang:
+  - de
+  origin:
+  - pl
+Kasimu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Qasim
+  lang:
+  - yo
+  origin:
+  - ar
+Kason:
+  gender_flag: 2
+  lang:
+  - en
+Kaspar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Caspar
+  lang:
+  - de
+  - et
+  - fo
+  - sv
+Kasparas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Caspar
+  - Kaspar
+  lang:
+  - lt
+Kaspars:
+  gender_flag: 2
+  lang:
+  - lv
+Kasper:
+  gender_flag: 2
+  is_equivalent_to:
+  - Caspar
+  lang:
+  - da
+  - fi
+  - 'no'
+  - sv
+Kasperi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Caspar
+  lang:
+  - fi
+Kassandra:
+  gender_flag: 1
+  lang:
+  - en
+  - fo
+  origin:
+  - grc
+Kassidy:
+  gender_flag: 1
+  lang:
+  - en
+Kassie:
+  gender_flag: 1
+  is_short_for:
+  - Kassandra
+  lang:
+  - en
+Kastytis:
+  gender_flag: 2
+  lang:
+  - lt
+Kasumi:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Kasymguly:
+  gender_flag: 2
+  lang:
+  - tk
+Kasım:
+  gender_flag: 2
+  lang:
+  - tr
+Kat:
+  gender_flag: 1
+  lang:
+  - en
+Kata:
+  gender_flag: 1
+  is_short_for:
+  - Katalin
+  - Katarína
+  lang:
+  - fi
+  - hu
+  - sh
+  - sk
+Katalin:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  - Katherine
+  lang:
+  - hu
+Katalina:
+  gender_flag: 1
+  lang:
+  - en
+Katariina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - et
+  - fi
+Katarin:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - br
+Katarina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - de
+  - fo
+  - 'no'
+  - sh
+  - sv
+  origin:
+  - grc
+Katarino:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - eo
+  origin:
+  - grc
+Katarzyna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - pl
+  origin:
+  - grc
+  - la
+Katarína:
+  gender_flag: 1
+  lang:
+  - is
+  - sk
+Katarīna:
+  gender_flag: 1
+  lang:
+  - lv
+  origin:
+  - grc
+Kate:
+  gender_flag: 1
+  is_equivalent_to:
+  - Katie
+  is_short_for:
+  - Katherine
+  lang:
+  - da
+  - en
+  - gv
+  - 'no'
+Katell:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - br
+  - fr
+  origin:
+  - br
+Katellig:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cathy
+  is_short_for:
+  - Katell
+  lang:
+  - br
+Katelyn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Caitlin
+  lang:
+  - en
+  origin:
+  - ga
+Katelynn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Katerina:
+  gender_flag: 1
+  lang:
+  - en
+Katey:
+  gender_flag: 1
+  is_a_variant_of:
+  - Katie
+  is_short_for:
+  - Katherine
+  lang:
+  - en
+Kateřina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - cs
+  origin:
+  - grc
+Kath:
+  gender_flag: 1
+  lang:
+  - en
+Katharina:
+  gender_flag: 1
+  is_a_variant_of:
+  - Katarina
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - da
+  - de
+  - sv
+Katharine:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Katherine:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Katheryn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Kathi:
+  gender_flag: 1
+  lang:
+  - en
+Kathie:
+  gender_flag: 1
+  lang:
+  - en
+Kathleen:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Kathrin:
+  gender_flag: 1
+  is_a_variant_of:
+  - Katrin
+  lang:
+  - de
+Kathrine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Katrine
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - da
+  - 'no'
+Kathryn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Catherine
+  lang:
+  - en
+  origin:
+  - grc
+Kathrynne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Catherine
+  lang:
+  - en
+  origin:
+  - grc
+Kathy:
+  gender_flag: 1
+  is_short_for:
+  - Katherine
+  - Kathleen
+  lang:
+  - en
+Kati:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cathy
+  is_short_for:
+  - Katalin
+  lang:
+  - en
+  - et
+  - fi
+  - hu
+Katia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Katya
+  is_equivalent_to:
+  - Katya
+  lang:
+  - en
+  - fr
+  origin:
+  - ru
+Katica:
+  gender_flag: 1
+  is_short_for:
+  - Katalin
+  lang:
+  - hu
+  - sh
+Katie:
+  gender_flag: 1
+  is_short_for:
+  - Catherine
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Katinka:
+  gender_flag: 1
+  lang:
+  - hu
+Katja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Katya
+  lang:
+  - da
+  - de
+  - fi
+  - fo
+  - izh
+  - sl
+  - sv
+Katka:
+  gender_flag: 1
+  is_short_for:
+  - Kateřina
+  lang:
+  - cs
+Katla:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+  - nn
+Katleen:
+  gender_flag: 1
+  is_equivalent_to:
+  - Kathleen
+  lang:
+  - gv
+  origin:
+  - grc
+Katni:
+  gender_flag: 1
+  is_equivalent_to:
+  - Kathy
+  lang:
+  - pot
+Katou:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cathy
+  is_short_for:
+  - Katell
+  lang:
+  - br
+Katre:
+  gender_flag: 1
+  lang:
+  - et
+Katri:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Katriese:
+  gender_flag: 1
+  lang:
+  - en
+Katriin:
+  gender_flag: 1
+  lang:
+  - et
+Katriina:
+  gender_flag: 1
+  is_a_variant_of:
+  - Katariina
+  lang:
+  - fi
+  origin:
+  - grc
+Katrin:
+  gender_flag: 1
+  is_short_for:
+  - Katharina
+  lang:
+  - de
+  - et
+  - fo
+  - sv
+Katrina:
+  gender_flag: 1
+  lang:
+  - en
+  - fo
+  - sv
+  origin:
+  - grc
+Katrine:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - da
+  - en
+  - 'no'
+  origin:
+  - grc
+Katrinka:
+  gender_flag: 1
+  lang:
+  - en
+Katroin:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - cim
+  origin:
+  - grc
+Katrín:
+  gender_flag: 1
+  is_equivalent_to:
+  - Catherine
+  lang:
+  - is
+Katrīna:
+  gender_flag: 1
+  lang:
+  - lv
+  origin:
+  - grc
+Katsumi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Katsura:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - ja
+Katta:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kattak:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kattaliit:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Katty:
+  gender_flag: 1
+  lang:
+  - en
+Katus:
+  gender_flag: 1
+  is_short_for:
+  - Katalin
+  lang:
+  - hu
+Katuška:
+  gender_flag: 1
+  is_short_for:
+  - Káťa
+  lang:
+  - cs
+Katy:
+  gender_flag: 1
+  is_a_variant_of:
+  - Katie
+  is_short_for:
+  - Katherine
+  lang:
+  - en
+Katya:
+  gender_flag: 1
+  is_equivalent_to:
+  - Kate
+  lang:
+  - en
+  - pt
+  origin:
+  - ru
+Katyusha:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - ru
+Kató:
+  gender_flag: 1
+  is_short_for:
+  - Katalin
+  lang:
+  - hu
+Kauan:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Kauane:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Kauhi:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kauko:
+  gender_flag: 2
+  lang:
+  - fi
+Kaukomieli:
+  gender_flag: 2
+  lang:
+  - fi
+Kaulana:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kauno:
+  gender_flag: 2
+  lang:
+  - fi
+Kaupo:
+  gender_flag: 2
+  lang:
+  - et
+Kauppi:
+  gender_flag: 2
+  lang:
+  - fi
+Kaur:
+  gender_flag: 2
+  lang:
+  - et
+Kauri:
+  gender_flag: 2
+  lang:
+  - et
+Kausalya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Kauã:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Kauê:
+  gender_flag: 2
+  lang:
+  - pt
+Kauʻi:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kauʻilani:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kavan:
+  gender_flag: 2
+  lang:
+  - br
+Kawa:
+  gender_flag: 2
+  lang:
+  - kmr
+Kawai:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kawailani:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kawan:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Kawany:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Kawehi:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kawelo:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kawena:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kawu:
+  gender_flag: 2
+  lang:
+  - ha
+Kay:
+  gender_flag: 7
+  is_a_variant_of:
+  - Kai
+  lang:
+  - de
+  - en
+  - tr
+  origin:
+  - cy
+Kaya:
+  gender_flag: 2
+  lang:
+  - tr
+Kaycee:
+  gender_flag: 1
+  is_a_variant_of:
+  - Casey
+  lang:
+  - en
+Kaycie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Casey
+  lang:
+  - en
+Kayde:
+  gender_flag: 2
+  lang:
+  - en
+Kayden:
+  gender_flag: 7
+  is_a_variant_of:
+  - Caden
+  lang:
+  - en
+Kaydence:
+  gender_flag: 1
+  lang:
+  - en
+Kaye:
+  gender_flag: 7
+  is_a_variant_of:
+  - Kay
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Kayla:
+  gender_flag: 1
+  lang:
+  - en
+Kaylee:
+  gender_flag: 1
+  lang:
+  - en
+Kayleigh:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kaylee
+  lang:
+  - en
+Kayley:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kaylee
+  lang:
+  - en
+Kaylie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kaylee
+  lang:
+  - en
+Kaylin:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kaylyn
+  lang:
+  - en
+Kayll:
+  gender_flag: 2
+  lang:
+  - en
+Kaylyn:
+  gender_flag: 1
+  lang:
+  - en
+Kaylynn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kaylyn
+  lang:
+  - en
+Kayoko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Kaysen:
+  gender_flag: 2
+  lang:
+  - en
+Kayson:
+  gender_flag: 2
+  lang:
+  - en
+Kayın:
+  gender_flag: 2
+  lang:
+  - tr
+Kazak:
+  gender_flag: 2
+  lang:
+  - tr
+Kazik:
+  gender_flag: 2
+  is_short_for:
+  - Kazimierz
+  lang:
+  - pl
+Kazimiera:
+  gender_flag: 1
+  lang:
+  - lt
+  - pl
+Kazimieras:
+  gender_flag: 2
+  is_equivalent_to:
+  - Casimir
+  lang:
+  - lt
+Kazimierz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Casimir
+  lang:
+  - pl
+Kazimir:
+  gender_flag: 2
+  is_equivalent_to:
+  - Casimir
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Kazimirs:
+  gender_flag: 2
+  lang:
+  - lv
+Kazimír:
+  gender_flag: 2
+  is_equivalent_to:
+  - Casimir
+  lang:
+  - cs
+  - sk
+Kazislav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Kazue:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Kazuhisa:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Kazuki:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ja
+Kazuko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - pt
+  origin:
+  - ja
+Kazumasa:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Kazumi:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ja
+Kazuo:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Kazuomi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Kazuyoshi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Kazys:
+  gender_flag: 2
+  lang:
+  - lt
+Kaíke:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Kaíque:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Kaðlín:
+  gender_flag: 1
+  lang:
+  - is
+  origin:
+  - mga
+Kaĉjo:
+  gender_flag: 2
+  is_short_for:
+  - Karlo
+  lang:
+  - eo
+Kača:
+  gender_flag: 1
+  is_short_for:
+  - Katarína
+  lang:
+  - sk
+Kačena:
+  gender_flag: 1
+  is_short_for:
+  - Káča
+  lang:
+  - cs
+Kačenka:
+  gender_flag: 1
+  is_short_for:
+  - Káča
+  lang:
+  - cs
+Kačka:
+  gender_flag: 1
+  is_short_for:
+  - Káča
+  lang:
+  - cs
+Kağan:
+  gender_flag: 2
+  lang:
+  - tr
+Kaśka:
+  gender_flag: 1
+  is_short_for:
+  - Katarzyna
+  lang:
+  - pl
+Kašpar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Caspar
+  - Jasper
+  lang:
+  - cs
+Kaʻanāʻanā:
+  gender_flag: 3
+  lang:
+  - haw
+Kaʻaukai:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kaʻehu:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kaʻena:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kaʻili:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kaʻimi:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kaʻiulani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kaʻohu:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kaʻuhane:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Ke:
+  gender_flag: 2
+  lang:
+  - br
+Keagan:
+  gender_flag: 2
+  lang:
+  - en
+Keahi:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Keaka:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - en
+  - haw
+Keala:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kealalaina:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Kealani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kealiʻi:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kealoha:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kealy:
+  gender_flag: 7
+  lang:
+  - en
+Keanu:
+  gender_flag: 7
+  lang:
+  - en
+  - haw
+  origin:
+  - haw
+Keao:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Keara:
+  gender_flag: 1
+  is_a_variant_of:
+  - Keira
+  lang:
+  - en
+  origin:
+  - ga
+Kearney:
+  gender_flag: 2
+  lang:
+  - en
+Keavy:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Keawe:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kebehi:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - gnc
+Keegan:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - kln
+Keeley:
+  gender_flag: 7
+  lang:
+  - en
+Keelin:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Keely:
+  gender_flag: 1
+  lang:
+  - en
+Keenan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Keerdo:
+  gender_flag: 2
+  lang:
+  - et
+Keerthi:
+  gender_flag: 1
+  lang:
+  - en
+Kees:
+  gender_flag: 2
+  lang:
+  - nl
+Keesha:
+  gender_flag: 1
+  lang:
+  - en
+Kei:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ja
+Keiji:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Keijo:
+  gender_flag: 2
+  lang:
+  - fi
+Keikilani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Keiko:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - fr
+  - pt
+  - tl
+  origin:
+  - ja
+Keir:
+  gender_flag: 2
+  lang:
+  - en
+Keira:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Keiran:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ga
+Keisha:
+  gender_flag: 1
+  lang:
+  - en
+Keita:
+  gender_flag: 1
+  lang:
+  - lv
+Keith:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - cel
+  - en
+Keiu:
+  gender_flag: 1
+  lang:
+  - et
+Kekoa:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kel:
+  gender_flag: 2
+  is_short_for:
+  - Shkëlzen
+  lang:
+  - sq
+Keld:
+  gender_flag: 2
+  lang:
+  - da
+Keleka:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Kelekia:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Kelekolio:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Kelemen:
+  gender_flag: 2
+  lang:
+  - hu
+Keli:
+  gender_flag: 2
+  is_short_for:
+  - Hrafnkell
+  - Þorkell
+  lang:
+  - is
+Keliʻi:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kellan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Kellen:
+  gender_flag: 2
+  lang:
+  - en
+Kelley:
+  gender_flag: 7
+  lang:
+  - en
+Kelli:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kelly
+  lang:
+  - en
+  - et
+Kellianne:
+  gender_flag: 1
+  lang:
+  - en
+Kellie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kelly
+  lang:
+  - en
+Kelly:
+  gender_flag: 7
+  lang:
+  - en
+  - nl
+Kellyanne:
+  gender_flag: 1
+  lang:
+  - en
+Kels:
+  gender_flag: 1
+  is_short_for:
+  - Kelsey
+  lang:
+  - en
+Kelsea:
+  gender_flag: 1
+  lang:
+  - en
+Kelsey:
+  gender_flag: 7
+  lang:
+  - en
+Kelupaina:
+  gender_flag: 1
+  lang:
+  - haw
+Kelvin:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - ang
+  - en
+Kemal:
+  gender_flag: 2
+  lang:
+  - en
+  - tr
+  origin:
+  - ar
+Kemar:
+  gender_flag: 2
+  lang:
+  - en
+Ken:
+  gender_flag: 2
+  is_short_for:
+  - Kenneth
+  lang:
+  - da
+  - en
+  - et
+  - 'no'
+Kenan:
+  gender_flag: 2
+  lang:
+  - en
+  - tr
+  origin:
+  - ar
+Kendal:
+  gender_flag: 7
+  lang:
+  - en
+Kendall:
+  gender_flag: 7
+  lang:
+  - en
+Kendra:
+  gender_flag: 1
+  lang:
+  - en
+Kenichi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Kenji:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+  - tl
+  origin:
+  - ja
+Kenken:
+  gender_flag: 2
+  lang:
+  - ceb
+Kenley:
+  gender_flag: 1
+  lang:
+  - en
+Kenna:
+  gender_flag: 1
+  lang:
+  - en
+Kennard:
+  gender_flag: 2
+  lang:
+  - en
+Kennedi:
+  gender_flag: 1
+  lang:
+  - en
+Kennedy:
+  gender_flag: 7
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - ga
+Kennet:
+  gender_flag: 2
+  lang:
+  - sv
+Kenneth:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - en
+  - 'no'
+  - sv
+  origin:
+  - cel
+  - en
+Kenniagh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Kenneth
+  lang:
+  - gv
+Kennie:
+  gender_flag: 6
+  lang:
+  - en
+Kenny:
+  gender_flag: 2
+  is_short_for:
+  - Kenneth
+  lang:
+  - en
+  - sv
+Kenot:
+  gender_flag: 2
+  lang:
+  - ceb
+Kenshin:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - ja
+Kensley:
+  gender_flag: 1
+  lang:
+  - en
+Kent:
+  gender_flag: 2
+  lang:
+  - da
+  - en
+  - 'no'
+  - sv
+  origin:
+  - en
+Kenta:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Kenth:
+  gender_flag: 2
+  lang:
+  - sv
+Kenton:
+  gender_flag: 2
+  lang:
+  - en
+Kentoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Kenzie:
+  gender_flag: 3
+  lang:
+  - en
+Kenzo:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  - nl
+  - tl
+  origin:
+  - ja
+Keoki:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Keola:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Keona:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Keonaona:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Keone:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Keoni:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Kepa:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - eu
+Kepano:
+  gender_flag: 2
+  lang:
+  - haw
+Kepola:
+  gender_flag: 1
+  lang:
+  - haw
+Kercapiśke:
+  lang:
+  - txb
+Kercäpey:
+  lang:
+  - txb
+Kerdipole:
+  lang:
+  - txb
+Kerem:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Kerentsile:
+  lang:
+  - txb
+Kereptaññe:
+  lang:
+  - txb
+Keri:
+  gender_flag: 7
+  is_a_variant_of:
+  - Kerry
+  lang:
+  - en
+Kerim:
+  gender_flag: 2
+  lang:
+  - tr
+Kerkko:
+  gender_flag: 2
+  lang:
+  - fi
+Kerli:
+  gender_flag: 1
+  lang:
+  - et
+Kermit:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gv
+Kermo:
+  gender_flag: 2
+  lang:
+  - et
+Kerri:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kerry
+  lang:
+  - en
+Kerrie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kerry
+  lang:
+  - en
+Kerrien:
+  gender_flag: 2
+  lang:
+  - br
+Kerrigan:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Kerry:
+  gender_flag: 7
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Kersti:
+  gender_flag: 1
+  lang:
+  - et
+Kerstin:
+  gender_flag: 1
+  lang:
+  - de
+  - et
+  - sv
+Kert:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gerard
+  lang:
+  - et
+Kerttu:
+  gender_flag: 1
+  lang:
+  - fi
+Kertu:
+  gender_flag: 1
+  lang:
+  - et
+Kester:
+  gender_flag: 2
+  is_short_for:
+  - Christopher
+  lang:
+  - en
+Ketanji:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - hi
+Ketil:
+  gender_flag: 2
+  is_a_variant_of:
+  - Kjetil
+  lang:
+  - fo
+  - 'no'
+Ketill:
+  gender_flag: 2
+  lang:
+  - is
+Keto:
+  gender_flag: 7
+  lang:
+  - de
+Ketty:
+  gender_flag: 1
+  lang:
+  - da
+Ketut:
+  gender_flag: 2
+  lang:
+  - id
+Kev:
+  gender_flag: 2
+  is_short_for:
+  - Kevin
+  lang:
+  - en
+Kevan:
+  gender_flag: 2
+  is_a_variant_of:
+  - Kevin
+  lang:
+  - en
+  origin:
+  - ga
+Kevaughn:
+  gender_flag: 2
+  lang:
+  - en
+Keveen:
+  gender_flag: 2
+  is_equivalent_to:
+  - Kevin
+  lang:
+  - gv
+Kevin:
+  gender_flag: 2
+  lang:
+  - br
+  - ceb
+  - da
+  - de
+  - en
+  - es
+  - et
+  - fr
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - en
+  - ga
+Kevine:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - en
+Kevon:
+  gender_flag: 2
+  lang:
+  - en
+Kevser:
+  gender_flag: 1
+  lang:
+  - tr
+Kevvy:
+  gender_flag: 2
+  is_short_for:
+  - Kevin
+  lang:
+  - en
+Kevyn:
+  gender_flag: 2
+  is_a_variant_of:
+  - Kevin
+  lang:
+  - en
+  origin:
+  - ga
+Keyla:
+  gender_flag: 1
+  lang:
+  - en
+Keyonna:
+  gender_flag: 1
+  lang:
+  - en
+Kez:
+  gender_flag: 1
+  is_short_for:
+  - Kerry
+  lang:
+  - en
+Kezia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Keziah:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kezia
+  lang:
+  - en
+  origin:
+  - he
+Kezza:
+  gender_flag: 1
+  is_short_for:
+  - Kerry
+  lang:
+  - en
+Keō:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+  - haw
+Keʻala:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Keʻalohilani:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Khadija:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Khairunnisa:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - ar
+Khaled:
+  gender_flag: 2
+  lang:
+  - en
+Khaleesi:
+  gender_flag: 1
+  lang:
+  - en
+Khalessi:
+  gender_flag: 1
+  is_a_variant_of:
+  - Khaleesi
+  lang:
+  - en
+Khalid:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Khalil:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Khamba:
+  gender_flag: 2
+  lang:
+  - en
+Khamlangba:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Khamnung Kikoi Louonbi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mni
+Khan:
+  gender_flag: 2
+  lang:
+  - en
+Khang:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Khloe:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Khloé:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Khoa:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Khoriphaba:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Khosrow:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - fa
+Khuman Pokpa:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Khunu Leima:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mni
+Khánh:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Khải:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Kia:
+  gender_flag: 1
+  is_short_for:
+  - Christina
+  - Kristina
+  lang:
+  - en
+  - sv
+Kial:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cecilia
+  lang:
+  - gv
+Kian:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Kiana:
+  gender_flag: 1
+  lang:
+  - en
+  - haw
+  origin:
+  - haw
+Kiara:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ciara
+  - Keira
+  lang:
+  - en
+  origin:
+  - ga
+Kicki:
+  gender_flag: 1
+  is_short_for:
+  - Kristina
+  lang:
+  - sv
+Kickle:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cecilia
+  lang:
+  - gv
+Kiddi:
+  gender_flag: 2
+  is_short_for:
+  - Kristján
+  lang:
+  - is
+Kiele:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kielo:
+  gender_flag: 1
+  lang:
+  - fi
+Kiera:
+  gender_flag: 1
+  is_a_variant_of:
+  - Keira
+  - Kira
+  lang:
+  - en
+  origin:
+  - cel
+  - fa
+Kieran:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ga
+Kieron:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Kii:
+  gender_flag: 2
+  lang:
+  - nv
+Kiia:
+  gender_flag: 3
+  lang:
+  - fi
+Kiira:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kira
+  - Kyra
+  lang:
+  - et
+  - fi
+Kiiri:
+  gender_flag: 1
+  lang:
+  - et
+Kiista:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kiistat:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kiistiina:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kiiu:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kike:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hal
+  - Hank
+  - Harry
+  is_short_for:
+  - Enrique
+  lang:
+  - es
+Kiki:
+  gender_flag: 1
+  lang:
+  - en
+Kikilia:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Kiking:
+  gender_flag: 3
+  lang:
+  - ceb
+Kikivik:
+  gender_flag: 2
+  lang:
+  - kl
+Kikkik:
+  gender_flag: 2
+  lang:
+  - kl
+Kiko:
+  gender_flag: 3
+  is_short_for:
+  - Federico
+  - Francis
+  - Francisco
+  lang:
+  - en
+  - es
+  - tl
+  origin:
+  - ja
+Kikuko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - ja
+Kila:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kiley:
+  gender_flag: 7
+  lang:
+  - en
+Kilia:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Kilian:
+  gender_flag: 2
+  is_a_variant_of:
+  - Killian
+  lang:
+  - de
+  - en
+  origin:
+  - ga
+Kilikina:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Kiljan:
+  gender_flag: 2
+  lang:
+  - is
+Killian:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Kim:
+  gender_flag: 7
+  is_short_for:
+  - Joachim
+  lang:
+  - da
+  - de
+  - en
+  - nl
+  - 'no'
+  - sv
+  - vi
+  origin:
+  - en
+  - he
+  - zh
+Kimball:
+  gender_flag: 2
+  lang:
+  - en
+Kimber:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ang
+Kimberley:
+  gender_flag: 7
+  is_a_variant_of:
+  - Kimberly
+  lang:
+  - en
+Kimberly:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Kimet: {}
+Kimi:
+  gender_flag: 3
+  is_a_variant_of:
+  - Kimmy
+  is_short_for:
+  - Kimberley
+  lang:
+  - en
+  - fi
+Kimie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Kimiya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fa
+Kimmernaq:
+  gender_flag: 1
+  lang:
+  - kl
+Kimmie:
+  gender_flag: 1
+  is_short_for:
+  - Kimberley
+  - Kimberly
+  lang:
+  - en
+Kimmo:
+  gender_flag: 2
+  lang:
+  - fi
+Kimmy:
+  gender_flag: 1
+  is_short_for:
+  - Kimberley
+  - Kimberly
+  lang:
+  - en
+Kimo:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Kimokeo:
+  gender_flag: 2
+  lang:
+  - haw
+Kimona:
+  gender_flag: 2
+  lang:
+  - haw
+Kimora:
+  gender_flag: 1
+  lang:
+  - en
+Kimothy:
+  gender_flag: 7
+  lang:
+  - en
+Kimya:
+  gender_flag: 1
+  lang:
+  - en
+Kimña:
+  lang:
+  - txb
+Kina:
+  gender_flag: 1
+  is_short_for:
+  - Joaquina
+  lang:
+  - ceb
+  - haw
+Kinaðr:
+  gender_flag: 2
+  lang:
+  - non
+Kindred:
+  gender_flag: 2
+  lang:
+  - ceb
+Kine:
+  gender_flag: 1
+  lang:
+  - 'no'
+King:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - en
+Kinga:
+  gender_flag: 1
+  lang:
+  - pl
+Kingsley:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - en
+Kini:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - en
+  - haw
+Kinley:
+  gender_flag: 1
+  lang:
+  - en
+Kinnie:
+  gender_flag: 2
+  lang:
+  - en
+Kinslee:
+  gender_flag: 1
+  lang:
+  - en
+Kinsley:
+  gender_flag: 1
+  lang:
+  - en
+Kintija:
+  gender_flag: 1
+  lang:
+  - lv
+Kinzie:
+  gender_flag: 3
+  is_a_variant_of:
+  - Kenzie
+  lang:
+  - en
+Kip:
+  gender_flag: 2
+  is_short_for:
+  - Kipling
+  lang:
+  - en
+Kipling:
+  gender_flag: 2
+  lang:
+  - en
+Kipola:
+  gender_flag: 1
+  lang:
+  - haw
+Kippā:
+  lang:
+  - txb
+Kira:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fa
+  - ga
+Kiran:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - sa
+Kirby:
+  gender_flag: 7
+  lang:
+  - en
+Kirila:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cyril
+  lang:
+  - izh
+Kirill: {}
+Kirils:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - ru
+Kirk:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Kirke:
+  gender_flag: 1
+  lang:
+  - et
+Kirree:
+  gender_flag: 1
+  is_equivalent_to:
+  - Kate
+  - Katie
+  - Kitty
+  lang:
+  - gv
+Kirry:
+  gender_flag: 1
+  is_equivalent_to:
+  - Kate
+  - Katie
+  - Kitty
+  lang:
+  - gv
+Kirsi:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Kirsi-Marja:
+  gender_flag: 1
+  lang:
+  - fi
+Kirsikka:
+  gender_flag: 1
+  lang:
+  - fi
+Kirste:
+  gender_flag: 1
+  lang:
+  - se
+Kirsteen:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Kirsten:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kristine
+  lang:
+  - da
+  - de
+  - en
+  - 'no'
+  origin:
+  - da
+  - grc
+  - 'no'
+Kirsti:
+  gender_flag: 1
+  lang:
+  - fi
+  - 'no'
+Kirstie:
+  gender_flag: 1
+  lang:
+  - en
+Kirstin:
+  gender_flag: 1
+  lang:
+  - en
+  - fo
+Kirstine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Christine
+  lang:
+  - da
+Kirsty:
+  gender_flag: 1
+  lang:
+  - en
+Kirstyn:
+  gender_flag: 1
+  lang:
+  - en
+Kirti:
+  gender_flag: 1
+  lang:
+  - en
+Kiryl: {}
+Kishore:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Kisses:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - ceb
+Kista:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kit:
+  gender_flag: 3
+  is_short_for:
+  - Christopher
+  - Katherine
+  lang:
+  - en
+Kitija:
+  gender_flag: 1
+  lang:
+  - lv
+Kito:
+  gender_flag: 2
+  lang:
+  - dsb
+Kitoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Kittipong: {}
+Kitty:
+  gender_flag: 1
+  lang:
+  - en
+Kitura:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kiyoko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - ja
+Kiyomi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Kiyoshi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Kizzie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kizzy
+  lang:
+  - en
+  origin:
+  - he
+Kizzy:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Kiên:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Kiêu:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Kiếm:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Kiều:
+  gender_flag: 3
+  lang:
+  - vi
+  origin:
+  - zh
+Kiệt:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Kjallakur:
+  gender_flag: 2
+  lang:
+  - is
+Kjaran:
+  gender_flag: 2
+  lang:
+  - is
+  - non
+  origin:
+  - sga
+Kjartan:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+  - 'no'
+  origin:
+  - is
+  - sga
+Kjartanía:
+  gender_flag: 1
+  lang:
+  - is
+Kjeld:
+  gender_flag: 2
+  is_a_variant_of:
+  - Keld
+  lang:
+  - da
+Kjell:
+  gender_flag: 2
+  lang:
+  - 'no'
+  - sv
+Kjellaug:
+  gender_flag: 1
+  lang:
+  - 'no'
+Kjersti:
+  gender_flag: 1
+  lang:
+  - 'no'
+Kjerstin:
+  gender_flag: 1
+  lang:
+  - 'no'
+Kjetil:
+  gender_flag: 2
+  lang:
+  - 'no'
+Klaara:
+  gender_flag: 1
+  lang:
+  - fi
+Klaas:
+  gender_flag: 2
+  lang:
+  - nl
+Klara:
+  gender_flag: 1
+  is_a_variant_of:
+  - Clara
+  is_equivalent_to:
+  - Clara
+  lang:
+  - da
+  - de
+  - fo
+  - is
+  - 'no'
+  - pl
+  - sv
+Klas:
+  gender_flag: 2
+  lang:
+  - sv
+Klaudia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Claudia
+  lang:
+  - et
+  - pl
+  - sk
+Klaudie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Claudia
+  lang:
+  - cs
+Klaudija:
+  gender_flag: 1
+  lang:
+  - lv
+Klaudijus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Claudius
+  lang:
+  - lt
+Klaudiusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Claudius
+  lang:
+  - pl
+Klaus:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  - fi
+  origin:
+  - grc
+Klavdija:
+  gender_flag: 1
+  lang:
+  - sl
+  origin:
+  - ru
+Klaŭdio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Claude
+  - Claudius
+  lang:
+  - eo
+  origin:
+  - la
+Klemens:
+  gender_flag: 2
+  is_equivalent_to:
+  - Clement
+  lang:
+  - de
+  - is
+Klement:
+  gender_flag: 2
+  is_equivalent_to:
+  - Clement
+  lang:
+  - cs
+  - sk
+  origin:
+  - la
+Klementina:
+  gender_flag: 1
+  lang:
+  - hu
+Klementyn:
+  gender_flag: 2
+  lang:
+  - pl
+Klementyna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Clementine
+  lang:
+  - pl
+Klementína:
+  gender_flag: 1
+  lang:
+  - is
+Klemetti:
+  gender_flag: 2
+  lang:
+  - fi
+Kleofas:
+  gender_flag: 2
+  lang:
+  - pl
+Kleopatra:
+  gender_flag: 1
+  lang:
+  - fi
+Kleopátra:
+  gender_flag: 1
+  lang:
+  - hu
+Klervi:
+  gender_flag: 1
+  lang:
+  - br
+Klervia:
+  gender_flag: 1
+  lang:
+  - br
+Klinger:
+  gender_flag: 2
+  lang:
+  - pt
+Klonimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Klotylda:
+  gender_flag: 1
+  is_equivalent_to:
+  - Clotilde
+  lang:
+  - pl
+Klára:
+  gender_flag: 1
+  is_equivalent_to:
+  - Clara
+  - Clare
+  lang:
+  - cs
+  - fo
+  - hu
+  - sk
+Klárinka:
+  gender_flag: 1
+  is_short_for:
+  - Klára
+  lang:
+  - cs
+Klárka:
+  gender_flag: 1
+  is_short_for:
+  - Klára
+  lang:
+  - cs
+  - sk
+Kláus:
+  gender_flag: 2
+  lang:
+  - fo
+Klæmint:
+  gender_flag: 2
+  is_equivalent_to:
+  - Clement
+  lang:
+  - fo
+Klængur:
+  gender_flag: 2
+  lang:
+  - is
+Klāvs:
+  gender_flag: 2
+  lang:
+  - lv
+Knox:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - gd
+Knud:
+  gender_flag: 2
+  lang:
+  - da
+Knut:
+  gender_flag: 2
+  lang:
+  - nn
+  - sv
+  origin:
+  - non
+Knute:
+  gender_flag: 2
+  lang:
+  - en
+Knutte:
+  gender_flag: 2
+  is_short_for:
+  - Knut
+  lang:
+  - sv
+Knútr:
+  gender_flag: 2
+  lang:
+  - non
+Knútur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Koa:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kobbi:
+  gender_flag: 2
+  is_short_for:
+  - Jakob
+  lang:
+  - is
+Kobe:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+Koca:
+  gender_flag: 2
+  lang:
+  - tr
+Kocelj:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Kochan:
+  gender_flag: 2
+  lang:
+  - pl
+Koda:
+  gender_flag: 2
+  lang:
+  - en
+Kody:
+  gender_flag: 2
+  lang:
+  - en
+Koen:
+  gender_flag: 2
+  lang:
+  - en
+  - nl
+Koenraad:
+  gender_flag: 2
+  is_equivalent_to:
+  - Conrad
+  lang:
+  - nl
+Kofi:
+  gender_flag: 2
+  lang:
+  - ak
+Kofoworọla:
+  gender_flag: 7
+  lang:
+  - yo
+Koharu:
+  gender_flag: 1
+  lang:
+  - en
+  - pt
+  origin:
+  - ja
+Kohei:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Kohen:
+  gender_flag: 2
+  lang:
+  - en
+Koichi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Koidu:
+  gender_flag: 1
+  lang:
+  - et
+Koit:
+  gender_flag: 2
+  lang:
+  - et
+Koji:
+  gender_flag: 2
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Koko:
+  gender_flag: 2
+  lang:
+  - en
+Kokoy:
+  gender_flag: 2
+  is_short_for:
+  - Francis
+  - Francisco
+  lang:
+  - tl
+Kolas:
+  gender_flag: 2
+  lang:
+  - ceb
+Kolbein:
+  gender_flag: 2
+  lang:
+  - fo
+Kolbeinn:
+  gender_flag: 2
+  lang:
+  - is
+Kolbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+  - 'no'
+Kolbrún:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Kolby:
+  gender_flag: 2
+  lang:
+  - en
+Koldo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Louis
+  lang:
+  - eu
+Kole:
+  gender_flag: 2
+  lang:
+  - en
+Koleka:
+  gender_flag: 1
+  lang:
+  - haw
+Kolfinna:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Kolfinnur:
+  gender_flag: 2
+  lang:
+  - fo
+Kolgrímur:
+  gender_flag: 2
+  lang:
+  - fo
+Koling:
+  gender_flag: 2
+  lang:
+  - ceb
+Kolja:
+  gender_flag: 2
+  is_equivalent_to:
+  - Nick
+  lang:
+  - izh
+Koll:
+  gender_flag: 2
+  is_equivalent_to:
+  - Nick
+  lang:
+  - sq
+Kolmundur:
+  gender_flag: 2
+  lang:
+  - fo
+Kolokea:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+  - haw
+Koloman:
+  gender_flag: 2
+  is_equivalent_to:
+  - Colman
+  lang:
+  - de
+  - sk
+Kolomona:
+  gender_flag: 2
+  lang:
+  - haw
+Kolten:
+  gender_flag: 2
+  lang:
+  - en
+Kolton:
+  gender_flag: 2
+  lang:
+  - en
+Kolumb:
+  gender_flag: 2
+  is_equivalent_to:
+  - Columbus
+  lang:
+  - pl
+  origin:
+  - la
+Kolumban:
+  gender_flag: 2
+  is_equivalent_to:
+  - Coleman
+  lang:
+  - gsw
+  origin:
+  - sga
+Kolviður:
+  gender_flag: 2
+  lang:
+  - is
+Koma:
+  gender_flag: 2
+  lang:
+  - haw
+Konaikke:
+  lang:
+  - txb
+Konan:
+  gender_flag: 2
+  lang:
+  - br
+Koneg:
+  gender_flag: 2
+  lang:
+  - br
+Kongal:
+  gender_flag: 2
+  lang:
+  - br
+Konkordie:
+  gender_flag: 1
+  lang:
+  - da
+Konkordía:
+  gender_flag: 1
+  lang:
+  - is
+Konmaikaṅkauśke:
+  lang:
+  - txb
+Konner:
+  gender_flag: 2
+  lang:
+  - en
+Konnor:
+  gender_flag: 2
+  lang:
+  - en
+Konný:
+  gender_flag: 1
+  lang:
+  - is
+Konogan:
+  gender_flag: 2
+  lang:
+  - br
+Konrad:
+  gender_flag: 2
+  is_equivalent_to:
+  - Conrad
+  lang:
+  - de
+  - et
+  - fi
+  - fo
+  - pl
+  - sv
+Konrád:
+  gender_flag: 2
+  is_equivalent_to:
+  - Conrad
+  lang:
+  - hu
+Konráð:
+  gender_flag: 2
+  is_equivalent_to:
+  - Conrad
+  lang:
+  - is
+Konráðína:
+  gender_flag: 1
+  lang:
+  - is
+Konsta:
+  gender_flag: 2
+  lang:
+  - fi
+Konstadina: {}
+Konstadinos: {}
+Konstancija:
+  gender_flag: 1
+  is_equivalent_to:
+  - Constance
+  lang:
+  - lt
+Konstancja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Constance
+  lang:
+  - pl
+Konstantin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Constantine
+  lang:
+  - cs
+  - da
+  - de
+  - et
+  - fi
+  - sv
+  origin:
+  - la
+Konstantina: {}
+Konstantinas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Constantine
+  lang:
+  - lt
+Konstantinos: {}
+Konstantinus:
+  gender_flag: 2
+  lang:
+  - fi
+Konstanty:
+  gender_flag: 2
+  is_equivalent_to:
+  - Constantine
+  lang:
+  - pl
+Konstantyn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Constantine
+  lang:
+  - pl
+Konstantīns:
+  gender_flag: 2
+  lang:
+  - lv
+Konstanze:
+  gender_flag: 1
+  is_equivalent_to:
+  - Constance
+  lang:
+  - de
+Konthoujam Tampha Lairembi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mni
+Konvael:
+  gender_flag: 2
+  lang:
+  - br
+Konvoion:
+  gender_flag: 2
+  lang:
+  - br
+Konwal:
+  gender_flag: 2
+  lang:
+  - br
+Konya:
+  gender_flag: 1
+  lang:
+  - en
+Konštantín:
+  gender_flag: 2
+  is_equivalent_to:
+  - Constantine
+  lang:
+  - sk
+Koos:
+  gender_flag: 2
+  lang:
+  - af
+Kopaea:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Koppesale:
+  lang:
+  - txb
+Kor:
+  gender_flag: 2
+  lang:
+  - tr
+Kora:
+  gender_flag: 1
+  lang:
+  - en
+Koraldur:
+  gender_flag: 2
+  lang:
+  - fo
+Koray:
+  gender_flag: 2
+  lang:
+  - tr
+Korbin:
+  gender_flag: 2
+  lang:
+  - en
+Korcan:
+  gender_flag: 2
+  lang:
+  - tr
+Kore:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Korer:
+  gender_flag: 2
+  lang:
+  - tr
+Korey:
+  gender_flag: 2
+  lang:
+  - en
+Kori:
+  gender_flag: 1
+  lang:
+  - en
+Kormákr:
+  gender_flag: 2
+  lang:
+  - non
+  origin:
+  - sga
+Kormákur:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cormac
+  lang:
+  - is
+  origin:
+  - sga
+Korneel:
+  gender_flag: 2
+  lang:
+  - nl
+Kornel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cornelius
+  lang:
+  - pl
+  - sk
+Kornelia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cornelia
+  lang:
+  - fo
+  - pl
+Kornelio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cornelius
+  lang:
+  - eo
+  origin:
+  - la
+Kornelius:
+  gender_flag: 2
+  lang:
+  - fo
+Korneliusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cornelius
+  lang:
+  - pl
+Kornus:
+  gender_flag: 2
+  lang:
+  - fo
+Kornél:
+  gender_flag: 2
+  lang:
+  - hu
+Kornéli:
+  gender_flag: 2
+  lang:
+  - br
+Kornélia:
+  gender_flag: 1
+  lang:
+  - sk
+Korouhanba:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Kory:
+  gender_flag: 2
+  lang:
+  - en
+Kosie:
+  gender_flag: 2
+  lang:
+  - af
+Kosma:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cosmas
+  lang:
+  - pl
+Kostas:
+  gender_flag: 2
+  lang:
+  - lt
+Kosti:
+  gender_flag: 2
+  lang:
+  - fi
+Kostiantyn: {}
+Kostyantyn: {}
+Kosuke:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Kotile:
+  lang:
+  - txb
+Kotoe:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Kotone:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Kotryna:
+  gender_flag: 1
+  lang:
+  - lt
+Koujeng Leima:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mni
+Koulm:
+  gender_flag: 7
+  lang:
+  - br
+Koulma:
+  gender_flag: 1
+  lang:
+  - br
+Koulman:
+  gender_flag: 2
+  lang:
+  - br
+Koulmenn:
+  gender_flag: 1
+  lang:
+  - br
+Koulmez:
+  gender_flag: 1
+  lang:
+  - br
+Koulmig:
+  gender_flag: 7
+  is_short_for:
+  - Koulm
+  lang:
+  - br
+Kounu:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mni
+Koupalu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Kourtney:
+  gender_flag: 1
+  is_a_variant_of:
+  - Courtney
+  lang:
+  - en
+Koushik:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - bn
+Kozma:
+  gender_flag: 2
+  lang:
+  - hu
+Kozue:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Koç:
+  gender_flag: 2
+  lang:
+  - tr
+Kočäi:
+  gender_flag: 2
+  lang:
+  - wbk
+Kreet:
+  gender_flag: 1
+  lang:
+  - et
+Kreeta:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Kresten:
+  gender_flag: 2
+  is_a_variant_of:
+  - Christian
+  lang:
+  - da
+Krestine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Christine
+  - Kristine
+  lang:
+  - da
+  - 'no'
+Krešimir:
+  gender_flag: 2
+  lang:
+  - sh
+Kris:
+  gender_flag: 3
+  lang:
+  - en
+Krish:
+  gender_flag: 2
+  lang:
+  - en
+Krishna:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Krissie:
+  gender_flag: 1
+  is_short_for:
+  - Kristina
+  lang:
+  - en
+Krissy:
+  gender_flag: 1
+  lang:
+  - en
+Krista:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  - et
+  - fi
+  - fo
+  - is
+  - lv
+  origin:
+  - grc
+Kristafora:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - izh
+Kristafár:
+  gender_flag: 2
+  lang:
+  - fo
+Kristaps:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - grc
+Kristbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Kristel:
+  gender_flag: 1
+  lang:
+  - et
+Kristen:
+  gender_flag: 3
+  is_a_variant_of:
+  - Kristjan
+  lang:
+  - da
+  - en
+  - et
+  origin:
+  - grc
+Kristensa:
+  gender_flag: 1
+  lang:
+  - fo
+Krister:
+  gender_flag: 2
+  is_a_variant_of:
+  - Christer
+  lang:
+  - sv
+Kristers:
+  gender_flag: 2
+  lang:
+  - lv
+Kristfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Kristhild:
+  gender_flag: 1
+  lang:
+  - fo
+Kristi:
+  gender_flag: 1
+  lang:
+  - en
+  - et
+  - 'no'
+Kristian:
+  gender_flag: 2
+  is_a_variant_of:
+  - Christian
+  is_equivalent_to:
+  - Christian
+  lang:
+  - da
+  - et
+  - fi
+  - fo
+  - 'no'
+  - sv
+Kristiana:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kristiane
+  lang:
+  - 'no'
+Kristiane:
+  gender_flag: 1
+  is_equivalent_to:
+  - Christiana
+  lang:
+  - da
+  - 'no'
+Kristianna:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kristiane
+  lang:
+  - fo
+  - 'no'
+Kristianne:
+  gender_flag: 1
+  lang:
+  - 'no'
+Kristie:
+  gender_flag: 1
+  lang:
+  - en
+Kristiina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Christina
+  lang:
+  - et
+  - fi
+Kristijan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christian
+  lang:
+  - sh
+Kristijonas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christian
+  lang:
+  - lt
+Kristin:
+  gender_flag: 3
+  is_a_variant_of:
+  - Christina
+  lang:
+  - de
+  - en
+  - et
+  - fo
+  - 'no'
+  - sv
+  origin:
+  - grc
+Kristina:
+  gender_flag: 1
+  is_a_variant_of:
+  - Christina
+  is_equivalent_to:
+  - Christina
+  lang:
+  - cs
+  - da
+  - en
+  - et
+  - fo
+  - lt
+  - lv
+  - 'no'
+  - sv
+  origin:
+  - grc
+Kristinbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Kristine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Christine
+  lang:
+  - da
+  - en
+  - 'no'
+  origin:
+  - grc
+Kristinn:
+  gender_flag: 2
+  lang:
+  - is
+Kristián:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christian
+  lang:
+  - cs
+  - sk
+  origin:
+  - grc
+Kristiāna:
+  gender_flag: 1
+  lang:
+  - lv
+Kristiāns:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - la
+Kristjan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christian
+  lang:
+  - et
+  - fo
+  origin:
+  - grc
+Kristjana:
+  gender_flag: 1
+  lang:
+  - is
+Kristjanna:
+  gender_flag: 1
+  lang:
+  - fo
+Kristján:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christian
+  lang:
+  - is
+Kristleivur:
+  gender_flag: 2
+  lang:
+  - fo
+Kristmar:
+  gender_flag: 2
+  lang:
+  - fo
+Kristmundur:
+  gender_flag: 2
+  lang:
+  - fo
+Kristo:
+  gender_flag: 2
+  is_short_for:
+  - Kristián
+  lang:
+  - et
+  - fi
+  - sk
+Kristofer:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - et
+  - sv
+Kristoffer:
+  gender_flag: 2
+  is_a_variant_of:
+  - Christoffer
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - da
+  - 'no'
+  - sv
+Kristoffur:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - fo
+Kristoforo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - eo
+  origin:
+  - grc
+Kristopher:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Kristrun:
+  gender_flag: 1
+  lang:
+  - fo
+Kristrós:
+  gender_flag: 1
+  lang:
+  - is
+Kristrún:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Krists:
+  gender_flag: 2
+  lang:
+  - lv
+Kristtór:
+  gender_flag: 2
+  lang:
+  - fo
+Kristupas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - lt
+Kristvar:
+  gender_flag: 2
+  lang:
+  - fo
+Kristvør:
+  gender_flag: 1
+  lang:
+  - fo
+Kristy:
+  gender_flag: 1
+  lang:
+  - en
+Kristyn:
+  gender_flag: 1
+  lang:
+  - en
+Kristín:
+  gender_flag: 1
+  lang:
+  - is
+Kristína:
+  gender_flag: 1
+  is_equivalent_to:
+  - Christina
+  lang:
+  - cs
+  - is
+  - sk
+Kristóf:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - hu
+Kristófer:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - is
+Kristýna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Christina
+  lang:
+  - cs
+Kristýnka:
+  gender_flag: 1
+  is_short_for:
+  - Kristýna
+  lang:
+  - cs
+Kristīna:
+  gender_flag: 1
+  lang:
+  - lv
+Kristīne:
+  gender_flag: 1
+  lang:
+  - lv
+Kriszta:
+  gender_flag: 1
+  is_short_for:
+  - Krisztina
+  lang:
+  - hu
+Kriszti:
+  gender_flag: 3
+  is_short_for:
+  - Krisztina
+  - Krisztián
+  lang:
+  - hu
+Krisztina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Christina
+  lang:
+  - hu
+Krisztián:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christian
+  lang:
+  - hu
+Krit:
+  gender_flag: 2
+  lang:
+  - en
+Krišjānis:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - la
+Krišs:
+  gender_flag: 2
+  lang:
+  - lv
+Krištof:
+  gender_flag: 2
+  lang:
+  - sk
+Krojan:
+  gender_flag: 2
+  lang:
+  - sq
+Krojana:
+  gender_flag: 1
+  lang:
+  - sq
+Krumma:
+  gender_flag: 1
+  lang:
+  - is
+Krummi:
+  gender_flag: 2
+  is_short_for:
+  - Hrafn
+  lang:
+  - is
+Krunislav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Krunoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Krysia:
+  gender_flag: 1
+  is_short_for:
+  - Krystyna
+  lang:
+  - pl
+Kryspin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Crispin
+  lang:
+  - pl
+Kryspina:
+  gender_flag: 1
+  lang:
+  - pl
+Krystal:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Krystian:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christian
+  lang:
+  - pl
+Krystin:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Krystina:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Krystyn:
+  gender_flag: 2
+  lang:
+  - pl
+Krystyna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Christina
+  lang:
+  - pl
+Kryštof:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - cs
+Kryštůfek:
+  gender_flag: 2
+  is_short_for:
+  - Kryštof
+  lang:
+  - cs
+Krzysztof:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - pl
+Krzysztofor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Christopher
+  lang:
+  - pl
+Krzyś:
+  gender_flag: 2
+  is_short_for:
+  - Krzysztof
+  lang:
+  - pl
+Krõõt:
+  gender_flag: 1
+  lang:
+  - et
+Ksawery:
+  gender_flag: 2
+  is_equivalent_to:
+  - Xavier
+  lang:
+  - pl
+Ksenia: {}
+Ksenija:
+  gender_flag: 1
+  lang:
+  - lv
+  origin:
+  - grc
+Kuba:
+  gender_flag: 2
+  is_short_for:
+  - Jakub
+  lang:
+  - cs
+  - pl
+Kubilay:
+  gender_flag: 2
+  lang:
+  - tr
+Kubo:
+  gender_flag: 2
+  is_short_for:
+  - Jakub
+  lang:
+  - sk
+Kubuś:
+  gender_flag: 2
+  is_short_for:
+  - Kuba
+  lang:
+  - pl
+Kubík:
+  gender_flag: 2
+  is_short_for:
+  - Kuba
+  lang:
+  - cs
+Kubíček:
+  gender_flag: 2
+  is_short_for:
+  - Kuba
+  lang:
+  - cs
+Kudret:
+  gender_flag: 3
+  lang:
+  - tr
+  origin:
+  - ar
+Kuilei:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kuisma:
+  gender_flag: 2
+  lang:
+  - fi
+Kujtim:
+  gender_flag: 2
+  lang:
+  - sq
+Kukana:
+  gender_flag: 1
+  lang:
+  - haw
+Kukka:
+  gender_flag: 1
+  lang:
+  - fi
+Kukka-Maaria:
+  gender_flag: 1
+  lang:
+  - fi
+Kulas:
+  gender_flag: 2
+  is_short_for:
+  - Nicolas
+  lang:
+  - ceb
+  - tl
+Kuldar:
+  gender_flag: 2
+  lang:
+  - et
+Kulia:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Kulkera:
+  lang:
+  - txb
+Kullai:
+  lang:
+  - txb
+Kullervo:
+  gender_flag: 2
+  lang:
+  - fi
+Kulot:
+  gender_flag: 3
+  lang:
+  - ceb
+Kuluk:
+  gender_flag: 3
+  lang:
+  - kl
+Kulunnguaq:
+  gender_flag: 1
+  lang:
+  - kl
+Kumar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Kumari:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Kumi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Kumiko:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - fr
+  - pt
+  - tl
+  origin:
+  - ja
+Kumpante:
+  gender_flag: 2
+  lang:
+  - txb
+Kumpānte:
+  gender_flag: 2
+  lang:
+  - txb
+Kumpāntiśke:
+  gender_flag: 2
+  lang:
+  - txb
+Kumārapuṇye:
+  gender_flag: 2
+  lang:
+  - txb
+Kunacaṃttrakau:
+  lang:
+  - txb
+Kunacaṃttre:
+  gender_flag: 2
+  lang:
+  - txb
+Kunegunda:
+  gender_flag: 1
+  lang:
+  - pl
+  origin:
+  - de
+Kuneswiþa:
+  gender_flag: 1
+  lang:
+  - ang
+Kunhambeba:
+  gender_flag: 2
+  lang:
+  - tpw
+Kuni:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - ja
+Kunigunde:
+  gender_flag: 1
+  lang:
+  - de
+Kuniko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - ja
+Kunimitsu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Kuniyo:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Kunle:
+  gender_flag: 2
+  lang:
+  - yo
+Kunnak:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kunnar:
+  gender_flag: 2
+  is_a_variant_of:
+  - Gunnar
+  lang:
+  - et
+Kunnburug:
+  gender_flag: 1
+  lang:
+  - ang
+Kunngu:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kuno:
+  gender_flag: 2
+  lang:
+  - de
+  - et
+Kuntoro:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Kunuk:
+  gender_flag: 2
+  lang:
+  - kl
+Kunuunnguaq:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kunuut:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kunuuti:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kunwal:
+  gender_flag: 2
+  lang:
+  - br
+Kunz:
+  gender_flag: 2
+  is_short_for:
+  - Konrad
+  lang:
+  - de
+Kunût:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kunûte:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kunũnguaĸ:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kurriṅkāte:
+  gender_flag: 2
+  lang:
+  - txb
+Kurt:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  - fo
+  - 'no'
+  - sv
+  - tr
+  origin:
+  - gem
+Kurtis:
+  gender_flag: 2
+  is_a_variant_of:
+  - Curtis
+  lang:
+  - en
+Kushtrim:
+  gender_flag: 2
+  lang:
+  - sq
+Kusta:
+  gender_flag: 2
+  lang:
+  - et
+Kustaa:
+  gender_flag: 2
+  lang:
+  - fi
+Kustaava:
+  gender_flag: 1
+  lang:
+  - fi
+Kustanto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Kustas:
+  gender_flag: 2
+  lang:
+  - et
+Kustav:
+  gender_flag: 2
+  is_a_variant_of:
+  - Gustav
+  lang:
+  - et
+Kustavi:
+  gender_flag: 2
+  lang:
+  - fi
+Kusti:
+  gender_flag: 2
+  lang:
+  - fi
+Kutay:
+  gender_flag: 3
+  lang:
+  - tr
+Kuti:
+  gender_flag: 2
+  lang:
+  - yo
+Kutlu:
+  gender_flag: 2
+  lang:
+  - tr
+Kutsal:
+  gender_flag: 1
+  lang:
+  - tr
+Kuuli:
+  gender_flag: 2
+  is_short_for:
+  - Kolumban
+  lang:
+  - gsw
+Kuuna:
+  gender_flag: 1
+  lang:
+  - kl
+Kuuno:
+  gender_flag: 2
+  lang:
+  - et
+Kuunu:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kuutak:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kuwa:
+  lang:
+  - txb
+Kuzay:
+  gender_flag: 1
+  lang:
+  - tr
+Kuzey:
+  gender_flag: 2
+  lang:
+  - tr
+Kuğu:
+  gender_flag: 1
+  lang:
+  - tr
+Kuʻualoha:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Kuʻuipo:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kuʻulei:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kuʻuleialoha:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kvetoslava:
+  gender_flag: 1
+  lang:
+  - sk
+Kvido:
+  gender_flag: 2
+  is_equivalent_to:
+  - Guy
+  lang:
+  - cs
+Květa:
+  gender_flag: 1
+  lang:
+  - cs
+Květka:
+  gender_flag: 1
+  is_short_for:
+  - Květa
+  lang:
+  - cs
+Květoslav:
+  gender_flag: 2
+  lang:
+  - cs
+Květoslava:
+  gender_flag: 1
+  lang:
+  - cs
+Květuš:
+  gender_flag: 1
+  is_short_for:
+  - Květa
+  lang:
+  - cs
+Květuše:
+  gender_flag: 1
+  lang:
+  - cs
+Květuška:
+  gender_flag: 1
+  is_short_for:
+  - Květa
+  - Květuše
+  lang:
+  - cs
+Kwame:
+  gender_flag: 2
+  lang:
+  - en
+Kwantrell:
+  gender_flag: 2
+  lang:
+  - en
+Kwasi:
+  gender_flag: 2
+  lang:
+  - ak
+  - en
+  origin:
+  - ak
+Kye:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Kyla:
+  gender_flag: 1
+  lang:
+  - en
+Kylah:
+  gender_flag: 1
+  lang:
+  - en
+Kylan:
+  gender_flag: 2
+  lang:
+  - en
+Kyle:
+  gender_flag: 7
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - gd
+Kylee:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kylie
+  lang:
+  - en
+Kyleigh:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kaylee
+  - Kylie
+  lang:
+  - en
+Kylen:
+  gender_flag: 2
+  lang:
+  - en
+Kyler:
+  gender_flag: 3
+  lang:
+  - en
+Kylian:
+  gender_flag: 2
+  lang:
+  - fr
+Kylie:
+  gender_flag: 1
+  lang:
+  - en
+Kylli:
+  gender_flag: 1
+  lang:
+  - fi
+Kyllikki:
+  gender_flag: 1
+  lang:
+  - fi
+Kym:
+  gender_flag: 6
+  is_a_variant_of:
+  - Kim
+  lang:
+  - en
+Kymani:
+  gender_flag: 2
+  lang:
+  - en
+Kymber:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ang
+Kyndall:
+  gender_flag: 1
+  lang:
+  - en
+Kynlee:
+  gender_flag: 1
+  lang:
+  - en
+Kyoko:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Kyra:
+  gender_flag: 1
+  lang:
+  - en
+Kyran:
+  gender_flag: 2
+  is_a_variant_of:
+  - Kieran
+  - Kiran
+  lang:
+  - en
+Kyree:
+  gender_flag: 2
+  lang:
+  - en
+Kyren:
+  gender_flag: 1
+  lang:
+  - en
+Kyriakos: {}
+Kyril:
+  gender_flag: 2
+  is_equivalent_to:
+  - Cyril
+  lang:
+  - gv
+Kyrre:
+  gender_flag: 2
+  lang:
+  - nn
+Kyrri:
+  gender_flag: 2
+  lang:
+  - fo
+Kyrsten:
+  gender_flag: 1
+  is_a_variant_of:
+  - Kirsten
+  lang:
+  - en
+Kyrylo: {}
+Kyson:
+  gender_flag: 2
+  lang:
+  - en
+Kyösti:
+  gender_flag: 2
+  lang:
+  - fi
+Kája:
+  gender_flag: 2
+  is_short_for:
+  - Karel
+  lang:
+  - cs
+Kálmán:
+  gender_flag: 2
+  lang:
+  - hu
+Kálvur:
+  gender_flag: 2
+  lang:
+  - fo
+Kár:
+  gender_flag: 2
+  lang:
+  - is
+Kára:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Káre:
+  gender_flag: 1
+  lang:
+  - se
+Kári:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Károly:
+  gender_flag: 2
+  is_equivalent_to:
+  - Charles
+  lang:
+  - hu
+Kárunn:
+  gender_flag: 1
+  lang:
+  - fo
+Káta:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kátak:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kátalît:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kátia:
+  gender_flag: 1
+  lang:
+  - pt
+Káča:
+  gender_flag: 1
+  is_short_for:
+  - Kateřina
+  lang:
+  - cs
+Káťa:
+  gender_flag: 1
+  is_short_for:
+  - Kateřina
+  lang:
+  - cs
+Kâlat:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kâle:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kâlîna:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kâmil:
+  gender_flag: 2
+  lang:
+  - tr
+Kârale:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kâzım:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Kärt:
+  gender_flag: 1
+  is_equivalent_to:
+  - Gerda
+  - Gertrude
+  lang:
+  - et
+Käte:
+  gender_flag: 1
+  is_short_for:
+  - Katharina
+  lang:
+  - de
+Käthe:
+  gender_flag: 1
+  is_short_for:
+  - Katharina
+  lang:
+  - de
+Kätlin:
+  gender_flag: 1
+  lang:
+  - et
+Käwotsiñe:
+  lang:
+  - txb
+Kåre:
+  gender_flag: 2
+  lang:
+  - 'no'
+Kévin:
+  gender_flag: 2
+  is_a_variant_of:
+  - Kevin
+  lang:
+  - fr
+Kítôra:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kîo:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Kîsta:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kîstat:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kîstîna:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kök:
+  gender_flag: 2
+  lang:
+  - tr
+Körpe:
+  gender_flag: 1
+  lang:
+  - tr
+Kúngo:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kûno:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Kûtak:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Küba:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  - James
+  lang:
+  - wym
+Kübra:
+  gender_flag: 1
+  lang:
+  - tr
+Külli:
+  gender_flag: 1
+  lang:
+  - et
+Küllike:
+  gender_flag: 1
+  lang:
+  - et
+Külliki:
+  gender_flag: 1
+  lang:
+  - et
+Küllo:
+  gender_flag: 2
+  lang:
+  - et
+Kürşat:
+  gender_flag: 2
+  lang:
+  - tr
+Kāne:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kāpena:
+  gender_flag: 3
+  lang:
+  - haw
+Kārlis:
+  gender_flag: 2
+  lang:
+  - lv
+Kāwelu:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kāwika:
+  gender_flag: 2
+  lang:
+  - haw
+Kāś:
+  lang:
+  - txb
+Kēhau:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kēhaulani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Kęstutis:
+  gender_flag: 2
+  lang:
+  - lt
+Kĩmani:
+  gender_flag: 2
+  lang:
+  - ki
+Kılıç:
+  gender_flag: 2
+  lang:
+  - tr
+Kıvanç:
+  gender_flag: 3
+  lang:
+  - tr
+Kızıl:
+  gender_flag: 2
+  lang:
+  - tr
+Kōleka:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Kū:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kūaliʻi:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Kəmal:
+  gender_flag: 2
+  lang:
+  - az
+Kərim:
+  gender_flag: 2
+  lang:
+  - az
+Kẹhinde:
+  gender_flag: 7
+  lang:
+  - yo
+Kẹyinde:
+  gender_flag: 7
+  lang:
+  - yo
+Kọlade:
+  gender_flag: 2
+  lang:
+  - yo
+kmbjṯt:
+  gender_flag: 2
+  lang:
+  - egy
+  origin:
+  - peo
+kꜣkꜣj:
+  lang:
+  - egy
+kꜣštꜣ:
+  gender_flag: 2
+  lang:
+  - egy
+Ƙosau:
+  gender_flag: 2
+  lang:
+  - ha
+Ǩiurrâl:
+  gender_flag: 2
+  lang:
+  - sms

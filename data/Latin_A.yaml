@@ -1,0 +1,17256 @@
+A'ishatu:
+  gender_flag: 1
+  lang:
+  - ha
+A-đôn-phơ: {}
+Aabel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abel
+  lang:
+  - et
+Aabraham:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - et
+  - fi
+Aach:
+  gender_flag: 1
+  lang:
+  - fy
+Aachje:
+  gender_flag: 1
+  lang:
+  - fy
+Aacht:
+  gender_flag: 2
+  lang:
+  - fy
+Aachte:
+  gender_flag: 1
+  lang:
+  - fy
+Aachtsje:
+  gender_flag: 1
+  lang:
+  - fy
+Aad:
+  gender_flag: 7
+  lang:
+  - fy
+  - nl
+Aada:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ada
+  lang:
+  - et
+  - fi
+Aadam:
+  gender_flag: 2
+  lang:
+  - et
+Aade:
+  gender_flag: 1
+  lang:
+  - et
+Aadem:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - hrx
+Aadhya:
+  gender_flag: 1
+  lang:
+  - en
+Aadje:
+  gender_flag: 2
+  lang:
+  - nl
+Aado:
+  gender_flag: 2
+  lang:
+  - et
+Aadolf:
+  gender_flag: 2
+  lang:
+  - fi
+Aadske:
+  gender_flag: 1
+  lang:
+  - fy
+Aadu:
+  gender_flag: 2
+  lang:
+  - et
+Aaf:
+  gender_flag: 1
+  lang:
+  - fy
+Aafia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ur
+Aafje:
+  gender_flag: 1
+  lang:
+  - fy
+  - nl
+Aafk:
+  gender_flag: 1
+  lang:
+  - fy
+Aafke:
+  gender_flag: 1
+  lang:
+  - fy
+Aafkelina:
+  gender_flag: 1
+  lang:
+  - fy
+Aafkje:
+  gender_flag: 1
+  lang:
+  - fy
+Aage:
+  gender_flag: 2
+  lang:
+  - da
+  - is
+  - 'no'
+Aagje:
+  gender_flag: 1
+  lang:
+  - nl
+Aagni:
+  gender_flag: 1
+  lang:
+  - sms
+Aagot:
+  gender_flag: 1
+  lang:
+  - 'no'
+Aagtje:
+  gender_flag: 1
+  lang:
+  - nl
+Aai:
+  gender_flag: 7
+  lang:
+  - fy
+Aaie:
+  gender_flag: 7
+  lang:
+  - fy
+Aaike:
+  gender_flag: 7
+  lang:
+  - fy
+Aaju:
+  gender_flag: 3
+  lang:
+  - kl
+Aajunnguaq:
+  gender_flag: 3
+  lang:
+  - kl
+Aake:
+  gender_flag: 2
+  lang:
+  - fi
+Aakje:
+  gender_flag: 1
+  lang:
+  - fy
+Aalbert:
+  gender_flag: 2
+  is_a_variant_of:
+  - Albert
+  lang:
+  - nl
+Aalbrecht:
+  gender_flag: 2
+  is_a_variant_of:
+  - Albert
+  lang:
+  - nl
+Aalderik:
+  gender_flag: 2
+  lang:
+  - nl
+Aaldert:
+  gender_flag: 2
+  lang:
+  - nl
+Aaldrik:
+  gender_flag: 2
+  lang:
+  - nl
+Aale:
+  gender_flag: 1
+  lang:
+  - et
+Aaliit:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Aalipa:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Aalipak:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Aalis:
+  gender_flag: 1
+  lang:
+  - fro
+Aaliyah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Aallotar:
+  gender_flag: 1
+  lang:
+  - fi
+Aalrik:
+  gender_flag: 2
+  lang:
+  - nl
+Aalut:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aaron
+  lang:
+  - kl
+  origin:
+  - he
+Aamu:
+  gender_flag: 1
+  lang:
+  - fi
+Aanaqatak:
+  lang:
+  - iu
+Aani:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Aanikallak:
+  gender_flag: 1
+  lang:
+  - iu
+Aanya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Aapalaat:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Aapeli:
+  gender_flag: 2
+  lang:
+  - fi
+Aapo:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Aappalaat:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Aappo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Aapo
+  lang:
+  - fi
+Aarah:
+  gender_flag: 1
+  lang:
+  - en
+Aaralyn:
+  gender_flag: 1
+  lang:
+  - en
+Aarav:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Aard:
+  gender_flag: 2
+  is_a_variant_of:
+  - Arnold
+  lang:
+  - nl
+Aardse:
+  gender_flag: 2
+  is_a_variant_of:
+  - Arnold
+  lang:
+  - nl
+Aare:
+  gender_flag: 2
+  lang:
+  - en
+  - et
+  - gsw
+Aaren:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - he
+Aaretti:
+  gender_flag: 2
+  lang:
+  - fi
+Aarinọla:
+  gender_flag: 7
+  lang:
+  - yo
+Aarne:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Aarni:
+  gender_flag: 2
+  lang:
+  - fi
+Aarno:
+  gender_flag: 2
+  lang:
+  - fi
+Aarnout:
+  gender_flag: 2
+  is_equivalent_to:
+  - Arnold
+  lang:
+  - nl
+Aaro:
+  gender_flag: 2
+  lang:
+  - fi
+Aaron:
+  gender_flag: 2
+  lang:
+  - ca
+  - de
+  - en
+  - et
+  - fi
+  - fr
+  origin:
+  - he
+Aarono:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aaron
+  lang:
+  - eo
+  origin:
+  - he
+Aarre:
+  gender_flag: 2
+  lang:
+  - fi
+Aart:
+  gender_flag: 2
+  lang:
+  - nl
+Aarush:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Aaryanna:
+  gender_flag: 1
+  lang:
+  - en
+Aarão:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aaron
+  lang:
+  - pt
+  origin:
+  - he
+Aaró:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aaron
+  lang:
+  - ca
+Aarón:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aaron
+  lang:
+  - es
+  origin:
+  - grc
+  - he
+  - la
+Aasa:
+  gender_flag: 1
+  lang:
+  - et
+Aase:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Aashild:
+  gender_flag: 1
+  lang:
+  - nn
+  - 'no'
+Aat:
+  gender_flag: 2
+  lang:
+  - nl
+Aatami:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - fi
+Aato:
+  gender_flag: 2
+  lang:
+  - fi
+Aatos:
+  gender_flag: 2
+  lang:
+  - fi
+Aatto:
+  gender_flag: 2
+  lang:
+  - fi
+Aatu:
+  gender_flag: 2
+  lang:
+  - fi
+Aava:
+  gender_flag: 1
+  lang:
+  - fi
+Aavo:
+  gender_flag: 2
+  lang:
+  - et
+Aayden:
+  gender_flag: 2
+  lang:
+  - de
+  origin:
+  - ga
+Ab:
+  gender_flag: 2
+  is_short_for:
+  - Abner
+  lang:
+  - en
+  origin:
+  - he
+Aba:
+  gender_flag: 3
+  lang:
+  - hu
+  - tr
+Ababa:
+  gender_flag: 1
+  lang:
+  - es
+  - la
+Abaco:
+  gender_flag: 2
+  lang:
+  - it
+Abaris:
+  gender_flag: 2
+  lang:
+  - la
+Abat:
+  gender_flag: 1
+  lang:
+  - tk
+Abaz:
+  gender_flag: 2
+  lang:
+  - sh
+Abaza:
+  gender_flag: 1
+  lang:
+  - tr
+Abba:
+  gender_flag: 1
+  lang:
+  - osx
+Abbas:
+  gender_flag: 2
+  lang:
+  - az
+  - en
+  - tr
+  origin:
+  - ar
+Abbe:
+  gender_flag: 2
+  is_short_for:
+  - Abraham
+  - Albert
+  - Albin
+  lang:
+  - sv
+Abbey:
+  gender_flag: 7
+  is_short_for:
+  - Abigail
+  - Albert
+  lang:
+  - en
+  origin:
+  - gem
+  - he
+Abbi:
+  gender_flag: 3
+  lang:
+  - en
+  - osx
+Abbie:
+  gender_flag: 1
+  is_short_for:
+  - Abigail
+  lang:
+  - en
+Abbigail:
+  gender_flag: 1
+  lang:
+  - en
+Abbileigh:
+  gender_flag: 1
+  lang:
+  - en
+Abbilin:
+  gender_flag: 2
+  lang:
+  - osx
+Abbo:
+  gender_flag: 2
+  lang:
+  - osx
+Abbondanzio:
+  gender_flag: 2
+  lang:
+  - it
+Abbondazio:
+  gender_flag: 2
+  lang:
+  - it
+Abbondio:
+  gender_flag: 2
+  lang:
+  - it
+Abbott:
+  gender_flag: 2
+  lang:
+  - en
+Abby:
+  gender_flag: 7
+  is_short_for:
+  - Abigail
+  - Albert
+  lang:
+  - en
+  - fr
+  - nl
+  - tl
+  origin:
+  - en
+  - gem
+  - he
+Abbán:
+  gender_flag: 2
+  lang:
+  - sga
+Abcde:
+  gender_flag: 1
+  lang:
+  - en
+Abd Allah: {}
+Abd al-Masih: {}
+Abd-ol-Masih: {}
+Abda:
+  gender_flag: 2
+  lang:
+  - wym
+Abdala:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abdullah
+  lang:
+  - pt
+Abdel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abdul
+  lang:
+  - nl
+  origin:
+  - ar
+Abdenago:
+  gender_flag: 2
+  lang:
+  - it
+Abdi:
+  gender_flag: 2
+  is_a_variant_of:
+  - Abdul
+  lang:
+  - en
+Abdia:
+  gender_flag: 2
+  lang:
+  - it
+Abdiasz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Obadiah
+  lang:
+  - pl
+  origin:
+  - grc
+  - he
+  - la
+Abdiel:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+  origin:
+  - he
+Abdieso:
+  gender_flag: 2
+  lang:
+  - it
+Abdinasir:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Abdoel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abdul
+  lang:
+  - nl
+  origin:
+  - ar
+Abdoella:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abdullah
+  lang:
+  - nl
+  origin:
+  - ar
+Abdollah: {}
+Abdon:
+  gender_flag: 2
+  lang:
+  - cs
+  - en
+  - pl
+  origin:
+  - he
+Abdone:
+  gender_flag: 2
+  lang:
+  - it
+Abdoul:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abdul
+  lang:
+  - fr
+  origin:
+  - ar
+Abdoulaye:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Abdoulla:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abdullah
+  lang:
+  - fr
+  - nl
+  origin:
+  - ar
+Abdul:
+  gender_flag: 2
+  lang:
+  - en
+  - id
+  - ms
+  origin:
+  - ar
+Abdula:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abdullah
+  lang:
+  - pt
+  origin:
+  - ar
+Abdulaziz:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Abdulhamid:
+  gender_flag: 2
+  lang:
+  - ha
+Abdullah:
+  gender_flag: 2
+  lang:
+  - en
+  - ms
+  - tr
+  origin:
+  - ar
+Abdullahi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abdullah
+  lang:
+  - ha
+Abdullatif:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Abdulmalik:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Abdulƙadir:
+  gender_flag: 2
+  lang:
+  - ha
+Abdunnasir:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Abdurrahim:
+  gender_flag: 2
+  lang:
+  - ha
+  - tr
+  origin:
+  - ar
+Abdurrahman:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Abdussalamu:
+  gender_flag: 2
+  lang:
+  - ha
+Abdías:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - he
+Abe:
+  gender_flag: 2
+  is_short_for:
+  - Abraham
+  lang:
+  - ceb
+  - en
+  - nl
+  - sco
+  origin:
+  - en
+  - he
+Abeau:
+  gender_flag: 2
+  is_a_variant_of:
+  - Abel
+  lang:
+  - fr
+Abed:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Abednego:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  origin:
+  - he
+Abeer:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Abel:
+  gender_flag: 2
+  is_short_for:
+  - Abeau
+  - Abelin
+  lang:
+  - en
+  - es
+  - fr
+  - is
+  - la
+  - nl
+  - pt
+  - sh
+  origin:
+  - he
+Abela:
+  gender_flag: 1
+  lang:
+  - is
+Abelard:
+  gender_flag: 2
+  lang:
+  - ca
+  - en
+  origin:
+  - gem
+Abelardo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abelard
+  lang:
+  - ceb
+  - es
+  - pt
+  origin:
+  - es
+Abele:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abel
+  lang:
+  - it
+  origin:
+  - he
+Abelin:
+  gender_flag: 2
+  is_short_for:
+  - Abel
+  lang:
+  - fr
+Abelito:
+  gender_flag: 2
+  is_short_for:
+  - Abel
+  lang:
+  - es
+Abellóna:
+  gender_flag: 1
+  lang:
+  - fo
+Abelone:
+  gender_flag: 1
+  lang:
+  - da
+  - fr
+  - nl
+Abeltje:
+  gender_flag: 2
+  lang:
+  - nl
+Abelus:
+  gender_flag: 2
+  lang:
+  - la
+Abenzio:
+  gender_flag: 2
+  lang:
+  - it
+Abercio:
+  gender_flag: 2
+  lang:
+  - it
+Abet:
+  gender_flag: 3
+  lang:
+  - ceb
+Abey:
+  gender_flag: 2
+  is_short_for:
+  - Abraham
+  lang:
+  - en
+  origin:
+  - he
+Abgar:
+  gender_flag: 2
+  lang:
+  - pt
+Abger:
+  gender_flag: 2
+  lang:
+  - osx
+Abhi:
+  gender_flag: 3
+  lang:
+  - en
+Abhishikt:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Abi:
+  gender_flag: 3
+  is_short_for:
+  - Abigail
+  - Abraham
+  lang:
+  - de
+  - en
+  origin:
+  - he
+Abia:
+  gender_flag: 3
+  lang:
+  - de
+  - it
+  origin:
+  - he
+Abiah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Abiatha:
+  gender_flag: 2
+  lang:
+  - en
+Abibo:
+  gender_flag: 2
+  lang:
+  - it
+Abibone:
+  gender_flag: 2
+  lang:
+  - it
+Abie:
+  gender_flag: 2
+  is_short_for:
+  - Abraham
+  lang:
+  - en
+  origin:
+  - he
+Abienda:
+  gender_flag: 1
+  lang:
+  - en
+Abigael:
+  gender_flag: 1
+  lang:
+  - en
+Abigail:
+  gender_flag: 1
+  lang:
+  - en
+  - pt
+  - tl
+  origin:
+  - en
+  - he
+Abigaille:
+  gender_flag: 1
+  is_a_variant_of:
+  - Abigail
+  lang:
+  - en
+  - it
+Abigale:
+  gender_flag: 1
+  lang:
+  - en
+Abigayle:
+  gender_flag: 1
+  lang:
+  - en
+Abigaíl:
+  gender_flag: 1
+  is_equivalent_to:
+  - Abigail
+  lang:
+  - es
+  origin:
+  - he
+Abigor:
+  gender_flag: 2
+  lang:
+  - en
+Abigél:
+  gender_flag: 1
+  is_equivalent_to:
+  - Abigail
+  lang:
+  - hu
+Abijah:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - he
+Abikẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Abilio:
+  gender_flag: 2
+  lang:
+  - it
+Abimael:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - he
+Abimanyu:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Abimbọla:
+  gender_flag: 7
+  lang:
+  - yo
+Abing:
+  gender_flag: 1
+  lang:
+  - ceb
+Abir:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - bn
+Abiọdun:
+  gender_flag: 7
+  lang:
+  - yo
+Abiọna:
+  gender_flag: 7
+  lang:
+  - yo
+Ablak:
+  gender_flag: 2
+  lang:
+  - tr
+Abner:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - he
+Abo:
+  gender_flag: 2
+  lang:
+  - osx
+Abood:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Abou:
+  gender_flag: 2
+  lang:
+  - fr
+Abraham:
+  gender_flag: 2
+  lang:
+  - ca
+  - ceb
+  - cs
+  - de
+  - ee
+  - en
+  - enm
+  - es
+  - fr
+  - is
+  - la
+  - nl
+  - pl
+  - sv
+  - wa
+  origin:
+  - en
+  - es
+  - grc
+  - he
+  - la
+Abrahamo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - eo
+  origin:
+  - he
+Abrahamus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - la
+Abrahan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - es
+Abrahám:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - cs
+  origin:
+  - he
+Abrahán:
+  gender_flag: 2
+  is_a_variant_of:
+  - Abraham
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - es
+Abram:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  origin:
+  - he
+Abramio:
+  gender_flag: 2
+  lang:
+  - it
+Abramo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - it
+  origin:
+  - he
+Abran:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - frp
+Abraomas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - lt
+Abraão:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - pt
+Abrianna:
+  gender_flag: 1
+  lang:
+  - en
+Abrielle:
+  gender_flag: 1
+  lang:
+  - en
+Abrão:
+  gender_flag: 2
+  is_a_variant_of:
+  - Abraão
+  lang:
+  - pt
+Abråm:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - wa
+Absalom:
+  gender_flag: 2
+  lang:
+  - en
+  - pl
+  - pt
+  origin:
+  - he
+Absalon:
+  gender_flag: 2
+  lang:
+  - da
+  - fo
+  - is
+  - sv
+Absaló:
+  gender_flag: 2
+  is_equivalent_to:
+  - Absalom
+  lang:
+  - ca
+Absalón:
+  gender_flag: 2
+  is_equivalent_to:
+  - Absalom
+  lang:
+  - es
+Abu Bakr:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Abubakar:
+  gender_flag: 2
+  lang:
+  - ha
+Abudemio:
+  gender_flag: 2
+  lang:
+  - it
+Abuko:
+  gender_flag: 2
+  lang:
+  - osx
+Abulo:
+  gender_flag: 2
+  lang:
+  - osx
+Abundantius:
+  gender_flag: 2
+  lang:
+  - la
+Abundi:
+  gender_flag: 2
+  lang:
+  - ca
+  - eu
+Abundio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abundius
+  lang:
+  - es
+  - eu
+  - pt
+Abundius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Aburahamu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - yo
+Abuşka:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - trk-pro
+Abélard:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abelard
+  lang:
+  - fr
+Abélia:
+  gender_flag: 1
+  lang:
+  - fr
+Abíal:
+  gender_flag: 2
+  lang:
+  - sga
+Abílio:
+  gender_flag: 2
+  lang:
+  - pt
+Abır:
+  gender_flag: 2
+  lang:
+  - tr
+Abẹbi:
+  gender_flag: 1
+  lang:
+  - yo
+Abẹkẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Abẹni:
+  gender_flag: 1
+  lang:
+  - yo
+Abọsẹde:
+  gender_flag: 1
+  lang:
+  - yo
+Acabay:
+  gender_flag: 2
+  lang:
+  - tr
+Acabey:
+  gender_flag: 2
+  lang:
+  - tr
+Acacio:
+  gender_flag: 2
+  lang:
+  - it
+Acacius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Acahan:
+  gender_flag: 2
+  lang:
+  - tr
+Acanthio:
+  gender_flag: 2
+  lang:
+  - la
+Acarer:
+  gender_flag: 2
+  lang:
+  - tr
+Acario:
+  gender_flag: 2
+  lang:
+  - it
+Acatay:
+  gender_flag: 2
+  lang:
+  - tr
+Acazio:
+  gender_flag: 2
+  lang:
+  - it
+Accalon:
+  gender_flag: 2
+  lang:
+  - cy
+  origin:
+  - owl
+Acco:
+  gender_flag: 2
+  is_a_variant_of:
+  - Age
+  lang:
+  - nl
+Accorso:
+  gender_flag: 2
+  lang:
+  - it
+Accursio:
+  gender_flag: 2
+  lang:
+  - it
+Ace:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Acelyn:
+  gender_flag: 1
+  lang:
+  - en
+Acepsima:
+  gender_flag: 2
+  lang:
+  - it
+Ach:
+  gender_flag: 2
+  is_short_for:
+  - Achim
+  - Joachim
+  lang:
+  - gmw-ecg
+Achaeus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Achaius:
+  gender_flag: 2
+  lang:
+  - en
+Achard:
+  gender_flag: 2
+  lang:
+  - nrf
+Acharya:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Achaz:
+  gender_flag: 2
+  lang:
+  - en
+Achel:
+  gender_flag: 1
+  lang:
+  - ceb
+Achiel:
+  gender_flag: 2
+  is_a_variant_of:
+  - Achilles
+  lang:
+  - nl
+Achil:
+  gender_flag: 2
+  lang:
+  - fur
+  origin:
+  - grc
+Achill:
+  gender_flag: 2
+  lang:
+  - de
+  origin:
+  - grc
+Achilla:
+  gender_flag: 2
+  lang:
+  - it
+Achillas:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Achille:
+  gender_flag: 2
+  lang:
+  - fr
+  - it
+  origin:
+  - grc
+Achilles:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - grc
+Achim:
+  gender_flag: 2
+  lang:
+  - de
+Aching:
+  gender_flag: 1
+  lang:
+  - ceb
+Achmed:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ahmed
+  lang:
+  - nl
+  origin:
+  - ar
+Achyuth:
+  gender_flag: 2
+  lang:
+  - en
+Acilio:
+  gender_flag: 2
+  lang:
+  - it
+Acillino:
+  gender_flag: 2
+  lang:
+  - it
+Acindino:
+  gender_flag: 2
+  lang:
+  - it
+Aciscolo:
+  gender_flag: 2
+  lang:
+  - it
+Ack:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - sco
+Acke:
+  gender_flag: 2
+  lang:
+  - sv
+Ackilinda:
+  gender_flag: 1
+  lang:
+  - goh
+Aclan:
+  gender_flag: 2
+  lang:
+  - tr
+Aclidan:
+  gender_flag: 2
+  lang:
+  - ceb
+Acrisio:
+  gender_flag: 2
+  lang:
+  - it
+Acropolistis:
+  gender_flag: 1
+  lang:
+  - la
+Acun:
+  gender_flag: 2
+  lang:
+  - tr
+Acunal:
+  gender_flag: 2
+  lang:
+  - tr
+Acunalan:
+  gender_flag: 2
+  lang:
+  - tr
+Acunalp:
+  gender_flag: 2
+  lang:
+  - tr
+Acuner:
+  gender_flag: 2
+  lang:
+  - tr
+Acunman:
+  gender_flag: 2
+  lang:
+  - tr
+Acunseven:
+  gender_flag: 2
+  lang:
+  - tr
+Acuzio:
+  gender_flag: 2
+  lang:
+  - it
+Ad:
+  gender_flag: 2
+  is_short_for:
+  - André
+  lang:
+  - gmw-ecg
+  - nl
+Ada:
+  gender_flag: 3
+  lang:
+  - ca
+  - cs
+  - en
+  - is
+  - nl
+  - nn
+  - 'no'
+  - pl
+  - pt
+  - sv
+  origin:
+  - gem
+Adacia:
+  gender_flag: 1
+  lang:
+  - en
+Adaemkin:
+  gender_flag: 2
+  lang:
+  - nl
+Adah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Adaidh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Addie
+  is_short_for:
+  - Àdhamh
+  lang:
+  - gd
+Adair:
+  gender_flag: 2
+  is_equivalent_to:
+  - Edgar
+  lang:
+  - en
+  origin:
+  - gd
+Adak:
+  gender_flag: 3
+  lang:
+  - tr
+Adal:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - otk
+Adala:
+  gender_flag: 1
+  lang:
+  - osx
+Adalardo:
+  gender_flag: 2
+  lang:
+  - it
+Adalbarn:
+  gender_flag: 2
+  lang:
+  - osx
+Adalbert:
+  gender_flag: 2
+  lang:
+  - ca
+  - de
+Adalberto:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ethelbert
+  lang:
+  - es
+  - it
+Adalbold:
+  gender_flag: 2
+  lang:
+  - osx
+Adalbraht:
+  gender_flag: 2
+  lang:
+  - osx
+Adalbrand:
+  gender_flag: 2
+  lang:
+  - osx
+Adalbrecht:
+  gender_flag: 2
+  is_a_variant_of:
+  - Albert
+  lang:
+  - de
+Adalciso:
+  gender_flag: 2
+  lang:
+  - it
+Adaldei:
+  gender_flag: 2
+  lang:
+  - osx
+Adaleigh:
+  gender_flag: 1
+  lang:
+  - en
+Adalet:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Adalfrao:
+  lang:
+  - goh
+Adalfredo:
+  gender_flag: 2
+  lang:
+  - it
+Adalfrit:
+  gender_flag: 1
+  lang:
+  - goh
+Adalger:
+  gender_flag: 2
+  is_a_variant_of:
+  - Adelger
+  lang:
+  - de
+  - osx
+Adalgisio:
+  gender_flag: 2
+  lang:
+  - it
+Adalgiso:
+  gender_flag: 2
+  lang:
+  - it
+Adalhaoh:
+  lang:
+  - goh
+Adalhard:
+  gender_flag: 2
+  lang:
+  - osx
+Adalheidis:
+  gender_flag: 1
+  lang:
+  - goh
+Adalindo:
+  gender_flag: 2
+  lang:
+  - it
+Adaline:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Adalio:
+  gender_flag: 2
+  lang:
+  - it
+Adalmar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aylmer
+  lang:
+  - nl
+  - osx
+Adalmiina:
+  gender_flag: 1
+  lang:
+  - fi
+Adalmund:
+  gender_flag: 2
+  lang:
+  - osx
+Adalni:
+  gender_flag: 1
+  lang:
+  - goh
+Adaloaldo:
+  gender_flag: 2
+  lang:
+  - it
+Adalold:
+  gender_flag: 2
+  lang:
+  - osx
+Adalric:
+  gender_flag: 2
+  lang:
+  - osx
+Adalrico:
+  gender_flag: 2
+  lang:
+  - it
+Adalto:
+  gender_flag: 2
+  lang:
+  - pt
+Adalward:
+  gender_flag: 2
+  lang:
+  - osx
+Adalwi:
+  gender_flag: 1
+  lang:
+  - osx
+Adalwin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alwin
+  lang:
+  - de
+Adalyn:
+  gender_flag: 1
+  lang:
+  - en
+Adalynn:
+  gender_flag: 1
+  lang:
+  - en
+Adam:
+  gender_flag: 2
+  is_a_variant_of:
+  - Adi
+  lang:
+  - ca
+  - cs
+  - da
+  - de
+  - ee
+  - en
+  - enm
+  - fr
+  - is
+  - la
+  - nl
+  - 'no'
+  - pl
+  - ro
+  - sh
+  - sk
+  - sq
+  - sv
+  - tr
+  - wa
+  origin:
+  - he
+Adamandia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - el
+Adamantia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - el
+Adamas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - lt
+Adamat:
+  gender_flag: 2
+  lang:
+  - sq
+Adamata:
+  gender_flag: 1
+  lang:
+  - sq
+Adamek:
+  gender_flag: 2
+  is_short_for:
+  - Adam
+  lang:
+  - pl
+Adamnan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Adamo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - eo
+  - it
+  origin:
+  - he
+Adamu:
+  gender_flag: 2
+  lang:
+  - ha
+  - sw
+Adamus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - he
+Adan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - ceb
+  - tl
+  - wa
+  origin:
+  - es
+  - he
+Adar:
+  gender_flag: 2
+  lang:
+  - kmr
+Adarsh:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Adas:
+  gender_flag: 2
+  lang:
+  - lt
+Adasiek:
+  gender_flag: 2
+  is_short_for:
+  - Adam
+  lang:
+  - pl
+Adaulfo:
+  gender_flag: 2
+  lang:
+  - it
+Adaś:
+  gender_flag: 2
+  is_short_for:
+  - Adam
+  lang:
+  - pl
+Adaş:
+  gender_flag: 2
+  lang:
+  - tr
+Adbraht:
+  gender_flag: 2
+  lang:
+  - osx
+Addai:
+  gender_flag: 2
+  lang:
+  - it
+Adde:
+  gender_flag: 2
+  is_short_for:
+  - Adam
+  - Adolf
+  - Adrian
+  lang:
+  - sv
+Addi:
+  gender_flag: 3
+  lang:
+  - en
+  - osx
+Addie:
+  gender_flag: 1
+  is_short_for:
+  - Addison
+  - Adelaide
+  - Adele
+  - Adeline
+  lang:
+  - en
+Addilyn:
+  gender_flag: 1
+  lang:
+  - en
+Addilynn:
+  gender_flag: 1
+  lang:
+  - en
+Addison:
+  gender_flag: 7
+  lang:
+  - en
+Addisyn:
+  gender_flag: 1
+  lang:
+  - en
+Addo:
+  gender_flag: 2
+  lang:
+  - it
+Addolorata:
+  gender_flag: 1
+  lang:
+  - it
+Addolorato:
+  gender_flag: 2
+  lang:
+  - it
+Addy:
+  gender_flag: 7
+  is_short_for:
+  - Adam
+  - Addison
+  - Adelaide
+  - Adeline
+  - Adrienne
+  lang:
+  - en
+  origin:
+  - fr
+  - gem
+  - he
+Addysen:
+  gender_flag: 1
+  lang:
+  - en
+Addyson:
+  gender_flag: 1
+  lang:
+  - en
+Addý:
+  gender_flag: 1
+  lang:
+  - is
+Ade:
+  gender_flag: 2
+  lang:
+  - en
+  - id
+  origin:
+  - jv
+Adebayo:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - yo
+Adebayọ:
+  gender_flag: 2
+  lang:
+  - yo
+Adebọbajọ:
+  gender_flag: 2
+  lang:
+  - yo
+Adediran:
+  gender_flag: 2
+  lang:
+  - yo
+Adedire:
+  gender_flag: 7
+  lang:
+  - yo
+Adedure:
+  gender_flag: 7
+  lang:
+  - yo
+Adeele:
+  gender_flag: 1
+  lang:
+  - et
+Adefunkẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Adegbamigbe:
+  gender_flag: 7
+  lang:
+  - yo
+Adegbemibu:
+  gender_flag: 2
+  lang:
+  - yo
+Adekugbe:
+  gender_flag: 2
+  lang:
+  - yo
+Adel:
+  gender_flag: 7
+  is_a_variant_of:
+  - Adele
+  lang:
+  - en
+  - is
+  origin:
+  - ar
+  - gem
+Adela:
+  gender_flag: 1
+  is_equivalent_to:
+  - Adele
+  lang:
+  - ceb
+  - en
+  - es
+  - pl
+  - sk
+  origin:
+  - gem
+Adelaida:
+  gender_flag: 1
+  is_equivalent_to:
+  - Adelaide
+  lang:
+  - es
+Adelaide:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  - pt
+  origin:
+  - gem
+Adelaido:
+  gender_flag: 2
+  lang:
+  - it
+Adelajda:
+  gender_flag: 1
+  is_equivalent_to:
+  - Adelaide
+  lang:
+  - pl
+Adelar:
+  gender_flag: 2
+  lang:
+  - de
+Adelard:
+  gender_flag: 2
+  lang:
+  - ca
+  - de
+  - en
+  - nl
+Adelardo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adelard
+  lang:
+  - es
+  - it
+Adelardus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adelard
+  lang:
+  - la
+Adelasia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Adelaide
+  lang:
+  - it
+Adelasio:
+  gender_flag: 2
+  lang:
+  - it
+Adelayite:
+  gender_flag: 1
+  is_equivalent_to:
+  - Adelaide
+  lang:
+  - wa
+Adelbert:
+  gender_flag: 2
+  is_a_variant_of:
+  - Albert
+  lang:
+  - de
+  - en
+Adelberto:
+  gender_flag: 2
+  lang:
+  - it
+Adelchi:
+  gender_flag: 2
+  lang:
+  - it
+Adele:
+  gender_flag: 1
+  is_equivalent_to:
+  - Adela
+  lang:
+  - de
+  - en
+  - it
+  - wa
+  origin:
+  - fr
+  - gem
+Adelfa:
+  gender_flag: 1
+  lang:
+  - ceb
+  - it
+Adelfo:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - grc
+Adelger:
+  gender_flag: 2
+  lang:
+  - de
+Adelgunde:
+  gender_flag: 1
+  lang:
+  - de
+  origin:
+  - goh
+Adelheid:
+  gender_flag: 1
+  lang:
+  - de
+  - nl
+  origin:
+  - goh
+Adelia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Adela
+  lang:
+  - en
+  - es
+Adelina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Adeline
+  is_short_for:
+  - Adela
+  lang:
+  - en
+  - es
+  - id
+  origin:
+  - es
+Adelindo:
+  gender_flag: 2
+  lang:
+  - it
+Adeline:
+  gender_flag: 1
+  is_short_for:
+  - Adèle
+  lang:
+  - en
+  - fr
+  - nrf
+  origin:
+  - gem
+Adelino:
+  gender_flag: 2
+  lang:
+  - it
+Adelio:
+  gender_flag: 2
+  lang:
+  - it
+Adelisio:
+  gender_flag: 2
+  lang:
+  - it
+Adeliso:
+  gender_flag: 2
+  lang:
+  - it
+Adelita:
+  gender_flag: 1
+  lang:
+  - es
+Adelito:
+  gender_flag: 2
+  lang:
+  - ceb
+Adeliza:
+  gender_flag: 1
+  lang:
+  - en
+Adelka:
+  gender_flag: 1
+  is_short_for:
+  - Adela
+  lang:
+  - sk
+Adell:
+  gender_flag: 7
+  is_a_variant_of:
+  - Adel
+  lang:
+  - en
+  origin:
+  - gem
+Adelma:
+  gender_flag: 1
+  lang:
+  - en
+Adelmar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aylmer
+  lang:
+  - de
+  - nl
+Adelmiro:
+  gender_flag: 2
+  lang:
+  - it
+Adelmo:
+  gender_flag: 2
+  lang:
+  - it
+Adelo:
+  gender_flag: 2
+  lang:
+  - it
+Adelphasium:
+  gender_flag: 1
+  lang:
+  - la
+Adelwijn:
+  gender_flag: 3
+  is_equivalent_to:
+  - Alwin
+  lang:
+  - nl
+Adelwin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alwin
+  lang:
+  - nl
+Adelyn:
+  gender_flag: 1
+  lang:
+  - en
+Adelynn:
+  gender_flag: 1
+  lang:
+  - en
+Adem:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - sh
+  - sq
+  - tr
+  origin:
+  - ar
+Ademaro:
+  gender_flag: 2
+  lang:
+  - it
+Ademarus:
+  gender_flag: 2
+  lang:
+  - la
+Adeodato:
+  gender_flag: 2
+  lang:
+  - it
+Adephonsus:
+  gender_flag: 2
+  lang:
+  - la
+Aderito:
+  gender_flag: 2
+  lang:
+  - it
+Aderonkẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Adestes:
+  gender_flag: 1
+  lang:
+  - en
+Adeyemo:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - yo
+Adeyẹmi:
+  gender_flag: 7
+  lang:
+  - yo
+Adeyẹmọ:
+  gender_flag: 2
+  lang:
+  - yo
+Adgan:
+  gender_flag: 2
+  lang:
+  - owl
+Adha:
+  gender_flag: 2
+  lang:
+  - gv
+Adhamhnán:
+  gender_flag: 2
+  lang:
+  - ga
+  origin:
+  - sga
+Adhelina:
+  gender_flag: 1
+  lang:
+  - la
+Adhira:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Adi:
+  gender_flag: 3
+  is_short_for:
+  - Adolf
+  - Adrian
+  lang:
+  - de
+  - en
+  - id
+  - ro
+  origin:
+  - jv
+Adicia:
+  gender_flag: 1
+  lang:
+  - en
+Adie:
+  gender_flag: 7
+  is_short_for:
+  - Adam
+  - Adele
+  - Adrian
+  - Adriana
+  - Adrienne
+  - Aidan
+  lang:
+  - en
+  origin:
+  - fr
+  - ga
+  - gem
+  - he
+  - la
+Adiko:
+  gender_flag: 2
+  lang:
+  - osx
+Adil:
+  gender_flag: 2
+  lang:
+  - az
+  - tr
+  origin:
+  - ar
+Adilee:
+  gender_flag: 1
+  lang:
+  - en
+Adilio:
+  gender_flag: 2
+  lang:
+  - it
+Adilynn:
+  gender_flag: 1
+  lang:
+  - en
+Adiman:
+  gender_flag: 2
+  lang:
+  - osx
+Adimantus:
+  gender_flag: 2
+  lang:
+  - la
+Adina:
+  gender_flag: 1
+  lang:
+  - cs
+  - en
+  origin:
+  - he
+Adinda:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - ms
+Adino:
+  gender_flag: 2
+  lang:
+  - it
+Adinolfo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Adolfo
+  lang:
+  - it
+Adio:
+  gender_flag: 2
+  lang:
+  - yo
+Adisa:
+  gender_flag: 2
+  lang:
+  - yo
+Adislasse:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ladislaus
+  lang:
+  - wa
+Adisoda:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - gnc
+Adisyn:
+  gender_flag: 1
+  lang:
+  - en
+Adit:
+  gender_flag: 2
+  lang:
+  - en
+  - id
+  origin:
+  - sa
+Adithya:
+  gender_flag: 2
+  lang:
+  - en
+  - id
+  origin:
+  - sa
+Aditi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Aditya:
+  gender_flag: 2
+  lang:
+  - en
+  - id
+  origin:
+  - jv
+  - sa
+Adiuto:
+  gender_flag: 2
+  lang:
+  - it
+Adiv:
+  gender_flag: 2
+  lang:
+  - en
+Adjiedj:
+  gender_flag: 2
+  lang:
+  - en
+Adlai:
+  gender_flag: 2
+  lang:
+  - en
+Adley:
+  gender_flag: 1
+  lang:
+  - en
+Adli:
+  gender_flag: 2
+  lang:
+  - tr
+Adlı:
+  gender_flag: 2
+  lang:
+  - tr
+Admeto:
+  gender_flag: 2
+  lang:
+  - it
+Admir:
+  gender_flag: 2
+  lang:
+  - sh
+  - sq
+  origin:
+  - la
+Adnan:
+  gender_flag: 2
+  lang:
+  - en
+  - id
+  - tr
+  origin:
+  - ar
+Adnana:
+  gender_flag: 1
+  lang:
+  - en
+Ado:
+  gender_flag: 3
+  lang:
+  - et
+  - it
+  - osx
+  - sk
+  - yo
+Adofe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adolph
+  lang:
+  - wa
+Adolar:
+  gender_flag: 2
+  lang:
+  - de
+Adolba:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adolph
+  lang:
+  - eu
+Adolf:
+  gender_flag: 2
+  is_a_variant_of:
+  - Adolph
+  is_equivalent_to:
+  - Adolph
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - fo
+  - hu
+  - is
+  - nl
+  - pl
+  - sk
+  - sv
+  origin:
+  - gem
+Adolfas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adolph
+  lang:
+  - lt
+Adolfek:
+  gender_flag: 2
+  is_short_for:
+  - Adolf
+  lang:
+  - cs
+Adolfina:
+  gender_flag: 1
+  lang:
+  - sv
+Adolfine:
+  gender_flag: 1
+  lang:
+  - de
+Adolfito:
+  gender_flag: 2
+  is_short_for:
+  - Adolfo
+  lang:
+  - es
+Adolfo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adolph
+  lang:
+  - ceb
+  - es
+  - it
+  - pt
+  origin:
+  - gem-pro
+Adolph:
+  gender_flag: 2
+  is_a_variant_of:
+  - Adolf
+  lang:
+  - de
+  - en
+  origin:
+  - gem
+Adolphe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adolph
+  lang:
+  - fr
+Adolpho:
+  gender_flag: 2
+  is_a_variant_of:
+  - Adolph
+  lang:
+  - en
+  - es
+  origin:
+  - gem
+Adolphus:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+Adomas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - lt
+Adomat:
+  gender_flag: 2
+  lang:
+  - sq
+Adone:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - grc
+Adong:
+  gender_flag: 2
+  lang:
+  - ceb
+Adonica:
+  gender_flag: 1
+  lang:
+  - en
+Adonis:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Adoniso:
+  gender_flag: 2
+  lang:
+  - eo
+  origin:
+  - grc
+Adony:
+  gender_flag: 2
+  lang:
+  - hu
+Ador:
+  gender_flag: 2
+  lang:
+  - ceb
+Adorato:
+  gender_flag: 2
+  lang:
+  - it
+Adorján:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adrian
+  lang:
+  - hu
+Adorno:
+  gender_flag: 2
+  lang:
+  - it
+Adragon:
+  gender_flag: 2
+  lang:
+  - en
+Adrao:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adrian
+  lang:
+  - gl
+Adrasto:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - grc
+Adrastos:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Adream:
+  gender_flag: 1
+  lang:
+  - en
+Adri:
+  gender_flag: 3
+  is_short_for:
+  - Adrienn
+  - Adrián
+  lang:
+  - es
+  - hu
+  - nl
+Adria:
+  gender_flag: 1
+  lang:
+  - en
+Adriaan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adrian
+  lang:
+  - nl
+Adrian:
+  gender_flag: 7
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fo
+  - gv
+  - 'no'
+  - pl
+  - sv
+  origin:
+  - ett
+  - la
+Adriana:
+  gender_flag: 1
+  lang:
+  - cs
+  - en
+  - es
+  - it
+  - la
+  origin:
+  - ett
+  - la
+Adrianka:
+  gender_flag: 1
+  is_short_for:
+  - Adriana
+  lang:
+  - cs
+Adrianna:
+  gender_flag: 1
+  is_a_variant_of:
+  - Adriana
+  lang:
+  - en
+  - pl
+  origin:
+  - la
+Adriannah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Adriano:
+  gender_flag: 2
+  is_a_variant_of:
+  - Adrián
+  is_equivalent_to:
+  - Adrian
+  lang:
+  - es
+  - it
+  - pt
+  origin:
+  - la
+Adrians:
+  gender_flag: 2
+  lang:
+  - lv
+Adrianus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adrian
+  lang:
+  - id
+  - la
+  origin:
+  - la
+Adrie:
+  gender_flag: 3
+  lang:
+  - nl
+Adriel:
+  gender_flag: 2
+  lang:
+  - en
+  - fo
+Adrien:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adrian
+  lang:
+  - fr
+Adrienn:
+  gender_flag: 1
+  lang:
+  - hu
+Adrienne:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+Adrijus:
+  gender_flag: 2
+  lang:
+  - lt
+Adrina:
+  gender_flag: 1
+  lang:
+  - en
+Adrio:
+  gender_flag: 2
+  lang:
+  - it
+Adrislav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+Adriyin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adrian
+  lang:
+  - frp
+Adriyêne:
+  gender_flag: 1
+  lang:
+  - frp
+Adrià:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adrian
+  lang:
+  - ca
+Adrián:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adrian
+  lang:
+  - es
+  - sk
+Adriána:
+  gender_flag: 1
+  lang:
+  - sk
+Adrião:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adrian
+  lang:
+  - pt
+Adriāns:
+  gender_flag: 2
+  lang:
+  - lv
+Adrían:
+  gender_flag: 2
+  lang:
+  - is
+Adríel:
+  gender_flag: 2
+  lang:
+  - is
+Adsız:
+  gender_flag: 2
+  lang:
+  - tr
+Adua:
+  gender_flag: 1
+  lang:
+  - it
+  - la
+Adubi:
+  gender_flag: 5
+  lang:
+  - yo
+Adulf:
+  gender_flag: 2
+  is_a_variant_of:
+  - Adolf
+  lang:
+  - de
+  origin:
+  - gem
+Adunni:
+  gender_flag: 4
+  lang:
+  - yo
+Adward:
+  gender_flag: 2
+  lang:
+  - osx
+Adwig:
+  gender_flag: 1
+  lang:
+  - osx
+Adámek:
+  gender_flag: 2
+  is_short_for:
+  - Adam
+  lang:
+  - cs
+Adán:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - ast
+  - es
+Adão:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - pt
+Adèle:
+  gender_flag: 1
+  is_equivalent_to:
+  - Adela
+  lang:
+  - fr
+Adél:
+  gender_flag: 1
+  is_equivalent_to:
+  - Adela
+  lang:
+  - hu
+  origin:
+  - gem
+Adéla:
+  gender_flag: 1
+  lang:
+  - cs
+Adélard:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adelard
+  lang:
+  - fr
+Adélaïde:
+  gender_flag: 1
+  is_equivalent_to:
+  - Adelaide
+  lang:
+  - fr
+Adélie:
+  gender_flag: 1
+  lang:
+  - fr
+Adélio:
+  gender_flag: 2
+  lang:
+  - pt
+Adélka:
+  gender_flag: 1
+  is_short_for:
+  - Adéla
+  lang:
+  - cs
+Adíel:
+  gender_flag: 2
+  lang:
+  - is
+Adólf:
+  gender_flag: 2
+  lang:
+  - is
+Adónis:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adonis
+  lang:
+  - pt
+Adın:
+  gender_flag: 2
+  lang:
+  - tr
+Adıyaman:
+  gender_flag: 2
+  lang:
+  - tr
+Aeanna:
+  gender_flag: 1
+  lang:
+  - en
+Aeddan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aidan
+  lang:
+  - cy
+  origin:
+  - sga
+Aegen:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Aegenbald:
+  gender_flag: 2
+  lang:
+  - en
+Aegenwulf:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Aegidius:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - grc
+Aelita:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ru
+Aeneas:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Aengus:
+  gender_flag: 2
+  lang:
+  - mga
+Aerenia:
+  gender_flag: 1
+  lang:
+  - en
+Aernou:
+  gender_flag: 2
+  lang:
+  - wa
+Aeryn:
+  gender_flag: 1
+  lang:
+  - en
+Aesah:
+  gender_flag: 1
+  lang:
+  - en
+Aeschylus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Aet:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - et
+Aethalides:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Aethalos:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Aetius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Afanasy:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ru
+Afandi:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - ar
+Afanoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+Afeefa:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Aferdita:
+  gender_flag: 1
+  is_equivalent_to:
+  - Aphrodite
+  lang:
+  - en
+  origin:
+  - sq
+Affery:
+  gender_flag: 1
+  lang:
+  - en
+Affrey:
+  gender_flag: 1
+  lang:
+  - en
+Afia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ak
+  - ar
+  - ur
+Afonsinho:
+  gender_flag: 2
+  is_short_for:
+  - Afonso
+  lang:
+  - pt
+Afonso:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alfonso
+  - Alphonse
+  lang:
+  - pt
+Afrena:
+  gender_flag: 1
+  lang:
+  - en
+Afrim:
+  gender_flag: 2
+  lang:
+  - sq
+Afrime:
+  gender_flag: 1
+  lang:
+  - sq
+Afrimi:
+  gender_flag: 2
+  lang:
+  - sq
+Afrimja:
+  gender_flag: 1
+  lang:
+  - sq
+Afërdit:
+  gender_flag: 2
+  lang:
+  - sq
+Afërdita:
+  gender_flag: 1
+  lang:
+  - sq
+Afërditi:
+  gender_flag: 2
+  lang:
+  - sq
+Afërditë:
+  gender_flag: 1
+  lang:
+  - sq
+Aga:
+  lang:
+  - en
+Agaate:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - et
+Agabo:
+  gender_flag: 2
+  lang:
+  - it
+Agaffona:
+  gender_flag: 2
+  lang:
+  - izh
+Aganju:
+  gender_flag: 2
+  lang:
+  - yo
+Aganjuṣọla:
+  gender_flag: 2
+  lang:
+  - yo
+Agapito:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+Agar:
+  gender_flag: 1
+  lang:
+  - it
+Agata:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - it
+  - pl
+  - sl
+Agate:
+  gender_flag: 1
+  lang:
+  - lv
+Agatha:
+  gender_flag: 1
+  lang:
+  - ceb
+  - de
+  - en
+  - nl
+  - sco
+  - tl
+  origin:
+  - en
+  - grc
+Agathe:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - da
+  - de
+  - fr
+  - nrf
+Agatino:
+  gender_flag: 2
+  lang:
+  - it
+Agatka:
+  gender_flag: 1
+  is_short_for:
+  - Agata
+  lang:
+  - pl
+Agato:
+  gender_flag: 2
+  lang:
+  - it
+Agatocle:
+  gender_flag: 2
+  lang:
+  - it
+Agatodoro:
+  gender_flag: 2
+  lang:
+  - it
+Agaton:
+  gender_flag: 2
+  lang:
+  - ceb
+  - tl
+  origin:
+  - es
+Agatone:
+  gender_flag: 2
+  lang:
+  - it
+Agazio:
+  gender_flag: 2
+  lang:
+  - it
+Agbaakin:
+  gender_flag: 2
+  lang:
+  - yo
+Agbekẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Agda:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - fo
+  - sv
+Age:
+  gender_flag: 1
+  lang:
+  - et
+Agenore:
+  gender_flag: 2
+  lang:
+  - it
+Agesilao:
+  gender_flag: 2
+  lang:
+  - it
+Agesilaus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Agga:
+  gender_flag: 1
+  lang:
+  - osx
+Aggeo:
+  gender_flag: 2
+  lang:
+  - it
+Aggi:
+  gender_flag: 2
+  lang:
+  - is
+Aggie:
+  gender_flag: 1
+  is_short_for:
+  - Agatha
+  - Agnes
+  lang:
+  - en
+  - sco
+Aggu:
+  gender_flag: 3
+  lang:
+  - kl
+  origin:
+  - da
+Aggusteinus:
+  gender_flag: 2
+  lang:
+  - fo
+Aggy:
+  gender_flag: 1
+  is_short_for:
+  - Agatha
+  - Agnes
+  lang:
+  - en
+Agilulfo:
+  gender_flag: 2
+  lang:
+  - it
+Agim:
+  gender_flag: 2
+  lang:
+  - sq
+Agimor:
+  gender_flag: 2
+  lang:
+  - sq
+Agita:
+  gender_flag: 1
+  lang:
+  - lv
+Agla:
+  gender_flag: 1
+  lang:
+  - is
+Aglaia:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  - pt
+  origin:
+  - grc
+Agmund:
+  gender_flag: 2
+  lang:
+  - 'no'
+Agmundr:
+  gender_flag: 2
+  lang:
+  - non
+Agnaldo:
+  gender_flag: 2
+  lang:
+  - pt
+Agnar:
+  gender_flag: 2
+  lang:
+  - fo
+  - 'no'
+Agnas:
+  gender_flag: 1
+  lang:
+  - fo
+Agne:
+  gender_flag: 3
+  is_equivalent_to:
+  - Agnes
+  lang:
+  - et
+  - sv
+Agnea:
+  gender_flag: 1
+  lang:
+  - is
+Agnello:
+  gender_flag: 2
+  lang:
+  - it
+Agnes:
+  gender_flag: 1
+  lang:
+  - cy
+  - da
+  - de
+  - en
+  - et
+  - la
+  - 'no'
+  - sco
+  - sv
+  - tl
+  origin:
+  - en
+  - grc
+Agnesa:
+  gender_flag: 1
+  lang:
+  - sk
+Agnese:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agnes
+  lang:
+  - it
+  - lv
+Agnesio:
+  gender_flag: 2
+  lang:
+  - it
+Agnest:
+  gender_flag: 1
+  lang:
+  - cy
+  origin:
+  - grc
+Agneta:
+  gender_flag: 1
+  lang:
+  - et
+  - sv
+Agnete:
+  gender_flag: 1
+  is_a_variant_of:
+  - Agnes
+  lang:
+  - da
+Agnetha:
+  gender_flag: 1
+  lang:
+  - sv
+Agnethe:
+  gender_flag: 1
+  is_a_variant_of:
+  - Agnete
+  lang:
+  - da
+Agni:
+  gender_flag: 3
+  lang:
+  - id
+  origin:
+  - sa
+Agnieszka:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agnes
+  lang:
+  - pl
+Agnis:
+  gender_flag: 2
+  lang:
+  - lv
+Agnius:
+  gender_flag: 2
+  lang:
+  - lt
+Agnès:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agnes
+  lang:
+  - ca
+  - fr
+Agnė:
+  gender_flag: 1
+  lang:
+  - lt
+Ago:
+  gender_flag: 2
+  is_a_variant_of:
+  - Agu
+  lang:
+  - et
+Agon:
+  gender_flag: 2
+  lang:
+  - sq
+Agorastocles:
+  gender_flag: 2
+  lang:
+  - la
+Agoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Agostinho:
+  gender_flag: 2
+  is_equivalent_to:
+  - Augustine
+  lang:
+  - pt
+Agostino:
+  gender_flag: 2
+  lang:
+  - it
+Agota:
+  gender_flag: 1
+  lang:
+  - lt
+Agra:
+  gender_flag: 1
+  lang:
+  - lv
+Agrippino:
+  gender_flag: 2
+  lang:
+  - it
+Agris:
+  gender_flag: 2
+  lang:
+  - lv
+Agrita:
+  gender_flag: 1
+  lang:
+  - lv
+Agron:
+  gender_flag: 2
+  lang:
+  - sq
+  origin:
+  - xil
+Agu:
+  gender_flag: 2
+  lang:
+  - et
+Aguinaldo:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+  - pt
+Agung:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Agus:
+  gender_flag: 2
+  lang:
+  - id
+  - ms
+  origin:
+  - jv
+  - ms
+Agusia:
+  gender_flag: 1
+  is_short_for:
+  - Agata
+  - Agnieszka
+  lang:
+  - pl
+Agustin:
+  gender_flag: 2
+  lang:
+  - tl
+  origin:
+  - es
+Agustina:
+  gender_flag: 1
+  lang:
+  - es
+Agustus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Agustèin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Augustine
+  - Austin
+  lang:
+  - egl
+  origin:
+  - la
+Agustí:
+  gender_flag: 2
+  is_equivalent_to:
+  - August
+  - Augustus
+  lang:
+  - ca
+Agustín:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - la
+Agáta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - cs
+  - sk
+Agátka:
+  gender_flag: 1
+  is_short_for:
+  - Agáta
+  lang:
+  - cs
+Agë:
+  gender_flag: 1
+  lang:
+  - sq
+Agða:
+  gender_flag: 1
+  lang:
+  - is
+Ahab:
+  gender_flag: 2
+  lang:
+  - en
+Aharon:
+  gender_flag: 2
+  lang:
+  - en
+Ahile:
+  gender_flag: 2
+  lang:
+  - ro
+  origin:
+  - el
+Ahmad:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ahmed
+  - Akhmad
+  lang:
+  - en
+  - ha
+  - id
+  origin:
+  - ar
+Ahmatjan: {}
+Ahmaud:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ahmad
+  lang:
+  - en
+  origin:
+  - ar
+Ahmed:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ahmad
+  lang:
+  - de
+  - en
+  origin:
+  - ar
+Ahmet:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ahmed
+  lang:
+  - tr
+  origin:
+  - ar
+Ahmir:
+  gender_flag: 2
+  lang:
+  - en
+Ahti:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Ahto:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Ahu:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - fa
+Ahvo:
+  gender_flag: 2
+  lang:
+  - fi
+Ai:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Aia:
+  gender_flag: 1
+  lang:
+  - osx
+Aiace:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - grc
+Aico:
+  gender_flag: 2
+  lang:
+  - osx
+Aida:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - it
+  origin:
+  - it
+Aidam:
+  gender_flag: 2
+  lang:
+  - sco
+Aidan:
+  gender_flag: 7
+  lang:
+  - cy
+  - en
+  - sco
+  origin:
+  - ga
+  - sga
+Aidano:
+  gender_flag: 2
+  lang:
+  - it
+Aidas:
+  gender_flag: 2
+  lang:
+  - lt
+Aiden:
+  gender_flag: 7
+  is_a_variant_of:
+  - Aidan
+  lang:
+  - cy
+  - en
+  origin:
+  - ga
+  - sga
+Aido:
+  gender_flag: 2
+  lang:
+  - it
+Aidyn:
+  gender_flag: 2
+  lang:
+  - en
+Aifric:
+  gender_flag: 1
+  lang:
+  - ga
+Aiga:
+  gender_flag: 1
+  lang:
+  - lv
+Aigar:
+  gender_flag: 2
+  lang:
+  - et
+Aigars:
+  gender_flag: 2
+  lang:
+  - lv
+Aigneas:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agnes
+  lang:
+  - gd
+  origin:
+  - grc
+Aija:
+  gender_flag: 1
+  lang:
+  - fi
+  - lv
+Aila:
+  gender_flag: 1
+  lang:
+  - fi
+Ailan:
+  gender_flag: 2
+  is_a_variant_of:
+  - Elon
+  lang:
+  - en
+Ailbín:
+  gender_flag: 2
+  is_equivalent_to:
+  - Albin
+  lang:
+  - ga
+  origin:
+  - la
+Aile:
+  gender_flag: 1
+  is_a_variant_of:
+  - Aili
+  lang:
+  - et
+Ailean:
+  gender_flag: 2
+  lang:
+  - gd
+  origin:
+  - cel
+Aileen:
+  gender_flag: 1
+  is_a_variant_of:
+  - Eileen
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - ga
+Aili:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+  - wa
+Ailidh:
+  gender_flag: 3
+  is_short_for:
+  - Alasdair
+  lang:
+  - gd
+Ailie:
+  gender_flag: 1
+  is_short_for:
+  - Alison
+  lang:
+  - en
+Ailig:
+  gender_flag: 2
+  is_short_for:
+  - Alasdair
+  lang:
+  - gd
+  origin:
+  - grc
+Ailill:
+  gender_flag: 2
+  lang:
+  - sga
+Ailis:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alice
+  lang:
+  - gd
+Ailish:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Ailsa:
+  gender_flag: 1
+  lang:
+  - sco
+Aimablle:
+  gender_flag: 2
+  lang:
+  - nrf
+Aimar:
+  gender_flag: 2
+  lang:
+  - es
+Aime:
+  gender_flag: 1
+  lang:
+  - et
+Aimee:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+Aimil:
+  gender_flag: 1
+  is_equivalent_to:
+  - Emily
+  lang:
+  - gv
+  origin:
+  - la
+Aimo:
+  gender_flag: 2
+  lang:
+  - fi
+Aimone:
+  gender_flag: 2
+  lang:
+  - it
+Aimé:
+  gender_flag: 2
+  lang:
+  - fr
+  - nrf
+Aimée:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Ain:
+  gender_flag: 2
+  is_a_variant_of:
+  - Hendrik
+  lang:
+  - et
+Aina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ann
+  lang:
+  - ca
+  - fi
+  - lv
+  - 'no'
+  - sv
+  - yo
+Ainara:
+  gender_flag: 1
+  lang:
+  - es
+  - eu
+Ainars:
+  gender_flag: 2
+  lang:
+  - lv
+Aindrea:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - gd
+Aindrias:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - ga
+  origin:
+  - grc
+Aindriú:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - ga
+  origin:
+  - grc
+Ainelag:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angela
+  lang:
+  - gv
+  origin:
+  - grc
+Ainhoa:
+  gender_flag: 1
+  lang:
+  - es
+  - eu
+  origin:
+  - eu
+Aini:
+  gender_flag: 1
+  is_a_variant_of:
+  - Aino
+  lang:
+  - fi
+Ainikki:
+  gender_flag: 1
+  lang:
+  - fi
+Ainis:
+  gender_flag: 2
+  lang:
+  - lv
+Aino:
+  gender_flag: 1
+  lang:
+  - en
+  - et
+  - fi
+  origin:
+  - fi
+Ainseilm:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anselm
+  lang:
+  - ga
+Ainsley:
+  gender_flag: 7
+  lang:
+  - en
+Aintzane:
+  gender_flag: 1
+  is_equivalent_to:
+  - Gloria
+  lang:
+  - eu
+Ainu:
+  gender_flag: 1
+  is_a_variant_of:
+  - Aino
+  lang:
+  - et
+Ainārs:
+  gender_flag: 2
+  lang:
+  - lv
+Aio:
+  gender_flag: 2
+  lang:
+  - osx
+Aira:
+  gender_flag: 1
+  lang:
+  - fi
+  - lv
+Airard:
+  gender_flag: 2
+  lang:
+  - fr
+Airchibauld:
+  gender_flag: 2
+  is_equivalent_to:
+  - Archibald
+  lang:
+  - sco
+Aire:
+  gender_flag: 1
+  is_a_variant_of:
+  - Aili
+  - Airi
+  lang:
+  - et
+Airhey:
+  gender_flag: 2
+  lang:
+  - gv
+Airi:
+  gender_flag: 1
+  lang:
+  - en
+  - et
+  - fi
+  origin:
+  - ja
+Airinė:
+  gender_flag: 1
+  is_equivalent_to:
+  - Irene
+  lang:
+  - lt
+Airita:
+  gender_flag: 1
+  lang:
+  - lv
+Aisaya:
+  gender_flag: 2
+  lang:
+  - yo
+Aische:
+  gender_flag: 1
+  lang:
+  - de
+  origin:
+  - ar
+Aisha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Aishwarya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Aisling:
+  gender_flag: 1
+  lang:
+  - ga
+Aislinn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Aislyn:
+  gender_flag: 1
+  lang:
+  - en
+Aislynn:
+  gender_flag: 1
+  lang:
+  - en
+Aistolf:
+  gender_flag: 2
+  lang:
+  - goh
+Aistė:
+  gender_flag: 1
+  lang:
+  - lt
+Aita:
+  gender_flag: 1
+  lang:
+  - et
+Aitana:
+  gender_flag: 1
+  lang:
+  - es
+Aitet:
+  gender_flag: 2
+  lang:
+  - osx
+Aitor:
+  gender_flag: 2
+  lang:
+  - es
+  - eu
+  origin:
+  - eu
+Aiva:
+  gender_flag: 1
+  lang:
+  - lv
+Aivar:
+  gender_flag: 2
+  lang:
+  - et
+Aivaras:
+  gender_flag: 2
+  lang:
+  - lt
+Aivars:
+  gender_flag: 2
+  lang:
+  - lv
+Aive:
+  gender_flag: 1
+  lang:
+  - et
+Aivis:
+  gender_flag: 2
+  lang:
+  - lv
+Aivita:
+  gender_flag: 1
+  lang:
+  - lv
+Aivo:
+  gender_flag: 2
+  lang:
+  - et
+Aiyana:
+  gender_flag: 1
+  lang:
+  - en
+Aiza:
+  gender_flag: 1
+  lang:
+  - ceb
+Ajadi:
+  gender_flag: 2
+  lang:
+  - yo
+Ajagbe:
+  gender_flag: 2
+  lang:
+  - yo
+Ajaja:
+  gender_flag: 2
+  lang:
+  - yo
+Ajala:
+  gender_flag: 2
+  lang:
+  - yo
+Ajani:
+  gender_flag: 2
+  lang:
+  - yo
+Ajari:
+  gender_flag: 7
+  lang:
+  - yo
+Ajay:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Ajayi:
+  gender_flag: 7
+  lang:
+  - yo
+Ajeanie:
+  gender_flag: 2
+  lang:
+  - en
+Ajeesh:
+  gender_flag: 2
+  lang:
+  - en
+Ajewọle:
+  gender_flag: 2
+  lang:
+  - yo
+Aji:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Ajikẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Ajish:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ml
+Ajka:
+  gender_flag: 1
+  is_short_for:
+  - Ája
+  lang:
+  - cs
+Ajkuna:
+  gender_flag: 1
+  lang:
+  - sq
+Ajọkẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Ak:
+  gender_flag: 1
+  lang:
+  - tr
+Aka:
+  gender_flag: 2
+  lang:
+  - tr
+Akane:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Akaner:
+  gender_flag: 2
+  lang:
+  - tr
+Akankẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Akanni:
+  gender_flag: 2
+  lang:
+  - yo
+Akarsu:
+  gender_flag: 3
+  lang:
+  - tr
+Akash:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Akat:
+  gender_flag: 2
+  lang:
+  - lnd
+Akbar:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - ar
+Akbay:
+  gender_flag: 2
+  lang:
+  - tr
+Akbayar:
+  gender_flag: 2
+  lang:
+  - tr
+Akbora:
+  gender_flag: 2
+  lang:
+  - tr
+Akboğa:
+  gender_flag: 2
+  lang:
+  - tr
+Akburç:
+  gender_flag: 2
+  lang:
+  - tr
+Akbörü:
+  gender_flag: 2
+  lang:
+  - tr
+Akdağ:
+  gender_flag: 2
+  lang:
+  - tr
+Akdemir:
+  gender_flag: 2
+  lang:
+  - tr
+Akdoğan:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - otk
+Akeem:
+  gender_flag: 2
+  is_a_variant_of:
+  - Hakim
+  lang:
+  - en
+  origin:
+  - ar
+Akel:
+  gender_flag: 3
+  lang:
+  - tr
+Aker:
+  gender_flag: 2
+  lang:
+  - tr
+Akgül:
+  gender_flag: 1
+  lang:
+  - tr
+Akhenaten:
+  gender_flag: 2
+  lang:
+  - en
+Akhmad:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - ar
+Aki:
+  gender_flag: 2
+  lang:
+  - fi
+Akiba:
+  gender_flag: 2
+  lang:
+  - en
+Akif:
+  gender_flag: 2
+  lang:
+  - tr
+Akiko:
+  gender_flag: 1
+  lang:
+  - dru
+  - en
+  - fr
+  - pyu
+  - tl
+  origin:
+  - ja
+Akil:
+  gender_flag: 2
+  lang:
+  - en
+  - tr
+Akiniku:
+  gender_flag: 2
+  lang:
+  - yo
+Akinlẹyẹ:
+  gender_flag: 2
+  lang:
+  - yo
+Akio:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Akip:
+  gender_flag: 2
+  lang:
+  - tr
+Akira:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ja
+Akisooq:
+  gender_flag: 3
+  lang:
+  - kl
+Akiva:
+  gender_flag: 2
+  lang:
+  - en
+Akja:
+  gender_flag: 1
+  lang:
+  - tk
+Akkan:
+  gender_flag: 2
+  lang:
+  - tr
+Akkaya:
+  gender_flag: 2
+  lang:
+  - tr
+Akkaynak:
+  gender_flag: 2
+  lang:
+  - tr
+Akkaş:
+  gender_flag: 2
+  lang:
+  - tr
+Akkemik:
+  gender_flag: 2
+  lang:
+  - tr
+Akkerman:
+  gender_flag: 2
+  lang:
+  - tr
+Akko:
+  gender_flag: 2
+  lang:
+  - osx
+Akkurt:
+  gender_flag: 2
+  lang:
+  - tr
+Akkutlu:
+  gender_flag: 1
+  lang:
+  - tr
+Akkuyaş:
+  gender_flag: 2
+  lang:
+  - tr
+Akkuş:
+  gender_flag: 2
+  lang:
+  - tr
+Akköz:
+  gender_flag: 2
+  lang:
+  - tr
+Akkılıç:
+  gender_flag: 2
+  lang:
+  - tr
+Akkın:
+  gender_flag: 2
+  lang:
+  - tr
+Aklan:
+  gender_flag: 2
+  lang:
+  - tr
+Akmad:
+  gender_flag: 2
+  lang:
+  - mdh
+  - mrw
+  origin:
+  - ar
+Akman:
+  gender_flag: 2
+  lang:
+  - tr
+Akmanalp:
+  gender_flag: 2
+  lang:
+  - tr
+Akmaner:
+  gender_flag: 2
+  lang:
+  - tr
+Akmaç:
+  gender_flag: 2
+  lang:
+  - tr
+Akmeriç:
+  gender_flag: 2
+  lang:
+  - tr
+Akosua:
+  gender_flag: 1
+  lang:
+  - ak
+Akozan:
+  gender_flag: 2
+  lang:
+  - tr
+Akpay:
+  gender_flag: 2
+  lang:
+  - tr
+Akpolat:
+  gender_flag: 2
+  lang:
+  - tr
+Akpulat:
+  gender_flag: 2
+  lang:
+  - tr
+Akram:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Akrem:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Aksal:
+  gender_flag: 2
+  lang:
+  - fo
+  - tr
+Aksan:
+  gender_flag: 2
+  lang:
+  - tr
+Aksay:
+  gender_flag: 2
+  lang:
+  - tr
+Aksel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Axel
+  lang:
+  - da
+  - et
+  - fo
+  - 'no'
+  origin:
+  - da
+Akseli:
+  gender_flag: 2
+  lang:
+  - fi
+Akser:
+  gender_flag: 2
+  lang:
+  - tr
+Akses:
+  gender_flag: 3
+  lang:
+  - tr
+Akshay:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Aksun:
+  gender_flag: 2
+  lang:
+  - tr
+Aksunar:
+  gender_flag: 2
+  lang:
+  - tr
+Aksuner:
+  gender_flag: 2
+  lang:
+  - tr
+Aksungur:
+  gender_flag: 2
+  lang:
+  - tr
+Aksöğüt:
+  gender_flag: 2
+  lang:
+  - tr
+Aktay:
+  gender_flag: 2
+  lang:
+  - tr
+Aktaş:
+  gender_flag: 2
+  lang:
+  - tr
+Aktolga:
+  gender_flag: 2
+  lang:
+  - tr
+Aktuğ:
+  gender_flag: 2
+  lang:
+  - tr
+Aku:
+  gender_flag: 2
+  lang:
+  - fi
+Akusti:
+  gender_flag: 2
+  lang:
+  - fi
+Akuẹmahọ:
+  gender_flag: 7
+  lang:
+  - guw
+Akvilas:
+  gender_flag: 2
+  lang:
+  - lt
+Akvilė:
+  gender_flag: 1
+  lang:
+  - lt
+Akyol:
+  gender_flag: 2
+  lang:
+  - tr
+Akyön:
+  gender_flag: 2
+  lang:
+  - tr
+Akça:
+  gender_flag: 3
+  lang:
+  - tr
+Akçael:
+  gender_flag: 2
+  lang:
+  - tr
+Akçakoca:
+  gender_flag: 2
+  lang:
+  - tr
+Akçay:
+  gender_flag: 2
+  lang:
+  - tr
+Akçiçek:
+  gender_flag: 1
+  lang:
+  - tr
+Akönder:
+  gender_flag: 2
+  lang:
+  - tr
+Akören:
+  gender_flag: 2
+  lang:
+  - tr
+Aköz:
+  gender_flag: 2
+  lang:
+  - tr
+Akünal:
+  gender_flag: 2
+  lang:
+  - tr
+Akı:
+  gender_flag: 2
+  lang:
+  - tr
+Akıl:
+  gender_flag: 2
+  lang:
+  - tr
+Akıllı:
+  gender_flag: 2
+  lang:
+  - tr
+Akın:
+  gender_flag: 2
+  lang:
+  - tr
+Akıncı:
+  gender_flag: 2
+  lang:
+  - tr
+Akıncıbay:
+  gender_flag: 2
+  lang:
+  - tr
+Akıner:
+  gender_flag: 2
+  lang:
+  - tr
+Akıneri:
+  gender_flag: 2
+  lang:
+  - tr
+Akıntan:
+  gender_flag: 2
+  lang:
+  - tr
+Akşit:
+  gender_flag: 2
+  lang:
+  - tr
+Akşın:
+  gender_flag: 2
+  lang:
+  - tr
+Al:
+  gender_flag: 2
+  is_short_for:
+  - Alan
+  - Albert
+  - Alexander
+  - Alfred
+  lang:
+  - en
+  origin:
+  - ang
+  - cel
+  - gem
+  - grc
+Ala:
+  gender_flag: 3
+  is_short_for:
+  - Alicja
+  - Alina
+  lang:
+  - pl
+  - tr
+Alaakkilli:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Alaba:
+  gender_flag: 7
+  lang:
+  - yo
+Alabaş:
+  gender_flag: 2
+  lang:
+  - tr
+Alabi:
+  gender_flag: 4
+  lang:
+  - yo
+Alaca:
+  gender_flag: 2
+  lang:
+  - tr
+Alachis:
+  gender_flag: 2
+  lang:
+  - it
+Aladegbuji:
+  gender_flag: 2
+  lang:
+  - yo
+Aladejana:
+  gender_flag: 2
+  lang:
+  - yo
+Aladelusi:
+  gender_flag: 2
+  lang:
+  - yo
+Alademọmi:
+  gender_flag: 7
+  lang:
+  - yo
+Aladoğan:
+  gender_flag: 2
+  lang:
+  - tr
+Aladár:
+  gender_flag: 2
+  lang:
+  - hu
+Alaeddin: {}
+Alager:
+  gender_flag: 2
+  lang:
+  - osx
+Alageyik:
+  gender_flag: 1
+  lang:
+  - tr
+Alagis:
+  gender_flag: 2
+  lang:
+  - it
+Alahis:
+  gender_flag: 2
+  lang:
+  - it
+Alaia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - eu
+Alain:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alan
+  lang:
+  - en
+  - fr
+  - fro
+  origin:
+  - fr
+Alaina:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cel
+Alaka:
+  gender_flag: 1
+  lang:
+  - osx
+Alako:
+  gender_flag: 2
+  lang:
+  - osx
+Alakurt:
+  gender_flag: 2
+  lang:
+  - tr
+Alakẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Alala:
+  gender_flag: 1
+  lang:
+  - en
+Alamon:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - ceb
+Alan:
+  gender_flag: 2
+  lang:
+  - cs
+  - en
+  - pt
+  - sk
+  - tr
+  origin:
+  - cel
+  - en
+Alana:
+  gender_flag: 1
+  lang:
+  - en
+  - haw
+  - pt
+  origin:
+  - cel
+  - haw
+Alanah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cel
+Alandra:
+  gender_flag: 1
+  is_a_variant_of:
+  - Alexandra
+  lang:
+  - en
+Alanis:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cel
+Alanna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cel
+Alannah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cel
+Alano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alan
+  lang:
+  - it
+Alanus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alan
+  lang:
+  - la
+Alapaʻi:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Alar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alaric
+  lang:
+  - et
+Alari:
+  gender_flag: 2
+  is_a_variant_of:
+  - Alar
+  is_equivalent_to:
+  - Alaric
+  lang:
+  - et
+Alaric:
+  gender_flag: 2
+  lang:
+  - ca
+  - en
+  origin:
+  - got
+Alarica:
+  gender_flag: 1
+  lang:
+  - it
+Alarico:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alaric
+  lang:
+  - it
+  - pt
+  origin:
+  - gem-pro
+Alaricus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alaric
+  lang:
+  - la
+  origin:
+  - gem-pro
+Alarik:
+  gender_flag: 2
+  lang:
+  - fi
+Alasdair:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - gd
+  origin:
+  - grc
+Alastair:
+  gender_flag: 2
+  lang:
+  - en
+  - gd
+  origin:
+  - gd
+Alastar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alec
+  - Alexander
+  lang:
+  - ga
+Alaster:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gd
+Alauddin:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Alaward:
+  gender_flag: 2
+  lang:
+  - osx
+Alaxander:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - sga
+Alay:
+  gender_flag: 2
+  lang:
+  - tr
+Alaya:
+  gender_flag: 1
+  lang:
+  - en
+Alayah:
+  gender_flag: 1
+  lang:
+  - en
+Alayna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cel
+Alaysia:
+  gender_flag: 1
+  lang:
+  - en
+Alaçuk:
+  gender_flag: 2
+  lang:
+  - tr
+Alba:
+  gender_flag: 1
+  lang:
+  - es
+  - la
+Alban:
+  gender_flag: 2
+  lang:
+  - cy
+  - en
+  - fr
+  - sq
+  - sv
+  origin:
+  - la
+  - sga
+Albana:
+  gender_flag: 1
+  lang:
+  - sq
+Albane:
+  gender_flag: 1
+  lang:
+  - fr
+Albano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alban
+  lang:
+  - es
+  - it
+  - pt
+Albanor:
+  gender_flag: 2
+  lang:
+  - sq
+Albanus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alban
+  lang:
+  - la
+Albeni:
+  gender_flag: 1
+  lang:
+  - tr
+Alberg:
+  gender_flag: 2
+  lang:
+  - is
+Alberico:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aubrey
+  lang:
+  - it
+Alberigo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aubrey
+  lang:
+  - it
+Albern:
+  gender_flag: 2
+  lang:
+  - osx
+Albert:
+  gender_flag: 2
+  lang:
+  - ca
+  - ceb
+  - cs
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - fo
+  - fr
+  - hu
+  - is
+  - nl
+  - 'no'
+  - pl
+  - sk
+  - sv
+  origin:
+  - en
+  - gem
+Alberta:
+  gender_flag: 1
+  lang:
+  - en
+  - fo
+  - it
+  - pl
+  - pt
+  origin:
+  - gem
+Albertas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Albert
+  lang:
+  - lt
+Alberte:
+  gender_flag: 3
+  lang:
+  - da
+  - fr
+  - gl
+Albertiina:
+  gender_flag: 1
+  lang:
+  - fi
+Albertina:
+  gender_flag: 1
+  lang:
+  - en
+  - sv
+  origin:
+  - gem
+Albertine:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - gem
+Alberto:
+  gender_flag: 2
+  is_equivalent_to:
+  - Albert
+  lang:
+  - ceb
+  - eo
+  - es
+  - it
+  - pt
+  - tl
+  origin:
+  - es
+  - gem-pro
+Alberts:
+  gender_flag: 2
+  lang:
+  - lv
+Albertus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Albert
+  lang:
+  - en
+  - id
+  - la
+  origin:
+  - gem
+  - la
+Albeth:
+  gender_flag: 1
+  lang:
+  - en
+Albgot:
+  gender_flag: 2
+  lang:
+  - osx
+Albie:
+  gender_flag: 2
+  is_short_for:
+  - Albert
+  lang:
+  - en
+  origin:
+  - gem
+Albin:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  - fo
+  - sv
+  origin:
+  - la
+Albina:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - lt
+  - ro
+  origin:
+  - la
+Albinas:
+  gender_flag: 2
+  lang:
+  - lt
+Albino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Albin
+  lang:
+  - pt
+Albinus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Albin
+  lang:
+  - la
+Albio:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Albiorix:
+  gender_flag: 2
+  lang:
+  - la
+Albizzo:
+  gender_flag: 2
+  lang:
+  - it
+Albjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Alboino:
+  gender_flag: 2
+  lang:
+  - it
+Alborg:
+  gender_flag: 1
+  lang:
+  - fo
+  - fr
+Albrad:
+  gender_flag: 2
+  lang:
+  - osx
+Albrecht:
+  gender_flag: 2
+  is_a_variant_of:
+  - Albert
+  lang:
+  - de
+  - nl
+Albric:
+  gender_flag: 2
+  lang:
+  - osx
+Albrun:
+  gender_flag: 1
+  lang:
+  - osx
+Albuin:
+  gender_flag: 2
+  is_a_variant_of:
+  - Albwin
+  lang:
+  - de
+Albwin:
+  gender_flag: 2
+  lang:
+  - de
+  - osx
+Alby:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ga
+Albà:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alban
+  lang:
+  - ca
+Albèrt:
+  gender_flag: 2
+  is_equivalent_to:
+  - Albert
+  lang:
+  - nrf
+Albé:
+  gender_flag: 2
+  lang:
+  - nrf
+Albéric:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aubrey
+  lang:
+  - nrf
+Albí:
+  gender_flag: 2
+  is_equivalent_to:
+  - Albin
+  lang:
+  - ca
+Albín:
+  gender_flag: 2
+  lang:
+  - sk
+Albína:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Albínka:
+  gender_flag: 1
+  is_short_for:
+  - Albína
+  lang:
+  - cs
+Alceo:
+  gender_flag: 2
+  lang:
+  - it
+Alcesimarchus:
+  gender_flag: 2
+  lang:
+  - la
+Alcesimus:
+  gender_flag: 2
+  lang:
+  - la
+Alceste:
+  gender_flag: 3
+  lang:
+  - fr
+  - it
+Alceu:
+  gender_flag: 2
+  lang:
+  - pt
+Alcibiade:
+  gender_flag: 2
+  lang:
+  - it
+Alcibiades:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Alcide:
+  gender_flag: 2
+  lang:
+  - it
+  - nrf
+  - wa
+Alcides:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - el
+Alcie:
+  gender_flag: 1
+  lang:
+  - en
+Alcine:
+  gender_flag: 2
+  lang:
+  - nrf
+Alcino:
+  gender_flag: 2
+  lang:
+  - it
+Alciso:
+  gender_flag: 2
+  lang:
+  - it
+Alco:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Alcon:
+  gender_flag: 2
+  lang:
+  - en
+Alda:
+  gender_flag: 3
+  lang:
+  - ang
+  - fo
+  - is
+  - it
+  - osx
+  - pt
+Aldako:
+  gender_flag: 2
+  lang:
+  - osx
+Aldara:
+  gender_flag: 1
+  lang:
+  - gl
+Aldbert:
+  gender_flag: 2
+  lang:
+  - osx
+Aldbraht:
+  gender_flag: 2
+  lang:
+  - osx
+Aldburg:
+  gender_flag: 1
+  lang:
+  - osx
+Aldemar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aylmer
+  lang:
+  - nl
+Aldemir:
+  gender_flag: 2
+  lang:
+  - tr
+Alden:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Alderd:
+  gender_flag: 2
+  lang:
+  - osx
+Alderico:
+  gender_flag: 2
+  lang:
+  - it
+Aldert:
+  gender_flag: 2
+  lang:
+  - nl
+Aldfrid:
+  gender_flag: 2
+  lang:
+  - osx
+Aldger:
+  gender_flag: 2
+  lang:
+  - osx
+Aldgoð:
+  gender_flag: 2
+  lang:
+  - osx
+Aldighiero:
+  gender_flag: 2
+  is_a_variant_of:
+  - Alighiero
+  lang:
+  - it
+Aldiko:
+  gender_flag: 2
+  lang:
+  - osx
+Aldis:
+  gender_flag: 1
+  lang:
+  - fo
+Aldmar:
+  gender_flag: 2
+  lang:
+  - osx
+Aldmund:
+  gender_flag: 2
+  lang:
+  - osx
+Aldo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aldous
+  lang:
+  - en
+  - es
+  - et
+  - it
+  origin:
+  - it
+Aldobrando:
+  gender_flag: 2
+  lang:
+  - it
+Aldolf:
+  gender_flag: 2
+  lang:
+  - osx
+Aldona:
+  gender_flag: 1
+  lang:
+  - lt
+Aldong:
+  gender_flag: 2
+  lang:
+  - ceb
+Aldous:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Aldoğan:
+  gender_flag: 2
+  lang:
+  - tr
+Aldrin:
+  gender_flag: 2
+  lang:
+  - ceb
+Alduino:
+  gender_flag: 2
+  lang:
+  - it
+Aldur:
+  gender_flag: 2
+  lang:
+  - et
+Aldus:
+  gender_flag: 2
+  lang:
+  - en
+Aldward:
+  gender_flag: 2
+  lang:
+  - osx
+Aldwine:
+  gender_flag: 2
+  lang:
+  - ang
+Aldís:
+  gender_flag: 1
+  lang:
+  - is
+Ale:
+  gender_flag: 3
+  is_short_for:
+  - Alejandra
+  - Alejandro
+  lang:
+  - es
+  - fi
+Aleah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Aleardo:
+  gender_flag: 2
+  lang:
+  - it
+Alec:
+  gender_flag: 2
+  is_short_for:
+  - Alexander
+  lang:
+  - en
+  origin:
+  - grc
+Alecia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Aleck:
+  gender_flag: 2
+  is_a_variant_of:
+  - Alec
+  is_short_for:
+  - Alexander
+  lang:
+  - en
+  origin:
+  - grc
+Aleena:
+  gender_flag: 1
+  lang:
+  - en
+Alegzande:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - wa
+Aleh: {}
+Aleisha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Aleister:
+  gender_flag: 2
+  is_a_variant_of:
+  - Alastair
+  lang:
+  - en
+  origin:
+  - gd
+Aleix:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexis
+  lang:
+  - ca
+Aleixo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexius
+  lang:
+  - pt
+Aleja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alexa
+  is_short_for:
+  - Alejandra
+  lang:
+  - es
+Alejandra:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alexandra
+  lang:
+  - es
+  origin:
+  - grc
+Alejandrina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alexandrina
+  lang:
+  - es
+Alejandro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - en
+  - es
+  - tl
+  origin:
+  - es
+  - grc
+Alejang:
+  gender_flag: 1
+  lang:
+  - ceb
+Alejo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexis
+  lang:
+  - es
+  origin:
+  - grc
+Alek:
+  gender_flag: 2
+  is_a_variant_of:
+  - Alec
+  is_short_for:
+  - Alexander
+  lang:
+  - en
+  origin:
+  - grc
+Aleks:
+  gender_flag: 2
+  lang:
+  - et
+  - fo
+Aleksandar:
+  gender_flag: 2
+  lang:
+  - sh
+Aleksander:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - et
+  - 'no'
+  - pl
+  - sl
+Aleksanders:
+  gender_flag: 2
+  lang:
+  - lv
+Aleksandr: {}
+Aleksandra:
+  gender_flag: 3
+  is_equivalent_to:
+  - Alexandra
+  lang:
+  - et
+  - fi
+  - fo
+  - lt
+  - ltg
+  - lv
+  - pl
+  - sh
+  origin:
+  - grc
+Aleksandras:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - lt
+  - lv
+Aleksandro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - eo
+  origin:
+  - ru
+Aleksandrs:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - ru
+Aleksandrīna:
+  gender_flag: 1
+  lang:
+  - lv
+Aleksandur:
+  gender_flag: 2
+  lang:
+  - fo
+Aleksandër:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - sq
+  origin:
+  - grc
+Aleksanteri:
+  gender_flag: 2
+  lang:
+  - fi
+Aleksas:
+  gender_flag: 2
+  lang:
+  - lt
+Aleksei: {}
+Aleksej: {}
+Aleksejs:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - ru
+Aleksey: {}
+Aleksi:
+  gender_flag: 2
+  lang:
+  - fi
+  origin:
+  - grc
+Aleksis:
+  gender_flag: 2
+  lang:
+  - fi
+  - lv
+  origin:
+  - la
+Alekso:
+  gender_flag: 3
+  is_equivalent_to:
+  - Alex
+  lang:
+  - eo
+Aleksy:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alex
+  - Alexis
+  lang:
+  - pl
+Alen:
+  gender_flag: 2
+  is_a_variant_of:
+  - Alan
+  lang:
+  - en
+  - sh
+Alena:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Alencar:
+  gender_flag: 2
+  lang:
+  - pt
+Alenka:
+  gender_flag: 1
+  is_short_for:
+  - Alena
+  lang:
+  - cs
+  - sl
+Aleramo:
+  gender_flag: 2
+  lang:
+  - it
+Alesha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Aleshia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Aleslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Alessandra:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alexandra
+  lang:
+  - it
+  - pt
+Alessandro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - en
+  - es
+  - it
+  - pt
+  origin:
+  - grc
+  - it
+Alessia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alexia
+  lang:
+  - en
+  - it
+  origin:
+  - it
+Alessio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexis
+  - Alexius
+  lang:
+  - it
+  origin:
+  - grc
+Alesànder:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - egl
+  origin:
+  - grc
+Aletta:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Alette:
+  gender_flag: 1
+  is_equivalent_to:
+  - Aletta
+  lang:
+  - 'no'
+Alev:
+  gender_flag: 1
+  lang:
+  - tr
+Alewiss:
+  gender_flag: 2
+  lang:
+  - gsw
+  origin:
+  - la
+Alex:
+  gender_flag: 7
+  is_a_variant_of:
+  - Aleksi
+  lang:
+  - da
+  - de
+  - en
+  - fi
+  - fr
+  - hu
+  - is
+  - nl
+  - sv
+  origin:
+  - grc
+Alexa:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - ro
+  origin:
+  - grc
+Alexander:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - hu
+  - is
+  - nl
+  - 'no'
+  - pt
+  - sco
+  - sk
+  - sv
+Alexandr:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - cs
+  origin:
+  - grc
+Alexandra:
+  gender_flag: 1
+  lang:
+  - ceb
+  - cs
+  - da
+  - de
+  - en
+  - fr
+  - is
+  - nl
+  - 'no'
+  - pt
+  - ro
+  - sk
+  - sv
+  origin:
+  - grc
+Alexandre:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - ca
+  - en
+  - fr
+  - pt
+  origin:
+  - fr
+  - grc
+  - pt
+Alexandria:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Alexandriana:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Alexandrina:
+  gender_flag: 1
+  lang:
+  - en
+  - ro
+  origin:
+  - grc
+Alexandrine:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alexandrina
+  lang:
+  - fr
+Alexandros: {}
+Alexandru:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - ast
+  - ro
+  origin:
+  - grc
+Alexawndra:
+  gender_flag: 1
+  lang:
+  - en
+Alexei: {}
+Alexej:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexius
+  lang:
+  - cs
+  - sk
+  origin:
+  - grc
+Alexes:
+  gender_flag: 1
+  lang:
+  - en
+Alexey: {}
+Alexia:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - grc
+Alexiares:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Alexis:
+  gender_flag: 7
+  lang:
+  - en
+  - fr
+  origin:
+  - grc
+Alexius:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - grc
+Alexondra:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Alexzander:
+  gender_flag: 2
+  lang:
+  - en
+Alexía:
+  gender_flag: 1
+  lang:
+  - is
+Aleyn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alan
+  lang:
+  - gv
+  origin:
+  - cel
+Aleĉjo:
+  gender_flag: 2
+  is_short_for:
+  - Aleksandro
+  lang:
+  - eo
+Aleš:
+  gender_flag: 2
+  is_short_for:
+  - Albert
+  lang:
+  - cs
+  - sk
+  - sl
+Alf:
+  gender_flag: 2
+  is_a_variant_of:
+  - Alv
+  is_short_for:
+  - Alfonso
+  - Alfred
+  lang:
+  - da
+  - en
+  - nb
+  - nn
+  - sv
+  origin:
+  - gem
+  - non
+Alfa:
+  gender_flag: 1
+  lang:
+  - is
+Alfeu:
+  gender_flag: 2
+  lang:
+  - pt
+Alfhild:
+  gender_flag: 1
+  is_a_variant_of:
+  - Alvhild
+  lang:
+  - nb
+  - nn
+  - sv
+  origin:
+  - non
+Alfie:
+  gender_flag: 3
+  is_short_for:
+  - Alfonso
+  - Alfred
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - gem
+Alfiero:
+  gender_flag: 2
+  lang:
+  - it
+Alfild:
+  gender_flag: 1
+  is_a_variant_of:
+  - Alfhild
+  lang:
+  - 'no'
+Alfio:
+  gender_flag: 2
+  lang:
+  - it
+Alfons:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alfonso
+  - Alphonse
+  lang:
+  - ca
+  - ceb
+  - de
+  - is
+  - lv
+  - nl
+  - pl
+  - sv
+Alfonsas:
+  gender_flag: 2
+  lang:
+  - lt
+Alfonse:
+  gender_flag: 2
+  lang:
+  - wa
+Alfonsinho:
+  gender_flag: 2
+  is_short_for:
+  - Alfonso
+  lang:
+  - pt
+Alfonso:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - es
+  - it
+  - pt
+  origin:
+  - es
+  - gem
+  - got
+Alfonz:
+  gender_flag: 2
+  lang:
+  - sk
+Alfonzo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Alfonso
+  lang:
+  - en
+  origin:
+  - gem
+Alfred:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  - fi
+  - fo
+  - fr
+  - nl
+  - 'no'
+  - nrf
+  - pl
+  - sv
+Alfreda:
+  gender_flag: 1
+  lang:
+  - en
+  - lt
+  origin:
+  - ang
+Alfredas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alfred
+  lang:
+  - lt
+Alfrede:
+  gender_flag: 2
+  lang:
+  - wa
+Alfredino:
+  gender_flag: 2
+  is_short_for:
+  - Alfredo
+  lang:
+  - it
+Alfredo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alfred
+  lang:
+  - ceb
+  - eo
+  - es
+  - it
+  - pt
+  - tl
+  origin:
+  - ang
+  - en
+  - es
+Alfredus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alfred
+  lang:
+  - la
+  origin:
+  - en
+Alfreð:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alfred
+  lang:
+  - is
+Alfrida:
+  gender_flag: 1
+  is_equivalent_to:
+  - Elfreda
+  lang:
+  - sv
+Alfréd:
+  gender_flag: 2
+  lang:
+  - sk
+Alfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Alfrēds:
+  gender_flag: 2
+  lang:
+  - lv
+Alfy:
+  gender_flag: 2
+  is_short_for:
+  - Alfonso
+  - Alfred
+  lang:
+  - en
+  origin:
+  - gem
+Alfífa:
+  gender_flag: 1
+  lang:
+  - is
+Algeir:
+  gender_flag: 2
+  lang:
+  - is
+Alger:
+  gender_flag: 2
+  is_a_variant_of:
+  - Elgar
+  lang:
+  - ceb
+  - en
+  origin:
+  - gem
+Algernon:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Alghisio:
+  gender_flag: 2
+  lang:
+  - it
+Algie:
+  gender_flag: 2
+  is_short_for:
+  - Algernon
+  lang:
+  - en
+Algimantas:
+  gender_flag: 2
+  lang:
+  - lt
+Algirdas:
+  gender_flag: 2
+  lang:
+  - lt
+Algis:
+  gender_flag: 2
+  lang:
+  - lt
+Algisio:
+  gender_flag: 2
+  lang:
+  - it
+Algiso:
+  gender_flag: 2
+  lang:
+  - it
+Algo:
+  gender_flag: 2
+  lang:
+  - et
+Algot:
+  gender_flag: 2
+  lang:
+  - sv
+Algy:
+  gender_flag: 2
+  is_short_for:
+  - Algernon
+  lang:
+  - en
+Algül:
+  gender_flag: 1
+  lang:
+  - tr
+Ali:
+  gender_flag: 7
+  is_short_for:
+  - Alison
+  - Alistair
+  lang:
+  - en
+  - fi
+  - ha
+  - nl
+  - pt
+  - sw
+  - tr
+  origin:
+  - ar
+Alia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Aliaksandr: {}
+Aliaksei: {}
+Aliana:
+  gender_flag: 1
+  lang:
+  - en
+Alianna:
+  gender_flag: 1
+  lang:
+  - en
+Alica:
+  gender_flag: 1
+  lang:
+  - sk
+Alican:
+  gender_flag: 2
+  lang:
+  - tr
+Alice:
+  gender_flag: 1
+  lang:
+  - ceb
+  - cs
+  - da
+  - de
+  - en
+  - fr
+  - it
+  - 'no'
+  - pt
+  - sv
+  - tl
+  origin:
+  - en
+  - gem
+Alicia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alice
+  lang:
+  - ceb
+  - en
+  - es
+  - fr
+  - sv
+  origin:
+  - en
+  - gem
+Alicio:
+  gender_flag: 2
+  lang:
+  - it
+Alicja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alice
+  lang:
+  - pl
+Alick:
+  gender_flag: 2
+  lang:
+  - en
+Alida:
+  gender_flag: 1
+  is_short_for:
+  - Adelheid
+  lang:
+  - en
+  - nl
+Alideo:
+  gender_flag: 2
+  lang:
+  - it
+Alido:
+  gender_flag: 2
+  lang:
+  - it
+Alienor:
+  gender_flag: 1
+  lang:
+  - la
+Alienora:
+  gender_flag: 1
+  lang:
+  - la
+Alighiero:
+  gender_flag: 2
+  lang:
+  - it
+Aligi:
+  gender_flag: 2
+  lang:
+  - it
+Alihan:
+  gender_flag: 2
+  lang:
+  - tr
+Aliide:
+  gender_flag: 1
+  lang:
+  - et
+Aliina:
+  gender_flag: 1
+  lang:
+  - fi
+  origin:
+  - gem
+Aliisa:
+  gender_flag: 1
+  lang:
+  - fi
+  origin:
+  - gem
+Aliise:
+  gender_flag: 1
+  lang:
+  - et
+Alija: {}
+Alijah:
+  gender_flag: 2
+  lang:
+  - en
+Alimi:
+  gender_flag: 2
+  lang:
+  - yo
+  origin:
+  - ar
+Alin:
+  gender_flag: 2
+  lang:
+  - ro
+Alina:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - es
+  - et
+  - fi
+  - it
+  - lt
+  - lv
+  - ro
+  origin:
+  - gem
+Aline:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - fr
+  - pt
+  origin:
+  - fr
+Alino:
+  gender_flag: 2
+  lang:
+  - it
+Alipio:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+Aliprando:
+  gender_flag: 2
+  lang:
+  - it
+Aliqoli: {}
+Alirio:
+  gender_flag: 2
+  lang:
+  - es
+Alisa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alice
+  lang:
+  - en
+  - fi
+  - fo
+  origin:
+  - fi
+  - ru
+Alise:
+  gender_flag: 1
+  lang:
+  - lv
+Alisha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Alisio:
+  gender_flag: 2
+  lang:
+  - it
+Aliso:
+  gender_flag: 2
+  lang:
+  - it
+Alison:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Alisoun:
+  gender_flag: 1
+  lang:
+  - enm
+  origin:
+  - fro
+Alissa:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Alisson:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - en
+  - gem
+Alistair:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - en
+  - gv
+  origin:
+  - gd
+  - grc
+Alister:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - gv
+Alistreeney:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alexandra
+  lang:
+  - gv
+  origin:
+  - grc
+Alita:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  origin:
+  - es
+Alivia:
+  gender_flag: 1
+  lang:
+  - en
+Aliviero:
+  gender_flag: 2
+  lang:
+  - it
+Aliwang:
+  gender_flag: 1
+  lang:
+  - ceb
+Alix:
+  gender_flag: 1
+  is_a_variant_of:
+  - Alice
+  lang:
+  - en
+  - fr
+  origin:
+  - gem
+Alixandre:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - fro
+  origin:
+  - grc
+Aliyah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+  - he
+Aliyha:
+  gender_flag: 1
+  lang:
+  - en
+Aliyu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ali
+  lang:
+  - yo
+  origin:
+  - ar
+Aliza:
+  gender_flag: 1
+  lang:
+  - en
+Alize:
+  gender_flag: 3
+  lang:
+  - en
+Alizé:
+  gender_flag: 3
+  lang:
+  - en
+Aliénor:
+  gender_flag: 1
+  is_equivalent_to:
+  - Eleanor
+  lang:
+  - fr
+  - nrf
+  origin:
+  - oc
+Alička:
+  gender_flag: 1
+  is_short_for:
+  - Alice
+  lang:
+  - cs
+Aliş:
+  gender_flag: 2
+  is_short_for:
+  - Ali
+  lang:
+  - tr
+Alişan:
+  gender_flag: 2
+  lang:
+  - tr
+Alja:
+  gender_flag: 1
+  lang:
+  - sl
+Alkış:
+  gender_flag: 2
+  lang:
+  - tr
+Alla:
+  gender_flag: 1
+  lang:
+  - lv
+Allahqoli: {}
+Allahqulu:
+  gender_flag: 2
+  lang:
+  - az
+Allahverdi:
+  gender_flag: 2
+  lang:
+  - az
+Allan:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - en
+  - et
+  - fi
+  - fo
+  - sv
+  - tl
+  origin:
+  - cel
+  - en
+Allar:
+  gender_flag: 2
+  is_a_variant_of:
+  - Alar
+  is_equivalent_to:
+  - Alaric
+  lang:
+  - et
+Allaug:
+  gender_flag: 1
+  lang:
+  - is
+Allegra:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  origin:
+  - it
+Allegrino:
+  gender_flag: 2
+  lang:
+  - it
+Allegro:
+  gender_flag: 2
+  lang:
+  - it
+Allen:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - cel
+  - en
+Allene:
+  gender_flag: 1
+  lang:
+  - en
+Allex:
+  gender_flag: 3
+  is_a_variant_of:
+  - Alex
+  lang:
+  - en
+Alley:
+  gender_flag: 1
+  lang:
+  - en
+Alli:
+  gender_flag: 3
+  lang:
+  - fi
+  - ha
+  - is
+Allie:
+  gender_flag: 7
+  is_short_for:
+  - Alan
+  - Albert
+  - Alexander
+  - Alexandra
+  - Alfred
+  - Alice
+  - Alison
+  lang:
+  - en
+  origin:
+  - cel
+  - gem
+  - grc
+Allison:
+  gender_flag: 7
+  is_a_variant_of:
+  - Alison
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+  - gem
+Allistair:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gd
+Allistaire:
+  gender_flag: 2
+  lang:
+  - en
+Allister:
+  gender_flag: 2
+  lang:
+  - en
+Alliyah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Ally:
+  gender_flag: 3
+  is_short_for:
+  - Alan
+  - Albert
+  - Alexander
+  - Alexandra
+  - Alfred
+  - Alice
+  - Alison
+  lang:
+  - en
+  origin:
+  - cel
+  - gem
+  - grc
+Allyn:
+  gender_flag: 7
+  lang:
+  - en
+Allyson:
+  gender_flag: 1
+  is_a_variant_of:
+  - Alison
+  lang:
+  - en
+  origin:
+  - gem
+Allyssa:
+  gender_flag: 1
+  is_a_variant_of:
+  - Alyssa
+  lang:
+  - en
+  origin:
+  - gem
+Alma:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - et
+  - fi
+  - fo
+  - lt
+  - lv
+  - 'no'
+  - sh
+  - sv
+  - tl
+  origin:
+  - en
+  - la
+Almar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aylmer
+  lang:
+  - nl
+Almaïde:
+  gender_flag: 1
+  lang:
+  - nrf
+Almeda:
+  gender_flag: 1
+  lang:
+  - ceb
+Almendra:
+  gender_flag: 1
+  lang:
+  - es
+Almer:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Almerigo:
+  gender_flag: 2
+  lang:
+  - it
+Almerino:
+  gender_flag: 2
+  lang:
+  - ceb
+  - it
+Almir:
+  gender_flag: 2
+  lang:
+  - pt
+Almira:
+  gender_flag: 1
+  lang:
+  - en
+Almire:
+  gender_flag: 2
+  lang:
+  - nrf
+Almiro:
+  gender_flag: 2
+  lang:
+  - it
+Almond:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - en
+Almu:
+  gender_flag: 1
+  is_short_for:
+  - Almudena
+  lang:
+  - es
+Almudena:
+  gender_flag: 1
+  lang:
+  - es
+Almy:
+  gender_flag: 1
+  lang:
+  - en
+Almyra:
+  gender_flag: 1
+  lang:
+  - en
+Alo:
+  gender_flag: 2
+  lang:
+  - et
+Alodia:
+  gender_flag: 1
+  lang:
+  - es
+Alodîye:
+  gender_flag: 1
+  lang:
+  - wa
+Aloha:
+  gender_flag: 3
+  lang:
+  - haw
+Alois:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aloysius
+  lang:
+  - cs
+  - de
+Aloisie:
+  gender_flag: 1
+  lang:
+  - cs
+Aloisio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aloysius
+  lang:
+  - it
+Aloizs:
+  gender_flag: 2
+  lang:
+  - lv
+Alojs:
+  gender_flag: 2
+  lang:
+  - dsb
+  origin:
+  - la
+Alojz:
+  gender_flag: 2
+  lang:
+  - sk
+Alojzy:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aloysius
+  lang:
+  - pl
+Alon:
+  gender_flag: 2
+  is_a_variant_of:
+  - Elon
+  lang:
+  - en
+Alona:
+  gender_flag: 1
+  lang:
+  - en
+Alondra:
+  gender_flag: 1
+  lang:
+  - es
+Alonso:
+  gender_flag: 2
+  is_a_variant_of:
+  - Alfonso
+  is_equivalent_to:
+  - Alfonso
+  lang:
+  - en
+  - es
+  - nl
+  origin:
+  - gem
+Alonzo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Alfonso
+  is_equivalent_to:
+  - Alfonso
+  lang:
+  - en
+  - nl
+  origin:
+  - gem
+Alora:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - bnt
+Alouddin:
+  gender_flag: 2
+  lang:
+  - uz
+Aloysius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Aloyzas:
+  gender_flag: 2
+  lang:
+  - lt
+Aloísio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aloysius
+  lang:
+  - pt
+Alp: {}
+Alpar:
+  gender_flag: 2
+  lang:
+  - tr
+Alparslan:
+  gender_flag: 2
+  lang:
+  - tr
+Alpaslan:
+  gender_flag: 2
+  lang:
+  - tr
+Alpay:
+  gender_flag: 2
+  lang:
+  - tr
+Alpayer:
+  gender_flag: 2
+  lang:
+  - tr
+Alpbilge:
+  gender_flag: 2
+  lang:
+  - tr
+Alpdoğan:
+  gender_flag: 2
+  lang:
+  - tr
+Alper:
+  gender_flag: 2
+  lang:
+  - tr
+Alperen:
+  gender_flag: 2
+  lang:
+  - tr
+Alperto:
+  gender_flag: 2
+  lang:
+  - it
+Alpertunga:
+  gender_flag: 2
+  lang:
+  - tr
+Alpgiray:
+  gender_flag: 2
+  lang:
+  - tr
+Alphan:
+  gender_flag: 2
+  lang:
+  - tr
+Alpheus:
+  gender_flag: 2
+  lang:
+  - en
+Alphons:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alfonso
+  lang:
+  - frm
+  - nl
+Alphonse:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - gem
+Alphonsine:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+Alphonso:
+  gender_flag: 2
+  is_a_variant_of:
+  - Alfonso
+  lang:
+  - en
+  origin:
+  - gem
+Alpi:
+  gender_flag: 2
+  lang:
+  - fi
+Alpinolo:
+  gender_flag: 2
+  lang:
+  - it
+Alpman:
+  gender_flag: 2
+  lang:
+  - tr
+Alpo:
+  gender_flag: 2
+  lang:
+  - fi
+Alptekin:
+  gender_flag: 2
+  lang:
+  - tr
+Alptuğ:
+  gender_flag: 2
+  lang:
+  - tr
+Alpyürek:
+  gender_flag: 2
+  lang:
+  - tr
+Alrik:
+  gender_flag: 2
+  lang:
+  - sv
+Alrún:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Alta:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - la
+Altagracia:
+  gender_flag: 1
+  lang:
+  - es
+Altair:
+  gender_flag: 2
+  lang:
+  - pt
+Altan:
+  gender_flag: 3
+  lang:
+  - tr
+Altaner:
+  gender_flag: 2
+  lang:
+  - tr
+Altay:
+  gender_flag: 2
+  lang:
+  - az
+  - en
+  - tr
+Alteo:
+  gender_flag: 2
+  lang:
+  - it
+Altero:
+  gender_flag: 2
+  lang:
+  - it
+Althea:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - grc
+Altin:
+  gender_flag: 2
+  lang:
+  - sq
+  origin:
+  - tr
+Altina:
+  gender_flag: 1
+  lang:
+  - en
+Altine:
+  gender_flag: 1
+  lang:
+  - ha
+Altobello:
+  gender_flag: 2
+  lang:
+  - it
+Alton:
+  gender_flag: 2
+  lang:
+  - en
+Altti:
+  gender_flag: 2
+  lang:
+  - fi
+Altın:
+  gender_flag: 3
+  lang:
+  - tr
+Altınay:
+  gender_flag: 3
+  lang:
+  - tr
+Altınhan:
+  gender_flag: 2
+  lang:
+  - tr
+Altınnur:
+  gender_flag: 1
+  lang:
+  - tr
+Altıntop:
+  gender_flag: 2
+  lang:
+  - tr
+Altınçiçek:
+  gender_flag: 1
+  lang:
+  - tr
+Alucard:
+  gender_flag: 2
+  lang:
+  - en
+Alun:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Alv:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Alva:
+  gender_flag: 1
+  lang:
+  - sv
+Alvar:
+  gender_flag: 2
+  lang:
+  - ceb
+  - et
+  - fi
+  - sv
+Alvari:
+  gender_flag: 2
+  lang:
+  - fi
+Alvaro:
+  gender_flag: 2
+  lang:
+  - ceb
+  - it
+  - tl
+  origin:
+  - es
+Alvas:
+  gender_flag: 2
+  lang:
+  - en
+Alven:
+  gender_flag: 2
+  is_a_variant_of:
+  - Alvin
+  lang:
+  - en
+  origin:
+  - ang
+Alvezio:
+  gender_flag: 2
+  lang:
+  - it
+Alvhild:
+  gender_flag: 1
+  lang:
+  - nn
+  origin:
+  - non
+Alvi:
+  gender_flag: 3
+  lang:
+  - et
+  - fi
+  - fo
+Alvia:
+  gender_flag: 2
+  lang:
+  - en
+Alviina:
+  gender_flag: 1
+  lang:
+  - fi
+Alviine:
+  gender_flag: 1
+  lang:
+  - et
+Alvilda:
+  gender_flag: 1
+  lang:
+  - da
+Alvin:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - ang
+  - en
+Alvina:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Alvino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Albin
+  lang:
+  - pt
+  origin:
+  - la
+Alvis:
+  gender_flag: 2
+  lang:
+  - en
+  - lv
+Alvise:
+  gender_flag: 2
+  lang:
+  - it
+Alvydas:
+  gender_flag: 2
+  lang:
+  - lt
+Alvyn:
+  gender_flag: 2
+  is_a_variant_of:
+  - Alvin
+  lang:
+  - en
+  origin:
+  - ang
+Alvyra:
+  gender_flag: 1
+  lang:
+  - lt
+Alvīna:
+  gender_flag: 1
+  lang:
+  - lv
+Alvīne:
+  gender_flag: 1
+  lang:
+  - lv
+Alwin:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  origin:
+  - ang
+Alwina:
+  gender_flag: 1
+  lang:
+  - de
+Alwine:
+  gender_flag: 1
+  lang:
+  - de
+Alwyn:
+  gender_flag: 2
+  is_a_variant_of:
+  - Alwin
+  lang:
+  - en
+  origin:
+  - ang
+Aly:
+  gender_flag: 7
+  is_short_for:
+  - Alison
+  lang:
+  - en
+  origin:
+  - ar
+Alyaksandr: {}
+Alyaksei: {}
+Alyaksey: {}
+Alycia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Alys:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alice
+  lang:
+  - cy
+  - fro
+  - kw
+Alysha:
+  gender_flag: 1
+  is_a_variant_of:
+  - Alicia
+  lang:
+  - en
+Alyshia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Alyson:
+  gender_flag: 1
+  lang:
+  - en
+Alyssa:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Alysson:
+  gender_flag: 1
+  lang:
+  - fr
+Alyvia:
+  gender_flag: 1
+  lang:
+  - en
+Alzina:
+  gender_flag: 1
+  lang:
+  - nrf
+Alziro:
+  gender_flag: 2
+  lang:
+  - it
+Alán:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alan
+  lang:
+  - es
+Alánek:
+  gender_flag: 2
+  is_short_for:
+  - Alan
+  lang:
+  - cs
+Alâeddin:
+  gender_flag: 2
+  lang:
+  - tr
+Alãkitdle:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Alçiçek:
+  gender_flag: 1
+  lang:
+  - tr
+Alècsis:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexis
+  lang:
+  - wa
+Alègzandrine:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alexandrina
+  lang:
+  - wa
+Alícia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alicia
+  lang:
+  - pt
+Alída:
+  gender_flag: 1
+  lang:
+  - is
+Alísa:
+  gender_flag: 1
+  lang:
+  - is
+Alča:
+  gender_flag: 1
+  is_short_for:
+  - Alena
+  lang:
+  - cs
+Alīna:
+  gender_flag: 1
+  lang:
+  - lv
+Alım:
+  gender_flag: 1
+  lang:
+  - tr
+Alžbeta:
+  gender_flag: 1
+  lang:
+  - sk
+Alžběta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Elizabeth
+  lang:
+  - cs
+Alžbětka:
+  gender_flag: 1
+  is_short_for:
+  - Alžběta
+  lang:
+  - cs
+Ama:
+  gender_flag: 1
+  lang:
+  - en
+Amaasa:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Amaasi:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Amabel:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Amabile:
+  gender_flag: 1
+  lang:
+  - it
+Amadea:
+  gender_flag: 1
+  lang:
+  - en
+  - la
+Amadeo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Amadeu
+  - Amedeo
+  is_equivalent_to:
+  - Amadeus
+  lang:
+  - ceb
+  - es
+  - it
+  - pt
+Amadeu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Amadeus
+  lang:
+  - ca
+  - gl
+  - pt
+Amadeus:
+  gender_flag: 2
+  lang:
+  - en
+  - fo
+  - la
+  origin:
+  - la
+Amadou:
+  gender_flag: 2
+  lang:
+  - fr
+Amadé:
+  gender_flag: 2
+  is_equivalent_to:
+  - Amadeus
+  lang:
+  - hu
+Amaia:
+  gender_flag: 1
+  lang:
+  - eu
+Amaka:
+  gender_flag: 1
+  lang:
+  - en
+Amal:
+  gender_flag: 3
+  lang:
+  - en
+Amala:
+  gender_flag: 1
+  lang:
+  - en
+Amalarico:
+  gender_flag: 2
+  lang:
+  - pt
+Amalia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Amalie
+  - Amelia
+  - Amelie
+  is_equivalent_to:
+  - Amelia
+  lang:
+  - de
+  - en
+  - es
+  - fi
+  - fo
+  - it
+  - sv
+  origin:
+  - gem
+Amalie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Amalia
+  - Amelie
+  is_equivalent_to:
+  - Amelia
+  lang:
+  - da
+  - de
+  - 'no'
+Amalija:
+  gender_flag: 1
+  lang:
+  - lt
+Amalio:
+  gender_flag: 2
+  lang:
+  - it
+Amalja:
+  gender_flag: 1
+  lang:
+  - fo
+Amalric:
+  gender_flag: 2
+  lang:
+  - fr
+Amalía:
+  gender_flag: 1
+  lang:
+  - is
+Amancio:
+  gender_flag: 2
+  lang:
+  - es
+Amand:
+  gender_flag: 2
+  lang:
+  - fr
+Amanda:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - fi
+  - fr
+  - id
+  - it
+  - lv
+  - 'no'
+  - pl
+  - pt
+  - sv
+  - tl
+  origin:
+  - en
+  - es
+  - la
+Amandine:
+  gender_flag: 1
+  lang:
+  - fr
+Amandino:
+  gender_flag: 2
+  lang:
+  - it
+Amando:
+  gender_flag: 2
+  lang:
+  - it
+Amani:
+  gender_flag: 1
+  lang:
+  - sw
+Amannazar:
+  gender_flag: 2
+  lang:
+  - tk
+Amanzio:
+  gender_flag: 2
+  lang:
+  - it
+Amapola:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - es
+Amar:
+  gender_flag: 2
+  lang:
+  - en
+Amara:
+  gender_flag: 1
+  lang:
+  - en
+  - pt
+Amare:
+  gender_flag: 2
+  lang:
+  - en
+Amari:
+  gender_flag: 7
+  lang:
+  - en
+Amaris:
+  gender_flag: 1
+  lang:
+  - en
+Amaro:
+  gender_flag: 2
+  lang:
+  - gl
+Amartya:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Amaryllis:
+  gender_flag: 1
+  lang:
+  - en
+  - la
+Amat:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - id
+Amata:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Amatista:
+  gender_flag: 1
+  lang:
+  - es
+Amato:
+  gender_flag: 2
+  lang:
+  - it
+Amaury:
+  gender_flag: 2
+  is_equivalent_to:
+  - Amory
+  lang:
+  - fr
+  - pt
+  origin:
+  - fr
+Amay:
+  gender_flag: 3
+  lang:
+  - ceb
+Amaya:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  origin:
+  - es
+Amayah:
+  gender_flag: 1
+  lang:
+  - en
+Amaziah:
+  gender_flag: 2
+  lang:
+  - en
+Amaç:
+  gender_flag: 2
+  lang:
+  - tr
+Amba:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Ambar:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Ambara:
+  lang:
+  - txb
+Amber:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - nl
+  - tl
+  origin:
+  - en
+  - hi
+Amberlynn:
+  gender_flag: 1
+  lang:
+  - en
+Ambers:
+  gender_flag: 2
+  is_short_for:
+  - Ambrose
+  lang:
+  - en
+  origin:
+  - grc
+Ambika:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Amboeze:
+  gender_flag: 2
+  lang:
+  - wa
+Amboy:
+  gender_flag: 2
+  lang:
+  - ceb
+Ambra:
+  gender_flag: 1
+  lang:
+  - it
+Ambre:
+  gender_flag: 1
+  is_equivalent_to:
+  - Amber
+  lang:
+  - fr
+  - nrf
+Ambrogio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ambrose
+  lang:
+  - it
+  origin:
+  - grc
+Ambroise:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ambrose
+  lang:
+  - en
+  origin:
+  - fr
+Ambrose:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Ambroży:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ambrose
+  lang:
+  - pl
+Ambrož:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ambrose
+  lang:
+  - cs
+  origin:
+  - grc
+Ambrósio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ambrose
+  lang:
+  - pt
+Ambróz:
+  gender_flag: 2
+  lang:
+  - sk
+Amedea:
+  gender_flag: 1
+  lang:
+  - it
+Amedeo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Amadeus
+  lang:
+  - it
+Amee:
+  gender_flag: 1
+  is_equivalent_to:
+  - Amy
+  lang:
+  - en
+  - fro
+  origin:
+  - la
+Ameer:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Amelia:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - fi
+  - pl
+  - tl
+  origin:
+  - en
+  - gem
+Amelie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Amelia
+  lang:
+  - de
+Ameline:
+  gender_flag: 1
+  lang:
+  - fr
+Amelio:
+  gender_flag: 2
+  lang:
+  - it
+Amelía:
+  gender_flag: 1
+  lang:
+  - is
+Amergin:
+  gender_flag: 2
+  lang:
+  - mga
+America:
+  gender_flag: 1
+  lang:
+  - en
+Americo:
+  gender_flag: 2
+  lang:
+  - en
+Americus:
+  gender_flag: 2
+  lang:
+  - en
+Amerigo:
+  gender_flag: 2
+  lang:
+  - it
+Amerika:
+  gender_flag: 1
+  lang:
+  - en
+Ames:
+  gender_flag: 1
+  is_short_for:
+  - Amy
+  lang:
+  - en
+Amethyst:
+  gender_flag: 1
+  lang:
+  - en
+Ametiszt:
+  gender_flag: 1
+  lang:
+  - hu
+Amey:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Amhlaidh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Olaf
+  lang:
+  - gd
+  origin:
+  - non
+Amie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Amika:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Amilcare:
+  gender_flag: 2
+  lang:
+  - it
+Amin:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - ar
+Amina:
+  gender_flag: 1
+  lang:
+  - en
+  - ha
+  - uz
+  origin:
+  - ar
+Aminah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Aminda:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - eo
+Amine:
+  gender_flag: 3
+  is_equivalent_to:
+  - Amin
+  lang:
+  - fr
+  - tr
+  origin:
+  - ar
+Aminnguaq:
+  gender_flag: 1
+  lang:
+  - kl
+Aminta:
+  gender_flag: 2
+  lang:
+  - it
+Amintore:
+  gender_flag: 2
+  lang:
+  - it
+Aminə:
+  gender_flag: 1
+  lang:
+  - az
+Amir:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Amira:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Amirah:
+  gender_flag: 1
+  lang:
+  - en
+  - id
+  origin:
+  - ar
+Amirul:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Amissa:
+  gender_flag: 1
+  lang:
+  - en
+Amit:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Amitabh:
+  gender_flag: 2
+  lang:
+  - en
+Amity:
+  gender_flag: 1
+  lang:
+  - en
+Amiya:
+  gender_flag: 1
+  lang:
+  - en
+Amiyah:
+  gender_flag: 1
+  lang:
+  - en
+Amleto:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hamlet
+  lang:
+  - it
+Amma:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Ammak:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Amor:
+  gender_flag: 1
+  lang:
+  - ceb
+Amory:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Amos:
+  gender_flag: 2
+  lang:
+  - en
+  - fo
+  - it
+Amparo:
+  gender_flag: 1
+  lang:
+  - es
+Ampelio:
+  gender_flag: 2
+  lang:
+  - it
+Ampelisca:
+  gender_flag: 1
+  lang:
+  - la
+Amrou:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Amrtarakṣita:
+  lang:
+  - txb
+Amrtasena:
+  lang:
+  - txb
+Amund:
+  gender_flag: 2
+  lang:
+  - 'no'
+Amy:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Amya:
+  gender_flag: 1
+  lang:
+  - en
+Amyas:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Amye:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Amza:
+  gender_flag: 2
+  lang:
+  - ro
+Amália:
+  gender_flag: 1
+  is_equivalent_to:
+  - Amalia
+  - Amelia
+  lang:
+  - hu
+  - pt
+  - sk
+Amálie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Amelia
+  lang:
+  - cs
+Amálka:
+  gender_flag: 1
+  is_short_for:
+  - Amálie
+  lang:
+  - cs
+Amâssa:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Amâsse:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Amédée:
+  gender_flag: 2
+  is_equivalent_to:
+  - Amadeus
+  lang:
+  - fr
+Amélia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Amelia
+  lang:
+  - pt
+Amélie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Amelia
+  lang:
+  - fr
+Américo:
+  gender_flag: 2
+  lang:
+  - es
+  - pt
+Amílcar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hamilcar
+  lang:
+  - es
+  - pt
+  origin:
+  - xpu
+Amíra:
+  gender_flag: 1
+  lang:
+  - is
+Amós:
+  gender_flag: 2
+  is_equivalent_to:
+  - Amos
+  lang:
+  - pt
+Amý:
+  gender_flag: 1
+  lang:
+  - is
+Amālija:
+  gender_flag: 1
+  lang:
+  - lv
+Amọkẹ:
+  gender_flag: 1
+  lang:
+  - yo
+An:
+  gender_flag: 7
+  lang:
+  - en
+  - vi
+  origin:
+  - zh
+An-an:
+  gender_flag: 1
+  lang:
+  - ceb
+An-be: {}
+Ana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ann
+  - Anna
+  - Anne
+  - Hannah
+  lang:
+  - en
+  - es
+  - pt
+  - ro
+  - sh
+  - sl
+  origin:
+  - grc
+  - he
+  - la
+Anabel:
+  gender_flag: 1
+  is_a_variant_of:
+  - Annabel
+  is_equivalent_to:
+  - Annabel
+  lang:
+  - en
+  - es
+  - pt
+  origin:
+  - la
+Anabela:
+  gender_flag: 1
+  is_equivalent_to:
+  - Annabel
+  - Annabelle
+  lang:
+  - pt
+  - sk
+Anabella:
+  gender_flag: 1
+  lang:
+  - en
+Anabelle:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Anacleto:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+  - it
+Anacreonte:
+  gender_flag: 2
+  lang:
+  - pt
+Anahi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - es
+Anahit:
+  gender_flag: 1
+  lang:
+  - en
+Anahy:
+  gender_flag: 1
+  lang:
+  - pt
+Anahí:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - gn
+Anakin:
+  gender_flag: 2
+  lang:
+  - en
+Analia:
+  gender_flag: 1
+  lang:
+  - en
+Analyn:
+  gender_flag: 1
+  lang:
+  - ceb
+Analía:
+  gender_flag: 1
+  lang:
+  - es
+Anand:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Ananda:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - sa
+Anania:
+  gender_flag: 2
+  lang:
+  - it
+Ananias:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+Ananta:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Ananya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Anar:
+  gender_flag: 1
+  lang:
+  - tr
+Anastacia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Anastasia
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+  - grc
+Anastasi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sla
+Anastasia:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - tl
+  origin:
+  - en
+  - grc
+Anastasie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anastasia
+  lang:
+  - fr
+Anastasija:
+  gender_flag: 1
+  lang:
+  - lv
+  origin:
+  - grc
+Anastasio:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+  origin:
+  - grc
+Anastasius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Anastatia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Anastasia
+  lang:
+  - en
+Anastazija:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anastasia
+  lang:
+  - lt
+Anastazio:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anastasia
+  lang:
+  - eo
+  origin:
+  - grc
+Anastazja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anastasia
+  lang:
+  - pl
+Anastazy:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anastasius
+  lang:
+  - pl
+Anastácia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anastasia
+  lang:
+  - pt
+Anastácio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anastasius
+  lang:
+  - pt
+Anastásio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anastasius
+  lang:
+  - pt
+  origin:
+  - grc
+Anastázia:
+  gender_flag: 1
+  lang:
+  - sk
+Anastázie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anastasia
+  lang:
+  - cs
+Anasuya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Anasztázia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anastasia
+  lang:
+  - hu
+Anatol:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anatole
+  lang:
+  - de
+  - pl
+Anatole:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - grc
+Anatoli: {}
+Anatolijs:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - ru
+Anatolio:
+  gender_flag: 2
+  lang:
+  - it
+Anatolius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Anatólia:
+  gender_flag: 1
+  lang:
+  - hu
+Anatólio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anatolius
+  lang:
+  - pt
+  origin:
+  - grc
+Anaya:
+  gender_flag: 1
+  lang:
+  - en
+Anaïs:
+  gender_flag: 1
+  lang:
+  - fr
+Anboèse:
+  gender_flag: 2
+  lang:
+  - wa
+Ance:
+  gender_flag: 1
+  lang:
+  - lv
+Anchor:
+  gender_flag: 2
+  lang:
+  - en
+Anco:
+  gender_flag: 2
+  lang:
+  - pt
+Ancus:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  origin:
+  - la
+Ancuța:
+  gender_flag: 1
+  lang:
+  - ro
+Anda:
+  gender_flag: 1
+  lang:
+  - cs
+  - lv
+Andarā:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - fia
+  origin:
+  - grc
+Andeng:
+  gender_flag: 1
+  is_short_for:
+  - Andrea
+  lang:
+  - tl
+Ander:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - eu
+  - sco
+Andero:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - et
+  origin:
+  - la
+Anders:
+  gender_flag: 2
+  lang:
+  - da
+  - is
+  - 'no'
+  - sv
+Anderson:
+  gender_flag: 2
+  lang:
+  - en
+Andi:
+  gender_flag: 3
+  is_short_for:
+  - Andrea
+  - Andreas
+  lang:
+  - de
+  - hu
+  - id
+  - sq
+  origin:
+  - bug
+  - jv
+Andie:
+  gender_flag: 7
+  is_short_for:
+  - Andrea
+  - Andrew
+  - André
+  lang:
+  - en
+  - fr
+  origin:
+  - grc
+Andini:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Andis:
+  gender_flag: 2
+  lang:
+  - lv
+Andjlene:
+  gender_flag: 1
+  lang:
+  - wa
+Andjline:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angelina
+  lang:
+  - wa
+Ando:
+  gender_flag: 2
+  lang:
+  - et
+Andon:
+  gender_flag: 2
+  lang:
+  - sq
+Andor:
+  gender_flag: 2
+  lang:
+  - hu
+  - nn
+  origin:
+  - non
+Andossus:
+  gender_flag: 2
+  lang:
+  - xaq
+Andoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Andra:
+  gender_flag: 3
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - et
+  - lv
+  - sco
+Andras:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - fo
+Andraž:
+  gender_flag: 2
+  lang:
+  - sl
+Andre:
+  gender_flag: 2
+  is_a_variant_of:
+  - Andreas
+  - Andres
+  lang:
+  - de
+  - en
+  - et
+  origin:
+  - fr
+Andrea:
+  gender_flag: 3
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - cs
+  - da
+  - de
+  - egl
+  - en
+  - es
+  - fo
+  - fr
+  - hu
+  - is
+  - it
+  - 'no'
+  - sh
+  - sk
+  - sv
+  - tl
+Andreas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - gv
+  - la
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - grc
+Andree:
+  gender_flag: 3
+  lang:
+  - en
+  - izh
+  origin:
+  - fr
+Andreea:
+  gender_flag: 1
+  is_equivalent_to:
+  - Andrea
+  lang:
+  - ro
+  origin:
+  - grc
+Andrei:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - pt
+  - ro
+  origin:
+  - grc
+  - ru
+Andreia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Andrea
+  lang:
+  - pt
+Andreina:
+  gender_flag: 1
+  lang:
+  - it
+Andrej:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - cs
+  - sh
+  - sk
+  - sl
+  origin:
+  - grc
+Andreja:
+  gender_flag: 1
+  lang:
+  - sl
+Andrejka:
+  gender_flag: 1
+  is_short_for:
+  - Andrea
+  lang:
+  - cs
+Andrejs:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - grc
+Andrejus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - lt
+Andreo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - eo
+Andres:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - en
+  - et
+  - tl
+  origin:
+  - es
+Andressa:
+  gender_flag: 1
+  lang:
+  - pt
+Andreu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - ca
+  origin:
+  - grc
+Andrew:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Andrey: {}
+Andri:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Andria:
+  gender_flag: 1
+  is_equivalent_to:
+  - Andrea
+  lang:
+  - la
+  origin:
+  - grc
+Andrias:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - fo
+Andries:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - af
+  - nl
+  origin:
+  - grc
+Andrija:
+  gender_flag: 2
+  lang:
+  - sh
+Andrina:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Andrine:
+  gender_flag: 1
+  lang:
+  - 'no'
+Andring:
+  gender_flag: 1
+  lang:
+  - ceb
+Andris:
+  gender_flag: 2
+  is_short_for:
+  - András
+  lang:
+  - hu
+  - lv
+Andriu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - oc
+Andrius:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - lt
+Androméda:
+  gender_flag: 1
+  lang:
+  - hu
+Andronico:
+  gender_flag: 2
+  lang:
+  - it
+Andrus:
+  gender_flag: 2
+  lang:
+  - et
+Andrzej:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - pl
+András:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - hu
+Andráska:
+  gender_flag: 2
+  is_short_for:
+  - András
+  lang:
+  - hu
+Andrâ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - nrf
+André:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - af
+  - de
+  - en
+  - es
+  - fr
+  - gl
+  - nl
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - fr
+  - grc
+  - pt
+André-Marie:
+  gender_flag: 2
+  lang:
+  - fr
+Andréan:
+  gender_flag: 7
+  lang:
+  - fr
+Andréana:
+  gender_flag: 1
+  lang:
+  - fr
+  - mg
+Andréane:
+  gender_flag: 1
+  lang:
+  - fr
+Andréanne:
+  gender_flag: 1
+  lang:
+  - fr
+Andrée:
+  gender_flag: 1
+  lang:
+  - fr
+Andrée-Anne:
+  gender_flag: 1
+  lang:
+  - fr
+Andrés:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - es
+  - is
+  origin:
+  - grc
+Andrésína:
+  gender_flag: 1
+  lang:
+  - is
+Andrêye:
+  gender_flag: 1
+  is_equivalent_to:
+  - Andrea
+  lang:
+  - wa
+Andrî:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - wa
+Andrómaca:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - grc
+Anduit:
+  gender_flag: 2
+  lang:
+  - xvn
+Andulka:
+  gender_flag: 1
+  is_short_for:
+  - Anna
+  lang:
+  - cs
+Andy:
+  gender_flag: 7
+  is_short_for:
+  - Andrea
+  - Andrew
+  lang:
+  - en
+  origin:
+  - grc
+Andë:
+  gender_flag: 1
+  lang:
+  - sq
+Anděla:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angela
+  lang:
+  - cs
+Andělka:
+  gender_flag: 1
+  is_short_for:
+  - Anděla
+  lang:
+  - cs
+Andžejs:
+  gender_flag: 2
+  lang:
+  - lv
+Andžela:
+  gender_flag: 1
+  lang:
+  - lv
+Ane:
+  gender_flag: 1
+  is_a_variant_of:
+  - Anne
+  lang:
+  - da
+  - 'no'
+  - pt
+  - wa
+  origin:
+  - en
+  - fr
+Ane-Djo:
+  gender_flag: 1
+  lang:
+  - wa
+Ane-Djôzefe:
+  gender_flag: 1
+  lang:
+  - wa
+Aneesh:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Anelisa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Annalise
+  lang:
+  - pt
+Anelise:
+  gender_flag: 1
+  is_a_variant_of:
+  - Anne-Lise
+  lang:
+  - 'no'
+Anelma:
+  gender_flag: 1
+  lang:
+  - fi
+Anelė:
+  gender_flag: 1
+  lang:
+  - lt
+Aneta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Annette
+  lang:
+  - cs
+  - pl
+Anete:
+  gender_flag: 1
+  lang:
+  - et
+  - lv
+Anetka:
+  gender_flag: 1
+  is_short_for:
+  - Aneta
+  lang:
+  - cs
+Anett:
+  gender_flag: 1
+  is_equivalent_to:
+  - Annette
+  lang:
+  - hu
+  - 'no'
+Anetta:
+  gender_flag: 1
+  lang:
+  - is
+Anette:
+  gender_flag: 1
+  is_a_variant_of:
+  - Annette
+  lang:
+  - da
+  - 'no'
+  - sv
+Aneurin:
+  gender_flag: 2
+  lang:
+  - cy
+Anežka:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agnes
+  lang:
+  - cs
+  - sk
+Anfos:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alphonse
+  lang:
+  - fr
+  - pro
+Angaidh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Angie
+  is_short_for:
+  - Aonghas
+  lang:
+  - gd
+Angandio:
+  gender_flag: 2
+  lang:
+  - goh
+Ange:
+  gender_flag: 3
+  is_short_for:
+  - Angela
+  lang:
+  - en
+  - fr
+Angel:
+  gender_flag: 7
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+  - es
+  - grc
+  - la
+Angela:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - et
+  - fo
+  - it
+  - la
+  - lt
+  - sk
+  - sv
+  origin:
+  - grc
+  - la
+Angele:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+Angelica:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  - sv
+  origin:
+  - grc
+Angelico:
+  gender_flag: 2
+  lang:
+  - it
+Angelika:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angelica
+  lang:
+  - de
+  - et
+  - fo
+  - hu
+  - sk
+Angelina: {}
+Angeline:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angelina
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Angelino:
+  gender_flag: 2
+  lang:
+  - it
+Angelique:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+Angelo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Angel
+  lang:
+  - de
+  - en
+  - it
+  origin:
+  - it
+  - la
+Angelos:
+  gender_flag: 7
+  lang:
+  - en
+Angelus:
+  gender_flag: 2
+  is_a_variant_of:
+  - Angelo
+  is_equivalent_to:
+  - Angelo
+  lang:
+  - ceb
+  - en
+  - la
+  origin:
+  - grc
+Angelyne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Angeline
+  lang:
+  - en
+Angelíka:
+  gender_flag: 1
+  lang:
+  - is
+Angerla:
+  gender_flag: 3
+  lang:
+  - kl
+Angerlannguaq:
+  gender_flag: 3
+  lang:
+  - kl
+Angerlartoq:
+  gender_flag: 3
+  lang:
+  - kl
+Angerlartunnguaq:
+  gender_flag: 3
+  lang:
+  - kl
+Angga:
+  gender_flag: 1
+  lang:
+  - ceb
+Anggraeni:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Anggraini:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Angharad:
+  gender_flag: 1
+  lang:
+  - cy
+Anghel:
+  gender_flag: 2
+  lang:
+  - ro
+Anghus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Angus
+  lang:
+  - gv
+  origin:
+  - sga
+Angi:
+  gender_flag: 1
+  lang:
+  - en
+Angie:
+  gender_flag: 1
+  is_short_for:
+  - Angela
+  lang:
+  - en
+Angiùla:
+  gender_flag: 1
+  lang:
+  - rgn
+  origin:
+  - la
+Angking:
+  gender_flag: 2
+  lang:
+  - ceb
+Angnîta:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Ango:
+  gender_flag: 2
+  lang:
+  - ha
+Anguish:
+  gender_flag: 2
+  lang:
+  - en
+Angus:
+  gender_flag: 2
+  lang:
+  - en
+  - gd
+  - sco
+Angyalka:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angelica
+  lang:
+  - hu
+Angèle:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angela
+  lang:
+  - fr
+Angéla:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angela
+  lang:
+  - hu
+Angélica:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angelica
+  lang:
+  - es
+  - pt
+Angélina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angelina
+  lang:
+  - es
+  - fr
+  - pt
+Angéline:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angelina
+  lang:
+  - fr
+Angélique:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angelica
+  lang:
+  - fr
+Anh:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Anhun:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - cy
+  origin:
+  - la
+Ani:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ann
+  lang:
+  - mi
+Ania:
+  gender_flag: 1
+  is_short_for:
+  - Anna
+  lang:
+  - pl
+Aniana:
+  gender_flag: 1
+  lang:
+  - ceb
+Aniceto:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+Aniela:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angela
+  lang:
+  - pl
+Anielka:
+  gender_flag: 1
+  is_short_for:
+  - Aniela
+  lang:
+  - pl
+Aniello:
+  gender_flag: 2
+  lang:
+  - it
+Anika:
+  gender_flag: 1
+  is_a_variant_of:
+  - Annika
+  lang:
+  - de
+Anikó:
+  gender_flag: 1
+  lang:
+  - hu
+Anikẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Animesh:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Anindya:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - kaw
+Aniol:
+  gender_flag: 2
+  lang:
+  - ca
+Anipay:
+  gender_flag: 1
+  lang:
+  - ceb
+Anirban:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - bn
+Anirvan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Anis:
+  gender_flag: 7
+  lang:
+  - id
+  origin:
+  - jv
+Anisha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Anissa:
+  gender_flag: 1
+  lang:
+  - en
+Anita:
+  gender_flag: 1
+  is_equivalent_to:
+  - Annie
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - fi
+  - fo
+  - fr
+  - hu
+  - lv
+  - 'no'
+  - pt
+  - sq
+  - sv
+Anito:
+  gender_flag: 2
+  lang:
+  - it
+Anitta:
+  gender_flag: 1
+  is_a_variant_of:
+  - Anita
+  lang:
+  - fi
+Anitë:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anita
+  lang:
+  - sq
+  origin:
+  - es
+Aniya:
+  gender_flag: 1
+  lang:
+  - en
+Aniyah:
+  gender_flag: 1
+  lang:
+  - en
+Aniye:
+  gender_flag: 1
+  is_equivalent_to:
+  - Annie
+  lang:
+  - wa
+Anička:
+  gender_flag: 1
+  is_short_for:
+  - Anna
+  lang:
+  - cs
+Anja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anya
+  lang:
+  - da
+  - de
+  - fi
+  - fo
+  - 'no'
+  - sv
+Anjali:
+  gender_flag: 1
+  lang:
+  - en
+Anjaneyulu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Anjo:
+  gender_flag: 3
+  lang:
+  - ceb
+  - eo
+  origin:
+  - ceb
+Anjèlique:
+  gender_flag: 1
+  lang:
+  - wa
+Anka:
+  gender_flag: 1
+  is_equivalent_to:
+  - Annie
+  is_short_for:
+  - Ana
+  - Anna
+  lang:
+  - pl
+  - sh
+Anke:
+  gender_flag: 1
+  is_short_for:
+  - Anna
+  lang:
+  - de
+  - nds-DE
+  - nds-de
+  origin:
+  - fy
+  - nds
+Anker:
+  gender_flag: 2
+  lang:
+  - da
+Ankit:
+  gender_flag: 2
+  lang:
+  - en
+Anlaf:
+  gender_flag: 2
+  lang:
+  - ang
+Anmol:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - hi
+Ann:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anna
+  lang:
+  - cy
+  - da
+  - en
+  - et
+  - gv
+  - 'no'
+  - sv
+  - tl
+  origin:
+  - en
+  - grc
+  - he
+Ann-Charlotte:
+  gender_flag: 1
+  lang:
+  - sv
+Ann-Katrin:
+  gender_flag: 1
+  lang:
+  - de
+Ann-Kristin:
+  gender_flag: 1
+  lang:
+  - 'no'
+  - sv
+Ann-Mari:
+  gender_flag: 1
+  lang:
+  - sv
+Ann-Marie:
+  gender_flag: 1
+  lang:
+  - sv
+Ann-Sofi:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ann-Sofie
+  lang:
+  - sv
+Ann-Sofie:
+  gender_flag: 1
+  lang:
+  - sv
+Anna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ann
+  lang:
+  - ca
+  - cs
+  - cy
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - fo
+  - fr
+  - gd
+  - hu
+  - is
+  - it
+  - kl
+  - la
+  - lv
+  - nl
+  - 'no'
+  - pl
+  - pt
+  - sk
+  - sv
+  origin:
+  - da
+  - grc
+  - he
+  - la
+Anna-Kaisa:
+  gender_flag: 1
+  lang:
+  - fi
+Anna-Leena:
+  gender_flag: 1
+  lang:
+  - fi
+Anna-Liisa:
+  gender_flag: 1
+  lang:
+  - fi
+Anna-Maija:
+  gender_flag: 1
+  lang:
+  - fi
+Anna-Mari:
+  gender_flag: 1
+  lang:
+  - fi
+  origin:
+  - he
+Anna-Maria:
+  gender_flag: 1
+  lang:
+  - fi
+Annabel:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Annabell:
+  gender_flag: 1
+  is_equivalent_to:
+  - Annabel
+  lang:
+  - de
+  - en
+  origin:
+  - la
+Annabella:
+  gender_flag: 1
+  is_a_variant_of:
+  - Annabel
+  - Annabelle
+  lang:
+  - en
+  origin:
+  - la
+Annabelle:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - fr
+  origin:
+  - en
+  - la
+Annabeth:
+  gender_flag: 1
+  lang:
+  - en
+Annag:
+  gender_flag: 1
+  lang:
+  - gd
+  origin:
+  - grc
+Annageldi:
+  gender_flag: 2
+  lang:
+  - tk
+Annalee:
+  gender_flag: 1
+  lang:
+  - en
+Annalena:
+  gender_flag: 1
+  lang:
+  - de
+Annalice:
+  gender_flag: 1
+  lang:
+  - en
+Annalise:
+  gender_flag: 1
+  lang:
+  - en
+Annamari:
+  gender_flag: 1
+  lang:
+  - fi
+  origin:
+  - he
+Annamuhammet:
+  gender_flag: 2
+  lang:
+  - tk
+Annamária:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anne Marie
+  lang:
+  - hu
+Annaple:
+  gender_flag: 1
+  lang:
+  - en
+Annapurna:
+  gender_flag: 1
+  lang:
+  - en
+Annar:
+  gender_flag: 2
+  lang:
+  - is
+Annassi:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Anndra:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - gd
+Anndrais:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - gd
+Anne:
+  gender_flag: 7
+  is_a_variant_of:
+  - Anna
+  is_equivalent_to:
+  - Ann
+  is_short_for:
+  - Anders
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - fr
+  - fy
+  - nl
+  - 'no'
+  - nrf
+  - sv
+  origin:
+  - gem
+  - he
+Anne Marie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Anne-Andrée:
+  gender_flag: 1
+  lang:
+  - fr
+Anne-Caroline:
+  gender_flag: 1
+  lang:
+  - fr
+Anne-Laure:
+  gender_flag: 1
+  lang:
+  - fr
+Anne-Lise:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Anne-Mari:
+  gender_flag: 1
+  lang:
+  - fi
+  origin:
+  - he
+Anne-Maria:
+  gender_flag: 1
+  lang:
+  - fi
+Anne-Marie:
+  gender_flag: 1
+  lang:
+  - da
+  - fr
+  - nl
+  - 'no'
+  - sv
+Anne-Mette:
+  gender_flag: 1
+  lang:
+  - da
+Anne-Sofie:
+  gender_flag: 1
+  lang:
+  - da
+Anne-Sophie:
+  gender_flag: 1
+  lang:
+  - fr
+Annegret:
+  gender_flag: 1
+  lang:
+  - de
+Anneke:
+  gender_flag: 1
+  lang:
+  - nl
+Annel:
+  gender_flag: 2
+  lang:
+  - is
+Annele:
+  gender_flag: 1
+  lang:
+  - fi
+Annelen:
+  gender_flag: 1
+  lang:
+  - 'no'
+Anneli:
+  gender_flag: 1
+  lang:
+  - de
+  - et
+  - fi
+  - sv
+Annelie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Anneli
+  lang:
+  - de
+  - sv
+Annelies:
+  gender_flag: 1
+  lang:
+  - nl
+Anneliese:
+  gender_flag: 1
+  lang:
+  - de
+Anneline:
+  gender_flag: 1
+  lang:
+  - 'no'
+Annelise:
+  gender_flag: 1
+  lang:
+  - da
+Annemarie:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - gsw
+Annemette:
+  gender_flag: 1
+  is_a_variant_of:
+  - Anne-Mette
+  lang:
+  - da
+  - 'no'
+Annemieke:
+  gender_flag: 1
+  lang:
+  - nl
+Annemor:
+  gender_flag: 1
+  lang:
+  - 'no'
+Annetta:
+  gender_flag: 1
+  lang:
+  - is
+Annette:
+  gender_flag: 1
+  is_short_for:
+  - Anne
+  lang:
+  - da
+  - de
+  - en
+  - fr
+  - 'no'
+  - sv
+  origin:
+  - fr
+Annetto:
+  gender_flag: 2
+  lang:
+  - it
+Anngerd:
+  gender_flag: 1
+  lang:
+  - 'no'
+Anni:
+  gender_flag: 1
+  is_a_variant_of:
+  - Anna
+  - Annie
+  lang:
+  - da
+  - de
+  - et
+  - fi
+  - kl
+  origin:
+  - da
+Annibale:
+  gender_flag: 2
+  lang:
+  - it
+Annica:
+  gender_flag: 1
+  lang:
+  - sv
+Annick:
+  gender_flag: 1
+  is_short_for:
+  - Anne
+  lang:
+  - fr
+  origin:
+  - br
+Annico:
+  gender_flag: 2
+  lang:
+  - it
+Annie:
+  gender_flag: 1
+  is_short_for:
+  - Agnes
+  - Ann
+  lang:
+  - ceb
+  - da
+  - en
+  - fr
+  - nl
+  - 'no'
+  - sco
+  - sv
+  origin:
+  - en
+  - he
+Anniina:
+  gender_flag: 1
+  lang:
+  - fi
+Anniita:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Annija:
+  gender_flag: 1
+  lang:
+  - lv
+Annika:
+  gender_flag: 1
+  is_a_variant_of:
+  - Anna
+  is_short_for:
+  - Anna
+  lang:
+  - de
+  - en
+  - et
+  - fi
+  - fo
+  - sv
+  origin:
+  - he
+  - nds
+  - sv
+Anniken:
+  gender_flag: 1
+  lang:
+  - 'no'
+Annikka:
+  gender_flag: 1
+  lang:
+  - fi
+Annikki:
+  gender_flag: 1
+  lang:
+  - fi
+Annina:
+  gender_flag: 1
+  lang:
+  - de
+  - fi
+  - it
+Annino:
+  gender_flag: 2
+  lang:
+  - it
+Anniston:
+  gender_flag: 1
+  lang:
+  - en
+Annita:
+  gender_flag: 1
+  is_a_variant_of:
+  - Anita
+  lang:
+  - 'no'
+Annito:
+  gender_flag: 2
+  lang:
+  - it
+Annmarie:
+  gender_flag: 1
+  lang:
+  - 'no'
+Anno:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anne
+  lang:
+  - eo
+  origin:
+  - he
+Annu:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anna
+  lang:
+  - fi
+  - izh
+Annuccio:
+  gender_flag: 2
+  lang:
+  - it
+Annukka:
+  gender_flag: 1
+  lang:
+  - fi
+Annunciato:
+  gender_flag: 2
+  lang:
+  - it
+Annuncio:
+  gender_flag: 2
+  lang:
+  - it
+Annunziata:
+  gender_flag: 1
+  lang:
+  - it
+Annunziato:
+  gender_flag: 2
+  lang:
+  - it
+Annunzio:
+  gender_flag: 2
+  lang:
+  - it
+Annuška:
+  gender_flag: 1
+  is_equivalent_to:
+  - Annette
+  lang:
+  - izh
+Anny:
+  gender_flag: 1
+  is_a_variant_of:
+  - Anni
+  - Annie
+  lang:
+  - da
+  - de
+  - 'no'
+  - sv
+Annácska:
+  gender_flag: 1
+  is_short_for:
+  - Anna
+  lang:
+  - hu
+Anní:
+  gender_flag: 1
+  lang:
+  - is
+Anný:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Ano:
+  gender_flag: 2
+  lang:
+  - ceb
+  - fi
+Anona:
+  gender_flag: 1
+  lang:
+  - en
+Anouchka:
+  gender_flag: 1
+  lang:
+  - fr
+Anouk:
+  gender_flag: 1
+  lang:
+  - nl
+Anrico:
+  gender_flag: 2
+  is_a_variant_of:
+  - Enrico
+  lang:
+  - it
+Anrijs:
+  gender_flag: 2
+  lang:
+  - lv
+Anrique:
+  gender_flag: 2
+  lang:
+  - pt
+Anrī: {}
+Ans:
+  gender_flag: 1
+  lang:
+  - nl
+Ansa:
+  gender_flag: 1
+  lang:
+  - fi
+Ansaldo:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+  origin:
+  - gem-pro
+  - it
+Ansano:
+  gender_flag: 2
+  lang:
+  - it
+Ansberto:
+  gender_flag: 2
+  lang:
+  - it
+Anse:
+  gender_flag: 2
+  lang:
+  - en
+Ansel:
+  gender_flag: 2
+  lang:
+  - en
+Anselm:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Anselma:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - es
+Anselme:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anselm
+  lang:
+  - fr
+  origin:
+  - gem
+Anselmi:
+  gender_flag: 2
+  lang:
+  - fi
+Anselmo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anselm
+  lang:
+  - ceb
+  - es
+  - it
+  - pt
+Anselmuccio:
+  gender_flag: 2
+  lang:
+  - it
+Anselmus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anselm
+  lang:
+  - la
+  origin:
+  - gem
+Ansgar:
+  gender_flag: 2
+  lang:
+  - de
+  - fo
+Ansis:
+  gender_flag: 2
+  lang:
+  - lv
+Anslee:
+  gender_flag: 1
+  lang:
+  - en
+Ansley:
+  gender_flag: 1
+  lang:
+  - en
+Anson:
+  gender_flag: 2
+  lang:
+  - en
+Ansovino:
+  gender_flag: 2
+  lang:
+  - it
+Ansprando:
+  gender_flag: 2
+  lang:
+  - it
+Anssi:
+  gender_flag: 2
+  lang:
+  - fi
+Ansuman:
+  gender_flag: 2
+  lang:
+  - en
+Ansvar:
+  gender_flag: 2
+  lang:
+  - gmq-osw
+  origin:
+  - non
+Ant:
+  gender_flag: 2
+  is_short_for:
+  - Anthony
+  lang:
+  - en
+  - tr
+  origin:
+  - la
+Antaine:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - ga
+Antal:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - hu
+Antamoenides:
+  gender_flag: 2
+  lang:
+  - la
+Antanas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - lt
+Antanina:
+  gender_flag: 1
+  lang:
+  - lt
+Antara:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Antauro:
+  gender_flag: 2
+  lang:
+  - es
+Ante:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - sh
+Anteia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anthea
+  lang:
+  - pt
+Antek:
+  gender_flag: 2
+  is_short_for:
+  - Antoni
+  lang:
+  - pl
+Antenor:
+  gender_flag: 2
+  lang:
+  - pt
+Antenore:
+  gender_flag: 2
+  lang:
+  - it
+Anteo:
+  gender_flag: 2
+  lang:
+  - it
+Anterastilis:
+  gender_flag: 1
+  lang:
+  - la
+Antero:
+  gender_flag: 2
+  lang:
+  - es
+  - fi
+  - it
+  - pt
+  origin:
+  - la
+Anthea:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Anthoin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - gv
+  origin:
+  - la
+Anthony:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Anti:
+  gender_flag: 2
+  is_short_for:
+  - Antal
+  lang:
+  - et
+  - hu
+Antigono:
+  gender_flag: 2
+  lang:
+  - it
+Antimo:
+  gender_flag: 2
+  lang:
+  - it
+Antines:
+  gender_flag: 2
+  lang:
+  - fo
+Antinis:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - fo
+Antino:
+  gender_flag: 2
+  lang:
+  - it
+Antiochos:
+  gender_flag: 2
+  is_equivalent_to:
+  - Antiochus
+  lang:
+  - fr
+  origin:
+  - grc
+Antiochus:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - grc
+Antipho:
+  gender_flag: 2
+  lang:
+  - la
+Antisthenes:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Antje:
+  gender_flag: 1
+  is_short_for:
+  - Anna
+  lang:
+  - de
+  origin:
+  - fy
+  - nl
+Antjuan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - en
+  origin:
+  - fr
+Antoenne:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - wa
+Antoine:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Antoinette:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - en
+  - fr
+  - nrf
+  origin:
+  - en
+  - fr
+Antolin:
+  gender_flag: 2
+  lang:
+  - ceb
+Anton:
+  gender_flag: 2
+  lang:
+  - ca
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - fo
+  - is
+  - nl
+  - 'no'
+  - sk
+  - sl
+  - sv
+  origin:
+  - la
+Antone:
+  gender_flag: 2
+  lang:
+  - en
+Antonela:
+  gender_flag: 1
+  is_equivalent_to:
+  - Antonella
+  lang:
+  - es
+  - pt
+Antonella:
+  gender_flag: 1
+  lang:
+  - it
+Antonette:
+  gender_flag: 1
+  lang:
+  - en
+Antoni:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - ca
+  - pl
+Antonia:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - es
+  - fo
+  - it
+  - pl
+  - sv
+Antonie:
+  gender_flag: 1
+  lang:
+  - cs
+  - da
+  - 'no'
+Antonieta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Antoinette
+  lang:
+  - es
+  - pt
+Antonietta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Antoinette
+  lang:
+  - it
+Antonija:
+  gender_flag: 1
+  lang:
+  - lv
+Antonin:
+  gender_flag: 2
+  lang:
+  - de
+Antonina:
+  gender_flag: 1
+  lang:
+  - en
+  - pl
+  - pt
+  origin:
+  - la
+Antonino:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Antoninus:
+  gender_flag: 2
+  lang:
+  - la
+Antonio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - en
+  - es
+  - it
+Antoniu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - ro
+  origin:
+  - la
+Antons:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - la
+Antony:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Antonín:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - cs
+  origin:
+  - la
+Antoon:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - nl
+Antoņina:
+  gender_flag: 1
+  lang:
+  - lv
+Antoś:
+  gender_flag: 2
+  is_short_for:
+  - Antoni
+  lang:
+  - pl
+Antra:
+  gender_flag: 1
+  lang:
+  - lv
+Antron:
+  gender_flag: 2
+  lang:
+  - en
+Ants:
+  gender_flag: 2
+  lang:
+  - et
+Antti:
+  gender_flag: 2
+  lang:
+  - fi
+Antto:
+  gender_flag: 2
+  lang:
+  - fi
+Antton:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - eu
+  - fi
+Anttoni:
+  gender_flag: 2
+  lang:
+  - fi
+Antun:
+  gender_flag: 2
+  lang:
+  - sh
+Antune:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - dlm
+  origin:
+  - la
+Antwan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - en
+  origin:
+  - fr
+Antwon:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - en
+  origin:
+  - fr
+Antwène:
+  gender_flag: 2
+  lang:
+  - wa
+Antão:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - pt
+Antòni:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - oc
+  origin:
+  - la
+Antònia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Antonia
+  lang:
+  - ca
+Antóin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - ga
+Antón:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - es
+  - gl
+Antónia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Antonia
+  lang:
+  - hu
+  - pt
+  - sk
+António:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - pt
+Antône:
+  gender_flag: 2
+  lang:
+  - wa
+Antônia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Antónia
+  lang:
+  - pt
+Antônio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - pt
+Anu:
+  gender_flag: 1
+  is_a_variant_of:
+  - Anna
+  lang:
+  - en
+  - et
+  - fi
+Anuhea:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Anuj:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Anund:
+  gender_flag: 2
+  lang:
+  - sv
+Anurag:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Anuša:
+  gender_flag: 1
+  lang:
+  - sl
+Anuška:
+  gender_flag: 1
+  is_short_for:
+  - Anna
+  lang:
+  - cs
+Anuța:
+  gender_flag: 1
+  lang:
+  - ro
+Anwar:
+  gender_flag: 3
+  lang:
+  - en
+  - id
+  - ms
+  origin:
+  - ar
+Anya:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - ru
+Aníbal:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hannibal
+  lang:
+  - es
+  - pt
+  origin:
+  - la
+Anína:
+  gender_flag: 1
+  lang:
+  - is
+Anıl:
+  gender_flag: 2
+  lang:
+  - tr
+Anže:
+  gender_flag: 2
+  lang:
+  - sl
+Anžela:
+  gender_flag: 1
+  lang:
+  - lv
+Anželika:
+  gender_flag: 1
+  lang:
+  - lv
+Aodh:
+  gender_flag: 2
+  lang:
+  - ga
+  - gd
+  origin:
+  - sga
+Aodhagán:
+  gender_flag: 2
+  lang:
+  - ga
+  origin:
+  - sga
+Aofred:
+  gender_flag: 2
+  lang:
+  - br
+Aoi:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Aoibhe:
+  gender_flag: 1
+  is_a_variant_of:
+  - Aoife
+  lang:
+  - ga
+  origin:
+  - sga
+Aoife:
+  gender_flag: 1
+  lang:
+  - ga
+  origin:
+  - sga
+Aonghas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Angus
+  lang:
+  - ga
+  - gd
+  origin:
+  - sga
+Aonolf:
+  gender_flag: 2
+  lang:
+  - goh
+Aonène:
+  gender_flag: 1
+  lang:
+  - nrf
+Aoolaye:
+  gender_flag: 2
+  lang:
+  - yo
+Aostarfrit:
+  gender_flag: 1
+  lang:
+  - goh
+Aostargaoz:
+  gender_flag: 2
+  lang:
+  - goh
+Aostargart:
+  gender_flag: 1
+  lang:
+  - goh
+Aostarger:
+  gender_flag: 2
+  lang:
+  - goh
+Aostarhilt:
+  gender_flag: 1
+  lang:
+  - goh
+Aostarpald:
+  gender_flag: 2
+  lang:
+  - goh
+Aostilo:
+  gender_flag: 2
+  lang:
+  - goh
+Aostrolf:
+  gender_flag: 2
+  lang:
+  - goh
+Aotakchar:
+  lang:
+  - goh
+Aothram:
+  lang:
+  - goh
+Aotker:
+  lang:
+  - goh
+Aotperht:
+  gender_flag: 2
+  lang:
+  - goh
+Aotuni:
+  lang:
+  - goh
+Apa:
+  gender_flag: 3
+  lang:
+  - nn
+  - tr
+Apak:
+  gender_flag: 2
+  lang:
+  - tr
+Apanoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+Aparecida:
+  gender_flag: 1
+  lang:
+  - pt
+Aparicio:
+  gender_flag: 2
+  lang:
+  - es
+Ape:
+  gender_flag: 2
+  lang:
+  - nn
+Apekẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Aphra:
+  gender_flag: 1
+  lang:
+  - en
+Aphrodite:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Apiano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Appian
+  lang:
+  - pt
+  origin:
+  - la
+Apleng:
+  gender_flag: 1
+  lang:
+  - ceb
+Apo:
+  gender_flag: 2
+  lang:
+  - izh
+Apolena:
+  gender_flag: 1
+  is_equivalent_to:
+  - Apollonia
+  lang:
+  - cs
+Apolenka:
+  gender_flag: 1
+  is_short_for:
+  - Apolena
+  lang:
+  - cs
+Apolinar:
+  gender_flag: 2
+  lang:
+  - es
+  - tl
+  origin:
+  - es
+Apolinario:
+  gender_flag: 2
+  lang:
+  - es
+  - tl
+  origin:
+  - es
+  - la
+Apolinary:
+  gender_flag: 2
+  is_equivalent_to:
+  - Apolinar
+  lang:
+  - pl
+Apollinaire:
+  gender_flag: 2
+  lang:
+  - fr
+Apolline:
+  gender_flag: 1
+  lang:
+  - fr
+Apollo:
+  gender_flag: 2
+  lang:
+  - en
+  - pl
+Apollonia:
+  gender_flag: 1
+  lang:
+  - en
+  - fo
+  - fr
+  - it
+  origin:
+  - grc
+Apollonie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Apollonia
+  lang:
+  - fr
+  origin:
+  - grc
+Apollonio:
+  gender_flag: 2
+  lang:
+  - it
+Apollonius:
+  gender_flag: 2
+  lang:
+  - la
+Apollónia:
+  gender_flag: 1
+  lang:
+  - hu
+Apolonia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Apollonia
+  lang:
+  - ceb
+  - pl
+Apolonio:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+  - tl
+  origin:
+  - es
+  - grc
+  - la
+Apoloniusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Apollonius
+  lang:
+  - pl
+  origin:
+  - grc
+  - la
+Apolónia:
+  gender_flag: 1
+  lang:
+  - pt
+Apostle: {}
+Apostolos:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Appalonia:
+  gender_flag: 1
+  lang:
+  - en
+Appian:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Appio:
+  gender_flag: 2
+  lang:
+  - it
+Appius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Apple:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+April:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Aputsiaq:
+  gender_flag: 2
+  lang:
+  - kl
+Aqil:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Aqqalu:
+  gender_flag: 2
+  lang:
+  - kl
+Aquila:
+  gender_flag: 2
+  lang:
+  - la
+Aquiles:
+  gender_flag: 2
+  lang:
+  - ceb
+  - pt
+  origin:
+  - es
+  - grc
+Aquilino:
+  gender_flag: 2
+  lang:
+  - it
+Ara:
+  gender_flag: 3
+  lang:
+  - en
+  - is
+  origin:
+  - hy
+Arabela:
+  gender_flag: 1
+  is_equivalent_to:
+  - Arabella
+  lang:
+  - pt
+Arabella:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Araceli:
+  gender_flag: 1
+  lang:
+  - es
+Araci:
+  gender_flag: 3
+  lang:
+  - pt
+  origin:
+  - tpw
+Aracı:
+  gender_flag: 2
+  lang:
+  - tr
+Araldo:
+  gender_flag: 2
+  lang:
+  - it
+Aralt:
+  gender_flag: 2
+  is_equivalent_to:
+  - Harold
+  lang:
+  - ga
+Aralíus:
+  gender_flag: 2
+  lang:
+  - is
+Aram:
+  gender_flag: 2
+  lang:
+  - kmr
+Araminta:
+  gender_flag: 1
+  lang:
+  - en
+Aramis:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - fr
+Arancha:
+  gender_flag: 1
+  lang:
+  - es
+Aranja:
+  gender_flag: 1
+  lang:
+  - fo
+Aranka:
+  gender_flag: 1
+  lang:
+  - hu
+Arantxa:
+  gender_flag: 1
+  lang:
+  - es
+Aranza:
+  gender_flag: 1
+  lang:
+  - es
+Ararat: {}
+Araruna:
+  gender_flag: 2
+  lang:
+  - tpw
+Aratone:
+  gender_flag: 2
+  lang:
+  - it
+Araṅkule:
+  lang:
+  - txb
+Araṇemi:
+  lang:
+  - txb
+Arba:
+  gender_flag: 1
+  lang:
+  - sq
+Arban:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alban
+  lang:
+  - sq
+Arbana:
+  gender_flag: 1
+  lang:
+  - sq
+Arbaş:
+  gender_flag: 2
+  lang:
+  - tr
+Arben:
+  gender_flag: 2
+  lang:
+  - sq
+Arbi:
+  gender_flag: 2
+  is_short_for:
+  - Arbër
+  lang:
+  - sq
+Arbian:
+  gender_flag: 2
+  lang:
+  - sq
+Arbor:
+  gender_flag: 2
+  lang:
+  - sq
+Arbën:
+  gender_flag: 2
+  lang:
+  - sq
+Arbënor:
+  gender_flag: 2
+  lang:
+  - sq
+Arbënore:
+  gender_flag: 1
+  lang:
+  - sq
+Arbër:
+  gender_flag: 2
+  lang:
+  - sq
+Arbëror:
+  gender_flag: 2
+  lang:
+  - sq
+Arbërore:
+  gender_flag: 1
+  lang:
+  - sq
+Arcadio:
+  gender_flag: 2
+  lang:
+  - ceb
+Arcadius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Arcady:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ru
+Arcangelo:
+  gender_flag: 2
+  lang:
+  - it
+Arch:
+  gender_flag: 2
+  is_short_for:
+  - Archibald
+  - Archie
+  lang:
+  - en
+Archfael:
+  gender_flag: 2
+  lang:
+  - owl
+Archibald:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Archie:
+  gender_flag: 7
+  is_short_for:
+  - Archibald
+  lang:
+  - en
+  origin:
+  - gem
+Archippo:
+  gender_flag: 2
+  lang:
+  - it
+Arcisio:
+  gender_flag: 2
+  lang:
+  - it
+Arda:
+  gender_flag: 2
+  lang:
+  - tr
+Ardahan:
+  gender_flag: 2
+  lang:
+  - tr
+Ardelia:
+  gender_flag: 1
+  lang:
+  - en
+Arden:
+  gender_flag: 7
+  lang:
+  - en
+Ardene:
+  lang:
+  - en
+Ardeşir:
+  gender_flag: 2
+  lang:
+  - zza
+Ardi:
+  gender_flag: 2
+  is_a_variant_of:
+  - Artur
+  - Hardi
+  lang:
+  - et
+  - id
+Ardie:
+  gender_flag: 2
+  lang:
+  - en
+Ardit:
+  gender_flag: 2
+  lang:
+  - sq
+Ardito:
+  gender_flag: 2
+  lang:
+  - it
+Ardo:
+  gender_flag: 2
+  lang:
+  - et
+Ardot:
+  gender_flag: 2
+  lang:
+  - ceb
+Arduino:
+  gender_flag: 2
+  lang:
+  - it
+Ardî:
+  gender_flag: 2
+  lang:
+  - kmr
+Ardıç:
+  gender_flag: 2
+  lang:
+  - tr
+Are:
+  gender_flag: 2
+  lang:
+  - 'no'
+Arely:
+  gender_flag: 1
+  lang:
+  - en
+Arelíus:
+  gender_flag: 2
+  lang:
+  - is
+Arend:
+  gender_flag: 2
+  is_equivalent_to:
+  - Arnold
+  lang:
+  - nl
+Arer:
+  gender_flag: 2
+  lang:
+  - tr
+Aretha:
+  gender_flag: 1
+  lang:
+  - ceb
+Aretusa:
+  gender_flag: 1
+  lang:
+  - it
+Arfie:
+  gender_flag: 2
+  is_short_for:
+  - Arthur
+  lang:
+  - en
+  origin:
+  - cel
+Arga:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Argento:
+  gender_flag: 2
+  lang:
+  - it
+Argeo:
+  gender_flag: 2
+  lang:
+  - it
+Argia:
+  gender_flag: 1
+  lang:
+  - it
+Argio:
+  gender_flag: 2
+  lang:
+  - it
+Argjend:
+  gender_flag: 2
+  lang:
+  - sq
+Argjendor:
+  gender_flag: 2
+  lang:
+  - sq
+Argo:
+  gender_flag: 2
+  lang:
+  - et
+Argyrippus:
+  gender_flag: 2
+  lang:
+  - la
+Argın:
+  gender_flag: 2
+  lang:
+  - tr
+Arhippa:
+  gender_flag: 2
+  lang:
+  - fi
+  - izh
+Arho:
+  gender_flag: 2
+  lang:
+  - fi
+Ari:
+  gender_flag: 3
+  is_short_for:
+  - Ariana
+  - Arianna
+  lang:
+  - en
+  - fi
+  - fo
+  - id
+  - is
+  - it
+  origin:
+  - kaw
+Ari-Pekka:
+  gender_flag: 2
+  lang:
+  - fi
+Aria:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Ariadna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ariadne
+  lang:
+  - pl
+  - pt
+  origin:
+  - grc
+  - la
+Ariadne:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - pt
+  origin:
+  - grc
+Ariah:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - he
+Ariana:
+  gender_flag: 1
+  lang:
+  - en
+  - pt
+  origin:
+  - grc
+Ariane:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - fr
+Arianna:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  origin:
+  - grc
+Arianne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ariadne
+  - Ariane
+  lang:
+  - en
+  origin:
+  - grc
+Arianno:
+  gender_flag: 2
+  lang:
+  - it
+Arianrhod:
+  gender_flag: 1
+  lang:
+  - cy
+Ariarith:
+  gender_flag: 2
+  lang:
+  - xvn
+Ariarne:
+  gender_flag: 1
+  lang:
+  - en
+Ariberto:
+  gender_flag: 2
+  lang:
+  - it
+Arie:
+  gender_flag: 2
+  lang:
+  - en
+  - nl
+Ariel:
+  gender_flag: 7
+  lang:
+  - ceb
+  - en
+  - es
+  - pt
+  origin:
+  - en
+  - es
+  - he
+Ariele:
+  gender_flag: 3
+  is_equivalent_to:
+  - Arielle
+  lang:
+  - it
+  - pt
+Ariella:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Arielle:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Arif:
+  gender_flag: 2
+  lang:
+  - az
+  - id
+  - kmr
+  - sq
+  - tr
+  origin:
+  - ar
+Arifə:
+  gender_flag: 1
+  lang:
+  - az
+Arijit:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Arik:
+  gender_flag: 2
+  lang:
+  - en
+Arikẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Arild:
+  gender_flag: 2
+  lang:
+  - 'no'
+Arin:
+  gender_flag: 1
+  lang:
+  - goh
+Arina:
+  gender_flag: 1
+  lang:
+  - fo
+Arinbjörn:
+  gender_flag: 2
+  lang:
+  - is
+Arinbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Arindam:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Arioaldo:
+  gender_flag: 2
+  lang:
+  - it
+Aris:
+  gender_flag: 1
+  lang:
+  - is
+Arislav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Aristarchus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Aristarco:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aristarchus
+  lang:
+  - it
+  origin:
+  - grc
+Aristeu:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - grc
+Aristide:
+  gender_flag: 2
+  lang:
+  - en
+  - it
+Aristides:
+  gender_flag: 2
+  lang:
+  - en
+Aristobulus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Aristofane:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - grc
+Aristophanes:
+  gender_flag: 2
+  lang:
+  - la
+Aristophontes:
+  gender_flag: 2
+  lang:
+  - la
+Aristoteles:
+  gender_flag: 2
+  lang:
+  - la
+  - tl
+  origin:
+  - grc
+Aristée:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - la
+Aristóteles:
+  gender_flag: 2
+  lang:
+  - es
+  - pt
+  origin:
+  - grc
+Aritra:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Ariulfo:
+  gender_flag: 2
+  lang:
+  - it
+Arius:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - grc
+Ariya:
+  gender_flag: 1
+  lang:
+  - en
+Ariyah:
+  gender_flag: 1
+  lang:
+  - en
+Ariyọ:
+  gender_flag: 1
+  lang:
+  - yo
+Arizona:
+  gender_flag: 7
+  lang:
+  - en
+Arja:
+  gender_flag: 1
+  lang:
+  - fi
+Arjun:
+  gender_flag: 2
+  lang:
+  - en
+Arjuna:
+  gender_flag: 2
+  lang:
+  - en
+  - id
+  - kaw
+  - txb
+  origin:
+  - jv
+  - sa
+Arjîn:
+  gender_flag: 1
+  lang:
+  - kmr
+Arkadaş:
+  gender_flag: 2
+  lang:
+  - tr
+Arkadi: {}
+Arkadijus:
+  gender_flag: 2
+  lang:
+  - lt
+Arkadiusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Arcadius
+  lang:
+  - pl
+Arkadzii: {}
+Arkadziy: {}
+Arkesha:
+  gender_flag: 1
+  lang:
+  - en
+Arkādijs:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - ru
+Arla:
+  gender_flag: 1
+  lang:
+  - en
+Arlando:
+  gender_flag: 2
+  lang:
+  - en
+Arleen:
+  gender_flag: 1
+  is_a_variant_of:
+  - Arlene
+  lang:
+  - en
+Arleigh:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - en
+Arlena:
+  gender_flag: 1
+  is_a_variant_of:
+  - Arlene
+  lang:
+  - en
+Arlene:
+  gender_flag: 1
+  lang:
+  - en
+  - pt
+  - tl
+  origin:
+  - en
+Arlet:
+  gender_flag: 2
+  lang:
+  - et
+Arlette:
+  gender_flag: 1
+  lang:
+  - fr
+  - nrf
+Arlind:
+  gender_flag: 2
+  lang:
+  - sq
+Arline:
+  gender_flag: 1
+  is_a_variant_of:
+  - Arlene
+  lang:
+  - en
+Arlo:
+  gender_flag: 2
+  lang:
+  - en
+  - it
+Armaghan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ur
+Arman:
+  gender_flag: 3
+  lang:
+  - ceb
+  - tr
+Armanc:
+  gender_flag: 2
+  lang:
+  - kmr
+Armand:
+  gender_flag: 2
+  lang:
+  - fr
+Armandas:
+  gender_flag: 2
+  lang:
+  - lt
+Armandine:
+  gender_flag: 1
+  lang:
+  - fr
+Armando:
+  gender_flag: 2
+  is_equivalent_to:
+  - Herman
+  lang:
+  - es
+  - it
+  - nl
+  - pt
+  origin:
+  - fr
+Armands:
+  gender_flag: 2
+  lang:
+  - lv
+Armandèin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Herman
+  lang:
+  - egl
+  origin:
+  - gem
+Armas:
+  gender_flag: 2
+  lang:
+  - fi
+Armaud:
+  gender_flag: 2
+  lang:
+  - en
+Armağan:
+  gender_flag: 3
+  lang:
+  - tr
+Armel:
+  gender_flag: 2
+  lang:
+  - fr
+Armelindo:
+  gender_flag: 2
+  lang:
+  - it
+Armelle:
+  gender_flag: 1
+  lang:
+  - fr
+Armellino:
+  gender_flag: 2
+  lang:
+  - it
+Armello:
+  gender_flag: 2
+  lang:
+  - it
+Armgarð:
+  gender_flag: 1
+  lang:
+  - fo
+Armi:
+  gender_flag: 1
+  lang:
+  - fi
+Armida:
+  gender_flag: 1
+  lang:
+  - it
+Armin:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  - et
+  - fr
+Arminda:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  - pt
+Armindo:
+  gender_flag: 2
+  lang:
+  - it
+  - pt
+Armine:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - hy
+Arminio:
+  gender_flag: 2
+  lang:
+  - it
+Armir:
+  gender_flag: 2
+  lang:
+  - sq
+Armàṅd:
+  gender_flag: 2
+  is_equivalent_to:
+  - Herman
+  lang:
+  - egl
+  origin:
+  - gem
+Arménia:
+  gender_flag: 1
+  lang:
+  - pt
+Arménio:
+  gender_flag: 2
+  lang:
+  - pt
+Armīns:
+  gender_flag: 2
+  lang:
+  - lv
+Arn:
+  gender_flag: 2
+  is_short_for:
+  - Arno
+  - Arnold
+  lang:
+  - en
+  - gmw-ecg
+Arna:
+  gender_flag: 3
+  lang:
+  - fo
+  - is
+  - tr
+Arnab:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - bn
+  - sa
+Arnaldo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Arnold
+  lang:
+  - it
+  - pt
+Arnaldur:
+  gender_flag: 2
+  lang:
+  - fo
+Arnannguaq:
+  gender_flag: 1
+  lang:
+  - kl
+Arnar:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Arnas:
+  gender_flag: 2
+  lang:
+  - lt
+Arnau:
+  gender_flag: 2
+  is_equivalent_to:
+  - Arnold
+  lang:
+  - ca
+Arnaud:
+  gender_flag: 2
+  is_equivalent_to:
+  - Arnold
+  lang:
+  - fr
+Arnav:
+  gender_flag: 2
+  lang:
+  - en
+Arnbjörg:
+  gender_flag: 1
+  lang:
+  - is
+Arnbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Arnbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+  - nn
+  origin:
+  - non
+Arnborg:
+  gender_flag: 1
+  lang:
+  - fo
+Arndis:
+  gender_flag: 1
+  lang:
+  - fo
+Arndor:
+  gender_flag: 2
+  lang:
+  - nn
+Arndís:
+  gender_flag: 1
+  lang:
+  - is
+Arndór:
+  gender_flag: 2
+  lang:
+  - fo
+Arne:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  - nn
+  - 'no'
+  - sv
+  origin:
+  - gem
+  - non
+Arnel:
+  gender_flag: 2
+  lang:
+  - ceb
+Arnfinn:
+  gender_flag: 2
+  lang:
+  - nn
+  - 'no'
+  origin:
+  - non
+Arnfinnur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Arnfreyr:
+  gender_flag: 2
+  lang:
+  - is
+Arnfreður:
+  gender_flag: 2
+  lang:
+  - is
+Arnfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Arnfríður:
+  gender_flag: 3
+  lang:
+  - fo
+  - is
+Arngeir:
+  gender_flag: 2
+  lang:
+  - is
+Arngerð:
+  gender_flag: 1
+  lang:
+  - fo
+Arngrímur:
+  gender_flag: 2
+  lang:
+  - fo
+Arngunn:
+  gender_flag: 1
+  lang:
+  - fo
+Arngunnur:
+  gender_flag: 1
+  lang:
+  - is
+Arnheiður:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Arnhild:
+  gender_flag: 1
+  lang:
+  - fo
+  - 'no'
+Arni:
+  gender_flag: 2
+  lang:
+  - fo
+  - non
+Arnie:
+  gender_flag: 2
+  is_short_for:
+  - Arnold
+  lang:
+  - en
+Arnina:
+  gender_flag: 1
+  lang:
+  - fo
+Arnis:
+  gender_flag: 2
+  lang:
+  - lv
+Arnita:
+  gender_flag: 1
+  lang:
+  - lv
+Arnkatla:
+  gender_flag: 1
+  lang:
+  - is
+Arnleifur:
+  gender_flag: 2
+  lang:
+  - is
+Arnleyg:
+  gender_flag: 1
+  lang:
+  - fo
+Arnleygur:
+  gender_flag: 2
+  lang:
+  - fo
+Arnljót:
+  gender_flag: 1
+  lang:
+  - fo
+Arnljótur:
+  gender_flag: 2
+  lang:
+  - fo
+Arnmundur:
+  gender_flag: 2
+  lang:
+  - is
+Arno:
+  gender_flag: 2
+  is_short_for:
+  - Arnold
+  lang:
+  - de
+  - et
+  - fi
+Arnoddur:
+  gender_flag: 2
+  lang:
+  - fo
+Arnold:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - et
+  - fo
+  - hu
+  - 'no'
+  - sk
+  - sv
+Arnoldo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Arnold
+  lang:
+  - ceb
+  - es
+  - it
+Arnolds:
+  gender_flag: 2
+  lang:
+  - lv
+Arnolfo:
+  gender_flag: 2
+  lang:
+  - it
+Arnoud:
+  gender_flag: 2
+  lang:
+  - nl
+Arnout:
+  gender_flag: 2
+  lang:
+  - nl
+Arnošt:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ernest
+  lang:
+  - cs
+Arnoštek:
+  gender_flag: 2
+  is_short_for:
+  - Arnošt
+  lang:
+  - cs
+Arnstein:
+  gender_flag: 2
+  lang:
+  - fo
+  - nn
+  - 'no'
+  origin:
+  - non
+Arnsteinn:
+  gender_flag: 2
+  lang:
+  - is
+Arnsvein:
+  gender_flag: 2
+  lang:
+  - fo
+Arnt:
+  gender_flag: 2
+  lang:
+  - 'no'
+Arntor:
+  gender_flag: 2
+  lang:
+  - nn
+Arnulf:
+  gender_flag: 2
+  lang:
+  - de
+Arnved:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Arnvid:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Arnviður:
+  gender_flag: 2
+  lang:
+  - is
+Arnvør:
+  gender_flag: 1
+  lang:
+  - fo
+Arny:
+  gender_flag: 2
+  is_short_for:
+  - Arnold
+  lang:
+  - en
+  origin:
+  - gem
+Arnór:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Arnóra:
+  gender_flag: 1
+  lang:
+  - fo
+Arnþrúður:
+  gender_flag: 1
+  lang:
+  - is
+Aron:
+  gender_flag: 2
+  lang:
+  - da
+  - en
+  - fo
+  - is
+  - 'no'
+  - sv
+  origin:
+  - he
+Aronne:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aaron
+  lang:
+  - it
+  origin:
+  - he
+Aronzio:
+  gender_flag: 2
+  lang:
+  - it
+Arpağ:
+  gender_flag: 2
+  lang:
+  - tr
+Arpita:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Arpád:
+  gender_flag: 2
+  lang:
+  - sk
+Arquibaldo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Archibald
+  lang:
+  - pt
+Arquimedes:
+  gender_flag: 2
+  lang:
+  - pt
+Arran:
+  gender_flag: 2
+  lang:
+  - en
+  - gd
+Arrian:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Arrigo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Enrico
+  lang:
+  - it
+Arris:
+  gender_flag: 1
+  lang:
+  - 'no'
+  - yol
+Arron:
+  gender_flag: 2
+  lang:
+  - en
+Arsacio:
+  gender_flag: 2
+  lang:
+  - it
+Arsal:
+  gender_flag: 3
+  lang:
+  - tr
+Arsenia:
+  gender_flag: 1
+  lang:
+  - ceb
+  - tl
+Arsenio:
+  gender_flag: 2
+  lang:
+  - it
+  - tl
+Arshia:
+  gender_flag: 7
+  lang:
+  - en
+Arsi:
+  gender_flag: 2
+  lang:
+  - fi
+Arsilio:
+  gender_flag: 2
+  lang:
+  - it
+Arsing:
+  gender_flag: 3
+  lang:
+  - ceb
+Arsinoé:
+  gender_flag: 1
+  lang:
+  - fr
+Arska:
+  gender_flag: 2
+  is_short_for:
+  - Ari
+  - Arnold
+  lang:
+  - fi
+Arslan:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - trk-pro
+Arslaner:
+  gender_flag: 2
+  lang:
+  - tr
+Arsène:
+  gender_flag: 2
+  lang:
+  - fr
+  - nrf
+Art:
+  gender_flag: 2
+  is_equivalent_to:
+  - Arthur
+  is_short_for:
+  - Arthur
+  lang:
+  - en
+  - gd
+  - gv
+  origin:
+  - cel
+  - sga
+Arta:
+  gender_flag: 1
+  lang:
+  - lv
+Artadhane:
+  lang:
+  - txb
+Artair:
+  gender_flag: 2
+  is_equivalent_to:
+  - Arthur
+  lang:
+  - gd
+Artamo:
+  gender_flag: 2
+  lang:
+  - la
+Artan:
+  gender_flag: 2
+  lang:
+  - fo
+  - sq
+Artar:
+  gender_flag: 2
+  lang:
+  - sq
+Artemas:
+  gender_flag: 2
+  lang:
+  - en
+Artemie:
+  gender_flag: 2
+  lang:
+  - ro
+Artemii:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ru
+Artemio:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+Artemis:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - grc
+Artemona:
+  gender_flag: 2
+  lang:
+  - la
+Artemísio:
+  gender_flag: 2
+  lang:
+  - pt
+Arthadarśi:
+  lang:
+  - txb
+Arthur:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - enm
+  - fr
+  - nl
+  - 'no'
+  - nrf
+  origin:
+  - cel
+  - en
+Arthwys:
+  gender_flag: 2
+  lang:
+  - cy
+Arti:
+  gender_flag: 2
+  is_a_variant_of:
+  - Artur
+  lang:
+  - et
+Artie:
+  gender_flag: 2
+  is_short_for:
+  - Arthur
+  lang:
+  - en
+  origin:
+  - cel
+Artin: {}
+Artina:
+  gender_flag: 1
+  lang:
+  - en
+Artis:
+  gender_flag: 2
+  lang:
+  - lv
+Artjoms: {}
+Arto:
+  gender_flag: 2
+  lang:
+  - fi
+Artognou:
+  gender_flag: 2
+  lang:
+  - cel-bry-pro
+Artsiom: {}
+Artsyom: {}
+Artt:
+  gender_flag: 2
+  is_short_for:
+  - Arthur
+  lang:
+  - gmw-ecg
+Arttamona:
+  gender_flag: 2
+  lang:
+  - izh
+Arttu:
+  gender_flag: 2
+  lang:
+  - fi
+Arttur:
+  gender_flag: 2
+  lang:
+  - fi
+Artturi:
+  gender_flag: 2
+  lang:
+  - fi
+Artur:
+  gender_flag: 2
+  is_a_variant_of:
+  - Arthur
+  is_equivalent_to:
+  - Arthur
+  lang:
+  - ca
+  - cs
+  - de
+  - et
+  - fo
+  - fro
+  - gv
+  - pl
+  - pt
+  - sv
+  - wa
+Arturek:
+  gender_flag: 2
+  is_short_for:
+  - Artur
+  lang:
+  - cs
+Arturo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Arthur
+  lang:
+  - ceb
+  - eo
+  - es
+  - it
+  - pt
+  origin:
+  - cel
+Arturs:
+  gender_flag: 2
+  lang:
+  - lv
+Arty:
+  gender_flag: 3
+  is_short_for:
+  - Artemis
+  - Arthur
+  lang:
+  - en
+  origin:
+  - cel
+Artúr:
+  gender_flag: 2
+  is_equivalent_to:
+  - Arthur
+  lang:
+  - hu
+  - sk
+Artūras:
+  gender_flag: 2
+  is_equivalent_to:
+  - Arthur
+  lang:
+  - lt
+Artūrs:
+  gender_flag: 2
+  lang:
+  - lv
+Arum:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Arun:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Aruna:
+  gender_flag: 1
+  lang:
+  - en
+Arundhati:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Arunim:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Arunima:
+  gender_flag: 1
+  lang:
+  - en
+Arvaldo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Harold
+  lang:
+  - gl
+Arve:
+  gender_flag: 2
+  is_a_variant_of:
+  - Arved
+  - Arvid
+  lang:
+  - nb
+  - nn
+  origin:
+  - non
+Arved:
+  gender_flag: 2
+  is_a_variant_of:
+  - Arvid
+  lang:
+  - et
+  - nn
+  origin:
+  - non
+Arven:
+  gender_flag: 2
+  lang:
+  - sq
+Arvi:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Arvid:
+  gender_flag: 2
+  lang:
+  - da
+  - en
+  - et
+  - nb
+  - nn
+  - sv
+  origin:
+  - non
+Arvind:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Arvis:
+  gender_flag: 2
+  lang:
+  - lv
+Arvo:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Arvydas:
+  gender_flag: 2
+  lang:
+  - lt
+Arvën:
+  gender_flag: 1
+  lang:
+  - sq
+Arvënd:
+  gender_flag: 2
+  lang:
+  - sq
+Arvīds:
+  gender_flag: 2
+  lang:
+  - lv
+Arwald:
+  gender_flag: 2
+  lang:
+  - ang
+Arwel:
+  gender_flag: 2
+  lang:
+  - cy
+  - en
+  origin:
+  - cy
+Ary:
+  gender_flag: 2
+  lang:
+  - en
+Arya:
+  gender_flag: 3
+  lang:
+  - en
+  - id
+  - tr
+  origin:
+  - jv
+  - sa
+Aryaman:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Aryana:
+  gender_flag: 1
+  lang:
+  - en
+Aryanna:
+  gender_flag: 1
+  lang:
+  - en
+Aryanne:
+  gender_flag: 1
+  lang:
+  - en
+Arystoteles:
+  gender_flag: 2
+  lang:
+  - pl
+Arzhur:
+  gender_flag: 2
+  lang:
+  - br
+Arzou:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - az
+Arzu:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - fa
+Arzur:
+  gender_flag: 2
+  is_equivalent_to:
+  - Arthur
+  lang:
+  - br
+Aránzazu:
+  gender_flag: 1
+  lang:
+  - es
+Arêz:
+  gender_flag: 2
+  lang:
+  - kmr
+Aríus:
+  gender_flag: 2
+  lang:
+  - is
+Arı:
+  gender_flag: 3
+  lang:
+  - tr
+Arıer:
+  gender_flag: 2
+  lang:
+  - tr
+Arın:
+  gender_flag: 3
+  lang:
+  - tr
+Arūnas:
+  gender_flag: 2
+  lang:
+  - lt
+Arūnė:
+  gender_flag: 1
+  lang:
+  - lt
+Arṇyārtate:
+  lang:
+  - txb
+Asa:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+Asabe:
+  gender_flag: 1
+  lang:
+  - ha
+Asahel:
+  gender_flag: 2
+  lang:
+  - en
+Asako:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Asal:
+  gender_flag: 2
+  lang:
+  - tr
+Asayo:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Asbjørg:
+  gender_flag: 1
+  lang:
+  - 'no'
+Asbjørn:
+  gender_flag: 2
+  lang:
+  - da
+  - 'no'
+Ascanio:
+  gender_flag: 2
+  lang:
+  - it
+Ascensión:
+  gender_flag: 1
+  lang:
+  - es
+Asdrubale:
+  gender_flag: 2
+  lang:
+  - it
+Asdrúbal:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hasdrubal
+  lang:
+  - es
+  - pt
+  origin:
+  - xpu
+Aseem:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Asefi:
+  gender_flag: 1
+  lang:
+  - ht
+  origin:
+  - ht
+Aselita:
+  gender_flag: 1
+  lang:
+  - es
+Asena:
+  gender_flag: 1
+  lang:
+  - tr
+Asep:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - su
+Asgeir:
+  gender_flag: 2
+  lang:
+  - nn
+  - 'no'
+  origin:
+  - non
+Asger:
+  gender_flag: 2
+  lang:
+  - da
+Ash:
+  gender_flag: 7
+  is_short_for:
+  - Ashlee
+  - Ashleigh
+  - Ashley
+  - Ashlie
+  - Ashly
+  lang:
+  - en
+Asha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Ashby:
+  gender_flag: 2
+  lang:
+  - en
+Asher:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - he
+Ashland:
+  gender_flag: 2
+  lang:
+  - en
+Ashlee:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ashley
+  lang:
+  - en
+Ashleigh:
+  gender_flag: 7
+  is_a_variant_of:
+  - Ashley
+  lang:
+  - en
+Ashley:
+  gender_flag: 7
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Ashlie:
+  gender_flag: 1
+  lang:
+  - en
+Ashly:
+  gender_flag: 1
+  lang:
+  - en
+Ashlyn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Ashlynn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Ashok:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Ashton:
+  gender_flag: 7
+  lang:
+  - en
+Ashur:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+Asia:
+  gender_flag: 1
+  is_short_for:
+  - Joanna
+  lang:
+  - en
+  - it
+  - pl
+Asif:
+  gender_flag: 2
+  lang:
+  - az
+  - en
+Asil:
+  gender_flag: 2
+  lang:
+  - tr
+Asila:
+  gender_flag: 1
+  lang:
+  - ceb
+Ask:
+  gender_flag: 2
+  lang:
+  - nn
+  - sv
+  origin:
+  - non
+Aske:
+  gender_flag: 2
+  lang:
+  - da
+Asko:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Askur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Aslak:
+  gender_flag: 2
+  lang:
+  - fi
+  - 'no'
+Aslan:
+  gender_flag: 2
+  lang:
+  - tr
+Aslaner:
+  gender_flag: 2
+  lang:
+  - tr
+Aslaug:
+  gender_flag: 1
+  lang:
+  - 'no'
+Asle:
+  gender_flag: 2
+  is_a_variant_of:
+  - Atle
+  lang:
+  - nn
+  - 'no'
+  origin:
+  - non
+Aslı:
+  gender_flag: 1
+  lang:
+  - tr
+Asmeret:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - am
+Asmo:
+  gender_flag: 2
+  lang:
+  - fi
+Asmus:
+  gender_flag: 2
+  lang:
+  - da
+Ason:
+  gender_flag: 1
+  lang:
+  - ceb
+Aspasie:
+  gender_flag: 1
+  lang:
+  - nrf
+Aspasio:
+  gender_flag: 2
+  lang:
+  - it
+Aspasius:
+  gender_flag: 2
+  lang:
+  - la
+Aspazija:
+  gender_flag: 1
+  lang:
+  - lt
+Aspen:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Asperht:
+  gender_flag: 2
+  lang:
+  - goh
+Assalonne:
+  gender_flag: 2
+  lang:
+  - it
+Assar:
+  gender_flag: 2
+  lang:
+  - sv
+Asser:
+  gender_flag: 2
+  lang:
+  - de
+  - fi
+Asseri:
+  gender_flag: 2
+  lang:
+  - fi
+Asso:
+  gender_flag: 2
+  lang:
+  - et
+Assuero:
+  gender_flag: 2
+  lang:
+  - it
+Assunta:
+  gender_flag: 1
+  lang:
+  - it
+Assuntino:
+  gender_flag: 2
+  lang:
+  - it
+Assunto:
+  gender_flag: 2
+  lang:
+  - it
+Asta:
+  gender_flag: 1
+  lang:
+  - da
+  - et
+  - fi
+  - fo
+  - lt
+  - 'no'
+  - sv
+  origin:
+  - non
+Astaphium:
+  gender_flag: 2
+  lang:
+  - la
+Aster:
+  gender_flag: 2
+  lang:
+  - de
+  - nl
+  origin:
+  - la
+Asterino:
+  gender_flag: 2
+  lang:
+  - it
+Asterio:
+  gender_flag: 2
+  lang:
+  - it
+Astero:
+  gender_flag: 2
+  lang:
+  - it
+Astghik: {}
+Astolfo:
+  gender_flag: 2
+  lang:
+  - it
+Astolphe:
+  gender_flag: 2
+  lang:
+  - fr
+Astorgio:
+  gender_flag: 2
+  lang:
+  - it
+Astorre:
+  gender_flag: 2
+  lang:
+  - it
+Astra:
+  gender_flag: 1
+  lang:
+  - lv
+Astrape:
+  gender_flag: 1
+  lang:
+  - en
+Astri:
+  gender_flag: 1
+  is_a_variant_of:
+  - Astrid
+  lang:
+  - 'no'
+Astrid:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - fr
+  - nb
+  - nl
+  - nn
+  - sv
+  origin:
+  - gem
+  - non
+Astride:
+  gender_flag: 1
+  is_equivalent_to:
+  - Astrid
+  lang:
+  - pt
+  - wa
+Astrio:
+  gender_flag: 2
+  lang:
+  - it
+Astrið:
+  gender_flag: 1
+  lang:
+  - fo
+Astrīda:
+  gender_flag: 1
+  lang:
+  - lv
+Astère:
+  gender_flag: 2
+  lang:
+  - fr
+Asuka:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Asuncion:
+  gender_flag: 1
+  lang:
+  - ceb
+Asunción:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - la
+Asya:
+  gender_flag: 1
+  lang:
+  - en
+  - tr
+  origin:
+  - ru
+Asyong:
+  gender_flag: 2
+  lang:
+  - ceb
+Asım:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Ata:
+  gender_flag: 3
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - fo
+  - pyu
+  - tr
+  origin:
+  - trk-pro
+Ataan:
+  gender_flag: 2
+  lang:
+  - tr
+Ataergin:
+  gender_flag: 2
+  lang:
+  - tr
+Atakke:
+  lang:
+  - txb
+Atakul:
+  gender_flag: 2
+  lang:
+  - tr
+Atalina:
+  gender_flag: 1
+  lang:
+  - en
+Atalía:
+  gender_flag: 1
+  lang:
+  - is
+Atanasie:
+  gender_flag: 2
+  lang:
+  - ro
+  origin:
+  - grc
+Atanasije:
+  gender_flag: 2
+  is_equivalent_to:
+  - Athanasius
+  lang:
+  - sh
+Atanasio:
+  gender_flag: 2
+  lang:
+  - it
+Atanda:
+  gender_flag: 4
+  lang:
+  - yo
+Atangana:
+  gender_flag: 1
+  lang:
+  - kl
+Atannẹyẹ:
+  gender_flag: 7
+  lang:
+  - yo
+Ataol:
+  gender_flag: 2
+  lang:
+  - tr
+Atasoy:
+  gender_flag: 2
+  lang:
+  - tr
+Atena:
+  gender_flag: 1
+  is_equivalent_to:
+  - Athena
+  lang:
+  - ro
+Ateş:
+  gender_flag: 2
+  lang:
+  - tr
+Athalgard:
+  gender_flag: 1
+  lang:
+  - osx
+Athalgis:
+  gender_flag: 2
+  lang:
+  - osx
+Athalheri:
+  gender_flag: 2
+  lang:
+  - osx
+Athalond:
+  gender_flag: 2
+  lang:
+  - osx
+Athan:
+  gender_flag: 2
+  lang:
+  - en
+Athanase:
+  gender_flag: 2
+  is_equivalent_to:
+  - Athanasius
+  lang:
+  - fr
+  origin:
+  - grc
+Athanasia:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - tl
+  origin:
+  - es
+  - grc
+Athanasios: {}
+Athanasius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Athelstan:
+  gender_flag: 2
+  lang:
+  - en
+Athena:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+  - grc
+Atilla:
+  gender_flag: 2
+  lang:
+  - hu
+  - tr
+Atinukẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Atis:
+  gender_flag: 2
+  lang:
+  - lv
+Atislav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Atla:
+  gender_flag: 1
+  lang:
+  - nn
+Atlas:
+  lang:
+  - de
+Atlasz:
+  gender_flag: 2
+  lang:
+  - hu
+Atle:
+  gender_flag: 2
+  lang:
+  - nn
+  - 'no'
+  origin:
+  - non
+Atlee:
+  gender_flag: 2
+  lang:
+  - en
+Atli:
+  gender_flag: 2
+  lang:
+  - fo
+Atlı:
+  gender_flag: 2
+  lang:
+  - tr
+Atmaca:
+  gender_flag: 2
+  lang:
+  - tr
+Atom:
+  gender_flag: 2
+  lang:
+  - tr
+Atos:
+  gender_flag: 2
+  lang:
+  - it
+Atrius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Atro:
+  gender_flag: 2
+  lang:
+  - fi
+Ats:
+  gender_flag: 2
+  lang:
+  - et
+Atso:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Atsuko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Attale:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - grc
+Attalo:
+  gender_flag: 2
+  lang:
+  - it
+Attashin: {}
+Atte:
+  gender_flag: 2
+  lang:
+  - fi
+  - gmq-osw
+  - nl
+  origin:
+  - fy
+Atti:
+  gender_flag: 2
+  is_short_for:
+  - Attila
+  lang:
+  - hu
+Atticus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Attila:
+  gender_flag: 2
+  lang:
+  - hu
+  - it
+Attilio:
+  gender_flag: 2
+  lang:
+  - it
+Atto:
+  gender_flag: 2
+  lang:
+  - en
+  - it
+Atton:
+  gender_flag: 2
+  is_equivalent_to:
+  - Atto
+  lang:
+  - fr
+Atu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adrian
+  lang:
+  - izh
+Atunkẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Atze:
+  gender_flag: 2
+  lang:
+  - de
+Aubert:
+  gender_flag: 2
+  lang:
+  - nrf
+Aubin:
+  gender_flag: 2
+  lang:
+  - fr
+Aubree:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Aubreigh:
+  gender_flag: 1
+  lang:
+  - en
+Aubrey:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - gem
+Aubri:
+  gender_flag: 1
+  lang:
+  - en
+Aubrianna:
+  gender_flag: 1
+  lang:
+  - en
+Aubrie:
+  gender_flag: 1
+  lang:
+  - en
+Aubriella:
+  gender_flag: 1
+  lang:
+  - en
+Aubrielle:
+  gender_flag: 1
+  lang:
+  - en
+Auburn:
+  gender_flag: 1
+  lang:
+  - en
+Aubîn:
+  gender_flag: 2
+  lang:
+  - nrf
+Aud:
+  gender_flag: 1
+  lang:
+  - 'no'
+Auda:
+  gender_flag: 2
+  lang:
+  - nn
+Aude:
+  gender_flag: 3
+  lang:
+  - fr
+  - nn
+  origin:
+  - non
+Audenzio:
+  gender_flag: 2
+  lang:
+  - it
+Audgeir:
+  gender_flag: 2
+  is_equivalent_to:
+  - Edgar
+  lang:
+  - nn
+  origin:
+  - non
+Audie:
+  gender_flag: 7
+  is_short_for:
+  - Audrey
+  lang:
+  - en
+  origin:
+  - ga
+Audmund:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Audra:
+  gender_flag: 1
+  lang:
+  - en
+  - lt
+Audrey:
+  gender_flag: 7
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - ang
+  - en
+Audrey-Anne:
+  gender_flag: 1
+  lang:
+  - fr
+Audriana:
+  gender_flag: 1
+  lang:
+  - en
+Audric:
+  gender_flag: 2
+  lang:
+  - fr
+  - nl
+  origin:
+  - fr
+Audrienne:
+  gender_flag: 1
+  lang:
+  - en
+Audrina:
+  gender_flag: 1
+  lang:
+  - en
+Audrius:
+  gender_flag: 2
+  lang:
+  - lt
+Audronius:
+  gender_flag: 2
+  lang:
+  - lt
+Audronė:
+  gender_flag: 1
+  lang:
+  - lt
+Audréane:
+  gender_flag: 1
+  lang:
+  - fr
+Audréanne:
+  gender_flag: 1
+  lang:
+  - fr
+Audrée:
+  gender_flag: 1
+  lang:
+  - fr
+Audu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abdul
+  lang:
+  - yo
+  origin:
+  - ha
+Audun:
+  gender_flag: 2
+  lang:
+  - nn
+  - 'no'
+  origin:
+  - non
+Audvard:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Augie:
+  gender_flag: 2
+  is_short_for:
+  - Augustus
+  lang:
+  - en
+  origin:
+  - la
+Augo:
+  gender_flag: 3
+  lang:
+  - kl
+  origin:
+  - da
+August:
+  gender_flag: 3
+  is_equivalent_to:
+  - Augustus
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - fo
+  - nb
+  - nn
+  - pl
+  - sv
+Augusta:
+  gender_flag: 7
+  lang:
+  - ca
+  - da
+  - de
+  - en
+  - fo
+  - it
+  - pl
+  - pt
+  - sv
+  origin:
+  - la
+Auguste:
+  gender_flag: 3
+  is_equivalent_to:
+  - Augusta
+  lang:
+  - de
+  - fr
+Augustin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Augustine
+  lang:
+  - de
+  - en
+  - fr
+Augustina:
+  gender_flag: 1
+  lang:
+  - la
+Augustinas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Augustine
+  lang:
+  - lt
+Augustine:
+  gender_flag: 3
+  lang:
+  - en
+  - fr
+Augustinus:
+  gender_flag: 2
+  lang:
+  - fo
+Augusto:
+  gender_flag: 2
+  is_equivalent_to:
+  - Augustus
+  lang:
+  - es
+  - it
+  - pt
+  origin:
+  - la
+Augusts:
+  gender_flag: 2
+  lang:
+  - lv
+Augustus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Augustín:
+  gender_flag: 2
+  is_equivalent_to:
+  - Augustine
+  lang:
+  - es
+  - sk
+Augustýn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Augustine
+  lang:
+  - cs
+  origin:
+  - la
+Aukusti:
+  gender_flag: 2
+  lang:
+  - fi
+Aulee:
+  gender_flag: 2
+  is_equivalent_to:
+  - Olaf
+  lang:
+  - gv
+Auley:
+  gender_flag: 2
+  is_equivalent_to:
+  - Olaf
+  lang:
+  - gv
+Auli:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Aulikki:
+  gender_flag: 1
+  lang:
+  - fi
+Aulis:
+  gender_flag: 2
+  lang:
+  - fi
+Aune:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agnes
+  lang:
+  - et
+  - fi
+  origin:
+  - grc
+Aunetta:
+  gender_flag: 1
+  lang:
+  - fi
+Aungèle:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angela
+  lang:
+  - nrf
+Aungélina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angelina
+  lang:
+  - nrf
+Auni:
+  gender_flag: 1
+  lang:
+  - fi
+Auno:
+  gender_flag: 2
+  lang:
+  - fi
+Aura:
+  gender_flag: 1
+  lang:
+  - en
+  - fi
+  - fo
+  - it
+  origin:
+  - la
+Aurel:
+  gender_flag: 2
+  lang:
+  - sk
+Aureli:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aurelius
+  lang:
+  - pl
+Aurelia:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - es
+  - et
+  - id
+  - it
+  - pl
+  origin:
+  - es
+  - la
+Aurelian:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Aureliano:
+  gender_flag: 2
+  lang:
+  - es
+Aurelianus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aurelian
+  lang:
+  - la
+Aurelija:
+  gender_flag: 1
+  lang:
+  - lt
+Aurelijus:
+  gender_flag: 2
+  lang:
+  - lt
+Aurelio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aurelius
+  lang:
+  - es
+  - it
+  - la
+  origin:
+  - la
+Aureliu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aurelius
+  lang:
+  - ro
+  origin:
+  - la
+Aurelius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Aureliusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aurelius
+  lang:
+  - pl
+Aureo:
+  gender_flag: 2
+  lang:
+  - it
+Aureolus:
+  gender_flag: 2
+  lang:
+  - la
+Auriane:
+  gender_flag: 1
+  lang:
+  - fr
+Auric:
+  gender_flag: 2
+  lang:
+  - en
+Aurimas:
+  gender_flag: 2
+  lang:
+  - lt
+Auring:
+  gender_flag: 1
+  lang:
+  - ceb
+Aurino:
+  gender_flag: 2
+  lang:
+  - it
+Auro:
+  gender_flag: 2
+  lang:
+  - it
+Aurobindo:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - bn
+Auroora:
+  gender_flag: 1
+  lang:
+  - fi
+Aurora:
+  gender_flag: 1
+  lang:
+  - bcl
+  - ceb
+  - en
+  - es
+  - fi
+  - fo
+  - it
+  - la
+  - 'no'
+  - pl
+  - ro
+  - sv
+  - tl
+  origin:
+  - es
+  - la
+Aurore:
+  gender_flag: 1
+  is_equivalent_to:
+  - Aurora
+  lang:
+  - fr
+Aurthur:
+  gender_flag: 2
+  lang:
+  - en
+Aurèlîye:
+  gender_flag: 1
+  is_equivalent_to:
+  - Aurelia
+  lang:
+  - wa
+Aurélia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Aurelia
+  lang:
+  - fr
+  - hu
+  - pt
+  - sk
+Aurélie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Aurelia
+  lang:
+  - fr
+Aurélien:
+  gender_flag: 2
+  lang:
+  - fr
+Aurélio:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - la
+Ausilio:
+  gender_flag: 2
+  lang:
+  - it
+Ausma:
+  gender_flag: 1
+  lang:
+  - lv
+Austar:
+  gender_flag: 2
+  lang:
+  - is
+Austin:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - fro
+  - la
+Austra:
+  gender_flag: 1
+  lang:
+  - lv
+Austri:
+  gender_flag: 2
+  lang:
+  - non
+Austris:
+  gender_flag: 2
+  lang:
+  - lv
+Austėja:
+  gender_flag: 1
+  lang:
+  - lt
+Autari:
+  gender_flag: 2
+  lang:
+  - it
+Autlesbis:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - txh
+Autumn:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Auvo:
+  gender_flag: 2
+  lang:
+  - fi
+Auxilium:
+  gender_flag: 2
+  lang:
+  - la
+Auðdís:
+  gender_flag: 1
+  lang:
+  - is
+Auðgeir:
+  gender_flag: 2
+  lang:
+  - is
+Auðjón:
+  gender_flag: 2
+  lang:
+  - is
+Auðna:
+  gender_flag: 1
+  lang:
+  - is
+Auðrún:
+  gender_flag: 1
+  lang:
+  - is
+Auðunn:
+  gender_flag: 2
+  lang:
+  - is
+Auður:
+  gender_flag: 3
+  lang:
+  - is
+Aušra:
+  gender_flag: 1
+  lang:
+  - lt
+Aušrinė:
+  gender_flag: 1
+  lang:
+  - lt
+Ava:
+  gender_flag: 1
+  is_equivalent_to:
+  - Eve
+  lang:
+  - dlm
+  - en
+  origin:
+  - ga
+  - gem
+  - he
+Avah:
+  gender_flag: 1
+  lang:
+  - en
+Avalyn:
+  gender_flag: 1
+  lang:
+  - en
+Avalynn:
+  gender_flag: 1
+  lang:
+  - en
+Avatannguaq:
+  gender_flag: 2
+  lang:
+  - kl
+Avataq:
+  gender_flag: 2
+  lang:
+  - kl
+Avcı:
+  gender_flag: 2
+  lang:
+  - tr
+Avdar:
+  gender_flag: 2
+  lang:
+  - kmr
+Ave:
+  gender_flag: 1
+  lang:
+  - et
+Avelina:
+  gender_flag: 1
+  lang:
+  - es
+Avelino:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+  - it
+Avelio:
+  gender_flag: 2
+  lang:
+  - it
+Averi:
+  gender_flag: 1
+  lang:
+  - en
+Averianna:
+  gender_flag: 1
+  lang:
+  - en
+Averie:
+  gender_flag: 1
+  lang:
+  - en
+Averil:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ang
+Averio:
+  gender_flag: 2
+  lang:
+  - it
+Avery:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - fro
+Avgo:
+  gender_flag: 3
+  lang:
+  - kl
+  origin:
+  - da
+Avi:
+  gender_flag: 2
+  lang:
+  - en
+  - osx
+Aviaaja:
+  gender_flag: 1
+  lang:
+  - kl
+Aviana:
+  gender_flag: 1
+  lang:
+  - en
+Avianna:
+  gender_flag: 1
+  lang:
+  - en
+Aviaq:
+  gender_flag: 1
+  lang:
+  - kl
+Avie:
+  gender_flag: 1
+  lang:
+  - en
+Aviero:
+  gender_flag: 2
+  lang:
+  - it
+Avin:
+  gender_flag: 2
+  lang:
+  - osx
+Avinash:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Avinesh:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Avo:
+  gender_flag: 2
+  lang:
+  - osx
+Avore:
+  gender_flag: 1
+  lang:
+  - sq
+Avraam: {}
+Avraham:
+  gender_flag: 2
+  lang:
+  - en
+Avram:
+  gender_flag: 2
+  lang:
+  - ro
+  - sh
+Avrangzeb:
+  gender_flag: 2
+  lang:
+  - uz
+  origin:
+  - fa
+Avril:
+  gender_flag: 1
+  is_equivalent_to:
+  - April
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Avuko:
+  gender_flag: 2
+  lang:
+  - osx
+Avutet:
+  gender_flag: 2
+  lang:
+  - osx
+Awaz:
+  gender_flag: 2
+  lang:
+  - kmr
+Awdy:
+  gender_flag: 2
+  lang:
+  - tk
+Awen:
+  gender_flag: 3
+  lang:
+  - br
+  - cy
+Awena:
+  gender_flag: 1
+  lang:
+  - br
+Awobuluyi:
+  gender_flag: 2
+  lang:
+  - yo
+Awodiran:
+  gender_flag: 2
+  lang:
+  - yo
+Awolọwọ:
+  gender_flag: 2
+  lang:
+  - yo
+Awoyale:
+  gender_flag: 2
+  lang:
+  - yo
+Axel:
+  gender_flag: 2
+  is_a_variant_of:
+  - Aksel
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fr
+  - 'no'
+  - sv
+  origin:
+  - da
+  - gem
+Axelle:
+  gender_flag: 1
+  lang:
+  - fr
+Axl:
+  gender_flag: 2
+  lang:
+  - en
+Axmed:
+  gender_flag: 2
+  lang:
+  - so
+Axton:
+  gender_flag: 2
+  lang:
+  - en
+Ay:
+  gender_flag: 3
+  lang:
+  - tr
+  origin:
+  - trk-pro
+Aya:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - tr
+  origin:
+  - ja
+Ayaan:
+  gender_flag: 2
+  lang:
+  - en
+Ayaka:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Ayako:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - ja
+Ayal:
+  gender_flag: 1
+  lang:
+  - tr
+Ayalp:
+  gender_flag: 2
+  lang:
+  - tr
+Ayame:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Ayami:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Ayan:
+  gender_flag: 2
+  lang:
+  - en
+Ayana:
+  gender_flag: 1
+  lang:
+  - en
+Ayandiran:
+  gender_flag: 2
+  lang:
+  - yo
+Ayanfẹ:
+  gender_flag: 4
+  lang:
+  - yo
+Ayanna:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Ayano:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Ayardhyāme:
+  lang:
+  - txb
+Ayaz:
+  gender_flag: 2
+  lang:
+  - tr
+Ayben:
+  gender_flag: 1
+  lang:
+  - tr
+Ayberk:
+  gender_flag: 2
+  lang:
+  - tr
+Aybora:
+  gender_flag: 2
+  lang:
+  - tr
+Ayboğa:
+  gender_flag: 2
+  lang:
+  - tr
+Aybüke:
+  gender_flag: 1
+  lang:
+  - tr
+Aycan:
+  gender_flag: 3
+  lang:
+  - tr
+Ayda:
+  gender_flag: 1
+  lang:
+  - tr
+Aydam:
+  gender_flag: 2
+  is_a_variant_of:
+  - Aidam
+  lang:
+  - sco
+Aydan:
+  gender_flag: 1
+  lang:
+  - tr
+Aydemir:
+  gender_flag: 2
+  lang:
+  - tr
+Ayden:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ga
+Aydin:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - tr
+Aydinç:
+  gender_flag: 3
+  lang:
+  - tr
+Aydolun:
+  gender_flag: 3
+  lang:
+  - tr
+Aydonat:
+  gender_flag: 2
+  lang:
+  - tr
+Aydoğan:
+  gender_flag: 3
+  lang:
+  - tr
+Aydoğdu:
+  gender_flag: 2
+  lang:
+  - tr
+Aydoğmuş:
+  gender_flag: 2
+  lang:
+  - tr
+Aydın:
+  gender_flag: 3
+  lang:
+  - tr
+Aydıner:
+  gender_flag: 2
+  lang:
+  - tr
+Aydınol:
+  gender_flag: 2
+  lang:
+  - tr
+Aydıntan:
+  gender_flag: 2
+  lang:
+  - tr
+Aydınyol:
+  gender_flag: 2
+  lang:
+  - tr
+Ayesha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Ayetullah:
+  gender_flag: 2
+  lang:
+  - tr
+Aygün:
+  gender_flag: 3
+  lang:
+  - tr
+Ayhan:
+  gender_flag: 3
+  lang:
+  - tr
+Aykut:
+  gender_flag: 3
+  lang:
+  - tr
+Ayla:
+  gender_flag: 1
+  lang:
+  - tr
+Ayleen:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+Aylin:
+  gender_flag: 1
+  lang:
+  - tr
+Aylmer:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Aymer:
+  gender_flag: 2
+  lang:
+  - fro
+Aymeric:
+  gender_flag: 2
+  is_a_variant_of:
+  - Émeric
+  lang:
+  - fr
+Aymon:
+  gender_flag: 2
+  lang:
+  - fro
+Ayn:
+  gender_flag: 1
+  lang:
+  - en
+Aynur:
+  gender_flag: 1
+  lang:
+  - az
+Aypolat:
+  gender_flag: 2
+  lang:
+  - tr
+Ayrton:
+  gender_flag: 2
+  lang:
+  - pt
+Aysel:
+  gender_flag: 1
+  lang:
+  - tr
+Aysen:
+  gender_flag: 1
+  lang:
+  - tr
+Aysoy:
+  gender_flag: 3
+  lang:
+  - tr
+Aysu:
+  gender_flag: 3
+  lang:
+  - tr
+Aysun:
+  gender_flag: 3
+  lang:
+  - tr
+Aytaç:
+  gender_flag: 3
+  lang:
+  - tr
+Aytekin:
+  gender_flag: 2
+  lang:
+  - tr
+Aytok:
+  gender_flag: 2
+  lang:
+  - tr
+Aytolun:
+  gender_flag: 3
+  lang:
+  - tr
+Aytop:
+  gender_flag: 3
+  lang:
+  - tr
+Aytuna:
+  gender_flag: 3
+  lang:
+  - tr
+Aytunç:
+  gender_flag: 2
+  lang:
+  - tr
+Aytutkun:
+  gender_flag: 1
+  lang:
+  - tr
+Aytuğ:
+  gender_flag: 3
+  lang:
+  - tr
+Aytürk:
+  gender_flag: 3
+  lang:
+  - tr
+Ayu:
+  gender_flag: 1
+  lang:
+  - ms
+  origin:
+  - ms
+Ayuko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Ayumi:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - ja
+Ayush:
+  gender_flag: 2
+  lang:
+  - en
+Ayva:
+  gender_flag: 1
+  lang:
+  - en
+Ayyıldız:
+  gender_flag: 3
+  lang:
+  - tr
+Ayça:
+  gender_flag: 1
+  lang:
+  - tr
+Ayşe:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Ayşegül:
+  gender_flag: 1
+  lang:
+  - tr
+Ayşen:
+  gender_flag: 1
+  lang:
+  - tr
+Ayşin:
+  gender_flag: 1
+  lang:
+  - tr
+Ayọ:
+  gender_flag: 7
+  lang:
+  - yo
+Ayọka:
+  gender_flag: 1
+  lang:
+  - yo
+Aza:
+  gender_flag: 2
+  lang:
+  - br
+Azad:
+  gender_flag: 2
+  lang:
+  - kmr
+  origin:
+  - fa
+Azadane:
+  gender_flag: 2
+  lang:
+  - it
+Azade:
+  gender_flag: 2
+  lang:
+  - it
+Azalea:
+  gender_flag: 1
+  lang:
+  - en
+Azalia:
+  gender_flag: 1
+  lang:
+  - en
+Azaria:
+  gender_flag: 3
+  lang:
+  - en
+  - it
+Azariah:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - he
+Azat:
+  gender_flag: 2
+  lang:
+  - tr
+  - zza
+  origin:
+  - fa
+Azeglio:
+  gender_flag: 2
+  lang:
+  - it
+Azelma:
+  gender_flag: 1
+  lang:
+  - nrf
+Azer:
+  gender_flag: 3
+  lang:
+  - tr
+Aziliz:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cecilia
+  lang:
+  - br
+Azislav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+Aziz:
+  gender_flag: 2
+  lang:
+  - en
+  - tr
+  origin:
+  - ar
+Azizbek:
+  gender_flag: 2
+  lang:
+  - uz
+Azor:
+  gender_flag: 2
+  lang:
+  - pl
+Azra:
+  gender_flag: 1
+  lang:
+  - sh
+Azucena:
+  gender_flag: 1
+  is_equivalent_to:
+  - Lily
+  lang:
+  - es
+Azumi:
+  gender_flag: 1
+  lang:
+  - en
+  - ha
+  origin:
+  - ja
+Azzedine:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Azzo:
+  gender_flag: 2
+  lang:
+  - it
+Azzolino:
+  gender_flag: 2
+  lang:
+  - it
+Azzurrino:
+  gender_flag: 2
+  lang:
+  - it
+Azzurro:
+  gender_flag: 2
+  lang:
+  - it
+Azénor:
+  gender_flag: 1
+  lang:
+  - br
+Aäron:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aaron
+  lang:
+  - nl
+  origin:
+  - he
+Açıker:
+  gender_flag: 2
+  lang:
+  - tr
+Açıkgün:
+  gender_flag: 2
+  lang:
+  - tr
+Açıl:
+  gender_flag: 2
+  lang:
+  - tr
+Aécio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aetius
+  lang:
+  - pt
+Aída:
+  gender_flag: 1
+  is_equivalent_to:
+  - Aida
+  lang:
+  - es
+  - pt
+  origin:
+  - it
+Aïcha:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - ar
+Aïssata:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - ar
+Aïssatou:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - ar
+Aðalberg:
+  gender_flag: 2
+  lang:
+  - is
+Aðalbergur:
+  gender_flag: 2
+  lang:
+  - is
+Aðalbert:
+  gender_flag: 2
+  lang:
+  - is
+Aðalbjörg:
+  gender_flag: 1
+  lang:
+  - is
+Aðalbjörn:
+  gender_flag: 2
+  lang:
+  - is
+Aðalbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Aðalborg:
+  gender_flag: 1
+  lang:
+  - fo
+Aðalborgar:
+  gender_flag: 2
+  lang:
+  - is
+Aðalgeir:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Aðalgunn:
+  gender_flag: 1
+  lang:
+  - fo
+Aðalheiður:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Aðallín:
+  gender_flag: 1
+  lang:
+  - fo
+Aðalmundur:
+  gender_flag: 2
+  lang:
+  - is
+Aðalstein:
+  gender_flag: 2
+  lang:
+  - fo
+Aþena:
+  gender_flag: 1
+  lang:
+  - is
+Ağer:
+  gender_flag: 2
+  lang:
+  - tr
+Aļona: {}
+Aśdrùbel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hasdrubal
+  lang:
+  - egl
+  origin:
+  - xpu
+Aśokamitre:
+  lang:
+  - txb
+Aśokarakṣita:
+  lang:
+  - txb
+Aśoke:
+  gender_flag: 2
+  lang:
+  - txb
+Aşa:
+  gender_flag: 1
+  lang:
+  - tr
+Aşkın:
+  gender_flag: 3
+  lang:
+  - tr
+Aşkıner:
+  gender_flag: 2
+  lang:
+  - tr
+Aška:
+  gender_flag: 1
+  is_short_for:
+  - Anežka
+  lang:
+  - cs
+Aŭgusteno:
+  gender_flag: 2
+  is_equivalent_to:
+  - Augustine
+  lang:
+  - eo
+  origin:
+  - la
+Aṣakẹ:
+  gender_flag: 1
+  lang:
+  - yo
+Aṣamu:
+  gender_flag: 4
+  lang:
+  - yo
+Aṣipa:
+  gender_flag: 2
+  lang:
+  - yo
+Aṣärte:
+  lang:
+  - txb
+afërditë:
+  gender_flag: 1
+  lang:
+  - sq
+albrecht:
+  gender_flag: 2
+  lang:
+  - dum
+arnout:
+  gender_flag: 2
+  lang:
+  - dum
+Àdhamh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - gd
+Àdva:
+  gender_flag: 1
+  lang:
+  - egl
+Àgata:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - ca
+Àgueda:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - ca
+Àlvar:
+  gender_flag: 2
+  lang:
+  - ca
+Àngel:
+  gender_flag: 2
+  lang:
+  - ca
+Àngels:
+  gender_flag: 1
+  lang:
+  - ca
+Ábal:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abel
+  lang:
+  - fo
+  origin:
+  - he
+Ábel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abel
+  lang:
+  - hu
+  - sk
+Ábraham:
+  gender_flag: 2
+  lang:
+  - fo
+Ábrahám:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - hu
+Ábram:
+  gender_flag: 2
+  lang:
+  - fo
+Ábria:
+  gender_flag: 1
+  lang:
+  - fo
+Ábris:
+  gender_flag: 2
+  is_short_for:
+  - Ábrahám
+  lang:
+  - hu
+Áda:
+  gender_flag: 2
+  is_short_for:
+  - Adam
+  - Adolf
+  lang:
+  - cs
+Ádam:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - fo
+Ádhamh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - ga
+  origin:
+  - he
+Ádi:
+  gender_flag: 2
+  is_short_for:
+  - Ádám
+  lang:
+  - hu
+Ádika:
+  gender_flag: 2
+  is_short_for:
+  - Ádám
+  lang:
+  - hu
+Ádám:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - hu
+Áed:
+  gender_flag: 2
+  lang:
+  - sga
+Áedacán:
+  gender_flag: 2
+  lang:
+  - sga
+África:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - la
+Ágata:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - pt
+Ágatha:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ágata
+  lang:
+  - pt
+Ági:
+  gender_flag: 1
+  is_short_for:
+  - Ágnes
+  lang:
+  - hu
+Ágica:
+  gender_flag: 1
+  is_short_for:
+  - Ágnes
+  lang:
+  - hu
+Ágika:
+  gender_flag: 1
+  is_short_for:
+  - Ágnes
+  lang:
+  - hu
+Ágnes:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agnes
+  lang:
+  - hu
+Ágoston:
+  gender_flag: 2
+  is_equivalent_to:
+  - Augustine
+  lang:
+  - hu
+Ágota:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - hu
+Águeda:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - es
+Ágúst:
+  gender_flag: 2
+  lang:
+  - is
+Áidano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aidan
+  lang:
+  - pt
+Áile:
+  gender_flag: 1
+  lang:
+  - se
+Áilu:
+  gender_flag: 2
+  lang:
+  - se
+Áine:
+  gender_flag: 1
+  lang:
+  - ga
+  origin:
+  - sga
+Áiréilias:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aurelius
+  lang:
+  - ga
+  origin:
+  - la
+Ája:
+  gender_flag: 1
+  is_short_for:
+  - Adéla
+  - Alena
+  - Andrea
+  lang:
+  - cs
+Áki:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+  - non
+  origin:
+  - non
+Ákos:
+  gender_flag: 2
+  lang:
+  - hu
+Álehttá:
+  gender_flag: 1
+  lang:
+  - se
+Álex:
+  gender_flag: 3
+  is_short_for:
+  - Alejandra
+  - Alejandro
+  lang:
+  - es
+Álfdís:
+  gender_flag: 1
+  lang:
+  - is
+Álfgeir:
+  gender_flag: 2
+  lang:
+  - is
+Álfheiður:
+  gender_flag: 1
+  lang:
+  - is
+Álfrún:
+  gender_flag: 1
+  lang:
+  - is
+Álvara:
+  gender_flag: 1
+  lang:
+  - es
+Álvaro:
+  gender_flag: 2
+  lang:
+  - es
+  - pt
+Álvdis:
+  gender_flag: 1
+  lang:
+  - fo
+Álvfinnur:
+  gender_flag: 2
+  lang:
+  - fo
+Álvgeir:
+  gender_flag: 2
+  lang:
+  - fo
+Álvgerð:
+  gender_flag: 1
+  lang:
+  - fo
+Álvheiður:
+  gender_flag: 1
+  lang:
+  - fo
+Álvheðin:
+  gender_flag: 2
+  lang:
+  - fo
+Álvhild:
+  gender_flag: 1
+  lang:
+  - fo
+Álvur:
+  gender_flag: 2
+  lang:
+  - fo
+Áma:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Ámak:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Ámundur:
+  gender_flag: 2
+  lang:
+  - fo
+Ána:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Ánania:
+  gender_flag: 1
+  lang:
+  - fo
+Ánanias:
+  gender_flag: 2
+  lang:
+  - fo
+Ándaras:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - se
+Ánde:
+  gender_flag: 2
+  lang:
+  - se
+Áne:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Ángel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Angel
+  lang:
+  - es
+Ángela:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angela
+  lang:
+  - es
+Ángeles:
+  gender_flag: 1
+  lang:
+  - es
+Ángelina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angelina
+  lang:
+  - es
+Ángelo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Angel
+  lang:
+  - es
+Ánh:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Ánias:
+  gender_flag: 2
+  lang:
+  - fo
+Ánne:
+  gender_flag: 1
+  lang:
+  - se
+Ánná:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ann
+  lang:
+  - se
+Ánte:
+  gender_flag: 2
+  lang:
+  - se
+Ánásse:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ápraham:
+  gender_flag: 2
+  lang:
+  - fo
+Ápram:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - fo
+Árant:
+  gender_flag: 2
+  lang:
+  - fo
+Árbjartur:
+  gender_flag: 2
+  lang:
+  - is
+Árbjörn:
+  gender_flag: 2
+  lang:
+  - is
+Árbjört:
+  gender_flag: 1
+  lang:
+  - is
+Árdal:
+  gender_flag: 2
+  lang:
+  - ga
+  origin:
+  - sga
+Árdís:
+  gender_flag: 1
+  lang:
+  - is
+Árelíus:
+  gender_flag: 2
+  lang:
+  - is
+Árgeir:
+  gender_flag: 2
+  lang:
+  - is
+Árgils:
+  gender_flag: 2
+  lang:
+  - is
+Ári:
+  gender_flag: 2
+  lang:
+  - fo
+Ária:
+  gender_flag: 1
+  lang:
+  - pt
+Árlaug:
+  gender_flag: 1
+  lang:
+  - is
+Ármann:
+  gender_flag: 2
+  lang:
+  - is
+Ármin:
+  gender_flag: 2
+  lang:
+  - hu
+Ármina:
+  gender_flag: 1
+  lang:
+  - hu
+Árna:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Árni:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Árný:
+  gender_flag: 1
+  lang:
+  - is
+Áron:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aaron
+  lang:
+  - fo
+  - hu
+  - se
+  origin:
+  - he
+Árpád:
+  gender_flag: 2
+  lang:
+  - hu
+Ársæl:
+  gender_flag: 1
+  lang:
+  - is
+Áróra:
+  gender_flag: 1
+  lang:
+  - is
+Árþóra:
+  gender_flag: 1
+  lang:
+  - is
+Ás:
+  gender_flag: 2
+  lang:
+  - is
+Ása:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+  - non
+  origin:
+  - non
+Ásar:
+  gender_flag: 2
+  lang:
+  - fo
+Ásbera:
+  gender_flag: 1
+  lang:
+  - fo
+Ásbergur:
+  gender_flag: 2
+  lang:
+  - fo
+Ásbjörg:
+  gender_flag: 1
+  lang:
+  - is
+Ásbjörn:
+  gender_flag: 2
+  lang:
+  - is
+Ásbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Ásbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Ásbjǫrn:
+  gender_flag: 2
+  lang:
+  - non
+Ásbrandur:
+  gender_flag: 2
+  lang:
+  - fo
+Ásdis:
+  gender_flag: 1
+  lang:
+  - fo
+Ásdís:
+  gender_flag: 1
+  lang:
+  - is
+Ásdór:
+  gender_flag: 2
+  lang:
+  - is
+Ásfinnur:
+  gender_flag: 2
+  lang:
+  - fo
+Ásfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Ásfríður:
+  gender_flag: 1
+  lang:
+  - is
+Ásgeir:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Ásgeirr:
+  gender_flag: 2
+  lang:
+  - non
+Ásgerð:
+  gender_flag: 1
+  lang:
+  - fo
+Ásgrímur:
+  gender_flag: 2
+  lang:
+  - fo
+Áshild:
+  gender_flag: 1
+  lang:
+  - fo
+Áshildr:
+  gender_flag: 1
+  lang:
+  - non
+Ási:
+  gender_flag: 2
+  lang:
+  - fo
+Áskell:
+  gender_flag: 2
+  lang:
+  - non
+Áskil:
+  gender_flag: 2
+  lang:
+  - fo
+Ásla:
+  gender_flag: 1
+  lang:
+  - fo
+Áslakur:
+  gender_flag: 2
+  lang:
+  - fo
+Áslat:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ásllat
+  lang:
+  - se
+Áslaug:
+  gender_flag: 1
+  lang:
+  - is
+  - non
+Áslaugur:
+  gender_flag: 2
+  lang:
+  - is
+Ásleivur:
+  gender_flag: 2
+  lang:
+  - fo
+Ásleyg:
+  gender_flag: 1
+  lang:
+  - fo
+Ásllat:
+  gender_flag: 2
+  lang:
+  - se
+Áslákur:
+  gender_flag: 2
+  lang:
+  - is
+Ásmundur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Ásmóður:
+  gender_flag: 2
+  lang:
+  - fo
+Ásrós:
+  gender_flag: 1
+  lang:
+  - is
+Áss:
+  gender_flag: 2
+  lang:
+  - is
+Ássvein:
+  gender_flag: 2
+  lang:
+  - fo
+Ásta:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Ástbjartur:
+  gender_flag: 2
+  lang:
+  - is
+Ástbjörg:
+  gender_flag: 1
+  lang:
+  - is
+Ástbjört:
+  gender_flag: 1
+  lang:
+  - is
+Ástdís:
+  gender_flag: 1
+  lang:
+  - is
+Ástfríður:
+  gender_flag: 1
+  lang:
+  - is
+Ástgeir:
+  gender_flag: 2
+  lang:
+  - is
+Ásthild:
+  gender_flag: 1
+  lang:
+  - fo
+Ásthildur:
+  gender_flag: 1
+  lang:
+  - is
+Ástlaug:
+  gender_flag: 1
+  lang:
+  - is
+Ástmundur:
+  gender_flag: 2
+  lang:
+  - is
+Ástrið:
+  gender_flag: 1
+  lang:
+  - fo
+Ástríðr:
+  gender_flag: 1
+  lang:
+  - non
+Ástríður:
+  gender_flag: 1
+  lang:
+  - is
+Ástrós:
+  gender_flag: 1
+  lang:
+  - is
+Ástrún:
+  gender_flag: 1
+  lang:
+  - is
+Ástvin:
+  gender_flag: 2
+  lang:
+  - is
+Ástþrúður:
+  gender_flag: 1
+  lang:
+  - is
+Ásvaldur:
+  gender_flag: 2
+  lang:
+  - fo
+Ásvar:
+  gender_flag: 2
+  lang:
+  - fo
+Ásvarður:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Ásvør:
+  gender_flag: 1
+  lang:
+  - fo
+Ásþrúður:
+  gender_flag: 1
+  lang:
+  - is
+Ásþór:
+  gender_flag: 2
+  lang:
+  - is
+Átila:
+  gender_flag: 2
+  is_equivalent_to:
+  - Attila
+  lang:
+  - pt
+  origin:
+  - got
+Ávaldur:
+  gender_flag: 2
+  lang:
+  - fo
+Áďa:
+  gender_flag: 3
+  is_short_for:
+  - Adam
+  - Adéla
+  lang:
+  - cs
+Âbréhan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Abraham
+  lang:
+  - nrf
+Âdam:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - nrf
+Âdem:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - tr
+Âlipa:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Âlipak:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Âltśe:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alice
+  lang:
+  - gmw-jdt
+Âlut:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Âlît:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Âmice:
+  gender_flag: 1
+  lang:
+  - nrf
+Ân:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Âne:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Ângela:
+  gender_flag: 1
+  is_equivalent_to:
+  - Angela
+  lang:
+  - pt
+Ângelo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Angelo
+  lang:
+  - pt
+  origin:
+  - it
+Âpalât:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ârnou:
+  gender_flag: 2
+  lang:
+  - wa
+Ãpalât:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Ägid:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aegidius
+  lang:
+  - de
+Ägidius:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aegidius
+  lang:
+  - de
+Änne:
+  gender_flag: 1
+  is_equivalent_to:
+  - Anna
+  - Anne
+  lang:
+  - de
+Åbwin:
+  gender_flag: 2
+  lang:
+  - wa
+Åge:
+  gender_flag: 2
+  lang:
+  - 'no'
+  origin:
+  - da
+Ågot:
+  gender_flag: 1
+  is_equivalent_to:
+  - Agatha
+  lang:
+  - 'no'
+Ågustin:
+  gender_flag: 2
+  lang:
+  - wa
+Åke:
+  gender_flag: 2
+  lang:
+  - sv
+Åns:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - pox
+Ånsă:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - pox
+Årsinne:
+  gender_flag: 2
+  lang:
+  - wa
+Åsa:
+  gender_flag: 1
+  lang:
+  - nn
+  - sv
+  origin:
+  - non
+Åse:
+  gender_flag: 1
+  is_a_variant_of:
+  - Åsa
+  lang:
+  - da
+  - nb
+  - nn
+  origin:
+  - non
+Åsgeir:
+  gender_flag: 2
+  is_equivalent_to:
+  - Oscar
+  lang:
+  - nn
+  origin:
+  - non
+Åshild:
+  gender_flag: 1
+  lang:
+  - nn
+  origin:
+  - non
+Åsmund:
+  gender_flag: 2
+  is_equivalent_to:
+  - Osmond
+  lang:
+  - nb
+  - nn
+  origin:
+  - non
+Åstrid:
+  gender_flag: 1
+  is_a_variant_of:
+  - Astrid
+  lang:
+  - nn
+  origin:
+  - non
+Ååggašǩ:
+  gender_flag: 1
+  lang:
+  - sms
+Åållaž:
+  gender_flag: 2
+  lang:
+  - sms
+Ååʹlga:
+  gender_flag: 1
+  lang:
+  - sms
+  origin:
+  - ru
+Åʹll:
+  gender_flag: 2
+  lang:
+  - sms
+Ædre:
+  gender_flag: 1
+  lang:
+  - ang
+Ægen:
+  gender_flag: 2
+  lang:
+  - ang
+Ægenbald: {}
+Ægenbeald:
+  gender_flag: 2
+  lang:
+  - ang
+Ægenwulf:
+  gender_flag: 2
+  lang:
+  - ang
+Æghil:
+  gender_flag: 2
+  lang:
+  - gmq-osw
+Ægir:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Ælf:
+  gender_flag: 2
+  lang:
+  - ang
+Ælfgar:
+  gender_flag: 2
+  lang:
+  - ang
+Ælfgeat:
+  gender_flag: 2
+  lang:
+  - ang
+Ælfgiefu:
+  gender_flag: 1
+  lang:
+  - ang
+Ælfhelm:
+  gender_flag: 2
+  lang:
+  - ang
+Ælfhere:
+  gender_flag: 2
+  lang:
+  - ang
+Ælfræd:
+  gender_flag: 2
+  lang:
+  - ang
+Ælfsige:
+  gender_flag: 2
+  lang:
+  - ang
+Ælfstan:
+  gender_flag: 2
+  lang:
+  - ang
+Ælfweard:
+  gender_flag: 2
+  lang:
+  - ang
+Ælfþryþ:
+  gender_flag: 1
+  lang:
+  - ang
+Ælle:
+  gender_flag: 2
+  lang:
+  - ang
+Æmile:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - la
+Æsa:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Æsc:
+  gender_flag: 2
+  lang:
+  - ang
+Æscleah: {}
+Æscmund:
+  gender_flag: 2
+  lang:
+  - ang
+Æthelnoþ:
+  gender_flag: 2
+  lang:
+  - ang
+Æthelthryth:
+  gender_flag: 1
+  lang:
+  - ang
+Ævör:
+  gender_flag: 1
+  lang:
+  - is
+Æðelhere:
+  gender_flag: 2
+  lang:
+  - ang
+Æðelred:
+  gender_flag: 2
+  lang:
+  - ang
+Æðelþryð:
+  gender_flag: 1
+  lang:
+  - ang
+Æþelbeorht:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelflæd:
+  gender_flag: 1
+  lang:
+  - ang
+Æþelfriþ:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelgar:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelgifu:
+  gender_flag: 1
+  lang:
+  - ang
+Æþelheard:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelhere:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelhild:
+  gender_flag: 1
+  lang:
+  - ang
+Æþelmod:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelmund:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelmær:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelred:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelric:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelræd:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelsige:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelstan:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelwacer:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelweald:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelweard:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelwig:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelwine:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelwulf:
+  gender_flag: 2
+  lang:
+  - ang
+Æþelwynn:
+  gender_flag: 1
+  lang:
+  - ang
+Ādams:
+  gender_flag: 2
+  lang:
+  - lv
+Ādolfs:
+  gender_flag: 2
+  lang:
+  - lv
+Ālp:
+  lang:
+  - txb
+Ānandamitra:
+  lang:
+  - txb
+Ānande:
+  gender_flag: 2
+  lang:
+  - txb
+Ānaru:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - mi
+Ārama:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - mi
+Ārija:
+  gender_flag: 1
+  lang:
+  - lv
+Ārijs:
+  gender_flag: 2
+  lang:
+  - lv
+Āris:
+  gender_flag: 2
+  lang:
+  - lv
+Ārpela:
+  lang:
+  - txb
+Ārslāṃ:
+  gender_flag: 2
+  lang:
+  - txb
+Āryakoṣa:
+  lang:
+  - txb
+Āryarakṣita:
+  lang:
+  - txb
+Āryatewe:
+  lang:
+  - txb
+Āryawarme:
+  gender_flag: 2
+  lang:
+  - txb
+Āryaśke:
+  gender_flag: 2
+  lang:
+  - txb
+Āryottāme:
+  gender_flag: 2
+  lang:
+  - txb
+Āśtāwi:
+  lang:
+  - txb
+Ấn:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh

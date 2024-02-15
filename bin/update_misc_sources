@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+from misc_sources.update import main
+
+main()

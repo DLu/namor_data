@@ -1,0 +1,5071 @@
+Paaie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Peggy
+  lang:
+  - gv
+  origin:
+  - en
+Paaliit:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Paalu:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Paarma:
+  gender_flag: 1
+  lang:
+  - kl
+Paarnannguaq:
+  gender_flag: 1
+  lang:
+  - kl
+Paarnaq:
+  gender_flag: 1
+  lang:
+  - kl
+Paavali:
+  gender_flag: 2
+  lang:
+  - fi
+Paavo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - et
+  - fi
+Paayl:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - gv
+Pablito:
+  gender_flag: 2
+  is_short_for:
+  - Pablo
+  lang:
+  - es
+Pablo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - en
+  - es
+  - tl
+  origin:
+  - es
+  - la
+Paca:
+  gender_flag: 1
+  is_short_for:
+  - Francisca
+  lang:
+  - es
+Pacita:
+  gender_flag: 1
+  lang:
+  - ceb
+Paco:
+  gender_flag: 2
+  is_short_for:
+  - Francisco
+  lang:
+  - en
+  - es
+  origin:
+  - es
+Pacomio:
+  gender_flag: 2
+  lang:
+  - it
+Paddy:
+  gender_flag: 2
+  lang:
+  - en
+Padma:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Padmaja:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Padmavati:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Padmini:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Padrig:
+  gender_flag: 2
+  is_equivalent_to:
+  - Patrick
+  lang:
+  - cy
+  origin:
+  - la
+Paegnium:
+  gender_flag: 2
+  lang:
+  - la
+Paeng:
+  gender_flag: 2
+  is_short_for:
+  - Rafael
+  lang:
+  - tl
+Pafnutie:
+  gender_flag: 2
+  lang:
+  - ro
+Pagan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Page:
+  gender_flag: 7
+  lang:
+  - en
+Pahomie:
+  gender_flag: 2
+  lang:
+  - ro
+Paidi:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Paige:
+  gender_flag: 7
+  lang:
+  - en
+Paio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Pelagius
+  lang:
+  - pt
+Paisie:
+  gender_flag: 2
+  lang:
+  - ro
+Paislee:
+  gender_flag: 1
+  lang:
+  - en
+Paityn:
+  gender_flag: 1
+  lang:
+  - en
+Pak:
+  gender_flag: 3
+  lang:
+  - tr
+Pakhangba:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Pal:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - sq
+  origin:
+  - la
+Palaestra:
+  gender_flag: 1
+  lang:
+  - la
+Palakiko:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Palamede:
+  gender_flag: 2
+  lang:
+  - it
+Palani:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Palapala:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Pali:
+  gender_flag: 2
+  is_short_for:
+  - Pál
+  lang:
+  - en
+  - hu
+Palinuro:
+  gender_flag: 2
+  lang:
+  - it
+Palinurus:
+  gender_flag: 2
+  lang:
+  - la
+Palkó:
+  gender_flag: 2
+  is_short_for:
+  - Pál
+  lang:
+  - hu
+Palladius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+  - la
+Pallas:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Palle:
+  gender_flag: 2
+  lang:
+  - da
+Palleq:
+  gender_flag: 3
+  lang:
+  - kl
+Palli:
+  gender_flag: 2
+  lang:
+  - fo
+Palma:
+  gender_flag: 1
+  lang:
+  - fo
+Palmer:
+  gender_flag: 2
+  lang:
+  - en
+Palmire:
+  gender_flag: 1
+  lang:
+  - wa
+Palmiro:
+  gender_flag: 2
+  lang:
+  - it
+Palmyre:
+  gender_flag: 1
+  lang:
+  - nrf
+Paloma:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+Paltar:
+  gender_flag: 2
+  lang:
+  - goh
+Palush:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  - Paulus
+  lang:
+  - sq
+Pam:
+  gender_flag: 1
+  is_short_for:
+  - Pamela
+  lang:
+  - en
+  - it
+Pamela:
+  gender_flag: 1
+  lang:
+  - en
+  - pl
+Pammela:
+  gender_flag: 1
+  lang:
+  - en
+Pammie:
+  gender_flag: 1
+  is_short_for:
+  - Pamela
+  lang:
+  - en
+Pammy:
+  gender_flag: 1
+  is_short_for:
+  - Pamela
+  lang:
+  - en
+Panagiotis: {}
+Panam Ningthou:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Pancho:
+  gender_flag: 2
+  is_short_for:
+  - Francisco
+  lang:
+  - es
+Pancrace:
+  gender_flag: 2
+  is_equivalent_to:
+  - Pancras
+  lang:
+  - wa
+Pancras:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Pancrazio:
+  gender_flag: 2
+  lang:
+  - it
+Pandolfo:
+  gender_flag: 2
+  lang:
+  - it
+Pandóra:
+  gender_flag: 1
+  lang:
+  - hu
+Pane:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Paneeraq:
+  gender_flag: 1
+  lang:
+  - kl
+Panegyris:
+  gender_flag: 2
+  lang:
+  - la
+Panfilo:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - grc
+Pangkoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Paninnguaq:
+  gender_flag: 1
+  lang:
+  - kl
+Pankaj:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Pankrác:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Pantaleón:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - el
+Panthoibi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mni
+Panu:
+  gender_flag: 2
+  lang:
+  - fi
+Panyang:
+  gender_flag: 1
+  lang:
+  - ceb
+Panyong:
+  gender_flag: 2
+  lang:
+  - ceb
+Paola:
+  gender_flag: 1
+  is_equivalent_to:
+  - Paula
+  lang:
+  - en
+  - fr
+  - it
+  origin:
+  - it
+Paolo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - en
+  - it
+  origin:
+  - it
+  - la
+Paphnutius:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - cop
+Paqui:
+  gender_flag: 1
+  is_short_for:
+  - Francisca
+  lang:
+  - es
+Paquita:
+  gender_flag: 1
+  is_short_for:
+  - Francisca
+  lang:
+  - es
+Paquito:
+  gender_flag: 2
+  is_short_for:
+  - Francisco
+  - Paco
+  lang:
+  - es
+Parascève:
+  gender_flag: 1
+  lang:
+  - fr
+Paraskevi:
+  gender_flag: 1
+  lang:
+  - en
+Paraskewa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Paraskevi
+  lang:
+  - pl
+  origin:
+  - grc
+Paraskiewa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Paraskevi
+  lang:
+  - pl
+  origin:
+  - grc
+Pardalisca:
+  gender_flag: 2
+  lang:
+  - la
+Pare:
+  gender_flag: 1
+  is_equivalent_to:
+  - Polly
+  lang:
+  - mi
+Parick:
+  gender_flag: 2
+  is_a_variant_of:
+  - Perick
+  is_equivalent_to:
+  - Patrick
+  lang:
+  - gv
+  - yol
+Paride:
+  gender_flag: 2
+  lang:
+  - it
+Paris:
+  gender_flag: 7
+  lang:
+  - en
+  - enm
+  - la
+  - sk
+  origin:
+  - grc
+Parker:
+  gender_flag: 7
+  lang:
+  - en
+Parlane:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bartholomew
+  lang:
+  - gv
+  origin:
+  - arc
+Parnell:
+  gender_flag: 2
+  lang:
+  - en
+Parnika:
+  gender_flag: 1
+  lang:
+  - en
+Parnuuna:
+  gender_flag: 1
+  lang:
+  - kl
+Paro:
+  gender_flag: 1
+  is_short_for:
+  - Parvati
+  lang:
+  - en
+Parris:
+  gender_flag: 2
+  lang:
+  - en
+Parry:
+  gender_flag: 6
+  lang:
+  - en
+Parthalán:
+  gender_flag: 2
+  is_equivalent_to:
+  - Bartholomew
+  lang:
+  - ga
+  origin:
+  - arc
+Parthenia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Parto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Parvati:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Parvin:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fa
+Paryono:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Pascal:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  - fr
+  origin:
+  - la
+Pascale:
+  gender_flag: 1
+  lang:
+  - fr
+Pascaline:
+  gender_flag: 1
+  lang:
+  - fr
+Pascual:
+  gender_flag: 2
+  lang:
+  - es
+Pascuala:
+  gender_flag: 1
+  lang:
+  - es
+Pasi:
+  gender_flag: 2
+  lang:
+  - fi
+Pasicompsa:
+  gender_flag: 1
+  lang:
+  - la
+Pasión:
+  gender_flag: 2
+  lang:
+  - es
+Pasqual:
+  gender_flag: 2
+  is_equivalent_to:
+  - Pascal
+  lang:
+  - ca
+Pasquale:
+  gender_flag: 2
+  is_equivalent_to:
+  - Pascal
+  lang:
+  - it
+Pasyo:
+  gender_flag: 2
+  lang:
+  - ceb
+Pat:
+  gender_flag: 7
+  is_short_for:
+  - Patricia
+  - Patrick
+  lang:
+  - en
+Patapie:
+  gender_flag: 2
+  lang:
+  - ro
+Pater:
+  gender_flag: 2
+  lang:
+  - ceb
+Pati:
+  gender_flag: 1
+  is_short_for:
+  - Patricia
+  - Patrícia
+  lang:
+  - es
+  - pt
+Patience:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Pato:
+  gender_flag: 2
+  is_short_for:
+  - Patricio
+  lang:
+  - es
+Patrekur:
+  gender_flag: 2
+  lang:
+  - is
+Patri:
+  gender_flag: 1
+  is_short_for:
+  - Patricia
+  lang:
+  - es
+Patric:
+  gender_flag: 2
+  is_equivalent_to:
+  - Patrick
+  lang:
+  - oc
+Patrice:
+  gender_flag: 3
+  is_equivalent_to:
+  - Patrick
+  lang:
+  - en
+  - fr
+  - oc
+  origin:
+  - la
+Patricia:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - fr
+  - 'no'
+  - sv
+  origin:
+  - la
+Patricie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Patricia
+  lang:
+  - cs
+Patricio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Patrick
+  lang:
+  - es
+Patricius:
+  gender_flag: 2
+  lang:
+  - la
+Patrick:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fr
+  - 'no'
+  - sv
+Patrik:
+  gender_flag: 2
+  is_a_variant_of:
+  - Patrick
+  is_equivalent_to:
+  - Patrick
+  lang:
+  - cs
+  - de
+  - fi
+  - is
+  - 'no'
+  - sk
+  - sv
+Patriko:
+  gender_flag: 2
+  is_equivalent_to:
+  - Patrick
+  lang:
+  - eo
+  origin:
+  - la
+Patrin:
+  lang:
+  - rom
+Patring:
+  gender_flag: 1
+  lang:
+  - ceb
+Patrizia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Patricia
+  lang:
+  - de
+  - it
+  origin:
+  - it
+Patrizio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Patrick
+  lang:
+  - it
+  origin:
+  - la
+Patrycja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Patricia
+  lang:
+  - pl
+Patrycjusz:
+  gender_flag: 2
+  lang:
+  - pl
+Patrícia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Patricia
+  lang:
+  - oc
+  - pt
+  - sk
+  origin:
+  - la
+Patrício:
+  gender_flag: 2
+  is_equivalent_to:
+  - Patrick
+  lang:
+  - pt
+  origin:
+  - la
+Patrīcija:
+  gender_flag: 1
+  lang:
+  - lv
+Patsie:
+  gender_flag: 1
+  is_short_for:
+  - Patricia
+  lang:
+  - en
+Patsy:
+  gender_flag: 7
+  is_short_for:
+  - Patricia
+  - Patrick
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Patti:
+  gender_flag: 1
+  lang:
+  - en
+Pattie:
+  gender_flag: 1
+  is_short_for:
+  - Patricia
+  lang:
+  - en
+Patty:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Pau:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - ca
+Pauahi:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Paudeen:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paddy
+  lang:
+  - yol
+Paul:
+  gender_flag: 2
+  lang:
+  - ceb
+  - cim
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - fr
+  - 'no'
+  - sv
+Paula:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - et
+  - fi
+  - fo
+  - la
+  - lv
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - la
+Paule:
+  gender_flag: 1
+  lang:
+  - fr
+Paulena:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Paulete:
+  gender_flag: 1
+  is_equivalent_to:
+  - Paulette
+  lang:
+  - pt
+Paulette:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - fr
+  origin:
+  - fr
+Paulfrid:
+  gender_flag: 1
+  lang:
+  - 'no'
+Pauli:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - fi
+  - fo
+Paulie:
+  gender_flag: 2
+  is_short_for:
+  - Paul
+  lang:
+  - en
+Pauliina:
+  gender_flag: 1
+  lang:
+  - fi
+Paulin:
+  gender_flag: 2
+  lang:
+  - fr
+Paulina:
+  gender_flag: 3
+  lang:
+  - ceb
+  - de
+  - en
+  - es
+  - fo
+  - pl
+  - sv
+  origin:
+  - la
+Pauline:
+  gender_flag: 1
+  is_a_variant_of:
+  - Paulina
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fr
+  origin:
+  - la
+Paulinka:
+  gender_flag: 1
+  is_short_for:
+  - Paulina
+  lang:
+  - pl
+Paulino:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+  - pt
+  - tl
+  origin:
+  - es
+Paulis:
+  gender_flag: 2
+  lang:
+  - lv
+Paulito:
+  gender_flag: 2
+  is_short_for:
+  - Paulo
+  lang:
+  - es
+Paulius:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - lt
+Paulo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Pablo
+  is_equivalent_to:
+  - Paul
+  lang:
+  - es
+  - haw
+  - pt
+  origin:
+  - la
+Pauls:
+  gender_flag: 2
+  lang:
+  - lv
+Paulus:
+  gender_flag: 2
+  is_a_variant_of:
+  - Paul
+  lang:
+  - da
+  - de
+  - et
+  - nl
+  - 'no'
+  - sv
+Pauly:
+  gender_flag: 2
+  is_short_for:
+  - Paul
+  lang:
+  - en
+Paulína:
+  gender_flag: 1
+  lang:
+  - sk
+Paulīna:
+  gender_flag: 1
+  lang:
+  - lv
+Pausanias:
+  gender_flag: 2
+  lang:
+  - en
+Paval:
+  gender_flag: 2
+  lang:
+  - sh
+Pavao:
+  gender_flag: 2
+  lang:
+  - sh
+Pavel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - cs
+  - ro
+  - sh
+  - sl
+Pavia:
+  gender_flag: 2
+  lang:
+  - kl
+Pavla:
+  gender_flag: 1
+  is_equivalent_to:
+  - Paula
+  lang:
+  - cs
+  - fo
+Pavle:
+  gender_flag: 2
+  lang:
+  - sh
+Pavlička:
+  gender_flag: 1
+  is_short_for:
+  - Pavla
+  lang:
+  - cs
+Pavlík:
+  gender_flag: 2
+  is_short_for:
+  - Pavel
+  lang:
+  - cs
+Pavlína:
+  gender_flag: 1
+  is_equivalent_to:
+  - Pauline
+  lang:
+  - cs
+Pavlínka:
+  gender_flag: 1
+  is_short_for:
+  - Pavlína
+  lang:
+  - cs
+Pavlíček:
+  gender_flag: 2
+  is_short_for:
+  - Pavel
+  lang:
+  - cs
+Pavol:
+  gender_flag: 2
+  lang:
+  - sk
+Pavot:
+  gender_flag: 1
+  lang:
+  - nrf
+Paw:
+  gender_flag: 2
+  lang:
+  - da
+Paweł:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - pl
+Pawełek:
+  gender_flag: 2
+  is_short_for:
+  - Paweł
+  lang:
+  - pl
+Pawl:
+  gender_flag: 2
+  lang:
+  - cy
+Pax:
+  gender_flag: 2
+  lang:
+  - en
+Paxton:
+  gender_flag: 2
+  lang:
+  - en
+Pay:
+  gender_flag: 7
+  is_short_for:
+  - Payton
+  lang:
+  - en
+Paymon: {}
+Payton:
+  gender_flag: 7
+  lang:
+  - en
+Paz:
+  gender_flag: 1
+  lang:
+  - es
+Paľo:
+  gender_flag: 2
+  is_short_for:
+  - Pavol
+  lang:
+  - sk
+Paŭlo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - eo
+  origin:
+  - la
+Peabo:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - en
+Peace:
+  gender_flag: 1
+  lang:
+  - en
+Peach:
+  gender_flag: 1
+  lang:
+  - en
+Peadar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - ga
+  - gd
+  origin:
+  - grc
+Pearl:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Pearleen:
+  gender_flag: 1
+  lang:
+  - en
+Pearlene:
+  gender_flag: 1
+  lang:
+  - en
+Pearline:
+  gender_flag: 1
+  lang:
+  - en
+Pearu:
+  gender_flag: 2
+  lang:
+  - et
+Peddyr:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - gv
+  origin:
+  - grc
+Peder:
+  gender_flag: 2
+  is_a_variant_of:
+  - Peter
+  lang:
+  - da
+  - 'no'
+  - sv
+Pedong:
+  gender_flag: 2
+  lang:
+  - ceb
+Pedot:
+  gender_flag: 2
+  lang:
+  - ceb
+Pedr:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - cy
+Pedrikke:
+  gender_flag: 1
+  lang:
+  - 'no'
+Pedring:
+  gender_flag: 2
+  is_short_for:
+  - Pedro
+  lang:
+  - tl
+Pedrinho:
+  gender_flag: 2
+  is_equivalent_to:
+  - Petey
+  is_short_for:
+  - Pedro
+  lang:
+  - pt
+Pedro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - ceb
+  - en
+  - es
+  - fi
+  - izh
+  - pt
+  - tl
+  origin:
+  - es
+  - grc
+  - pt
+Pedru:
+  gender_flag: 2
+  lang:
+  - ast
+Peedher:
+  gender_flag: 2
+  is_a_variant_of:
+  - Beedher
+  lang:
+  - yol
+Peedu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Pete
+  lang:
+  - et
+Peep:
+  gender_flag: 2
+  lang:
+  - et
+Peer:
+  gender_flag: 2
+  is_a_variant_of:
+  - Per
+  lang:
+  - da
+  - 'no'
+Peers:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Peet:
+  gender_flag: 2
+  is_equivalent_to:
+  - Pete
+  lang:
+  - et
+Peeter:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - et
+Peether:
+  gender_flag: 2
+  is_a_variant_of:
+  - Beedher
+  lang:
+  - yol
+Peetrus:
+  gender_flag: 2
+  lang:
+  - et
+Peetu:
+  gender_flag: 2
+  lang:
+  - fi
+  origin:
+  - grc
+Peg:
+  gender_flag: 1
+  lang:
+  - en
+  - yol
+Pegah: {}
+Peggy:
+  gender_flag: 1
+  is_short_for:
+  - Margaret
+  lang:
+  - en
+  - fr
+Pehr:
+  gender_flag: 2
+  is_a_variant_of:
+  - Per
+  lang:
+  - sv
+Peiarin:
+  gender_flag: 1
+  lang:
+  - goh
+Peige:
+  gender_flag: 1
+  is_equivalent_to:
+  - Peggy
+  lang:
+  - ga
+  origin:
+  - en
+Peigi:
+  gender_flag: 1
+  is_equivalent_to:
+  - Peggy
+  is_short_for:
+  - Mairead
+  lang:
+  - gd
+Peire:
+  gender_flag: 2
+  lang:
+  - fro
+Pejter:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - wym
+Pek:
+  gender_flag: 1
+  lang:
+  - tr
+Peke:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Pekelo:
+  gender_flag: 2
+  lang:
+  - haw
+Pekka:
+  gender_flag: 2
+  lang:
+  - fi
+Pekko:
+  gender_flag: 2
+  lang:
+  - fi
+Pekto:
+  gender_flag: 2
+  is_short_for:
+  - Perfecto
+  lang:
+  - tl
+Pektoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Pelagia:
+  gender_flag: 1
+  lang:
+  - pl
+Pelagio:
+  gender_flag: 2
+  lang:
+  - it
+Pelagius:
+  lang:
+  - en
+Pelayo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Pelagius
+  lang:
+  - es
+Pele:
+  gender_flag: 1
+  lang:
+  - en
+  - haw
+  origin:
+  - haw
+Peleg:
+  gender_flag: 2
+  lang:
+  - en
+Pelekila:
+  gender_flag: 1
+  lang:
+  - haw
+Pelin:
+  gender_flag: 1
+  lang:
+  - tr
+Pelising:
+  gender_flag: 3
+  lang:
+  - ceb
+Pelle:
+  gender_flag: 2
+  is_short_for:
+  - Per
+  - Peter
+  - Pär
+  lang:
+  - da
+  - sv
+Pellegrino:
+  gender_flag: 2
+  lang:
+  - it
+Pellervo:
+  gender_flag: 2
+  lang:
+  - fi
+Pellio:
+  gender_flag: 2
+  lang:
+  - la
+Pen:
+  gender_flag: 1
+  is_short_for:
+  - Penelope
+  lang:
+  - en
+Pena:
+  gender_flag: 2
+  is_short_for:
+  - Pentti
+  lang:
+  - fi
+Pendleton:
+  gender_flag: 2
+  lang:
+  - en
+Peneki:
+  gender_flag: 2
+  lang:
+  - haw
+Penelope:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  origin:
+  - grc
+Peni:
+  gender_flag: 2
+  lang:
+  - haw
+Peniculus:
+  gender_flag: 2
+  lang:
+  - la
+Peninah: {}
+Peniʻamina:
+  gender_flag: 2
+  lang:
+  - haw
+Penny:
+  gender_flag: 1
+  is_short_for:
+  - Penelope
+  lang:
+  - en
+Penpen:
+  gender_flag: 2
+  lang:
+  - ceb
+Pentti:
+  gender_flag: 2
+  is_equivalent_to:
+  - Benedict
+  lang:
+  - fi
+Peolive:
+  gender_flag: 1
+  lang:
+  - 'no'
+Pep:
+  gender_flag: 2
+  is_short_for:
+  - Josep
+  lang:
+  - ca
+Pepa:
+  gender_flag: 3
+  is_short_for:
+  - Josef
+  - Josefa
+  lang:
+  - cs
+  - es
+Pepay:
+  gender_flag: 1
+  is_short_for:
+  - Josefa
+  lang:
+  - tl
+Pepe:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  - José
+  lang:
+  - es
+  - it
+Pepijn:
+  gender_flag: 2
+  lang:
+  - nl
+Peping:
+  gender_flag: 2
+  lang:
+  - ceb
+Pepita:
+  gender_flag: 1
+  is_short_for:
+  - Josefa
+  lang:
+  - es
+Pepito:
+  gender_flag: 2
+  is_short_for:
+  - José
+  lang:
+  - es
+Peppe:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  lang:
+  - it
+Peppenuzzo:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  lang:
+  - it
+Peppi:
+  gender_flag: 1
+  lang:
+  - fi
+Peppinello:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  lang:
+  - it
+Peppinetto:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  lang:
+  - it
+Peppiniello:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  lang:
+  - nap
+Peppino:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  lang:
+  - it
+Peppo:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  lang:
+  - it
+Peppone:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  lang:
+  - it
+Peppuccio:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  lang:
+  - it
+Pepìn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joe
+  is_short_for:
+  - Giuśèpe
+  lang:
+  - egl
+  origin:
+  - he
+Pepìna:
+  gender_flag: 1
+  lang:
+  - egl
+Pepík:
+  gender_flag: 2
+  is_short_for:
+  - Pepa
+  lang:
+  - cs
+Pepíček:
+  gender_flag: 2
+  is_short_for:
+  - Pepa
+  lang:
+  - cs
+Per:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - br
+  - da
+  - de
+  - fo
+  - nb
+  - nn
+  - sv
+  origin:
+  - la
+Peradeo:
+  gender_flag: 2
+  lang:
+  - goh
+Perceval:
+  gender_flag: 2
+  lang:
+  - fro
+Percilla:
+  gender_flag: 1
+  lang:
+  - en
+Percival:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cel
+Percy:
+  gender_flag: 2
+  lang:
+  - en
+  - sv
+Perda:
+  gender_flag: 1
+  lang:
+  - 'no'
+Perdis:
+  gender_flag: 1
+  lang:
+  - 'no'
+Perdita:
+  gender_flag: 1
+  lang:
+  - en
+Perdy:
+  gender_flag: 1
+  lang:
+  - 'no'
+Pere:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - ca
+Peregrine:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Peret:
+  gender_flag: 2
+  is_short_for:
+  - Pere
+  lang:
+  - ca
+Perfecta:
+  gender_flag: 1
+  lang:
+  - ceb
+Perfecto:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+  - tl
+  origin:
+  - es
+Pergot:
+  gender_flag: 1
+  lang:
+  - 'no'
+Pergunn:
+  gender_flag: 1
+  lang:
+  - 'no'
+Perhtni:
+  gender_flag: 1
+  lang:
+  - goh
+Perica:
+  gender_flag: 2
+  is_equivalent_to:
+  - Pete
+  - Peter
+  lang:
+  - sh
+Perick:
+  gender_flag: 2
+  is_equivalent_to:
+  - Patrick
+  lang:
+  - gv
+Pericles:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Perine:
+  gender_flag: 1
+  lang:
+  - 'no'
+Periphanes:
+  gender_flag: 2
+  lang:
+  - la
+Perla:
+  gender_flag: 1
+  lang:
+  - ceb
+  - es
+  - is
+  - sk
+Perlita:
+  gender_flag: 1
+  lang:
+  - ceb
+Pernhild:
+  gender_flag: 1
+  lang:
+  - 'no'
+Pernilla:
+  gender_flag: 1
+  lang:
+  - sv
+Pernille:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Perny:
+  gender_flag: 1
+  lang:
+  - 'no'
+Pero:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - goh
+  - pt
+  origin:
+  - grc
+Peroline:
+  gender_flag: 1
+  lang:
+  - 'no'
+Perpetua:
+  gender_flag: 1
+  lang:
+  - ceb
+  - es
+  origin:
+  - es
+Perrette:
+  gender_flag: 1
+  lang:
+  - fr
+Perri:
+  gender_flag: 7
+  lang:
+  - en
+Perrine:
+  gender_flag: 1
+  lang:
+  - fr
+Perry:
+  gender_flag: 7
+  is_short_for:
+  - Peregrine
+  lang:
+  - en
+Pers:
+  gender_flag: 2
+  lang:
+  - en
+  - tr
+  origin:
+  - sv
+Perseo:
+  gender_flag: 2
+  lang:
+  - it
+Persephone:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Perseus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Persio:
+  gender_flag: 2
+  lang:
+  - it
+Persis:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Pertti:
+  gender_flag: 2
+  lang:
+  - fi
+  origin:
+  - gem
+Perttu:
+  gender_flag: 2
+  lang:
+  - fi
+Perucho:
+  gender_flag: 2
+  is_short_for:
+  - Pedro
+  lang:
+  - gl
+Pervez:
+  gender_flag: 2
+  lang:
+  - en
+Pervin:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - fa
+Peryong:
+  gender_flag: 2
+  lang:
+  - ceb
+Peta:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Petar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - sh
+Pete:
+  gender_flag: 2
+  is_short_for:
+  - Peter
+  lang:
+  - en
+Peter:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - nl
+  - 'no'
+  - sco
+  - sk
+  - sl
+  - sv
+Petera:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - mi
+Peternella:
+  gender_flag: 1
+  is_a_variant_of:
+  - Petronella
+  lang:
+  - 'no'
+Peternelle:
+  gender_flag: 1
+  lang:
+  - 'no'
+Petero:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - rw
+Petey:
+  gender_flag: 2
+  is_short_for:
+  - Peter
+  lang:
+  - en
+Peti:
+  gender_flag: 3
+  is_equivalent_to:
+  - Betty
+  is_short_for:
+  - Péter
+  lang:
+  - hu
+  - mi
+Petr:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - cs
+Petra:
+  gender_flag: 1
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - fi
+  - fo
+  - hu
+  - la
+  - nl
+  - 'no'
+  - sk
+  - sv
+Petras:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - lt
+Petre:
+  gender_flag: 2
+  lang:
+  - en
+  - ro
+  origin:
+  - grc
+Petrea:
+  gender_flag: 1
+  lang:
+  - da
+Petri:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - eu
+  - fi
+Petrikke:
+  gender_flag: 1
+  lang:
+  - 'no'
+Petrimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Petrina:
+  gender_flag: 1
+  is_a_variant_of:
+  - Petrine
+  lang:
+  - fo
+  - 'no'
+Petrine:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Petro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - eo
+  origin:
+  - grc
+Petrock:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cel
+Petronela:
+  gender_flag: 1
+  lang:
+  - pl
+  - sk
+Petronella:
+  gender_flag: 1
+  lang:
+  - en
+  - la
+  - nl
+  - sv
+  origin:
+  - la
+Petronelle:
+  gender_flag: 1
+  lang:
+  - 'no'
+Petronelė:
+  gender_flag: 1
+  lang:
+  - lt
+Petronille:
+  gender_flag: 1
+  lang:
+  - fr
+  - 'no'
+  origin:
+  - la
+Petronio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Petronius
+  lang:
+  - it
+Petronius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Petros: {}
+Petroslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Petru:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - co
+  - ro
+  origin:
+  - grc
+Petrus:
+  gender_flag: 2
+  is_a_variant_of:
+  - Peter
+  is_equivalent_to:
+  - Peter
+  lang:
+  - de
+  - fi
+  - id
+  - la
+  - nl
+  - sv
+  origin:
+  - la
+Petruška:
+  gender_flag: 1
+  is_short_for:
+  - Petra
+  lang:
+  - cs
+Petruța:
+  gender_flag: 1
+  lang:
+  - ro
+Petrína:
+  gender_flag: 1
+  lang:
+  - is
+Petter:
+  gender_flag: 2
+  is_a_variant_of:
+  - Peter
+  lang:
+  - 'no'
+  - sv
+Petteri:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - fi
+  - izh
+  - vot
+Petunia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Petur:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - fo
+Petřík:
+  gender_flag: 2
+  is_short_for:
+  - Petr
+  lang:
+  - cs
+Petříček:
+  gender_flag: 2
+  is_short_for:
+  - Petr
+  lang:
+  - cs
+Peydro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - osp
+  origin:
+  - grc
+Peyton:
+  gender_flag: 7
+  lang:
+  - en
+Peĉjo:
+  gender_flag: 2
+  is_short_for:
+  - Petro
+  lang:
+  - eo
+Peťa:
+  gender_flag: 3
+  is_short_for:
+  - Petr
+  - Petra
+  lang:
+  - cs
+Peťo:
+  gender_flag: 2
+  is_short_for:
+  - Peter
+  lang:
+  - sk
+Peťulka:
+  gender_flag: 3
+  is_short_for:
+  - Peťa
+  - Péťa
+  lang:
+  - cs
+Ph'lippe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - nrf
+Phaedra:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Phaedria:
+  gender_flag: 2
+  lang:
+  - la
+Phaedromus:
+  gender_flag: 2
+  lang:
+  - la
+Phani:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Phanostrata:
+  gender_flag: 2
+  lang:
+  - la
+Pharrell:
+  gender_flag: 2
+  lang:
+  - en
+Phebe:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Phelan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Phelipe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - fro
+Phelippe:
+  gender_flag: 1
+  is_equivalent_to:
+  - Philippa
+  lang:
+  - frm
+Phemie:
+  gender_flag: 1
+  is_short_for:
+  - Euphemia
+  lang:
+  - en
+Pherfrit:
+  gender_flag: 1
+  lang:
+  - goh
+Pherick:
+  gender_flag: 2
+  is_a_variant_of:
+  - Perick
+  lang:
+  - gv
+Phi:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Phielim:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - yol
+Phil:
+  gender_flag: 3
+  lang:
+  - en
+  - fr
+Philadelphe:
+  gender_flag: 2
+  lang:
+  - fr
+Philadelphus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Philaenium:
+  gender_flag: 1
+  lang:
+  - la
+Philarète:
+  gender_flag: 2
+  lang:
+  - fr
+Philarétus:
+  gender_flag: 2
+  lang:
+  - fr
+Philematium:
+  gender_flag: 1
+  lang:
+  - la
+Philemon:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Philibert:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Philiberthe:
+  gender_flag: 1
+  lang:
+  - nrf
+Philip:
+  gender_flag: 2
+  is_a_variant_of:
+  - Filip
+  - Philipp
+  lang:
+  - da
+  - de
+  - en
+  - 'no'
+  - sv
+  origin:
+  - grc
+Philipp:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - de
+Philippa:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - la
+Philippe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - fr
+Philippus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - la
+Phill:
+  gender_flag: 2
+  lang:
+  - en
+Phillida:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Phillip:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  origin:
+  - grc
+Phillipa:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Phillipp:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  origin:
+  - grc
+Phillis:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Philly:
+  gender_flag: 1
+  is_short_for:
+  - Philippa
+  lang:
+  - en
+Philocrates:
+  gender_flag: 2
+  lang:
+  - la
+Philoctetes:
+  gender_flag: 2
+  lang:
+  - la
+Philoctète:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philoctetes
+  lang:
+  - fr
+  origin:
+  - la
+Philolaches:
+  gender_flag: 2
+  lang:
+  - la
+Philomela:
+  gender_flag: 1
+  lang:
+  - en
+  - la
+Philomelus:
+  gender_flag: 2
+  lang:
+  - la
+Philomena:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Philomène:
+  gender_flag: 7
+  is_equivalent_to:
+  - Philomena
+  lang:
+  - fr
+  - nrf
+Philopolemus:
+  gender_flag: 2
+  lang:
+  - la
+Philoxenus:
+  gender_flag: 2
+  lang:
+  - la
+Philto:
+  gender_flag: 2
+  lang:
+  - la
+Phineas:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - egy
+  - grc
+Phinehas:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - egy
+  - grc
+Phoebe:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - grc
+Phoenix:
+  gender_flag: 7
+  lang:
+  - en
+Pholing:
+  lang:
+  - goh
+Phong:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Photinus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Photius:
+  gender_flag: 2
+  lang:
+  - en
+Phou Ningthou:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Phouoibi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mni
+Phri-đrich: {}
+Phronesium:
+  gender_flag: 2
+  lang:
+  - la
+Phronsie:
+  gender_flag: 1
+  lang:
+  - en
+Phygia:
+  gender_flag: 2
+  lang:
+  - la
+Phyllida:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Phyllis:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Pháp:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Phúc:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Phương:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Phước:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Phượng:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Phận:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Phục:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Phụng:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Pia:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - de
+  - nl
+  - 'no'
+  - sv
+Piat:
+  gender_flag: 2
+  lang:
+  - fr
+Piatro: {}
+Pichay:
+  gender_flag: 2
+  lang:
+  - ceb
+Pico:
+  gender_flag: 2
+  lang:
+  - it
+Piding:
+  gender_flag: 1
+  lang:
+  - ceb
+Piedad:
+  gender_flag: 1
+  lang:
+  - es
+Pien:
+  gender_flag: 1
+  lang:
+  - nl
+Pier:
+  gender_flag: 2
+  is_short_for:
+  - Pieter
+  lang:
+  - nl
+Piera:
+  gender_flag: 3
+  is_equivalent_to:
+  - Peter
+  lang:
+  - it
+  - se
+  origin:
+  - 'no'
+  - sv
+Pierangelo:
+  gender_flag: 2
+  lang:
+  - it
+Pierce:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Pieri:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - fur
+Pierluigi:
+  gender_flag: 2
+  lang:
+  - it
+Piero:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - it
+Pierot:
+  gender_flag: 2
+  lang:
+  - wa
+Pierre:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - en
+  - fr
+  - frm
+  - pt
+  - sv
+  origin:
+  - fr
+Pierre-Marie:
+  gender_flag: 2
+  lang:
+  - fr
+Pierrette:
+  gender_flag: 1
+  lang:
+  - fr
+Pierrick:
+  gender_flag: 2
+  lang:
+  - fr
+Pierrot:
+  gender_flag: 2
+  lang:
+  - nrf
+Pierrounet:
+  gender_flag: 2
+  lang:
+  - oc
+Piers:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Piet:
+  gender_flag: 2
+  is_equivalent_to:
+  - Pete
+  is_short_for:
+  - Pieter
+  lang:
+  - af
+  - nl
+Pietari:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - fi
+Pieter:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - af
+  - nl
+  origin:
+  - grc
+Pieternel:
+  gender_flag: 1
+  lang:
+  - nl
+Pieternella:
+  gender_flag: 1
+  lang:
+  - nl
+  origin:
+  - la
+Pietra:
+  gender_flag: 1
+  lang:
+  - pt
+Pietro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - it
+  - pt
+  origin:
+  - grc
+  - it
+Pihla:
+  gender_flag: 1
+  lang:
+  - fi
+Piia:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+  - kl
+  origin:
+  - da
+Piibe:
+  gender_flag: 1
+  lang:
+  - et
+Piita:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Piitaq:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Pijus:
+  gender_flag: 2
+  lang:
+  - lt
+Pika:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Pila:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Pilade:
+  gender_flag: 2
+  lang:
+  - it
+Pilang:
+  gender_flag: 1
+  lang:
+  - ceb
+Pilar:
+  gender_flag: 1
+  lang:
+  - ceb
+  - es
+  origin:
+  - es
+Pili:
+  gender_flag: 1
+  is_short_for:
+  - Pilar
+  lang:
+  - es
+Pilipo:
+  gender_flag: 2
+  lang:
+  - haw
+Pilising:
+  gender_flag: 3
+  lang:
+  - ceb
+Pille:
+  gender_flag: 1
+  lang:
+  - et
+Pille-Riin:
+  gender_flag: 1
+  lang:
+  - et
+Pilo:
+  gender_flag: 2
+  lang:
+  - ceb
+Pilokoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Piluca:
+  gender_flag: 1
+  is_short_for:
+  - Pilar
+  lang:
+  - es
+Pilunnguaq:
+  gender_flag: 1
+  lang:
+  - kl
+Pilutannguaq:
+  gender_flag: 2
+  lang:
+  - kl
+Pilutaq:
+  gender_flag: 2
+  lang:
+  - kl
+Pilve:
+  gender_flag: 1
+  lang:
+  - et
+  origin:
+  - et
+Pilvi:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+  origin:
+  - et
+  - fi
+Pilypas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - lt
+Pim:
+  gender_flag: 2
+  lang:
+  - nl
+Pimen:
+  gender_flag: 2
+  lang:
+  - ro
+Pina:
+  gender_flag: 1
+  is_short_for:
+  - Giuseppina
+  - Josefa
+  - Josefina
+  lang:
+  - ceb
+  - es
+  - it
+Pindobusu:
+  gender_flag: 2
+  lang:
+  - tpw
+Pinehaka:
+  gender_flag: 2
+  lang:
+  - haw
+Ping:
+  gender_flag: 1
+  lang:
+  - en
+Pinja:
+  gender_flag: 1
+  lang:
+  - fi
+Pinkey:
+  gender_flag: 1
+  lang:
+  - en
+Pinky:
+  gender_flag: 1
+  lang:
+  - ceb
+  - tl
+Pino:
+  gender_flag: 2
+  lang:
+  - ceb
+Pinuccio:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  lang:
+  - it
+Pio:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Piotr:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - pl
+Piotrek:
+  gender_flag: 2
+  is_short_for:
+  - Piotr
+  lang:
+  - pl
+Piotruś:
+  gender_flag: 2
+  is_short_for:
+  - Piotr
+  lang:
+  - pl
+Pip:
+  gender_flag: 3
+  lang:
+  - en
+Pipaluk:
+  gender_flag: 1
+  lang:
+  - kl
+Pipe:
+  gender_flag: 2
+  is_short_for:
+  - Felipe
+  lang:
+  - es
+Piper:
+  gender_flag: 1
+  lang:
+  - en
+Pipoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Pippa:
+  gender_flag: 1
+  lang:
+  - en
+  - fi
+Pippi:
+  gender_flag: 1
+  lang:
+  - sv
+Pippin:
+  gender_flag: 2
+  lang:
+  - en
+Pippo:
+  gender_flag: 2
+  lang:
+  - it
+Pipsa:
+  gender_flag: 1
+  lang:
+  - fi
+Pire:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - wa
+Piret:
+  gender_flag: 1
+  is_equivalent_to:
+  - Bridget
+  lang:
+  - et
+Piri:
+  gender_flag: 3
+  is_equivalent_to:
+  - Bill
+  is_short_for:
+  - Piroska
+  lang:
+  - hu
+  - mi
+Pirihira:
+  gender_flag: 1
+  is_equivalent_to:
+  - Priscilla
+  lang:
+  - mi
+Piripi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - mi
+Pirita:
+  gender_flag: 1
+  lang:
+  - fi
+Piritta:
+  gender_flag: 1
+  lang:
+  - fi
+Pirje:
+  gender_flag: 1
+  lang:
+  - et
+Pirjo:
+  gender_flag: 1
+  lang:
+  - fi
+Pirkka:
+  gender_flag: 2
+  lang:
+  - fi
+Pirkko:
+  gender_flag: 1
+  lang:
+  - fi
+Pirkko-Liisa:
+  gender_flag: 1
+  lang:
+  - fi
+Piron:
+  gender_flag: 2
+  lang:
+  - wa
+Piroska:
+  gender_flag: 1
+  lang:
+  - hu
+Pirro:
+  gender_flag: 2
+  lang:
+  - it
+Pirson:
+  gender_flag: 2
+  lang:
+  - wa
+Pisatao:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Pista:
+  gender_flag: 2
+  is_equivalent_to:
+  - Steve
+  is_short_for:
+  - István
+  lang:
+  - hu
+Pisti:
+  gender_flag: 2
+  is_short_for:
+  - István
+  lang:
+  - hu
+Pistoclerus:
+  gender_flag: 2
+  lang:
+  - la
+Pit:
+  gender_flag: 2
+  lang:
+  - li
+Pita:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - alu
+  - mi
+Piteur:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - nrf
+Pitoy:
+  gender_flag: 2
+  is_short_for:
+  - Agapito
+  lang:
+  - tl
+Pitse:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Pitsi:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Pius:
+  gender_flag: 2
+  lang:
+  - la
+Pixie:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - en
+Piyush:
+  gender_flag: 2
+  lang:
+  - en
+Pièrre:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - nrf
+Pièrrot:
+  gender_flag: 2
+  is_short_for:
+  - Pièrre
+  lang:
+  - nrf
+Piérin:
+  gender_flag: 2
+  lang:
+  - nrf
+Piérotin:
+  gender_flag: 2
+  is_short_for:
+  - Pierrot
+  lang:
+  - nrf
+Pië:
+  gender_flag: 2
+  lang:
+  - li
+Piöel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - wym
+Piʻikea:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Piʻilani:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Pjotr: {}
+Pjotrs:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - ru
+Placite:
+  gender_flag: 1
+  lang:
+  - nrf
+Planchet:
+  gender_flag: 2
+  lang:
+  - fr
+Planesium:
+  gender_flag: 2
+  lang:
+  - la
+Plato:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Platon:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - ro
+  - ru
+Platona:
+  gender_flag: 2
+  is_equivalent_to:
+  - Plato
+  lang:
+  - izh
+Platão:
+  gender_flag: 2
+  is_equivalent_to:
+  - Plato
+  lang:
+  - pt
+Pleasance:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+Plegberht:
+  gender_flag: 2
+  lang:
+  - ang
+Plegmund:
+  gender_flag: 2
+  lang:
+  - ang
+Plegræd:
+  gender_flag: 2
+  lang:
+  - ang
+Plepinga:
+  lang:
+  - goh
+Plesidippus:
+  gender_flag: 2
+  lang:
+  - la
+Pleusicles:
+  gender_flag: 2
+  lang:
+  - la
+Plinio:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Pllacide:
+  gender_flag: 2
+  lang:
+  - nrf
+Pllagie:
+  gender_flag: 1
+  lang:
+  - nrf
+Plutarchus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Plutarco:
+  gender_flag: 2
+  lang:
+  - es
+  - pt
+  origin:
+  - grc
+  - la
+Plutarcu:
+  gender_flag: 2
+  lang:
+  - ast
+  - scn
+Plínio:
+  gender_flag: 2
+  lang:
+  - pt
+Plötüs:
+  gender_flag: 2
+  lang:
+  - pox
+  origin:
+  - la
+Pnina:
+  gender_flag: 1
+  lang:
+  - en
+Poglianniare: {}
+Pogliare: {}
+Pol:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - ca
+  - fro
+  - nl
+Pola:
+  gender_flag: 1
+  lang:
+  - pl
+Polat:
+  gender_flag: 2
+  lang:
+  - tr
+Polda:
+  gender_flag: 2
+  is_short_for:
+  - Leopold
+  lang:
+  - cs
+Poldo:
+  gender_flag: 2
+  is_short_for:
+  - Leopoldo
+  lang:
+  - ceb
+  - it
+Polemon:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Poleng:
+  gender_flag: 1
+  is_short_for:
+  - Paula
+  - Paulina
+  - Pauline
+  lang:
+  - tl
+Poli:
+  gender_flag: 2
+  lang:
+  - fo
+Poliana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Pollyanna
+  lang:
+  - pt
+Policarp:
+  gender_flag: 2
+  is_equivalent_to:
+  - Polycarpus
+  lang:
+  - oc
+  origin:
+  - grc
+Policarpo:
+  gender_flag: 2
+  lang:
+  - it
+Polidor:
+  gender_flag: 2
+  lang:
+  - oc
+  origin:
+  - grc
+Polidora:
+  gender_flag: 1
+  lang:
+  - en
+Polidoro:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - grc
+Poliʻahu:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Poll:
+  gender_flag: 1
+  is_short_for:
+  - Mary
+  lang:
+  - en
+Pollie:
+  gender_flag: 1
+  lang:
+  - en
+Polly:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Pollyanna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Polonio:
+  gender_flag: 2
+  lang:
+  - eo
+  origin:
+  - la
+Poloy:
+  gender_flag: 2
+  lang:
+  - ceb
+Polybius:
+  gender_flag: 2
+  lang:
+  - en
+Polybus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Polycarpe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Polycarpus
+  lang:
+  - fr
+  origin:
+  - grc
+Polycarpus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Polycarpe
+  lang:
+  - la
+Polydor:
+  gender_flag: 2
+  lang:
+  - nrf
+Polydore:
+  gender_flag: 2
+  lang:
+  - oc
+  origin:
+  - grc
+Polyidus:
+  gender_flag: 2
+  lang:
+  - en
+Polyphemos:
+  gender_flag: 2
+  is_equivalent_to:
+  - Polyphemus
+  lang:
+  - la
+  origin:
+  - grc
+Polyphemus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Polyphemos
+  lang:
+  - la
+  origin:
+  - grc
+Polyte:
+  gender_flag: 2
+  is_short_for:
+  - Hippolyte
+  lang:
+  - nrf
+Pomme:
+  gender_flag: 1
+  lang:
+  - fr
+Pompeo:
+  gender_flag: 2
+  lang:
+  - it
+Pompeu:
+  gender_flag: 2
+  lang:
+  - ca
+  - oc
+  origin:
+  - la
+Pompilio:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Pompilla:
+  gender_flag: 1
+  lang:
+  - la
+Pompillus:
+  gender_flag: 2
+  lang:
+  - la
+Pomposa:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - es
+Pomptilla:
+  gender_flag: 1
+  lang:
+  - la
+Pompylus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Pompée:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - la
+Ponce:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - la
+Ponching:
+  gender_flag: 2
+  is_short_for:
+  - Alfonso
+  - Poncho
+  lang:
+  - tl
+Poncho:
+  gender_flag: 2
+  is_short_for:
+  - Alfonso
+  lang:
+  - es
+Pongrác:
+  gender_flag: 2
+  is_equivalent_to:
+  - Pancras
+  lang:
+  - hu
+  origin:
+  - la
+Poniat:
+  gender_flag: 2
+  lang:
+  - pl
+Ponijan:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Poniman:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Poniyem:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Ponsing:
+  gender_flag: 3
+  is_short_for:
+  - Alfonso
+  lang:
+  - ceb
+Pontus:
+  gender_flag: 2
+  lang:
+  - sv
+Ponziano:
+  gender_flag: 2
+  lang:
+  - it
+Ponç:
+  gender_flag: 2
+  lang:
+  - ca
+  - oc
+  origin:
+  - la
+Pooja:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - hi
+Poonam:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - hi
+Popaul:
+  gender_flag: 2
+  is_short_for:
+  - Paul
+  lang:
+  - fr
+Poppaea:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Poppy:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Poppée:
+  gender_flag: 1
+  is_equivalent_to:
+  - Poppaea
+  lang:
+  - fr
+  origin:
+  - la
+Popôl:
+  gender_flag: 2
+  lang:
+  - wa
+Porferio:
+  gender_flag: 2
+  lang:
+  - ceb
+Porfirie:
+  gender_flag: 2
+  lang:
+  - ro
+Porfirio:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+Porscha:
+  gender_flag: 1
+  lang:
+  - en
+Port:
+  gender_flag: 2
+  lang:
+  - ang
+Porter:
+  gender_flag: 6
+  lang:
+  - en
+Portheare:
+  gender_flag: 2
+  is_equivalent_to:
+  - Porter
+  lang:
+  - yol
+Porthos:
+  gender_flag: 2
+  lang:
+  - fr
+Portia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Portugal:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - es
+  - pt
+Porzio:
+  gender_flag: 2
+  lang:
+  - it
+Potira:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Potito:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Potyra:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Poul:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - da
+  - enm
+  - fo
+  origin:
+  - fro
+Poula:
+  gender_flag: 1
+  lang:
+  - da
+  - fo
+Poulina:
+  gender_flag: 1
+  lang:
+  - fo
+Pouline:
+  gender_flag: 1
+  is_equivalent_to:
+  - Pauline
+  lang:
+  - da
+Poundmaker:
+  gender_flag: 6
+  lang:
+  - en
+Pouria: {}
+Poushali:
+  gender_flag: 1
+  lang:
+  - en
+Pouyan: {}
+Povilas:
+  gender_flag: 2
+  lang:
+  - lt
+Povl:
+  gender_flag: 2
+  lang:
+  - da
+Powell:
+  gender_flag: 2
+  lang:
+  - en
+Prabha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Prabhu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Pradita:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Pragati:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - hi
+Prajesh:
+  gender_flag: 2
+  lang:
+  - en
+Prakash:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Prakseda:
+  gender_flag: 1
+  lang:
+  - pl
+  origin:
+  - grc
+  - la
+Pramono:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Pranas:
+  gender_flag: 2
+  lang:
+  - lt
+Pranciška:
+  gender_flag: 1
+  is_equivalent_to:
+  - Frances
+  lang:
+  - lt
+Pranciškus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - lt
+Prando:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - lng
+Prangkoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Pransing:
+  gender_flag: 1
+  lang:
+  - ceb
+Pranyoto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Pranė:
+  gender_flag: 1
+  lang:
+  - lt
+Prascovie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Praskovya
+  lang:
+  - fr
+  origin:
+  - ru
+Praskovya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ru
+Prassede:
+  gender_flag: 1
+  lang:
+  - it
+Pratama:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Pravdan:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Pravomir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Pravoslav:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Preacher:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - en
+Preben:
+  gender_flag: 2
+  lang:
+  - da
+  - 'no'
+Precious:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Preeti:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Prek:
+  gender_flag: 2
+  lang:
+  - sq
+Prend:
+  gender_flag: 2
+  lang:
+  - sq
+Prenda:
+  gender_flag: 1
+  lang:
+  - sq
+Preng:
+  gender_flag: 2
+  lang:
+  - sq
+Prenk:
+  gender_flag: 2
+  lang:
+  - sq
+Prerna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - hi
+Prescott:
+  gender_flag: 2
+  lang:
+  - en
+Presley:
+  gender_flag: 7
+  lang:
+  - en
+Preston:
+  gender_flag: 2
+  lang:
+  - en
+Pretty:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Preç:
+  gender_flag: 2
+  lang:
+  - sq
+Pribina:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Pribislavus:
+  gender_flag: 2
+  lang:
+  - la
+Prichard:
+  gender_flag: 2
+  lang:
+  - en
+Pridan:
+  gender_flag: 2
+  lang:
+  - ht
+  origin:
+  - fr
+Priest:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - frp
+Priidik:
+  gender_flag: 2
+  is_equivalent_to:
+  - Frederick
+  lang:
+  - et
+Priidu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Fred
+  - Frederick
+  lang:
+  - et
+Priit:
+  gender_flag: 2
+  is_equivalent_to:
+  - Fred
+  - Frederick
+  lang:
+  - et
+Prijar:
+  gender_flag: 2
+  lang:
+  - sq
+Prijatar:
+  gender_flag: 2
+  lang:
+  - sq
+Prijezda:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Primarosa:
+  gender_flag: 1
+  lang:
+  - it
+Primel:
+  gender_flag: 2
+  lang:
+  - br
+  - fr
+  origin:
+  - br
+Primiano:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Primitivo:
+  gender_flag: 2
+  lang:
+  - tl
+  origin:
+  - es
+Primo:
+  gender_flag: 2
+  lang:
+  - it
+Primož:
+  gender_flag: 2
+  lang:
+  - sl
+Primrose:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Primus:
+  gender_flag: 2
+  lang:
+  - en
+Prince:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Princess:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Princessa:
+  gender_flag: 1
+  lang:
+  - en
+Princeton:
+  gender_flag: 2
+  lang:
+  - en
+Prisca:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Prisciano:
+  gender_flag: 2
+  lang:
+  - it
+Priscila:
+  gender_flag: 1
+  is_equivalent_to:
+  - Priscilla
+  lang:
+  - pt
+Priscilla:
+  gender_flag: 1
+  lang:
+  - en
+  - nl
+  origin:
+  - la
+Prisco:
+  gender_flag: 2
+  lang:
+  - it
+Prissy:
+  gender_flag: 1
+  lang:
+  - en
+Prithvi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Priti:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Privel:
+  gender_flag: 2
+  lang:
+  - br
+Priya:
+  gender_flag: 1
+  lang:
+  - en
+Priyadarshini:
+  gender_flag: 1
+  lang:
+  - en
+Priyanka:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - hi
+Priyin:
+  gender_flag: 2
+  lang:
+  - wa
+Priyo:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Priyono:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Proclus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Procopie:
+  gender_flag: 2
+  lang:
+  - ro
+Procopio:
+  gender_flag: 2
+  lang:
+  - ceb
+  - it
+  origin:
+  - es
+Procopius:
+  gender_flag: 2
+  lang:
+  - en
+Progon:
+  gender_flag: 2
+  lang:
+  - sq
+Proinsias:
+  gender_flag: 2
+  is_equivalent_to:
+  - Francis
+  lang:
+  - ga
+Proinséas:
+  gender_flag: 1
+  is_equivalent_to:
+  - Frances
+  lang:
+  - ga
+Prokop:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Prokopios:
+  gender_flag: 2
+  lang:
+  - en
+Prometheus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Promise:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Properzio:
+  gender_flag: 2
+  lang:
+  - it
+Prosdocimus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - el
+Prosper:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - fr
+Prosperidad:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - es
+Prospero:
+  gender_flag: 2
+  lang:
+  - it
+Protógenes:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - el
+Provino:
+  gender_flag: 2
+  lang:
+  - it
+Pru:
+  gender_flag: 1
+  is_short_for:
+  - Prudence
+  lang:
+  - en
+Prudence:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Prudenci:
+  gender_flag: 2
+  lang:
+  - ca
+Prudencià:
+  gender_flag: 2
+  lang:
+  - ca
+Prudent:
+  gender_flag: 2
+  lang:
+  - nrf
+Prudy:
+  gender_flag: 1
+  is_short_for:
+  - Prudence
+  lang:
+  - en
+Prudència:
+  gender_flag: 1
+  is_equivalent_to:
+  - Prudence
+  lang:
+  - ca
+Prue:
+  gender_flag: 1
+  lang:
+  - en
+Prunhilt:
+  gender_flag: 1
+  lang:
+  - goh
+Prvoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Prys:
+  gender_flag: 2
+  lang:
+  - cy
+Przemek:
+  gender_flag: 2
+  is_short_for:
+  - Przemysław
+  lang:
+  - pl
+Przemysław:
+  gender_flag: 2
+  lang:
+  - pl
+Prìm:
+  gender_flag: 2
+  lang:
+  - egl
+  origin:
+  - egl
+Pròsper:
+  gender_flag: 2
+  lang:
+  - ca
+  origin:
+  - la
+Pseudolus:
+  gender_flag: 2
+  lang:
+  - la
+Ptolemaeus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Ptolemocratia:
+  gender_flag: 1
+  lang:
+  - la
+Ptolemy:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Ptolemæus:
+  lang:
+  - en
+Ptolémée:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ptolemy
+  lang:
+  - fr
+Pua:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Pualani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Puanani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Puccio:
+  gender_flag: 2
+  lang:
+  - it
+Pujianto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Pujiantoro:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Pulmu:
+  gender_flag: 1
+  lang:
+  - fi
+Pulôn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Napoleon
+  lang:
+  - rgn
+Purbo:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Pureiromba:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Purificacion:
+  gender_flag: 1
+  lang:
+  - tl
+  origin:
+  - es
+Purificación:
+  gender_flag: 1
+  lang:
+  - es
+Puring:
+  gender_flag: 1
+  is_short_for:
+  - Purificacion
+  - Purita
+  lang:
+  - tl
+Purita:
+  gender_flag: 1
+  lang:
+  - ceb
+Purity:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Purnomo:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Purushottam:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Purwoto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Pushpa:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Pushpesh:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Putih:
+  gender_flag: 7
+  lang:
+  - ms
+Putiphar:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - egy
+Putra:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - sa
+Putri:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - sa
+Pyatro: {}
+Pyire:
+  gender_flag: 2
+  lang:
+  - nrf
+Pyotr: {}
+Pyper:
+  gender_flag: 1
+  lang:
+  - en
+  - enm
+Pyry:
+  gender_flag: 2
+  lang:
+  - fi
+Pythagoras:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Pàdraig:
+  gender_flag: 2
+  is_equivalent_to:
+  - Patrick
+  - Peter
+  lang:
+  - gd
+Pàdruig:
+  gender_flag: 2
+  is_a_variant_of:
+  - Pàdraig
+  is_equivalent_to:
+  - Patrick
+  lang:
+  - gd
+Pàra:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paddy
+  is_short_for:
+  - Pàdraig
+  - Pàraig
+  lang:
+  - gd
+Pàraig:
+  gender_flag: 2
+  is_a_variant_of:
+  - Pàdraig
+  is_equivalent_to:
+  - Patrick
+  lang:
+  - gd
+Pádraic:
+  gender_flag: 2
+  is_equivalent_to:
+  - Patrick
+  lang:
+  - ga
+Pádraig:
+  gender_flag: 2
+  is_equivalent_to:
+  - Patrick
+  lang:
+  - ga
+  origin:
+  - la
+Páidín:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paddy
+  is_short_for:
+  - Pádraig
+  lang:
+  - ga
+Pája:
+  gender_flag: 3
+  is_short_for:
+  - Pavel
+  - Pavla
+  - Pavlína
+  lang:
+  - cs
+Pál:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - fo
+  - hu
+Páldís:
+  gender_flag: 1
+  lang:
+  - is
+Pálfríður:
+  gender_flag: 1
+  lang:
+  - is
+Páll:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - fo
+  - is
+Pálma:
+  gender_flag: 1
+  lang:
+  - fo
+  - hu
+Pálmar:
+  gender_flag: 2
+  lang:
+  - is
+Pálmi:
+  gender_flag: 2
+  lang:
+  - is
+Pálína:
+  gender_flag: 1
+  is_equivalent_to:
+  - Pauline
+  lang:
+  - is
+Pátrikur:
+  gender_flag: 2
+  lang:
+  - fo
+Pâcienche:
+  gender_flag: 1
+  is_equivalent_to:
+  - Patience
+  lang:
+  - nrf
+Pâlo:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Pâlît:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Pâolin:
+  gender_flag: 2
+  lang:
+  - nrf
+Pâolène:
+  gender_flag: 1
+  is_equivalent_to:
+  - Pauline
+  lang:
+  - nrf
+Päive:
+  gender_flag: 1
+  lang:
+  - et
+Päivi:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Päivikki:
+  gender_flag: 1
+  lang:
+  - fi
+Päiviö:
+  gender_flag: 3
+  lang:
+  - fi
+Pär:
+  gender_flag: 2
+  lang:
+  - sv
+Pärja:
+  gender_flag: 1
+  lang:
+  - et
+Pärt:
+  gender_flag: 2
+  lang:
+  - et
+Pärtel:
+  gender_flag: 2
+  lang:
+  - et
+Päären:
+  gender_flag: 2
+  lang:
+  - et
+  origin:
+  - gem
+Pääro:
+  gender_flag: 2
+  lang:
+  - et
+Pääru:
+  gender_flag: 2
+  lang:
+  - et
+  origin:
+  - gem
+På:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - wa
+Pål:
+  gender_flag: 2
+  lang:
+  - 'no'
+  - sv
+Pætur:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - fo
+Pèire:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - oc
+  origin:
+  - grc
+Pèrrotîn:
+  gender_flag: 2
+  is_short_for:
+  - Pièrre
+  lang:
+  - nrf
+Péder:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - egl
+  origin:
+  - grc
+Pénélope:
+  gender_flag: 1
+  lang:
+  - fr
+Péricles:
+  gender_flag: 2
+  lang:
+  - pt
+Pérotène:
+  gender_flag: 1
+  lang:
+  - nrf
+Péter:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - hu
+Péterke:
+  gender_flag: 2
+  is_short_for:
+  - Péter
+  lang:
+  - hu
+Pétronille:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - la
+Pétur:
+  gender_flag: 2
+  is_equivalent_to:
+  - Peter
+  lang:
+  - is
+Péťa:
+  gender_flag: 2
+  is_short_for:
+  - Petr
+  lang:
+  - cs
+Përparim:
+  gender_flag: 2
+  lang:
+  - sq
+Píl:
+  gender_flag: 1
+  lang:
+  - fo
+Pío:
+  gender_flag: 2
+  lang:
+  - es
+Pîa:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Pîta:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Pîtaĸ:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Pòl:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - gd
+  - ht
+  origin:
+  - la
+Pól:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - fo
+  - ga
+  origin:
+  - la
+Póla:
+  gender_flag: 1
+  lang:
+  - fo
+Pólina:
+  gender_flag: 1
+  lang:
+  - fo
+Pürli:
+  gender_flag: 2
+  lang:
+  - tk
+Pāora:
+  gender_flag: 2
+  is_equivalent_to:
+  - Paul
+  lang:
+  - mi
+Pāvels:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - la
+Pāvils:
+  gender_flag: 2
+  lang:
+  - lv
+Pēteris:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - grc
+Pınar:
+  gender_flag: 1
+  lang:
+  - tr
+Pōmaikaʻi:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Přema:
+  gender_flag: 2
+  is_short_for:
+  - Přemysl
+  lang:
+  - cs
+Přemek:
+  gender_flag: 2
+  is_short_for:
+  - Přemysl
+  lang:
+  - cs
+Přemysl:
+  gender_flag: 2
+  lang:
+  - cs
+Pərviz:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - fa
+Pọsii:
+  gender_flag: 7
+  lang:
+  - yo
+p.f-ṯꜣw-ꜥwj-bꜣstt:
+  gender_flag: 2
+  lang:
+  - egy
+ppy:
+  lang:
+  - egy
+pr-snt:
+  gender_flag: 1
+  lang:
+  - egy
+prwypwsꜣ:
+  gender_flag: 2
+  is_equivalent_to:
+  - Philip
+  lang:
+  - egy
+  origin:
+  - grc
+psmṯk:
+  gender_flag: 2
+  lang:
+  - egy
+psšt:
+  gender_flag: 1
+  lang:
+  - egy
+ptwꜣrwmys:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ptolemy
+  lang:
+  - egy
+  origin:
+  - grc
+ptḥ-ms:
+  gender_flag: 2
+  lang:
+  - egy
+ptḥ-wr:
+  gender_flag: 2
+  lang:
+  - egy
+ptḥ-špss:
+  gender_flag: 2
+  lang:
+  - egy
+pwj-m-rꜥ:
+  gender_flag: 2
+  lang:
+  - egy
+py:
+  lang:
+  - enm
+pꜣ-dj-bꜣstt:
+  gender_flag: 2
+  lang:
+  - egy
+pꜣ-jḥjꜣ:
+  gender_flag: 1
+  lang:
+  - egy
+pꜣ-nḥsj:
+  gender_flag: 2
+  lang:
+  - egy
+pꜣ-sbꜣ-ḫꜥ-n-nwt:
+  gender_flag: 2
+  lang:
+  - egy

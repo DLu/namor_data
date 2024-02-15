@@ -1,0 +1,10576 @@
+Saad:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Saalat:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Saalu:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Saami:
+  gender_flag: 1
+  lang:
+  - aa
+Saamu:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Saamua:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Saamuel:
+  gender_flag: 2
+  lang:
+  - et
+Saana:
+  gender_flag: 1
+  lang:
+  - fi
+Saanvi:
+  gender_flag: 1
+  lang:
+  - en
+Saar:
+  gender_flag: 2
+  lang:
+  - en
+Saara:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+  - kl
+  origin:
+  - da
+Saarannguaq:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Saba:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sheba
+  lang:
+  - it
+  origin:
+  - he
+Sabiine:
+  gender_flag: 1
+  lang:
+  - et
+Sabin:
+  gender_flag: 2
+  lang:
+  - en
+  - eu
+  - pl
+Sabina:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sabine
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - pl
+  - sv
+  origin:
+  - la
+Sabine:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - fr
+  - nl
+Sabinka:
+  gender_flag: 1
+  is_short_for:
+  - Sabina
+  lang:
+  - cs
+Sabino:
+  gender_flag: 2
+  lang:
+  - it
+Sabir:
+  gender_flag: 2
+  lang:
+  - az
+  - en
+  origin:
+  - ar
+Sabit:
+  gender_flag: 2
+  lang:
+  - en
+  - tr
+  origin:
+  - ar
+  - tr
+Sabo:
+  gender_flag: 2
+  lang:
+  - ha
+Sabra:
+  gender_flag: 1
+  lang:
+  - en
+Sabri:
+  gender_flag: 2
+  lang:
+  - fr
+  - tr
+  origin:
+  - ar
+Sabrina:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - fr
+  - it
+  - pt
+Saburo:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  - tl
+  origin:
+  - ja
+Sabína:
+  gender_flag: 1
+  lang:
+  - sk
+Sabīne:
+  gender_flag: 1
+  lang:
+  - lv
+Sacha:
+  gender_flag: 7
+  is_equivalent_to:
+  - Sasha
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Sachie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Sachiko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - pt
+  origin:
+  - ja
+Sadako:
+  gender_flag: 1
+  lang:
+  - en
+  - pt
+  origin:
+  - ja
+Sadat:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Sadau:
+  gender_flag: 3
+  lang:
+  - ha
+Saddam:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Sadhbh:
+  gender_flag: 1
+  lang:
+  - en
+  - ga
+  origin:
+  - ga
+  - sga
+Sadhu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Sadia:
+  gender_flag: 1
+  lang:
+  - en
+Sadie:
+  gender_flag: 1
+  is_short_for:
+  - Sarah
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Sadiq:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Saed:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Saeko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Safana:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sofana
+  lang:
+  - en
+  origin:
+  - ar
+Saffron:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Saffy:
+  gender_flag: 1
+  lang:
+  - en
+Safira:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sapphira
+  lang:
+  - id
+  origin:
+  - it
+Safta:
+  gender_flag: 1
+  lang:
+  - ro
+Safír:
+  gender_flag: 2
+  lang:
+  - is
+Saga:
+  gender_flag: 7
+  lang:
+  - en
+  - is
+  - sv
+Sagaristio:
+  gender_flag: 2
+  lang:
+  - la
+Sage:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Sahar:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Sahsin:
+  gender_flag: 1
+  lang:
+  - goh
+Said:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Saidiya:
+  gender_flag: 1
+  lang:
+  - en
+Saige:
+  gender_flag: 1
+  lang:
+  - en
+Saija:
+  gender_flag: 1
+  lang:
+  - fi
+Saikat:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - bn
+Saila:
+  gender_flag: 1
+  lang:
+  - fi
+Sailesh:
+  gender_flag: 2
+  lang:
+  - en
+Saima:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Saimi:
+  gender_flag: 1
+  lang:
+  - fi
+Saini:
+  gender_flag: 1
+  lang:
+  - fi
+Saint Clare:
+  gender_flag: 2
+  lang:
+  - en
+Saint-John:
+  gender_flag: 2
+  lang:
+  - en
+Saiva:
+  gender_flag: 1
+  lang:
+  - lv
+Saka:
+  gender_flag: 2
+  lang:
+  - tr
+Sakari:
+  gender_flag: 2
+  lang:
+  - fi
+Sakarias:
+  gender_flag: 2
+  lang:
+  - fi
+  - fo
+  - sv
+Sakaris:
+  gender_flag: 2
+  lang:
+  - fo
+Sakiko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Sakin:
+  gender_flag: 2
+  lang:
+  - tr
+Sakir:
+  gender_flag: 2
+  lang:
+  - fo
+Sakka:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Sakkak:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Sakkie:
+  gender_flag: 2
+  lang:
+  - af
+Saksi:
+  gender_flag: 2
+  lang:
+  - fo
+Saku:
+  gender_flag: 2
+  lang:
+  - fi
+Sakura:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - pt
+  origin:
+  - ja
+Sakurako:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Sakın:
+  gender_flag: 2
+  lang:
+  - tr
+Sal:
+  gender_flag: 3
+  is_short_for:
+  - Sally
+  - Salvador
+  - Samuel
+  lang:
+  - en
+Saladinus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - ar
+Salailen:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Salakọ:
+  gender_flag: 7
+  lang:
+  - yo
+Salamon:
+  gender_flag: 2
+  lang:
+  - hu
+Salatiel:
+  gender_flag: 2
+  lang:
+  - es
+Salaün:
+  gender_flag: 2
+  is_equivalent_to:
+  - Salomon
+  lang:
+  - br
+Salbjörg:
+  gender_flag: 1
+  lang:
+  - is
+Salbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Saldis:
+  gender_flag: 1
+  lang:
+  - fo
+Saldís:
+  gender_flag: 1
+  lang:
+  - is
+Saleh:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Salem:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Salete:
+  gender_flag: 1
+  lang:
+  - pt
+Salgerð:
+  gender_flag: 1
+  lang:
+  - fo
+Salih:
+  gender_flag: 2
+  lang:
+  - tr
+Salik:
+  gender_flag: 2
+  lang:
+  - kl
+Salina:
+  gender_flag: 1
+  lang:
+  - en
+Salka:
+  gender_flag: 1
+  lang:
+  - is
+Salkım:
+  gender_flag: 1
+  lang:
+  - tr
+Salla:
+  gender_flag: 1
+  lang:
+  - fi
+Sallau:
+  gender_flag: 2
+  lang:
+  - ha
+Sallee:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sally
+  lang:
+  - gv
+  origin:
+  - en
+Salli:
+  gender_flag: 1
+  lang:
+  - fi
+Sallie:
+  gender_flag: 1
+  is_short_for:
+  - Sarah
+  lang:
+  - en
+Sallustio:
+  gender_flag: 2
+  lang:
+  - it
+Sally:
+  gender_flag: 1
+  is_short_for:
+  - Sarah
+  lang:
+  - da
+  - en
+  - sv
+  - tl
+  origin:
+  - en
+Salma:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+Salman:
+  gender_flag: 2
+  lang:
+  - en
+Salme:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Salmundur:
+  gender_flag: 2
+  lang:
+  - fo
+Salný:
+  gender_flag: 1
+  lang:
+  - fo
+Saloma:
+  gender_flag: 1
+  lang:
+  - fo
+Salome:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  origin:
+  - grc
+  - he
+Salomea:
+  gender_flag: 1
+  is_equivalent_to:
+  - Salome
+  lang:
+  - pl
+  origin:
+  - grc
+  - la
+Salomo:
+  gender_flag: 2
+  lang:
+  - fi
+Salomon: {}
+Salomone:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - he
+Salomão:
+  gender_flag: 2
+  is_equivalent_to:
+  - Solomon
+  lang:
+  - pt
+  origin:
+  - he
+Salomè:
+  gender_flag: 1
+  is_equivalent_to:
+  - Salome
+  lang:
+  - it
+  origin:
+  - he
+Salomé:
+  gender_flag: 1
+  is_equivalent_to:
+  - Salome
+  lang:
+  - fr
+  origin:
+  - he
+Salomón:
+  gender_flag: 2
+  is_equivalent_to:
+  - Solomon
+  lang:
+  - es
+  origin:
+  - he
+Salomėja:
+  gender_flag: 1
+  lang:
+  - lt
+Salsabila:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - ar
+Salud:
+  gender_flag: 1
+  lang:
+  - ceb
+Salvador:
+  gender_flag: 2
+  lang:
+  - ca
+  - ceb
+  - en
+  - es
+  - pt
+  - tl
+  origin:
+  - es
+  - pt
+Salvatore:
+  gender_flag: 2
+  is_equivalent_to:
+  - Salvador
+  lang:
+  - en
+  - it
+  origin:
+  - it
+Salve:
+  gender_flag: 2
+  lang:
+  - 'no'
+Salvillus:
+  gender_flag: 2
+  lang:
+  - la
+Salvinija:
+  gender_flag: 1
+  lang:
+  - lt
+Salvinus:
+  gender_flag: 2
+  lang:
+  - la
+Salvør:
+  gender_flag: 1
+  lang:
+  - fo
+Salık:
+  gender_flag: 2
+  lang:
+  - tr
+Sam:
+  gender_flag: 7
+  is_short_for:
+  - Samantha
+  - Samuel
+  lang:
+  - en
+  - nl
+Saman:
+  gender_flag: 2
+  is_equivalent_to:
+  - Simon
+  lang:
+  - fia
+  origin:
+  - grc
+Samanta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Samantha
+  lang:
+  - es
+  - it
+  - lv
+  origin:
+  - en
+Samantha:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - tl
+  origin:
+  - en
+  - he
+Samara:
+  gender_flag: 1
+  lang:
+  - en
+  - pt
+Samatha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Sambo:
+  gender_flag: 3
+  lang:
+  - en
+Sambor:
+  gender_flag: 2
+  lang:
+  - pl
+Samea:
+  gender_flag: 2
+  lang:
+  - wa
+Samee:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Sameen:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fa
+Sameer:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+  - sa
+Samet:
+  gender_flag: 2
+  lang:
+  - tr
+Sami:
+  gender_flag: 3
+  lang:
+  - az
+  - en
+  - fi
+  - tr
+Samijan:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Samiko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Samir:
+  gender_flag: 2
+  is_a_variant_of:
+  - Zamir
+  lang:
+  - es
+  origin:
+  - ar
+Samira:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fa
+Samiyah:
+  gender_flag: 1
+  lang:
+  - en
+Samiye:
+  gender_flag: 1
+  lang:
+  - tr
+Samiyə:
+  gender_flag: 1
+  lang:
+  - az
+Sammi:
+  gender_flag: 1
+  lang:
+  - en
+Sammie:
+  gender_flag: 7
+  is_short_for:
+  - Samantha
+  - Samuel
+  lang:
+  - en
+Sammy:
+  gender_flag: 7
+  is_short_for:
+  - Samantha
+  - Samuel
+  lang:
+  - en
+Samouwel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Samuel
+  lang:
+  - wa
+Sampie:
+  gender_flag: 2
+  lang:
+  - af
+Sampo:
+  gender_flag: 2
+  lang:
+  - fi
+  origin:
+  - fi
+Sampsa:
+  gender_flag: 2
+  lang:
+  - fi
+Sampson:
+  gender_flag: 2
+  lang:
+  - en
+  - enm
+  origin:
+  - he
+Samrat:
+  gender_flag: 2
+  lang:
+  - en
+Sams:
+  gender_flag: 7
+  is_a_variant_of:
+  - Sam
+  is_short_for:
+  - Samantha
+  - Samuel
+  lang:
+  - en
+Samsam:
+  gender_flag: 3
+  lang:
+  - ceb
+Samson:
+  gender_flag: 2
+  lang:
+  - en
+  - fo
+  - fr
+  - oc
+Samu:
+  gender_flag: 2
+  is_short_for:
+  - Samuel
+  - Sámuel
+  lang:
+  - es
+  - fi
+  - hu
+Samuel:
+  gender_flag: 2
+  lang:
+  - ca
+  - cs
+  - da
+  - de
+  - en
+  - es
+  - fi
+  - fr
+  - nb
+  - nl
+  - pl
+  - pt
+  - sk
+  - sv
+  - tl
+  origin:
+  - es
+  - he
+Samuela:
+  gender_flag: 2
+  lang:
+  - haw
+Samuele:
+  gender_flag: 2
+  is_equivalent_to:
+  - Samuel
+  lang:
+  - it
+  origin:
+  - he
+Samuelis:
+  gender_flag: 2
+  is_equivalent_to:
+  - Samuel
+  lang:
+  - lt
+Samuli:
+  gender_flag: 2
+  lang:
+  - fi
+Samuèl:
+  gender_flag: 2
+  is_equivalent_to:
+  - Samuel
+  lang:
+  - oc
+Samzun:
+  gender_flag: 2
+  is_equivalent_to:
+  - Samson
+  lang:
+  - br
+Samúel:
+  gender_flag: 2
+  lang:
+  - is
+  origin:
+  - he
+Samúelína:
+  gender_flag: 1
+  lang:
+  - is
+Samɓala:
+  gender_flag: 1
+  lang:
+  - ha
+Samɓali:
+  gender_flag: 2
+  lang:
+  - ha
+San:
+  gender_flag: 3
+  lang:
+  - tr
+  - vi
+  origin:
+  - zh
+Sanamahi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - mni
+Sancak:
+  gender_flag: 2
+  lang:
+  - tr
+Sancha:
+  gender_flag: 1
+  lang:
+  - es
+  - oc
+Sanche:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sancho
+  lang:
+  - fr
+  - oc
+Sancho:
+  gender_flag: 2
+  lang:
+  - es
+Sanda:
+  gender_flag: 1
+  lang:
+  - lv
+  - ro
+Sandaidh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sandy
+  is_short_for:
+  - Alasdair
+  lang:
+  - gd
+Sandalj:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Sandeep:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Sander:
+  gender_flag: 2
+  lang:
+  - en
+  - et
+  - nl
+  - 'no'
+Sanders:
+  gender_flag: 2
+  lang:
+  - en
+Sandhya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Sandi:
+  gender_flag: 3
+  is_short_for:
+  - Alexander
+  - Alexandra
+  - Sandra
+  lang:
+  - en
+Sandie:
+  gender_flag: 3
+  is_short_for:
+  - Alasdair
+  - Alexander
+  - Alexandra
+  - Cassandra
+  - Sandeep
+  - Sander
+  - Sandra
+  - Sanford
+  - Santiago
+  lang:
+  - en
+Sandis:
+  gender_flag: 2
+  lang:
+  - lv
+Sandra:
+  gender_flag: 1
+  lang:
+  - ceb
+  - cs
+  - da
+  - de
+  - en
+  - es
+  - et
+  - fo
+  - fr
+  - is
+  - it
+  - lt
+  - lv
+  - nl
+  - 'no'
+  - pt
+  - sv
+Sandri:
+  gender_flag: 2
+  lang:
+  - is
+Sandrina:
+  gender_flag: 1
+  lang:
+  - oc
+Sandrine:
+  gender_flag: 1
+  is_short_for:
+  - Alexandrine
+  - Sandra
+  lang:
+  - fr
+Sandris:
+  gender_flag: 2
+  lang:
+  - lv
+Sandro:
+  gender_flag: 2
+  is_short_for:
+  - Alessandro
+  lang:
+  - de
+  - it
+  - pt
+  origin:
+  - it
+Sandu:
+  gender_flag: 2
+  is_short_for:
+  - Alexandru
+  lang:
+  - ro
+Sandur:
+  gender_flag: 2
+  lang:
+  - fo
+Sandy:
+  gender_flag: 7
+  is_short_for:
+  - Alexander
+  - Alexandra
+  - Sandra
+  lang:
+  - en
+Sanelma:
+  gender_flag: 1
+  lang:
+  - fi
+Sanford:
+  gender_flag: 2
+  lang:
+  - en
+Sang:
+  gender_flag: 2
+  lang:
+  - vi
+Sangarinus:
+  gender_flag: 2
+  lang:
+  - la
+Sangeeta:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Sanibor:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Saning:
+  gender_flag: 1
+  lang:
+  - ceb
+Sanita:
+  gender_flag: 1
+  lang:
+  - lv
+Saniyah:
+  gender_flag: 1
+  lang:
+  - en
+Sanja:
+  gender_flag: 1
+  lang:
+  - sh
+Sanjay:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Sanjaya:
+  gender_flag: 2
+  lang:
+  - en
+Sanjin:
+  gender_flag: 2
+  lang:
+  - sh
+Sanna:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+  - fo
+  - sv
+Sanne:
+  gender_flag: 3
+  lang:
+  - da
+  - nl
+Sanni:
+  gender_flag: 1
+  lang:
+  - fi
+Sannie:
+  gender_flag: 1
+  lang:
+  - en
+Sansan:
+  gender_flag: 1
+  lang:
+  - ceb
+Sanson:
+  gender_flag: 2
+  lang:
+  - fro
+Sansone:
+  gender_flag: 2
+  lang:
+  - it
+Sansón:
+  gender_flag: 2
+  is_equivalent_to:
+  - Samson
+  lang:
+  - es
+Santa:
+  gender_flag: 1
+  lang:
+  - en
+  - lv
+  origin:
+  - it
+Sante:
+  gender_flag: 3
+  lang:
+  - en
+Santeri:
+  gender_flag: 2
+  lang:
+  - fi
+Santhosh:
+  gender_flag: 2
+  lang:
+  - en
+Santi:
+  gender_flag: 7
+  is_short_for:
+  - Santiago
+  lang:
+  - en
+  - es
+  origin:
+  - la
+Santiago:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  - James
+  lang:
+  - ceb
+  - es
+  - gl
+  - pt
+  - tl
+  origin:
+  - es
+Santino:
+  gender_flag: 2
+  lang:
+  - en
+  - it
+Santra:
+  gender_flag: 1
+  lang:
+  - fi
+Santtu:
+  gender_flag: 2
+  lang:
+  - fi
+Santé:
+  gender_flag: 1
+  lang:
+  - en
+Sanya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+  - ru
+Sanyi:
+  gender_flag: 2
+  is_short_for:
+  - Sándor
+  lang:
+  - hu
+Sanyoto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Sanç:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sancho
+  lang:
+  - ca
+  - oc
+Saoirse:
+  gender_flag: 1
+  lang:
+  - en
+  - ga
+  origin:
+  - ga
+Sapan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Saparmyrat:
+  gender_flag: 2
+  lang:
+  - tk
+Sapphira:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Sapphire:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Sappho:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Sara:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sarah
+  is_equivalent_to:
+  - Sarah
+  lang:
+  - da
+  - de
+  - ee
+  - en
+  - es
+  - fi
+  - fr
+  - gl
+  - is
+  - it
+  - la
+  - nl
+  - 'no'
+  - pt
+  - sl
+  - sv
+  - wa
+  origin:
+  - grc
+  - he
+  - la
+Sarabeth:
+  gender_flag: 1
+  lang:
+  - en
+Sarah:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - fr
+  - nl
+  - 'no'
+  - sv
+  - tl
+  origin:
+  - en
+  - he
+Sarahi:
+  gender_flag: 1
+  lang:
+  - en
+Sarai:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Saral:
+  gender_flag: 2
+  lang:
+  - tr
+Sarala:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Saranja:
+  gender_flag: 1
+  lang:
+  - fo
+Sarasvati:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Saraswatichandra:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Saratu:
+  gender_flag: 1
+  lang:
+  - ha
+Sardor:
+  gender_flag: 2
+  lang:
+  - uz
+Sarel:
+  gender_flag: 2
+  lang:
+  - af
+  - en
+  - nl
+  origin:
+  - af
+Sargão:
+  gender_flag: 2
+  lang:
+  - pt
+Sari:
+  gender_flag: 1
+  lang:
+  - ceb
+  - fi
+  - id
+  origin:
+  - ja
+  - jv
+Sariah:
+  gender_flag: 1
+  lang:
+  - en
+Sarimin:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Sarita:
+  gender_flag: 1
+  is_short_for:
+  - Sara
+  lang:
+  - es
+  - fi
+  - fo
+Sariyah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Sarki:
+  gender_flag: 2
+  lang:
+  - ha
+Sarlito:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Sarma:
+  gender_flag: 1
+  lang:
+  - lv
+Sarmīte:
+  gender_flag: 1
+  lang:
+  - lv
+Saru:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rosario
+  lang:
+  - scn
+  - tr
+Saruhan:
+  gender_flag: 2
+  lang:
+  - tr
+Sarwono:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Sarya:
+  gender_flag: 1
+  lang:
+  - kmr
+Sarıaslan:
+  gender_flag: 2
+  lang:
+  - tr
+Sarıhan:
+  gender_flag: 2
+  lang:
+  - tr
+Sascha:
+  gender_flag: 3
+  lang:
+  - da
+  - de
+  origin:
+  - ru
+Sasha:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ru
+Sashana:
+  gender_flag: 1
+  lang:
+  - en
+Sasikala:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Saskia:
+  gender_flag: 1
+  lang:
+  - cs
+  - de
+  - nl
+  origin:
+  - nl
+Saskie:
+  gender_flag: 1
+  lang:
+  - cs
+Sassy:
+  gender_flag: 1
+  is_short_for:
+  - Saskia
+  lang:
+  - en
+Sasu:
+  gender_flag: 2
+  lang:
+  - fi
+Satoko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Satomi:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - ja
+Satoru:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Satoshi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Satria:
+  gender_flag: 2
+  lang:
+  - id
+Satu:
+  gender_flag: 1
+  lang:
+  - fi
+Saturio:
+  gender_flag: 2
+  lang:
+  - la
+Saturnina:
+  gender_flag: 1
+  lang:
+  - ceb
+Saturnino:
+  gender_flag: 1
+  lang:
+  - ceb
+Satvinder:
+  gender_flag: 6
+  lang:
+  - en
+Satya:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - sa
+Satyajit:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Satyanarayana:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Satyavati:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Saul:
+  gender_flag: 2
+  lang:
+  - en
+Sauli:
+  gender_flag: 2
+  lang:
+  - fi
+Saulius:
+  gender_flag: 2
+  is_equivalent_to:
+  - Saul
+  lang:
+  - lt
+Saulo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Saul
+  lang:
+  - pt
+Saulutė:
+  gender_flag: 1
+  lang:
+  - lt
+Saulė:
+  gender_flag: 1
+  lang:
+  - lt
+Saundrène:
+  gender_flag: 1
+  is_equivalent_to:
+  - Alexandrina
+  lang:
+  - nrf
+Saurah:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sarah
+  lang:
+  - sco
+  origin:
+  - he
+Sauro:
+  gender_flag: 2
+  lang:
+  - ceb
+Sauvanne:
+  gender_flag: 1
+  lang:
+  - fr
+Sauvo:
+  gender_flag: 2
+  lang:
+  - fi
+Sauytbay: {}
+Sava:
+  gender_flag: 2
+  lang:
+  - sh
+Savanna:
+  gender_flag: 1
+  is_a_variant_of:
+  - Savannah
+  lang:
+  - en
+Savannah:
+  gender_flag: 1
+  lang:
+  - en
+Savaş:
+  gender_flag: 2
+  lang:
+  - tr
+Saveria:
+  gender_flag: 1
+  lang:
+  - it
+Saverio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Xavier
+  lang:
+  - it
+Savino:
+  gender_flag: 2
+  lang:
+  - it
+Savior:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Saviour:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Savita:
+  gender_flag: 1
+  lang:
+  - en
+Savitri:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Savun:
+  gender_flag: 2
+  lang:
+  - tr
+Savva: {}
+Sawako:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Sawney:
+  gender_flag: 2
+  lang:
+  - en
+Sawny:
+  gender_flag: 2
+  lang:
+  - en
+Sawyer:
+  gender_flag: 2
+  lang:
+  - en
+Saxi:
+  gender_flag: 2
+  lang:
+  - is
+Saxon:
+  gender_flag: 2
+  lang:
+  - en
+Say:
+  gender_flag: 2
+  lang:
+  - tr
+Sayako:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Sayan:
+  gender_flag: 2
+  lang:
+  - en
+  - tr
+  origin:
+  - sa
+Sayantan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Sayar:
+  gender_flag: 1
+  lang:
+  - tr
+Saygı:
+  gender_flag: 3
+  lang:
+  - tr
+Saykut:
+  gender_flag: 2
+  lang:
+  - tr
+Saylor:
+  gender_flag: 7
+  lang:
+  - en
+Sayoko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Sayragul:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - kk
+Sayrı:
+  gender_flag: 2
+  lang:
+  - tr
+Sayuri:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Sayyid:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Saz:
+  gender_flag: 1
+  lang:
+  - en
+Saïd:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Saúl:
+  gender_flag: 2
+  is_equivalent_to:
+  - Saul
+  lang:
+  - es
+Sağanak:
+  gender_flag: 2
+  lang:
+  - tr
+Sağlam:
+  gender_flag: 2
+  lang:
+  - tr
+Saša:
+  gender_flag: 7
+  is_short_for:
+  - Alexander
+  - Alexandr
+  - Alexandra
+  lang:
+  - cs
+  - sh
+  - sk
+  - sl
+Sašo:
+  gender_flag: 2
+  lang:
+  - sl
+Scapha:
+  gender_flag: 2
+  lang:
+  - la
+Scarila:
+  gender_flag: 2
+  lang:
+  - xvn
+Scarleod:
+  gender_flag: 1
+  is_equivalent_to:
+  - Scarlett
+  lang:
+  - gv
+  origin:
+  - en
+Scarlet:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Scarlett:
+  gender_flag: 1
+  lang:
+  - en
+Scarlette:
+  gender_flag: 1
+  lang:
+  - en
+Sceledrus:
+  gender_flag: 2
+  lang:
+  - la
+Sceparnio:
+  gender_flag: 2
+  lang:
+  - la
+Schakoh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - hrx
+Schalk:
+  gender_flag: 2
+  lang:
+  - af
+Scheherazade:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  origin:
+  - fa
+Schorrsch:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - li
+Schorsch:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - gmw-cfr
+  - hrx
+Schurl:
+  gender_flag: 2
+  is_a_variant_of:
+  - Georg
+  lang:
+  - bar
+  - de
+Schurli:
+  gender_flag: 2
+  is_a_variant_of:
+  - Georg
+  lang:
+  - bar
+  - de
+Schuyler:
+  gender_flag: 7
+  lang:
+  - en
+Schäng:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jean
+  lang:
+  - li
+Scipio:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Scipione:
+  gender_flag: 2
+  lang:
+  - it
+Scirweald:
+  gender_flag: 2
+  lang:
+  - ang
+Sconhari:
+  lang:
+  - goh
+Scorylo:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - xdc
+Scot:
+  gender_flag: 2
+  is_a_variant_of:
+  - Scott
+  lang:
+  - en
+Scott:
+  gender_flag: 2
+  lang:
+  - en
+Scottie:
+  gender_flag: 2
+  is_short_for:
+  - Scott
+  lang:
+  - en
+Scotty:
+  gender_flag: 2
+  is_short_for:
+  - Scott
+  lang:
+  - en
+Scule:
+  gender_flag: 2
+  lang:
+  - ang
+Seabert:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Seaborn:
+  gender_flag: 2
+  lang:
+  - en
+Seamus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Sean:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Seasaidh:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jessie
+  lang:
+  - gd
+Seb:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+Seba:
+  gender_flag: 2
+  is_short_for:
+  - Sebastián
+  lang:
+  - es
+Sebastiaan:
+  gender_flag: 2
+  lang:
+  - nl
+Sebastian:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  - fo
+  - 'no'
+  - pl
+  - sv
+  origin:
+  - grc
+  - la
+Sebastiano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sebastian
+  lang:
+  - it
+Sebastienne:
+  gender_flag: 1
+  lang:
+  - de
+Sebastion:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Sebastià:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sebastian
+  lang:
+  - ca
+Sebastián:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sebastian
+  lang:
+  - es
+Sebastião:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sebastian
+  lang:
+  - pt
+Sebastén:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sebastian
+  lang:
+  - wa
+Sebbe:
+  gender_flag: 2
+  is_short_for:
+  - Sebastiaan
+  - Sebastian
+  lang:
+  - nl
+  - sv
+Sebestyén:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sebastian
+  lang:
+  - hu
+Sebyong:
+  gender_flag: 2
+  is_short_for:
+  - Eusebio
+  lang:
+  - tl
+Sebő:
+  gender_flag: 2
+  is_short_for:
+  - Sebestyén
+  lang:
+  - hu
+Sebők:
+  gender_flag: 2
+  is_short_for:
+  - Sebestyén
+  lang:
+  - hu
+Secundus:
+  gender_flag: 2
+  lang:
+  - la
+Seda:
+  gender_flag: 3
+  lang:
+  - tr
+Sedat:
+  gender_flag: 2
+  lang:
+  - tr
+Seddie:
+  gender_flag: 1
+  lang:
+  - en
+Sedecia:
+  gender_flag: 2
+  lang:
+  - it
+Sedef:
+  gender_flag: 1
+  lang:
+  - tr
+Sedesclavus: {}
+Sedley:
+  gender_flag: 2
+  lang:
+  - en
+Sedrik:
+  gender_flag: 2
+  lang:
+  - fi
+Sedsel:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sidsel
+  lang:
+  - 'no'
+Seela:
+  gender_flag: 1
+  lang:
+  - fi
+Seem:
+  gender_flag: 2
+  lang:
+  - fi
+Seeri:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Seet:
+  gender_flag: 2
+  lang:
+  - fi
+Sefa:
+  gender_flag: 3
+  lang:
+  - tr
+Sefora:
+  gender_flag: 1
+  lang:
+  - it
+Segismundo:
+  gender_flag: 2
+  lang:
+  - es
+Segomaros:
+  gender_flag: 2
+  lang:
+  - cel-gau
+Segundo:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+  origin:
+  - es
+Seidi:
+  gender_flag: 1
+  lang:
+  - fi
+Seihei:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  origin:
+  - ja
+Seija:
+  gender_flag: 1
+  lang:
+  - fi
+Seiji:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  origin:
+  - ja
+Seiko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Sel:
+  gender_flag: 1
+  lang:
+  - tr
+Selah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Selaven:
+  gender_flag: 2
+  is_equivalent_to:
+  - Salomon
+  lang:
+  - br
+Selena:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - fo
+  - it
+  - pt
+  - sh
+  - tl
+  origin:
+  - en
+  - grc
+Selene:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  origin:
+  - grc
+Selenia:
+  gender_flag: 1
+  lang:
+  - it
+Selenio:
+  gender_flag: 2
+  lang:
+  - it
+Selenium:
+  gender_flag: 2
+  lang:
+  - la
+Seleno:
+  gender_flag: 2
+  lang:
+  - it
+Seleuco:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+  origin:
+  - grc
+Selim:
+  gender_flag: 2
+  lang:
+  - tr
+Selimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Selin:
+  gender_flag: 1
+  lang:
+  - tr
+Selina:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  origin:
+  - la
+Selinda:
+  gender_flag: 1
+  lang:
+  - fo
+Selja:
+  gender_flag: 1
+  lang:
+  - fi
+  - 'no'
+Sella:
+  gender_flag: 1
+  lang:
+  - 'no'
+Selma:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  - et
+  - fi
+  - fo
+  - is
+  - 'no'
+  - pt
+  - sh
+  - sv
+  - tl
+  - tr
+  origin:
+  - ar
+  - en
+Selmar:
+  gender_flag: 2
+  lang:
+  - fo
+Selwyn:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+  - la
+Selçuk:
+  gender_flag: 7
+  lang:
+  - tr
+Sem:
+  gender_flag: 2
+  lang:
+  - la
+  - nl
+  origin:
+  - he
+Semaj:
+  gender_flag: 2
+  lang:
+  - en
+Sembedonis:
+  gender_flag: 2
+  lang:
+  - xaq
+Semen: {}
+Semih:
+  gender_flag: 2
+  lang:
+  - tr
+Semisi:
+  gender_flag: 2
+  is_equivalent_to:
+  - James
+  lang:
+  - to
+Semmi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sammy
+  is_short_for:
+  - Samuel
+  lang:
+  - gsw
+  origin:
+  - he
+Sempronio:
+  gender_flag: 2
+  lang:
+  - it
+Semus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - he
+Senan:
+  gender_flag: 2
+  is_a_variant_of:
+  - Sezni
+  lang:
+  - br
+Senga:
+  gender_flag: 1
+  lang:
+  - en
+Senita:
+  gender_flag: 1
+  lang:
+  - fo
+Senja:
+  gender_flag: 1
+  lang:
+  - fi
+Senni:
+  gender_flag: 1
+  lang:
+  - fi
+Senta:
+  gender_flag: 1
+  lang:
+  - et
+Seo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Seva
+  lang:
+  - br
+Seoc:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jack
+  - Jock
+  lang:
+  - gd
+  origin:
+  - sco
+Seocan:
+  gender_flag: 2
+  is_short_for:
+  - Seoc
+  lang:
+  - gd
+Seoirse:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - ga
+  origin:
+  - grc
+Seonachan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Johnny
+  is_short_for:
+  - Iain
+  lang:
+  - gd
+Seonag:
+  gender_flag: 1
+  is_short_for:
+  - Seònaid
+  lang:
+  - gd
+Seonaidh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Johnny
+  is_short_for:
+  - Iain
+  lang:
+  - gd
+Seosamh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - ga
+  origin:
+  - fro
+Sepin:
+  gender_flag: 1
+  lang:
+  - ceb
+Sepp:
+  gender_flag: 2
+  lang:
+  - de
+Seppe:
+  gender_flag: 2
+  is_short_for:
+  - Giuseppe
+  lang:
+  - it
+Seppo:
+  gender_flag: 2
+  lang:
+  - fi
+September:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Septimus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Sera:
+  gender_flag: 1
+  lang:
+  - en
+  - tr
+  origin:
+  - he
+Serafia:
+  gender_flag: 1
+  lang:
+  - en
+Serafiina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Seraphina
+  lang:
+  - fi
+  origin:
+  - la
+Serafim:
+  gender_flag: 2
+  lang:
+  - pt
+Serafina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Seraphina
+  lang:
+  - es
+  - it
+  - sv
+Serafino:
+  gender_flag: 2
+  lang:
+  - it
+Seran:
+  gender_flag: 1
+  lang:
+  - tr
+Seraphina:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  origin:
+  - la
+Seraphine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Seraphina
+  lang:
+  - de
+  - en
+  origin:
+  - la
+Serapio:
+  gender_flag: 2
+  lang:
+  - es
+Sercan:
+  gender_flag: 2
+  lang:
+  - tr
+Serdar:
+  gender_flag: 2
+  lang:
+  - tk
+  - tr
+  origin:
+  - fa
+Serena:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+  - la
+Serene:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Serenity:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Serge:
+  gender_flag: 2
+  lang:
+  - ceb
+  - fr
+  origin:
+  - en
+Sergei: {}
+Sergej:
+  gender_flag: 2
+  lang:
+  - sk
+Sergejs:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - ru
+Sergejus: {}
+Sergen:
+  gender_flag: 2
+  lang:
+  - tr
+Sergey: {}
+Sergi:
+  gender_flag: 2
+  lang:
+  - ca
+  - oc
+  origin:
+  - la
+Serging:
+  gender_flag: 2
+  lang:
+  - ceb
+Sergio:
+  gender_flag: 2
+  is_a_variant_of:
+  - Sérgio
+  lang:
+  - ceb
+  - es
+  - it
+  - pt
+  - tl
+  origin:
+  - es
+  - la
+Sergiu:
+  gender_flag: 2
+  lang:
+  - ro
+  origin:
+  - la
+Sergius:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - la
+Sergiusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sergius
+  lang:
+  - pl
+  origin:
+  - la
+Serguei:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sergey
+  lang:
+  - pt
+  origin:
+  - ru
+Sergueï: {}
+Serhat:
+  gender_flag: 2
+  lang:
+  - tr
+Serianna:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sirianna
+  lang:
+  - 'no'
+Serianne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sirianna
+  lang:
+  - 'no'
+Serim:
+  gender_flag: 2
+  lang:
+  - tr
+Serkan:
+  gender_flag: 2
+  lang:
+  - tr
+Serminnguaq:
+  gender_flag: 1
+  lang:
+  - kl
+Serob:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hy
+Serse:
+  gender_flag: 2
+  lang:
+  - it
+Sertaç:
+  gender_flag: 3
+  lang:
+  - tr
+Sertorio:
+  gender_flag: 2
+  lang:
+  - it
+Sertunç:
+  gender_flag: 2
+  lang:
+  - tr
+Sertuğ:
+  gender_flag: 2
+  lang:
+  - tr
+Servet:
+  gender_flag: 3
+  lang:
+  - tr
+  origin:
+  - ar
+Servin:
+  gender_flag: 2
+  lang:
+  - fo
+Servác:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Servå:
+  gender_flag: 2
+  lang:
+  - wa
+Serwai:
+  gender_flag: 2
+  lang:
+  - wa
+Serzh:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hy
+Sesar:
+  gender_flag: 2
+  lang:
+  - is
+Sesilia:
+  gender_flag: 1
+  lang:
+  - fo
+Sestino:
+  gender_flag: 2
+  lang:
+  - it
+Sesu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sergio
+  lang:
+  - kbb
+Set:
+  gender_flag: 2
+  lang:
+  - fo
+  - sv
+Seth:
+  gender_flag: 2
+  is_a_variant_of:
+  - Set
+  lang:
+  - en
+  - pt
+  - sv
+Setiono:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Setsuko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - pt
+  - tl
+  origin:
+  - ja
+Seumaidh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jamie
+  - Jimmy
+  is_short_for:
+  - Seumas
+  lang:
+  - gd
+Seumas:
+  gender_flag: 2
+  is_equivalent_to:
+  - James
+  lang:
+  - en
+  - gd
+  origin:
+  - he
+Sev:
+  gender_flag: 2
+  is_a_variant_of:
+  - Seva
+  lang:
+  - br
+Seva:
+  gender_flag: 1
+  lang:
+  - br
+Sevda:
+  gender_flag: 1
+  lang:
+  - tr
+Seve:
+  gender_flag: 2
+  lang:
+  - es
+Seven:
+  gender_flag: 3
+  lang:
+  - tr
+Sever:
+  gender_flag: 3
+  lang:
+  - tr
+Severa:
+  gender_flag: 1
+  lang:
+  - it
+  origin:
+  - la
+Severi:
+  gender_flag: 2
+  lang:
+  - fi
+Severin:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  origin:
+  - la
+Severine:
+  gender_flag: 1
+  lang:
+  - da
+Severino:
+  gender_flag: 2
+  lang:
+  - it
+  - pt
+  origin:
+  - la
+Severinus:
+  gender_flag: 2
+  lang:
+  - la
+Severín:
+  gender_flag: 2
+  lang:
+  - sk
+Sevgi:
+  gender_flag: 1
+  lang:
+  - tr
+Sevgili:
+  gender_flag: 1
+  lang:
+  - tr
+Sevil:
+  gender_flag: 1
+  lang:
+  - tr
+Sevilay:
+  gender_flag: 1
+  lang:
+  - tr
+Sevim:
+  gender_flag: 1
+  lang:
+  - tr
+Sevin:
+  gender_flag: 3
+  lang:
+  - tr
+Sevinc:
+  gender_flag: 1
+  lang:
+  - az
+Sevinç:
+  gender_flag: 3
+  lang:
+  - tr
+Sevrin:
+  gender_flag: 2
+  lang:
+  - fo
+Seweryn:
+  gender_flag: 2
+  lang:
+  - pl
+Sexred:
+  gender_flag: 2
+  lang:
+  - ang
+Seydina:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - snk
+Seymour:
+  gender_flag: 2
+  lang:
+  - en
+Sezen:
+  gender_flag: 3
+  lang:
+  - tr
+Sezgin:
+  gender_flag: 3
+  lang:
+  - tr
+Sezneg:
+  gender_flag: 2
+  is_a_variant_of:
+  - Sezni
+  lang:
+  - br
+Sezni:
+  gender_flag: 2
+  lang:
+  - br
+Seáinín:
+  gender_flag: 2
+  is_equivalent_to:
+  - Johnny
+  is_short_for:
+  - Seán
+  lang:
+  - ga
+Seán:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - ga
+  origin:
+  - fro
+Seçil:
+  gender_flag: 1
+  lang:
+  - tr
+Seçkin:
+  gender_flag: 3
+  lang:
+  - tr
+Seçme:
+  gender_flag: 2
+  lang:
+  - tr
+Seònaid:
+  gender_flag: 1
+  is_equivalent_to:
+  - Janet
+  lang:
+  - gd
+  origin:
+  - fro
+Seòras:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - gd
+  origin:
+  - grc
+Sgàire:
+  gender_flag: 2
+  lang:
+  - gd
+  origin:
+  - non
+Shaban:
+  gender_flag: 2
+  lang:
+  - sq
+  origin:
+  - ar
+Shadrach:
+  gender_flag: 2
+  lang:
+  - en
+Shaeed:
+  gender_flag: 2
+  lang:
+  - en
+Shaelyn:
+  gender_flag: 1
+  lang:
+  - en
+Shahab: {}
+Shahlo:
+  gender_flag: 1
+  lang:
+  - uz
+  origin:
+  - ar
+Shahqoli: {}
+Shahzod:
+  gender_flag: 2
+  lang:
+  - uz
+Shahzoda:
+  gender_flag: 1
+  lang:
+  - uz
+  origin:
+  - fa
+Shahzodbek:
+  gender_flag: 2
+  lang:
+  - uz
+Shailaja:
+  gender_flag: 1
+  lang:
+  - en
+Shakir:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Shakira:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Shakur:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Shalev:
+  gender_flag: 2
+  lang:
+  - en
+Shamar:
+  gender_flag: 2
+  lang:
+  - en
+Shamika:
+  gender_flag: 1
+  lang:
+  - en
+Shamil:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Shana:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cy
+Shanae:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Shandiin:
+  gender_flag: 1
+  lang:
+  - nv
+Shane:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ga
+Shanelle:
+  gender_flag: 1
+  lang:
+  - en
+Shanequa:
+  gender_flag: 1
+  lang:
+  - en
+Shania:
+  gender_flag: 1
+  lang:
+  - en
+Shanice:
+  gender_flag: 1
+  lang:
+  - en
+Shaniqua:
+  gender_flag: 1
+  lang:
+  - en
+Shankar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Shanlee:
+  gender_flag: 1
+  lang:
+  - en
+Shanmugam:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ta
+Shanna:
+  gender_flag: 1
+  lang:
+  - en
+Shannon:
+  gender_flag: 7
+  lang:
+  - en
+Shanono:
+  gender_flag: 3
+  lang:
+  - ha
+Shantanu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+  - sa
+Shapi Leima:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mni
+Shaq:
+  gender_flag: 2
+  is_short_for:
+  - Shaquille
+  lang:
+  - en
+Shaquille:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Shari:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sherry
+  is_short_for:
+  - Sharon
+  lang:
+  - en
+Sharisha:
+  gender_flag: 1
+  lang:
+  - en
+Sharla:
+  gender_flag: 1
+  lang:
+  - en
+Sharlene:
+  gender_flag: 1
+  is_a_variant_of:
+  - Charlene
+  lang:
+  - en
+  origin:
+  - gem
+Sharlott:
+  gender_flag: 1
+  is_equivalent_to:
+  - Charlotte
+  lang:
+  - gv
+  origin:
+  - fr
+Sharmaine:
+  gender_flag: 1
+  lang:
+  - ceb
+Sharon:
+  gender_flag: 7
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - he
+Sharona:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Shateasha:
+  gender_flag: 1
+  lang:
+  - en
+Shaul:
+  gender_flag: 2
+  is_a_variant_of:
+  - Saul
+  lang:
+  - en
+Shaun:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ga
+Shauna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Shavaughn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Shavon:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Shavonne:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+  - he
+Shawanda:
+  gender_flag: 1
+  lang:
+  - en
+Shawn:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ga
+Shawna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+  - he
+Shawndeen:
+  gender_flag: 1
+  lang:
+  - nv
+Shawnee:
+  gender_flag: 1
+  lang:
+  - en
+Shay:
+  gender_flag: 7
+  is_short_for:
+  - Seamus
+  lang:
+  - en
+  origin:
+  - ga
+Shayan:
+  gender_flag: 2
+  lang:
+  - en
+Shaye:
+  gender_flag: 1
+  is_a_variant_of:
+  - Shay
+  lang:
+  - en
+  origin:
+  - ga
+Shayla:
+  gender_flag: 1
+  lang:
+  - en
+Shaylene:
+  gender_flag: 1
+  is_a_variant_of:
+  - Shayla
+  lang:
+  - en
+Shayna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - yi
+Shaz:
+  gender_flag: 1
+  is_short_for:
+  - Sharon
+  lang:
+  - en
+Shazia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Shazza:
+  gender_flag: 1
+  lang:
+  - en
+Shea:
+  gender_flag: 7
+  lang:
+  - en
+Sheandra:
+  gender_flag: 1
+  lang:
+  - en
+Sheay:
+  gender_flag: 1
+  lang:
+  - en
+Sheba:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - he
+Sheela:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Sheeley:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cecilia
+  - Sheila
+  lang:
+  - gv
+Sheena:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - gd
+Sheera:
+  gender_flag: 1
+  lang:
+  - ceb
+Sheetal:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - hi
+Shefqet:
+  gender_flag: 2
+  lang:
+  - sq
+  origin:
+  - ar
+Sheila:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - es
+  - pt
+  origin:
+  - en
+  - ga
+Sheilagh:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Shekarau:
+  gender_flag: 2
+  lang:
+  - ha
+Shel:
+  gender_flag: 2
+  is_short_for:
+  - Sheldon
+  lang:
+  - en
+Shelagh:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Shelbi:
+  gender_flag: 1
+  lang:
+  - en
+Shelby:
+  gender_flag: 7
+  lang:
+  - en
+Sheldon:
+  gender_flag: 2
+  lang:
+  - en
+Shell:
+  gender_flag: 1
+  lang:
+  - en
+Shelley:
+  gender_flag: 7
+  lang:
+  - en
+Shelly:
+  gender_flag: 7
+  is_a_variant_of:
+  - Shelley
+  lang:
+  - en
+Shelton:
+  gender_flag: 2
+  lang:
+  - en
+Shem:
+  gender_flag: 2
+  lang:
+  - en
+Shemaiah:
+  gender_flag: 1
+  lang:
+  - ceb
+Shenoah:
+  gender_flag: 3
+  lang:
+  - en
+Shenya:
+  gender_flag: 1
+  lang:
+  - en
+Shep:
+  gender_flag: 2
+  is_short_for:
+  - Shepherd
+  lang:
+  - en
+Shepherd:
+  gender_flag: 2
+  lang:
+  - en
+Sheppard:
+  gender_flag: 2
+  lang:
+  - en
+Shera:
+  gender_flag: 1
+  lang:
+  - ceb
+Sherali:
+  gender_flag: 2
+  lang:
+  - uz
+Sheri:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sherry
+  lang:
+  - en
+  origin:
+  - en
+Sheridan:
+  gender_flag: 7
+  lang:
+  - en
+Sherlock:
+  gender_flag: 2
+  lang:
+  - en
+Sherlyn:
+  gender_flag: 1
+  lang:
+  - en
+Sherman:
+  gender_flag: 2
+  lang:
+  - en
+Sherri:
+  gender_flag: 1
+  is_a_variant_of:
+  - Cheri
+  - Sherry
+  lang:
+  - en
+  origin:
+  - en
+Sherrilynn:
+  gender_flag: 1
+  lang:
+  - en
+Sherry:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Sheryl:
+  gender_flag: 1
+  is_a_variant_of:
+  - Cheryl
+  - Shirley
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Sherzod:
+  gender_flag: 2
+  lang:
+  - uz
+Shia:
+  gender_flag: 2
+  lang:
+  - en
+Shigeko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - pt
+  origin:
+  - ja
+Shigeo:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  origin:
+  - ja
+Shigeru:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Shilah:
+  gender_flag: 1
+  lang:
+  - en
+Shiloh:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - he
+Shimon:
+  gender_flag: 2
+  lang:
+  - en
+Shimshon:
+  gender_flag: 2
+  lang:
+  - en
+Shinju:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Shinpei:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  origin:
+  - ja
+Shio:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - oge
+Shiori:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Shira:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Shireen:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fa
+Shirgj:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sergey
+  lang:
+  - sq
+  origin:
+  - la
+Shirin:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fa
+Shirl:
+  gender_flag: 1
+  lang:
+  - en
+Shirley:
+  gender_flag: 7
+  lang:
+  - en
+  - es
+  - tl
+  origin:
+  - en
+Shiro:
+  gender_flag: 2
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Shirshak:
+  gender_flag: 2
+  lang:
+  - en
+Shirzat:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ug
+Shitij:
+  gender_flag: 2
+  lang:
+  - en
+Shiv:
+  gender_flag: 7
+  is_short_for:
+  - Siobhan
+  lang:
+  - en
+  origin:
+  - sa
+Shiva:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Shivaji:
+  gender_flag: 2
+  lang:
+  - en
+Shizue:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Shizuka:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ja
+Shizuko:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - pt
+  - tl
+  origin:
+  - ja
+Shkurt:
+  gender_flag: 2
+  lang:
+  - sq
+Shkurte:
+  gender_flag: 1
+  lang:
+  - sq
+Shkëlzen:
+  gender_flag: 2
+  lang:
+  - sq
+Shloime:
+  gender_flag: 2
+  is_short_for:
+  - Shlomo
+  lang:
+  - en
+Shlomo:
+  gender_flag: 2
+  lang:
+  - en
+Shmuel:
+  gender_flag: 2
+  lang:
+  - en
+Shohei:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  - tl
+  origin:
+  - ja
+Shohjahon:
+  gender_flag: 2
+  lang:
+  - uz
+Shoji:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  origin:
+  - ja
+Shoma:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Shomari:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sw
+Shona:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gd
+Shonda:
+  gender_flag: 1
+  lang:
+  - en
+Shonell:
+  gender_flag: 1
+  lang:
+  - en
+Shorys:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - gv
+  origin:
+  - grc
+Shoryseen:
+  gender_flag: 1
+  is_equivalent_to:
+  - Georgina
+  lang:
+  - gv
+  origin:
+  - grc
+Shoshana:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Shouta:
+  gender_flag: 2
+  lang:
+  - en
+Shpëtim:
+  gender_flag: 2
+  lang:
+  - sq
+Shraddha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Shravas:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Shug:
+  gender_flag: 2
+  lang:
+  - en
+Shukur:
+  lang:
+  - uz
+Shula:
+  gender_flag: 1
+  is_short_for:
+  - Shulamith
+  lang:
+  - en
+  origin:
+  - he
+Shulamis:
+  gender_flag: 1
+  is_a_variant_of:
+  - Shulamith
+  lang:
+  - en
+Shulamit:
+  gender_flag: 1
+  is_a_variant_of:
+  - Shulamith
+  lang:
+  - en
+Shulamith:
+  gender_flag: 1
+  lang:
+  - en
+Shuli:
+  gender_flag: 1
+  lang:
+  - en
+Shura:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - ru
+Shushrusha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - hi
+  - sa
+Shvon:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+  - he
+Shvonne:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+  - he
+Shwetha:
+  gender_flag: 1
+  lang:
+  - en
+Shyam:
+  gender_flag: 2
+  lang:
+  - en
+Shyanne:
+  gender_flag: 1
+  lang:
+  - en
+Shyla:
+  gender_flag: 1
+  lang:
+  - en
+Sháńdíín:
+  gender_flag: 1
+  lang:
+  - nv
+Si:
+  gender_flag: 2
+  is_short_for:
+  - Silas
+  - Simon
+  lang:
+  - en
+Sia:
+  gender_flag: 1
+  lang:
+  - en
+Sialoorta:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Sialôrta:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Siamak:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - fa
+Siamion: {}
+Sian:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cy
+  - he
+Siani:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jenny
+  lang:
+  - cy
+Siaosi:
+  gender_flag: 2
+  lang:
+  - sm
+  - to
+Siarhei: {}
+Sibel:
+  gender_flag: 1
+  lang:
+  - tr
+Sibilla:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sibyl
+  - Sybil
+  lang:
+  - it
+Sibil·la:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sybil
+  lang:
+  - ca
+Sibyl:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Sibylla:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sibyl
+  lang:
+  - en
+  - sv
+  origin:
+  - grc
+Sibylle:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sibyl
+  lang:
+  - de
+  origin:
+  - grc
+Sibülle:
+  gender_flag: 1
+  lang:
+  - et
+Sid:
+  gender_flag: 7
+  lang:
+  - en
+Siddhartha:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Sidnee:
+  gender_flag: 1
+  lang:
+  - en
+Sidney:
+  gender_flag: 3
+  lang:
+  - en
+Sidonia:
+  gender_flag: 1
+  lang:
+  - en
+Sidonnie:
+  gender_flag: 1
+  lang:
+  - nrf
+Sidonîye:
+  gender_flag: 1
+  lang:
+  - wa
+Sidsel:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Sidónia:
+  gender_flag: 1
+  lang:
+  - sk
+Sidónio:
+  gender_flag: 2
+  lang:
+  - pt
+Siegert:
+  gender_flag: 2
+  lang:
+  - de
+Siegfried:
+  gender_flag: 2
+  lang:
+  - ceb
+  - de
+  origin:
+  - de
+  - gem-pro
+Sieglind:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sieglinde
+  lang:
+  - de
+Sieglinde:
+  gender_flag: 1
+  lang:
+  - de
+Siegmund:
+  gender_flag: 2
+  lang:
+  - de
+Sieme:
+  gender_flag: 2
+  lang:
+  - nl
+Sienna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Sierra:
+  gender_flag: 1
+  lang:
+  - en
+Sietse:
+  gender_flag: 2
+  lang:
+  - nl
+  origin:
+  - fy
+Sietske:
+  gender_flag: 1
+  lang:
+  - nl
+  origin:
+  - fy
+Sif:
+  gender_flag: 1
+  lang:
+  - da
+  - is
+Sifan:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - om
+Siffredo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Sigfrido
+  lang:
+  - it
+Sifrido:
+  gender_flag: 2
+  is_a_variant_of:
+  - Sigfrido
+  lang:
+  - it
+Sig:
+  gender_flag: 2
+  lang:
+  - ca
+  - en
+  origin:
+  - de
+Sigbjartur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Sigbjörn:
+  gender_flag: 2
+  lang:
+  - is
+Sigbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Sigbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+  - 'no'
+Sigborg:
+  gender_flag: 1
+  lang:
+  - fo
+Sigbrandur:
+  gender_flag: 2
+  lang:
+  - fo
+Sigbrit:
+  gender_flag: 1
+  lang:
+  - fo
+Sigdís:
+  gender_flag: 1
+  lang:
+  - is
+Sigdór:
+  gender_flag: 2
+  lang:
+  - is
+Sigefriþ:
+  gender_flag: 2
+  lang:
+  - ang
+Sigegar:
+  gender_flag: 2
+  lang:
+  - ang
+Sigehelm:
+  gender_flag: 2
+  lang:
+  - ang
+Sigemund:
+  gender_flag: 2
+  lang:
+  - ang
+Sigemær:
+  gender_flag: 2
+  lang:
+  - ang
+Sigenoþ:
+  gender_flag: 2
+  lang:
+  - ang
+Sigeric:
+  gender_flag: 2
+  lang:
+  - ang
+Sigeræd:
+  gender_flag: 2
+  lang:
+  - ang
+Sigeweald:
+  gender_flag: 2
+  lang:
+  - ang
+Sigewulf:
+  gender_flag: 2
+  lang:
+  - ang
+Sigfinnur:
+  gender_flag: 2
+  lang:
+  - is
+Sigfred:
+  gender_flag: 2
+  lang:
+  - da
+Sigfredo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Sigfrido
+  is_equivalent_to:
+  - Siegfried
+  lang:
+  - es
+  - it
+  origin:
+  - de
+Sigfrid:
+  gender_flag: 2
+  lang:
+  - sv
+Sigfrido:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - gem-pro
+Sigfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Sigfríður:
+  gender_flag: 3
+  lang:
+  - fo
+  - is
+Sigfús:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Sigfúsína:
+  gender_flag: 1
+  lang:
+  - is
+Sigga:
+  gender_flag: 1
+  is_short_for:
+  - Sigrid
+  - Sigríður
+  lang:
+  - fo
+  - is
+  - 'no'
+Siggeir:
+  gender_flag: 2
+  lang:
+  - is
+Siggi:
+  gender_flag: 3
+  is_short_for:
+  - Siegfried
+  - Sieglinde
+  - Siegmund
+  - Sigrun
+  lang:
+  - de
+Siggin:
+  gender_flag: 2
+  is_short_for:
+  - Sigismund
+  lang:
+  - yol
+Sighvatur:
+  gender_flag: 2
+  lang:
+  - fo
+Sigifredo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Sigfrido
+  lang:
+  - it
+Sigifrido:
+  gender_flag: 2
+  is_a_variant_of:
+  - Sigfrido
+  lang:
+  - it
+Sigifrit:
+  gender_flag: 1
+  lang:
+  - goh
+Sigifrith:
+  gender_flag: 1
+  lang:
+  - goh
+Sigisfrido:
+  gender_flag: 2
+  is_a_variant_of:
+  - Sigfrido
+  lang:
+  - it
+Sigismondo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sigismund
+  lang:
+  - it
+Sigismund:
+  gender_flag: 2
+  lang:
+  - de
+Sigit:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Sigita:
+  gender_flag: 1
+  lang:
+  - lt
+  - lv
+Sigitas:
+  gender_flag: 2
+  lang:
+  - lt
+Sigjón:
+  gender_flag: 2
+  lang:
+  - is
+Siglaugur:
+  gender_flag: 2
+  lang:
+  - is
+Siglind:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sieglinde
+  lang:
+  - de
+Siglinde:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sieglinde
+  lang:
+  - de
+Sigmar:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Sigmund:
+  gender_flag: 2
+  is_a_variant_of:
+  - Siegmund
+  lang:
+  - de
+  - nn
+  - sh
+  origin:
+  - non
+Sigmunder:
+  gender_flag: 2
+  lang:
+  - gmq-osw
+Sigmundur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Sigmundína:
+  gender_flag: 1
+  lang:
+  - is
+Signa:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Signar:
+  gender_flag: 2
+  lang:
+  - fo
+Signe:
+  gender_flag: 1
+  lang:
+  - da
+  - et
+  - lv
+  - 'no'
+  - sv
+Signhard:
+  gender_flag: 2
+  lang:
+  - fo
+Signheðin:
+  gender_flag: 2
+  lang:
+  - fo
+Signhild:
+  gender_flag: 1
+  lang:
+  - fo
+  - sv
+Signild:
+  gender_flag: 1
+  lang:
+  - fo
+Signuva:
+  gender_flag: 1
+  lang:
+  - fo
+Signý:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+  - non
+Sigolène:
+  gender_flag: 1
+  lang:
+  - fr
+Sigourney:
+  gender_flag: 3
+  lang:
+  - en
+Sigrid:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - 'no'
+  - sv
+  origin:
+  - gem
+Sigrið:
+  gender_flag: 1
+  lang:
+  - fo
+Sigrun:
+  gender_flag: 1
+  lang:
+  - fo
+  - 'no'
+Sigrunn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sigrun
+  lang:
+  - 'no'
+Sigríðr:
+  gender_flag: 1
+  lang:
+  - non
+Sigríður:
+  gender_flag: 1
+  lang:
+  - is
+Sigrún:
+  gender_flag: 1
+  lang:
+  - is
+Sigsteinn:
+  gender_flag: 2
+  lang:
+  - is
+Sigtryggur:
+  gender_flag: 2
+  lang:
+  - is
+Sigtór:
+  gender_flag: 2
+  lang:
+  - fo
+Sigtýr:
+  gender_flag: 2
+  lang:
+  - is
+Sigurbergur:
+  gender_flag: 2
+  lang:
+  - is
+Sigurbjartur:
+  gender_flag: 2
+  lang:
+  - is
+Sigurbjörg:
+  gender_flag: 1
+  lang:
+  - is
+Sigurbjörn:
+  gender_flag: 2
+  lang:
+  - is
+Sigurbjört:
+  gender_flag: 1
+  lang:
+  - is
+Sigurbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Sigurd:
+  gender_flag: 2
+  lang:
+  - da
+  - fo
+  - 'no'
+  - sv
+Sigurdís:
+  gender_flag: 1
+  lang:
+  - is
+Sigurdór:
+  gender_flag: 2
+  lang:
+  - is
+Sigurey:
+  gender_flag: 1
+  lang:
+  - is
+Sigurfljóð:
+  gender_flag: 1
+  lang:
+  - is
+Sigurgeir:
+  gender_flag: 2
+  lang:
+  - is
+Sigurgeira:
+  gender_flag: 1
+  lang:
+  - is
+Sigurgunn:
+  gender_flag: 1
+  lang:
+  - fo
+Sigurhildur:
+  gender_flag: 1
+  lang:
+  - is
+Sigurjón:
+  gender_flag: 2
+  lang:
+  - is
+Sigurjóna:
+  gender_flag: 1
+  lang:
+  - is
+Sigurlaug:
+  gender_flag: 1
+  lang:
+  - is
+Sigurlaugur:
+  gender_flag: 2
+  lang:
+  - is
+Sigurleyg:
+  gender_flag: 1
+  lang:
+  - fo
+Sigurlína:
+  gender_flag: 1
+  lang:
+  - is
+Sigurmundur:
+  gender_flag: 2
+  lang:
+  - is
+Sigurrós:
+  gender_flag: 1
+  lang:
+  - en
+  - is
+  origin:
+  - is
+Sigursól:
+  gender_flag: 1
+  lang:
+  - fo
+Sigurveig:
+  gender_flag: 1
+  lang:
+  - is
+Sigurást:
+  gender_flag: 1
+  lang:
+  - is
+Sigurð:
+  gender_flag: 2
+  lang:
+  - fo
+Sigurðr:
+  gender_flag: 2
+  lang:
+  - non
+Sigurður:
+  gender_flag: 2
+  lang:
+  - is
+Sigurðína:
+  gender_flag: 1
+  lang:
+  - is
+Sigurþór:
+  gender_flag: 2
+  lang:
+  - is
+Sigvaldur:
+  gender_flag: 2
+  lang:
+  - fo
+Sigvar:
+  gender_flag: 2
+  lang:
+  - fo
+Sigvard:
+  gender_flag: 2
+  lang:
+  - sv
+Sigve:
+  gender_flag: 2
+  lang:
+  - 'no'
+Sigvør:
+  gender_flag: 1
+  lang:
+  - fo
+Sigþrúður:
+  gender_flag: 1
+  lang:
+  - is
+Sigþór:
+  gender_flag: 2
+  lang:
+  - is
+Sihem:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - ar
+Siifan:
+  gender_flag: 1
+  lang:
+  - om
+Siim:
+  gender_flag: 2
+  lang:
+  - et
+Siimeon:
+  gender_flag: 2
+  lang:
+  - et
+Siimon:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Siimuut:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Siina:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+  - kl
+  origin:
+  - da
+Siiri:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sigrid
+  lang:
+  - et
+  - fi
+Siiva:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Siivali:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Sika:
+  gender_flag: 1
+  lang:
+  - en
+  - kl
+  origin:
+  - da
+Sikkerneq:
+  gender_flag: 1
+  lang:
+  - kl
+Sikkerninnguaq:
+  gender_flag: 1
+  lang:
+  - kl
+Sikkersoq:
+  gender_flag: 3
+  lang:
+  - kl
+Sil:
+  gender_flag: 2
+  lang:
+  - en
+Sila:
+  gender_flag: 2
+  lang:
+  - it
+Silas:
+  gender_flag: 2
+  lang:
+  - da
+  - en
+  - fo
+  origin:
+  - arc
+Silence:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Silfá:
+  gender_flag: 1
+  lang:
+  - is
+Sili:
+  gender_flag: 1
+  lang:
+  - tr
+Silja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cecilia
+  lang:
+  - et
+  - fi
+  - fo
+  - is
+Silje:
+  gender_flag: 1
+  lang:
+  - 'no'
+Silke:
+  gender_flag: 1
+  lang:
+  - de
+  origin:
+  - fy
+  - nds
+Sille:
+  gender_flag: 1
+  lang:
+  - da
+Silrið:
+  gender_flag: 1
+  lang:
+  - fo
+Silva:
+  gender_flag: 1
+  lang:
+  - lt
+  - sl
+Silvain:
+  gender_flag: 2
+  is_a_variant_of:
+  - Sylvain
+  lang:
+  - fr
+Silvana:
+  gender_flag: 1
+  lang:
+  - es
+  - it
+  - pt
+Silvano:
+  gender_flag: 2
+  lang:
+  - it
+Silvanus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Silver:
+  gender_flag: 7
+  lang:
+  - en
+  - et
+  origin:
+  - en
+Silverio:
+  gender_flag: 2
+  lang:
+  - es
+Silvesse:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sylvester
+  lang:
+  - wa
+Silvester:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  - et
+Silvestr:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sylvester
+  lang:
+  - cs
+Silvestras:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sylvester
+  lang:
+  - lt
+  origin:
+  - la
+Silvestre:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sylvester
+  lang:
+  - pt
+  origin:
+  - la
+Silvestro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sylvester
+  lang:
+  - it
+Silvi:
+  gender_flag: 1
+  lang:
+  - et
+Silvia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sílvia
+  lang:
+  - de
+  - en
+  - es
+  - et
+  - fo
+  - it
+  - pt
+  - sk
+  origin:
+  - la
+Silvie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Silvia
+  - Sylvia
+  lang:
+  - cs
+Silvija:
+  gender_flag: 1
+  lang:
+  - lv
+Silvina:
+  gender_flag: 1
+  lang:
+  - es
+Silvio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Silvius
+  lang:
+  - en
+  - es
+  - it
+  - pt
+  origin:
+  - it
+Silvius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Silviye:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sylvia
+  lang:
+  - wa
+Silvurlín:
+  gender_flag: 1
+  lang:
+  - fo
+Silvèsse:
+  gender_flag: 2
+  lang:
+  - wa
+Silvério:
+  gender_flag: 2
+  lang:
+  - pt
+Sim:
+  gender_flag: 3
+  lang:
+  - en
+  - vi
+Simas:
+  gender_flag: 2
+  lang:
+  - lt
+Simba:
+  gender_flag: 2
+  lang:
+  - en
+  - sn
+  origin:
+  - sw
+Simen:
+  gender_flag: 2
+  lang:
+  - 'no'
+Simeon:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - es
+Simeona:
+  gender_flag: 1
+  lang:
+  - ceb
+  - tl
+Simeoni:
+  gender_flag: 2
+  lang:
+  - fi
+Simeyon:
+  gender_flag: 2
+  lang:
+  - wa
+Simeón:
+  gender_flag: 2
+  lang:
+  - es
+Simi:
+  gender_flag: 7
+  is_short_for:
+  - Simran
+  lang:
+  - en
+Simidh:
+  gender_flag: 2
+  is_short_for:
+  - Sìm
+  lang:
+  - gd
+Simko:
+  gender_flag: 2
+  lang:
+  - kmr
+Simla:
+  gender_flag: 1
+  lang:
+  - tr
+Simmon:
+  gender_flag: 2
+  is_equivalent_to:
+  - Simon
+  lang:
+  - se
+Simo:
+  gender_flag: 2
+  lang:
+  - fi
+  - la
+Simon:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fr
+  - hu
+  - la
+  - 'no'
+  - sv
+  origin:
+  - en
+  - es
+Simona:
+  gender_flag: 1
+  is_a_variant_of:
+  - Simone
+  is_equivalent_to:
+  - Simone
+  lang:
+  - cs
+  - en
+  - fo
+  - it
+  - lt
+  - lv
+  - sk
+  origin:
+  - he
+Simonas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Simon
+  lang:
+  - lt
+Simone:
+  gender_flag: 3
+  is_equivalent_to:
+  - Simon
+  lang:
+  - da
+  - de
+  - en
+  - fr
+  - it
+  - nrf
+  - pt
+  origin:
+  - fr
+Simonetta:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - it
+Simonette:
+  gender_flag: 1
+  lang:
+  - en
+Simonka:
+  gender_flag: 1
+  is_short_for:
+  - Simona
+  lang:
+  - cs
+Simonne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Simone
+  lang:
+  - fr
+Simons:
+  gender_flag: 2
+  lang:
+  - lv
+Simran:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - pa
+Simson:
+  gender_flag: 2
+  lang:
+  - en
+Simão:
+  gender_flag: 2
+  is_equivalent_to:
+  - Simon
+  lang:
+  - pt
+  origin:
+  - he
+Siméon:
+  lang:
+  - fr
+Simó:
+  gender_flag: 2
+  is_equivalent_to:
+  - Simon
+  lang:
+  - ca
+Simón:
+  gender_flag: 2
+  is_equivalent_to:
+  - Simon
+  lang:
+  - es
+Simča:
+  gender_flag: 1
+  is_short_for:
+  - Simona
+  lang:
+  - cs
+Sina:
+  gender_flag: 7
+  lang:
+  - de
+  - en
+  origin:
+  - gd
+Sinan:
+  gender_flag: 2
+  lang:
+  - tr
+Sincere:
+  gender_flag: 2
+  lang:
+  - en
+Sinclair:
+  gender_flag: 2
+  lang:
+  - en
+Sindija:
+  gender_flag: 1
+  lang:
+  - lv
+Sindre:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Sindri:
+  gender_flag: 2
+  lang:
+  - is
+  - non
+Sindy:
+  gender_flag: 1
+  lang:
+  - en
+Sine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Signe
+  is_short_for:
+  - Hansine
+  - Jensine
+  - Nielsine
+  lang:
+  - da
+  - 'no'
+  - tr
+  origin:
+  - fr
+Sinead:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Sinem:
+  gender_flag: 1
+  lang:
+  - tr
+Sinforiano:
+  gender_flag: 2
+  lang:
+  - it
+Sinforyin:
+  gender_flag: 2
+  lang:
+  - wa
+Singgih:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Singh:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Sini:
+  gender_flag: 1
+  lang:
+  - en
+  - fi
+  origin:
+  - ml
+Sinibaldo:
+  gender_flag: 2
+  lang:
+  - it
+Sinikka:
+  gender_flag: 1
+  lang:
+  - fi
+Sintija:
+  gender_flag: 1
+  lang:
+  - lv
+Sintiya: {}
+Sinéad:
+  gender_flag: 1
+  lang:
+  - en
+  - ga
+  origin:
+  - fro
+  - ga
+  - he
+Siobhan:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+  - he
+Siobhán:
+  gender_flag: 1
+  lang:
+  - ga
+Sioned:
+  gender_flag: 1
+  is_equivalent_to:
+  - Janet
+  lang:
+  - cy
+  origin:
+  - he
+Sire:
+  gender_flag: 1
+  lang:
+  - se
+Sireli:
+  gender_flag: 1
+  lang:
+  - et
+Siret:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sirje
+  lang:
+  - et
+Siri:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sigrid
+  lang:
+  - en
+  - 'no'
+  - sv
+Siriann:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sirianna
+  lang:
+  - 'no'
+Sirianna:
+  gender_flag: 1
+  lang:
+  - 'no'
+Sirianne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sirianna
+  lang:
+  - 'no'
+Sirid:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sigrid
+  lang:
+  - 'no'
+Siril:
+  gender_flag: 1
+  lang:
+  - 'no'
+Sirild:
+  gender_flag: 1
+  is_a_variant_of:
+  - Siril
+  lang:
+  - 'no'
+Sirill:
+  gender_flag: 1
+  is_a_variant_of:
+  - Siril
+  lang:
+  - 'no'
+Sirio:
+  gender_flag: 2
+  lang:
+  - it
+Sirius:
+  gender_flag: 2
+  lang:
+  - fo
+Sirið:
+  gender_flag: 1
+  lang:
+  - fo
+Sirja:
+  gender_flag: 1
+  lang:
+  - fi
+Sirje:
+  gender_flag: 1
+  lang:
+  - et
+Sirkka:
+  gender_flag: 1
+  lang:
+  - fi
+Sirkka-Liisa:
+  gender_flag: 1
+  lang:
+  - fi
+Sirkku:
+  gender_flag: 1
+  lang:
+  - fi
+Sirli:
+  gender_flag: 1
+  lang:
+  - et
+Siro:
+  gender_flag: 2
+  lang:
+  - it
+Sirpa:
+  gender_flag: 1
+  lang:
+  - fi
+Siru:
+  gender_flag: 1
+  lang:
+  - fi
+Sisile:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cecilia
+  lang:
+  - ga
+Sisinnio:
+  gender_flag: 2
+  lang:
+  - it
+Sisko:
+  gender_flag: 1
+  lang:
+  - fi
+Siss:
+  gender_flag: 1
+  is_short_for:
+  - Cecilie
+  lang:
+  - 'no'
+Sissal:
+  gender_flag: 1
+  lang:
+  - fo
+Sisse:
+  gender_flag: 1
+  lang:
+  - da
+Sissel:
+  gender_flag: 1
+  lang:
+  - 'no'
+Sissi:
+  gender_flag: 1
+  is_short_for:
+  - Elisabeth
+  lang:
+  - de
+Sissil:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sissel
+  lang:
+  - 'no'
+Sissy:
+  gender_flag: 1
+  is_short_for:
+  - Cecilia
+  lang:
+  - en
+Sisu:
+  gender_flag: 2
+  lang:
+  - fi
+Sita:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - sa
+Sitang:
+  gender_flag: 1
+  lang:
+  - ceb
+Sitefanu:
+  gender_flag: 2
+  lang:
+  - yo
+Siti:
+  gender_flag: 1
+  lang:
+  - id
+  - ms
+  origin:
+  - jv
+Siv:
+  gender_flag: 1
+  lang:
+  - fo
+  - nn
+  - sv
+  origin:
+  - non
+Sivert:
+  gender_flag: 2
+  lang:
+  - 'no'
+  - sv
+Siviä:
+  gender_flag: 1
+  lang:
+  - fi
+Sivuyile:
+  gender_flag: 2
+  lang:
+  - xh
+Siw:
+  gender_flag: 1
+  lang:
+  - cy
+  - 'no'
+  - sv
+Siwan:
+  gender_flag: 1
+  is_equivalent_to:
+  - Joan
+  lang:
+  - cy
+Sixten:
+  gender_flag: 2
+  lang:
+  - sv
+  origin:
+  - non
+Siya:
+  gender_flag: 3
+  lang:
+  - en
+Siyabend:
+  gender_flag: 2
+  lang:
+  - kmr
+Siân:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jane
+  lang:
+  - cy
+  origin:
+  - he
+Siôn:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - cy
+  origin:
+  - he
+Siʹrǧǧi:
+  gender_flag: 2
+  lang:
+  - sms
+  origin:
+  - la
+Sjaak:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jakob
+  lang:
+  - nl
+Sjaan:
+  gender_flag: 1
+  lang:
+  - nl
+Sjakie:
+  gender_flag: 2
+  lang:
+  - nl
+Sjasmin:
+  gender_flag: 1
+  lang:
+  - 'no'
+Sjur:
+  gender_flag: 2
+  is_a_variant_of:
+  - Sigurd
+  lang:
+  - 'no'
+Sjöfn:
+  gender_flag: 1
+  lang:
+  - is
+Sjúrði:
+  gender_flag: 2
+  lang:
+  - fo
+Sjúrður:
+  gender_flag: 2
+  lang:
+  - fo
+Skaidra:
+  gender_flag: 1
+  lang:
+  - lv
+Skaidrīte:
+  gender_flag: 1
+  lang:
+  - lv
+Skeggi:
+  gender_flag: 2
+  lang:
+  - fo
+Skender:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - kmr
+Skerd:
+  gender_flag: 2
+  is_short_for:
+  - Skerdilaid
+  lang:
+  - sq
+Skerdian:
+  gender_flag: 2
+  lang:
+  - sq
+Skerdilaid:
+  gender_flag: 2
+  lang:
+  - sq
+Skip:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - non
+Skipper:
+  gender_flag: 2
+  lang:
+  - en
+Skirmantas:
+  gender_flag: 2
+  lang:
+  - lt
+Sklaer:
+  gender_flag: 2
+  lang:
+  - br
+Sklaera:
+  gender_flag: 1
+  lang:
+  - br
+Sklaerenn:
+  gender_flag: 1
+  lang:
+  - br
+Sklaerijen:
+  gender_flag: 1
+  lang:
+  - br
+Skofti:
+  gender_flag: 2
+  lang:
+  - fo
+Skolastika:
+  gender_flag: 1
+  lang:
+  - lt
+Skröggur:
+  gender_flag: 2
+  lang:
+  - is
+Skugga:
+  gender_flag: 1
+  lang:
+  - is
+Skuggi:
+  gender_flag: 2
+  lang:
+  - is
+Sky:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Skye:
+  gender_flag: 1
+  lang:
+  - en
+Skyla:
+  gender_flag: 1
+  lang:
+  - en
+Skylar:
+  gender_flag: 7
+  lang:
+  - en
+Skyler:
+  gender_flag: 7
+  lang:
+  - en
+Skënder:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - sq
+  origin:
+  - grc
+Skírnir:
+  gender_flag: 2
+  lang:
+  - non
+Skíði:
+  gender_flag: 2
+  lang:
+  - is
+Skúli:
+  gender_flag: 2
+  lang:
+  - is
+Skúlína:
+  gender_flag: 1
+  lang:
+  - is
+Skúta:
+  gender_flag: 2
+  lang:
+  - is
+Skúvur:
+  gender_flag: 2
+  lang:
+  - fo
+Slah:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - ar
+Slater:
+  gender_flag: 2
+  lang:
+  - ceb
+Slaven:
+  gender_flag: 2
+  lang:
+  - sh
+Slavik:
+  gender_flag: 2
+  lang:
+  - en
+Slavko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Slavoj:
+  gender_flag: 2
+  lang:
+  - cs
+Slavoljub:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Slavomir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Slavomír:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Slavomíra:
+  gender_flag: 1
+  lang:
+  - sk
+Slavoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Slavěna:
+  gender_flag: 1
+  lang:
+  - cs
+Slim:
+  gender_flag: 2
+  lang:
+  - en
+Slimane:
+  gender_flag: 2
+  lang:
+  - en
+Sloan:
+  gender_flag: 7
+  lang:
+  - en
+Sloane:
+  gender_flag: 7
+  lang:
+  - en
+Slobodan:
+  gender_flag: 2
+  lang:
+  - sh
+Slovomir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Slovoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Sly:
+  gender_flag: 2
+  is_short_for:
+  - Sylvester
+  lang:
+  - en
+Slàine:
+  gender_flag: 1
+  is_equivalent_to:
+  - Salina
+  - Selina
+  lang:
+  - gd
+Sláva:
+  gender_flag: 1
+  lang:
+  - sk
+Slávek:
+  gender_flag: 2
+  lang:
+  - cs
+Slávka:
+  gender_flag: 1
+  lang:
+  - sk
+Smeoha:
+  lang:
+  - goh
+Smilla:
+  gender_flag: 1
+  lang:
+  - da
+  - sv
+Smita:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Smith:
+  gender_flag: 2
+  lang:
+  - en
+Smriti:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Smári:
+  gender_flag: 2
+  lang:
+  - is
+Smæra:
+  gender_flag: 1
+  lang:
+  - fo
+Snefryd:
+  gender_flag: 1
+  lang:
+  - 'no'
+Sniolvur:
+  gender_flag: 2
+  lang:
+  - fo
+Snjófríð:
+  gender_flag: 1
+  lang:
+  - fo
+Snjólaugur:
+  gender_flag: 2
+  lang:
+  - is
+Snorra:
+  gender_flag: 1
+  lang:
+  - is
+Snorre:
+  gender_flag: 2
+  lang:
+  - 'no'
+Snorri:
+  gender_flag: 2
+  lang:
+  - fo
+  - non
+Snæbjartur:
+  gender_flag: 2
+  lang:
+  - is
+Snæbjörg:
+  gender_flag: 1
+  lang:
+  - is
+Snæbjörn:
+  gender_flag: 2
+  lang:
+  - is
+Snæbjört:
+  gender_flag: 1
+  lang:
+  - is
+Snæbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Snæbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Snæfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Snæfríður:
+  gender_flag: 1
+  lang:
+  - is
+Snælaug:
+  gender_flag: 1
+  lang:
+  - is
+Snælaugur:
+  gender_flag: 2
+  lang:
+  - is
+Snæleyg:
+  gender_flag: 1
+  lang:
+  - fo
+Snær:
+  gender_flag: 2
+  lang:
+  - is
+Snærún:
+  gender_flag: 1
+  lang:
+  - is
+Snævar:
+  gender_flag: 2
+  lang:
+  - fo
+Snæúlvur:
+  gender_flag: 2
+  lang:
+  - fo
+Snæþór:
+  gender_flag: 2
+  lang:
+  - is
+Snót:
+  gender_flag: 1
+  lang:
+  - is
+Soazig:
+  gender_flag: 1
+  lang:
+  - br
+Soběslav:
+  gender_flag: 2
+  lang:
+  - cs
+Socrate: {}
+Socrates:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Socration:
+  gender_flag: 2
+  lang:
+  - la
+Sofana:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Sofe:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sophia
+  lang:
+  - se
+Soffía:
+  gender_flag: 1
+  lang:
+  - is
+Sofi:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sophie
+  is_short_for:
+  - Sofía
+  lang:
+  - es
+  - sv
+Sofia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sofie
+  is_equivalent_to:
+  - Sophia
+  lang:
+  - ca
+  - da
+  - de
+  - en
+  - fi
+  - it
+  - nb
+  - nn
+  - pt
+  - sv
+  origin:
+  - grc
+Sofiane:
+  gender_flag: 2
+  lang:
+  - fr
+Sofie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sofia
+  - Sophia
+  - Sophie
+  is_equivalent_to:
+  - Sophia
+  lang:
+  - cs
+  - da
+  - de
+  - 'no'
+  - sv
+Sofija:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sophia
+  lang:
+  - lt
+  - lv
+  - sh
+  origin:
+  - grc
+Sofiye:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sophia
+  lang:
+  - wa
+Sofonia:
+  gender_flag: 2
+  lang:
+  - it
+Sofonisba:
+  gender_flag: 1
+  lang:
+  - it
+Sofus:
+  gender_flag: 2
+  lang:
+  - da
+  - fo
+Sofía:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sophia
+  lang:
+  - es
+  - fo
+  - gl
+Soham:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Sohini:
+  gender_flag: 1
+  lang:
+  - en
+Sohvi:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Soila:
+  gender_flag: 1
+  is_a_variant_of:
+  - Soile
+  lang:
+  - fi
+Soile:
+  gender_flag: 1
+  lang:
+  - fi
+Soili:
+  gender_flag: 1
+  is_a_variant_of:
+  - Soile
+  lang:
+  - fi
+Soilikki:
+  gender_flag: 1
+  lang:
+  - fi
+Soini:
+  gender_flag: 2
+  lang:
+  - fi
+Sointu:
+  gender_flag: 1
+  lang:
+  - fi
+Soizic:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - br
+Sokratis: {}
+Sol:
+  gender_flag: 2
+  is_short_for:
+  - Solomon
+  lang:
+  - en
+Solange:
+  gender_flag: 1
+  lang:
+  - fr
+Solano:
+  gender_flag: 2
+  lang:
+  - pt
+Solbjørg:
+  gender_flag: 1
+  lang:
+  - 'no'
+Solbritt:
+  gender_flag: 1
+  lang:
+  - 'no'
+  - sv
+Soledad:
+  gender_flag: 1
+  lang:
+  - es
+  - tl
+  origin:
+  - es
+Solen:
+  gender_flag: 2
+  lang:
+  - br
+Solena:
+  gender_flag: 1
+  lang:
+  - br
+Solenn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Solange
+  lang:
+  - fr
+Solenne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Solange
+  lang:
+  - fr
+Solfrid:
+  gender_flag: 1
+  lang:
+  - 'no'
+Solfryd:
+  gender_flag: 1
+  lang:
+  - 'no'
+Solgull:
+  gender_flag: 1
+  lang:
+  - 'no'
+Solin:
+  gender_flag: 1
+  lang:
+  - 'no'
+Soling:
+  gender_flag: 1
+  lang:
+  - ceb
+Solla:
+  gender_flag: 1
+  lang:
+  - is
+Sollin:
+  gender_flag: 1
+  lang:
+  - 'no'
+Solmaz:
+  gender_flag: 1
+  lang:
+  - tr
+Soloman:
+  gender_flag: 2
+  lang:
+  - en
+Solomon:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Soltanguly:
+  gender_flag: 2
+  lang:
+  - tk
+Solveig:
+  gender_flag: 1
+  lang:
+  - da
+  - fo
+  - 'no'
+  - sv
+Solveiga:
+  gender_flag: 1
+  lang:
+  - lv
+Solvej:
+  gender_flag: 1
+  lang:
+  - da
+Solvejg:
+  gender_flag: 1
+  is_a_variant_of:
+  - Solveig
+  lang:
+  - da
+Solvig:
+  gender_flag: 1
+  lang:
+  - sv
+Solvita:
+  gender_flag: 1
+  lang:
+  - lv
+Solène:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - br
+Som:
+  gender_flag: 2
+  lang:
+  - tr
+Soma:
+  gender_flag: 3
+  lang:
+  - en
+  - hu
+  origin:
+  - sa
+Somada:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Somhairle:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sorley
+  lang:
+  - gd
+  origin:
+  - non
+Somnath:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Sona:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - hy
+Sonat:
+  gender_flag: 3
+  lang:
+  - tr
+Sonata:
+  gender_flag: 1
+  lang:
+  - lt
+Sonbahar:
+  gender_flag: 1
+  lang:
+  - tr
+Sondra:
+  gender_flag: 1
+  lang:
+  - en
+Sondre:
+  gender_flag: 2
+  lang:
+  - 'no'
+Soner:
+  gender_flag: 2
+  lang:
+  - tr
+Sonia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sonya
+  lang:
+  - en
+  - es
+  - fr
+  - it
+  origin:
+  - ru
+Sonička:
+  gender_flag: 1
+  is_short_for:
+  - Soňa
+  lang:
+  - cs
+Sonja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sonya
+  lang:
+  - da
+  - de
+  - en
+  - fi
+  - fo
+  - 'no'
+  - sv
+  origin:
+  - ru
+Sonnhard:
+  gender_flag: 2
+  lang:
+  - fo
+Sonni:
+  gender_flag: 2
+  lang:
+  - fo
+Sonnur:
+  gender_flag: 1
+  lang:
+  - tr
+Sonny:
+  gender_flag: 7
+  is_short_for:
+  - Sonia
+  lang:
+  - da
+  - en
+  - sv
+  origin:
+  - en
+Sonya:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sônia
+  lang:
+  - en
+  - pt
+  origin:
+  - ru
+Sookie:
+  gender_flag: 1
+  lang:
+  - en
+Sooney:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sonny
+  lang:
+  - yol
+Soph:
+  gender_flag: 1
+  is_short_for:
+  - Sophia
+  - Sophie
+  lang:
+  - en
+Sophia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sofie
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - sv
+  - tl
+  origin:
+  - en
+  - grc
+Sophie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Sofie
+  - Sophia
+  is_equivalent_to:
+  - Sophia
+  is_short_for:
+  - Sophia
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fr
+  - nrf
+  - sv
+  - tl
+  origin:
+  - en
+  - fr
+  - grc
+Sophocles:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - grc
+Sophoclidisca:
+  gender_flag: 2
+  lang:
+  - la
+Sophonisba:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - xpu
+Sophronia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Sophus:
+  gender_flag: 2
+  lang:
+  - da
+  - en
+  origin:
+  - grc
+Sophy:
+  gender_flag: 1
+  is_short_for:
+  - Sophia
+  lang:
+  - en
+Sopuru:
+  gender_flag: 2
+  lang:
+  - en
+Sora:
+  gender_flag: 2
+  lang:
+  - en
+Soraya:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  origin:
+  - fa
+Sorcha:
+  gender_flag: 1
+  lang:
+  - en
+  - ga
+  - gd
+  - sco
+  origin:
+  - ga
+  - gd
+  - sga
+Sorghey:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sorcha
+  lang:
+  - gv
+Sorin:
+  gender_flag: 2
+  lang:
+  - ro
+Sorina:
+  gender_flag: 1
+  lang:
+  - ro
+Sorley:
+  gender_flag: 2
+  lang:
+  - en
+Soro:
+  gender_flag: 2
+  lang:
+  - kmr
+Sorrel:
+  gender_flag: 1
+  lang:
+  - en
+Sos:
+  gender_flag: 1
+  lang:
+  - zza
+  origin:
+  - fa
+Sosicles:
+  gender_flag: 2
+  lang:
+  - la
+Sosthène:
+  gender_flag: 2
+  lang:
+  - nrf
+Sota:
+  gender_flag: 2
+  lang:
+  - en
+Soteris:
+  gender_flag: 2
+  lang:
+  - la
+Sotero:
+  gender_flag: 2
+  lang:
+  - it
+Sotir:
+  gender_flag: 2
+  lang:
+  - sq
+  origin:
+  - el
+Sotira:
+  gender_flag: 1
+  lang:
+  - sq
+  origin:
+  - el
+Sotiris: {}
+Soto:
+  gender_flag: 2
+  lang:
+  - sh
+Soucique:
+  gender_flag: 1
+  lang:
+  - nrf
+Soumya:
+  gender_flag: 1
+  lang:
+  - en
+Souzane:
+  gender_flag: 1
+  is_equivalent_to:
+  - Susan
+  lang:
+  - wa
+Soyer:
+  gender_flag: 2
+  lang:
+  - tr
+Soylu:
+  gender_flag: 2
+  lang:
+  - tr
+Soňa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sonya
+  lang:
+  - cs
+  - sk
+Sparax:
+  gender_flag: 2
+  lang:
+  - la
+Spartaco:
+  gender_flag: 2
+  lang:
+  - it
+Spartacus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - txh
+Spasimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Spence:
+  gender_flag: 2
+  lang:
+  - en
+Spencer:
+  gender_flag: 7
+  lang:
+  - en
+  - nl
+  origin:
+  - en
+Sperandio:
+  gender_flag: 2
+  lang:
+  - it
+Sphaerio:
+  gender_flag: 2
+  lang:
+  - la
+Spiridione:
+  gender_flag: 2
+  lang:
+  - it
+Spiro:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - el
+Spiru:
+  gender_flag: 2
+  lang:
+  - rup
+Spodris:
+  gender_flag: 2
+  lang:
+  - lv
+Sproti:
+  gender_flag: 2
+  lang:
+  - fo
+Spurgeon:
+  gender_flag: 2
+  lang:
+  - en
+Spyridon:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - el
+Sri:
+  gender_flag: 1
+  lang:
+  - en
+  - id
+  origin:
+  - jv
+Sridevi:
+  gender_flag: 1
+  lang:
+  - en
+Sridhar:
+  gender_flag: 2
+  lang:
+  - en
+Srihari:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Srimati:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Srinivas:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Srna: {}
+Sruti:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Srđan:
+  gender_flag: 2
+  lang:
+  - sh
+  origin:
+  - la
+St Clair:
+  gender_flag: 2
+  lang:
+  - en
+St John:
+  gender_flag: 2
+  lang:
+  - en
+St. Clair:
+  gender_flag: 2
+  lang:
+  - en
+St. John:
+  gender_flag: 2
+  lang:
+  - en
+Stace:
+  gender_flag: 1
+  is_short_for:
+  - Stacey
+  lang:
+  - en
+Stacee:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Stacey:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - grc
+Stach:
+  gender_flag: 2
+  is_short_for:
+  - Stanisław
+  lang:
+  - pl
+Staci:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Stacie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Stacey
+  lang:
+  - en
+  origin:
+  - grc
+Stacy:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - grc
+Stadius:
+  gender_flag: 2
+  lang:
+  - la
+Stadomir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Staffan:
+  gender_flag: 2
+  is_a_variant_of:
+  - Stefan
+  lang:
+  - sv
+Stafford:
+  lang:
+  - en
+Stalagmus:
+  gender_flag: 2
+  lang:
+  - la
+Stan:
+  gender_flag: 2
+  is_short_for:
+  - Stanislav
+  - Stanley
+  lang:
+  - en
+Stancel:
+  gender_flag: 2
+  lang:
+  - en
+Standa:
+  gender_flag: 2
+  is_short_for:
+  - Stanislav
+  lang:
+  - cs
+Stanford:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - ang
+  - en
+Stanhope:
+  gender_flag: 2
+  lang:
+  - en
+Staniljub:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Stanimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Stanislao:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stanislaus
+  lang:
+  - it
+Stanislas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stanislaus
+  lang:
+  - fr
+Stanislau: {}
+Stanislaus:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  origin:
+  - sla
+Stanislav:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stanislaus
+  lang:
+  - cs
+  - sk
+Stanislava:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Stanislova:
+  gender_flag: 1
+  lang:
+  - lt
+Stanislovas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stanislaus
+  lang:
+  - lt
+Stanisław:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stanislav
+  lang:
+  - pl
+Stanisława:
+  gender_flag: 1
+  lang:
+  - pl
+Stanley:
+  gender_flag: 2
+  lang:
+  - en
+Stanton:
+  gender_flag: 2
+  lang:
+  - en
+Stanwulf:
+  gender_flag: 2
+  lang:
+  - ang
+Staocha:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stanislaus
+  lang:
+  - wym
+Staphyla:
+  gender_flag: 1
+  lang:
+  - la
+Star:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Starchilt:
+  gender_flag: 1
+  lang:
+  - goh
+Starcholf:
+  gender_flag: 2
+  lang:
+  - goh
+Starholf:
+  gender_flag: 2
+  lang:
+  - goh
+Starla:
+  gender_flag: 1
+  lang:
+  - en
+Starling:
+  gender_flag: 2
+  lang:
+  - en
+Starr:
+  gender_flag: 1
+  lang:
+  - en
+Stasia:
+  gender_flag: 1
+  is_short_for:
+  - Stanisława
+  lang:
+  - pl
+Stasiek:
+  gender_flag: 2
+  is_short_for:
+  - Stanisław
+  lang:
+  - pl
+Stasimus:
+  gender_flag: 2
+  lang:
+  - la
+Stasio:
+  gender_flag: 2
+  is_short_for:
+  - Stanisław
+  lang:
+  - pl
+Stasys:
+  gender_flag: 2
+  lang:
+  - lt
+Staszek:
+  gender_flag: 2
+  is_short_for:
+  - Stanisław
+  lang:
+  - pl
+Stasė:
+  gender_flag: 1
+  lang:
+  - lt
+Statche:
+  gender_flag: 2
+  is_equivalent_to:
+  - Eustace
+  lang:
+  - wa
+Stavros: {}
+Staņislava:
+  gender_flag: 1
+  lang:
+  - lv
+Staņislavs:
+  gender_flag: 2
+  lang:
+  - lv
+Staś:
+  gender_flag: 2
+  is_short_for:
+  - Stanisław
+  lang:
+  - pl
+Steaon:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - gv
+  origin:
+  - grc
+Steen:
+  gender_flag: 2
+  lang:
+  - da
+Steenie:
+  gender_flag: 2
+  is_short_for:
+  - Stephen
+  lang:
+  - en
+Stef:
+  gender_flag: 3
+  is_short_for:
+  - Stefan
+  - Stephanie
+  lang:
+  - en
+Stefan:
+  gender_flag: 2
+  is_a_variant_of:
+  - Steffen
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - da
+  - de
+  - en
+  - fo
+  - nl
+  - 'no'
+  - pl
+  - sv
+Stefane:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - wa
+Stefanek:
+  gender_flag: 2
+  is_short_for:
+  - Stefan
+  lang:
+  - pl
+Stefani:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+Stefania:
+  gender_flag: 1
+  is_equivalent_to:
+  - Stephanie
+  lang:
+  - fo
+  - it
+  - pl
+Stefanie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Stephanie
+  lang:
+  - de
+  - en
+  origin:
+  - fr
+Stefanija:
+  gender_flag: 1
+  is_equivalent_to:
+  - Stephanie
+  lang:
+  - lt
+Stefano:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - grc
+Stefanos:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - el
+Stefans:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - grc
+Stefany:
+  gender_flag: 1
+  is_a_variant_of:
+  - Stephanie
+  lang:
+  - en
+  origin:
+  - fr
+Stefanía:
+  gender_flag: 1
+  lang:
+  - is
+Steff:
+  gender_flag: 1
+  lang:
+  - en
+Steffan:
+  gender_flag: 2
+  lang:
+  - fo
+Steffe:
+  gender_flag: 2
+  is_short_for:
+  - Stefan
+  lang:
+  - sv
+Steffen:
+  gender_flag: 2
+  is_a_variant_of:
+  - Stefan
+  lang:
+  - da
+  - de
+  - 'no'
+Steffi:
+  gender_flag: 1
+  lang:
+  - en
+Steffie:
+  gender_flag: 1
+  is_short_for:
+  - Stephanie
+  lang:
+  - en
+Steffy:
+  gender_flag: 1
+  lang:
+  - en
+Stefán:
+  gender_flag: 2
+  lang:
+  - is
+Stefánia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Stephanie
+  lang:
+  - hu
+Stein:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Steinar:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+  - nn
+  origin:
+  - non
+Steinarr:
+  gender_flag: 2
+  lang:
+  - non
+Steinbjarta:
+  gender_flag: 1
+  lang:
+  - fo
+Steinbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Steindór:
+  gender_flag: 2
+  lang:
+  - is
+Steine:
+  gender_flag: 2
+  lang:
+  - nn
+Steinfinnur:
+  gender_flag: 2
+  lang:
+  - fo
+Steingerð:
+  gender_flag: 1
+  lang:
+  - fo
+Steingerður:
+  gender_flag: 1
+  lang:
+  - is
+Steingrímur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Steinmundur:
+  gender_flag: 2
+  lang:
+  - fo
+Steinmóður:
+  gender_flag: 2
+  lang:
+  - is
+Steinn:
+  gender_flag: 2
+  lang:
+  - is
+Steinoddur:
+  gender_flag: 2
+  lang:
+  - fo
+Steinolvur:
+  gender_flag: 2
+  lang:
+  - fo
+Steinríður:
+  gender_flag: 1
+  lang:
+  - is
+Steinrún:
+  gender_flag: 1
+  lang:
+  - is
+Steintór:
+  gender_flag: 2
+  lang:
+  - fo
+Steintóra:
+  gender_flag: 1
+  lang:
+  - fo
+Steinunn:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Steinur:
+  gender_flag: 2
+  lang:
+  - fo
+Steinvør:
+  gender_flag: 1
+  lang:
+  - fo
+Steinþór:
+  gender_flag: 2
+  lang:
+  - is
+Stela:
+  gender_flag: 1
+  is_equivalent_to:
+  - Stella
+  lang:
+  - cs
+  - ro
+  - sk
+Stelinka:
+  gender_flag: 1
+  is_short_for:
+  - Stela
+  lang:
+  - cs
+Stelio:
+  gender_flag: 2
+  lang:
+  - it
+Stelios: {}
+Stell:
+  gender_flag: 1
+  is_short_for:
+  - Stella
+  lang:
+  - en
+Stella:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - fo
+  - is
+  - it
+  - nl
+  - sv
+  origin:
+  - la
+Stellaluna:
+  gender_flag: 1
+  lang:
+  - en
+Stellan:
+  gender_flag: 2
+  lang:
+  - sv
+Stelvio:
+  gender_flag: 2
+  lang:
+  - it
+Sten:
+  gender_flag: 2
+  lang:
+  - da
+  - et
+  - 'no'
+  - sv
+  origin:
+  - non
+  - sv
+Stepan: {}
+Steph:
+  gender_flag: 3
+  is_short_for:
+  - Stephan
+  - Stephanie
+  lang:
+  - en
+Stephan:
+  gender_flag: 2
+  is_a_variant_of:
+  - Stefan
+  lang:
+  - da
+  - de
+  - en
+Stephana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Stephanie
+  lang:
+  - en
+  - la
+  origin:
+  - la
+Stephanie:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+Stephanium:
+  gender_flag: 1
+  lang:
+  - la
+Stephanus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - la
+Stephany:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+Stephen:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - grc
+  - la
+Stephenie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Stephanie
+  lang:
+  - en
+Stephie:
+  gender_flag: 1
+  is_short_for:
+  - Stephanie
+  lang:
+  - en
+Steponas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - lt
+Steredenn:
+  gender_flag: 1
+  lang:
+  - br
+Steredennig:
+  gender_flag: 1
+  is_short_for:
+  - Steredenn
+  lang:
+  - br
+Sterenn:
+  gender_flag: 1
+  lang:
+  - br
+Sterennig:
+  gender_flag: 1
+  is_short_for:
+  - Sterenn
+  lang:
+  - br
+Sterling:
+  gender_flag: 7
+  lang:
+  - en
+Stetson:
+  gender_flag: 2
+  lang:
+  - en
+Steuart:
+  gender_flag: 2
+  is_a_variant_of:
+  - Stuart
+  lang:
+  - en
+Stevan:
+  gender_flag: 2
+  lang:
+  - sh
+Steve:
+  gender_flag: 7
+  is_short_for:
+  - Stephanie
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - la
+Steven:
+  gender_flag: 2
+  is_a_variant_of:
+  - Stephen
+  lang:
+  - ceb
+  - da
+  - en
+  - nl
+  origin:
+  - en
+  - grc
+Stevie:
+  gender_flag: 3
+  lang:
+  - en
+Stew:
+  gender_flag: 2
+  is_short_for:
+  - Stewart
+  lang:
+  - en
+Stewart:
+  gender_flag: 2
+  lang:
+  - en
+  - sco
+Stewie:
+  gender_flag: 2
+  is_short_for:
+  - Stewart
+  lang:
+  - en
+Stian:
+  gender_flag: 2
+  lang:
+  - 'no'
+Stiefnu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  - Steven
+  lang:
+  - mt
+  origin:
+  - grc
+  - la
+  - scn
+Stiene:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - wa
+Stig:
+  gender_flag: 2
+  lang:
+  - da
+  - 'no'
+  - sv
+Stigand:
+  gender_flag: 2
+  lang:
+  - ang
+Stiina:
+  gender_flag: 1
+  lang:
+  - fi
+  origin:
+  - grc
+Stijn:
+  gender_flag: 2
+  lang:
+  - nl
+Stin:
+  gender_flag: 1
+  lang:
+  - 'no'
+Stina:
+  gender_flag: 1
+  is_a_variant_of:
+  - Stine
+  is_short_for:
+  - Christina
+  - Kristina
+  lang:
+  - fo
+  - 'no'
+  - sv
+Stine:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Stiofán:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - ga
+  origin:
+  - grc
+Stipan:
+  gender_flag: 2
+  lang:
+  - sh
+Stipe:
+  gender_flag: 2
+  lang:
+  - sh
+Stirling:
+  gender_flag: 2
+  lang:
+  - en
+Stiène:
+  gender_flag: 2
+  lang:
+  - wa
+Stjepan:
+  gender_flag: 2
+  lang:
+  - sh
+Stjáni:
+  gender_flag: 2
+  is_short_for:
+  - Kristján
+  lang:
+  - is
+Stockton:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Stoffel:
+  gender_flag: 2
+  lang:
+  - af
+Stojan: {}
+Stojanka:
+  lang:
+  - sh
+Stone:
+  gender_flag: 2
+  lang:
+  - en
+Stonie:
+  gender_flag: 2
+  lang:
+  - en
+Storm:
+  gender_flag: 6
+  lang:
+  - da
+  - en
+Stratippocles:
+  gender_flag: 2
+  lang:
+  - la
+Stratophanes:
+  gender_flag: 2
+  lang:
+  - la
+Stribor:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Strobilus:
+  gender_flag: 2
+  lang:
+  - la
+Struan:
+  gender_flag: 2
+  lang:
+  - en
+Stsiapan: {}
+Stsyapan: {}
+Stu:
+  gender_flag: 2
+  is_short_for:
+  - Stuart
+  lang:
+  - en
+Stuart:
+  gender_flag: 2
+  lang:
+  - en
+  - sco
+Stuie:
+  gender_flag: 2
+  is_short_for:
+  - Stuart
+  lang:
+  - en
+Sture:
+  gender_flag: 2
+  lang:
+  - sv
+Sturla:
+  gender_flag: 2
+  lang:
+  - is
+Sturlína:
+  gender_flag: 1
+  lang:
+  - is
+Styliani: {}
+Stylianos: {}
+Styrgerður:
+  gender_flag: 1
+  lang:
+  - is
+Styrmir:
+  gender_flag: 2
+  lang:
+  - is
+Stánička:
+  gender_flag: 1
+  is_short_for:
+  - Stáňa
+  lang:
+  - cs
+Stáza:
+  gender_flag: 1
+  is_short_for:
+  - Anastázie
+  lang:
+  - cs
+Stázička:
+  gender_flag: 1
+  is_short_for:
+  - Stáza
+  lang:
+  - cs
+Stázka:
+  gender_flag: 1
+  is_short_for:
+  - Stáza
+  lang:
+  - cs
+Stáňa:
+  gender_flag: 3
+  is_short_for:
+  - Stanislav
+  - Stanislava
+  lang:
+  - cs
+Ståle:
+  gender_flag: 2
+  lang:
+  - 'no'
+Stèr:
+  gender_flag: 1
+  is_equivalent_to:
+  - Esther
+  lang:
+  - nrf
+Stéfanîye:
+  gender_flag: 1
+  lang:
+  - wa
+Stéphan:
+  gender_flag: 2
+  lang:
+  - fr
+Stéphane:
+  gender_flag: 3
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - fr
+Stéphanie:
+  gender_flag: 1
+  lang:
+  - fr
+Stéven:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - egl
+  origin:
+  - grc
+Stígr:
+  gender_flag: 2
+  lang:
+  - non
+Stígrún:
+  gender_flag: 1
+  lang:
+  - is
+Stígur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Stína:
+  gender_flag: 1
+  lang:
+  - is
+Stórólfur:
+  gender_flag: 2
+  lang:
+  - is
+Stănuța:
+  gender_flag: 1
+  lang:
+  - ro
+Su:
+  gender_flag: 3
+  is_short_for:
+  - Susan
+  - Susana
+  - Suzana
+  - Suzane
+  lang:
+  - en
+  - es
+  - pt
+  - tr
+Suadurix:
+  gender_flag: 2
+  lang:
+  - cel-gau
+Suapin:
+  gender_flag: 1
+  lang:
+  - goh
+Suat:
+  gender_flag: 3
+  lang:
+  - tr
+Subaru:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - ja
+Subhadra:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Subrata:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Subroto:
+  gender_flag: 2
+  lang:
+  - en
+  - id
+  origin:
+  - jv
+  - sa
+Sucipto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Sucrat:
+  gender_flag: 2
+  lang:
+  - rup
+Sudha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Sudhakar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Sudip:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Sudy:
+  gender_flag: 1
+  lang:
+  - en
+Sue:
+  gender_flag: 1
+  is_short_for:
+  - Susan
+  lang:
+  - en
+Sueli:
+  gender_flag: 1
+  lang:
+  - pt
+Suella:
+  gender_flag: 1
+  lang:
+  - en
+Suellen:
+  gender_flag: 1
+  lang:
+  - en
+Suersaq:
+  gender_flag: 2
+  lang:
+  - kl
+Suffía:
+  gender_flag: 1
+  lang:
+  - fo
+Suga:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - ceb
+  - ja
+Suganda:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - su
+Sugar:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - en
+Suginem:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Sugiyono:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Suhail:
+  gender_flag: 2
+  lang:
+  - en
+Suinnimir: {}
+Sujata:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - sa
+Sujatha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Sujit:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Sujoyo:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Sukarman:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Sukey:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Sukhan:
+  gender_flag: 2
+  lang:
+  - tk
+Sukhbir:
+  gender_flag: 2
+  lang:
+  - en
+Sukhdeep:
+  gender_flag: 2
+  lang:
+  - en
+Sukie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Sukiman:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Sukumar:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Suky:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Suleika:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Suleiman:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Sulejman:
+  gender_flag: 2
+  is_equivalent_to:
+  - Suleiman
+  lang:
+  - pl
+Sulemanu:
+  gender_flag: 2
+  lang:
+  - ha
+Sulev:
+  gender_flag: 2
+  lang:
+  - et
+Sulevi:
+  gender_flag: 2
+  lang:
+  - fi
+Sulian:
+  gender_flag: 2
+  is_a_variant_of:
+  - Sulio
+  lang:
+  - br
+Suliane:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - br
+Sulich:
+  gender_flag: 2
+  lang:
+  - pl
+Suliman: {}
+Sulio:
+  gender_flag: 2
+  lang:
+  - br
+Sulistyo:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Sulo:
+  gender_flag: 2
+  lang:
+  - fi
+Sulpicio:
+  gender_flag: 2
+  lang:
+  - la
+Sultan:
+  gender_flag: 3
+  lang:
+  - tr
+Suma:
+  gender_flag: 6
+  lang:
+  - en
+Sumaya:
+  gender_flag: 1
+  lang:
+  - en
+Sumiatun:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Sumiko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - ja
+Sumitra:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Summaldur:
+  gender_flag: 2
+  lang:
+  - fo
+Summarliði:
+  gender_flag: 2
+  lang:
+  - fo
+Summer:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Sumy:
+  gender_flag: 1
+  is_short_for:
+  - Sumaya
+  lang:
+  - en
+Sun:
+  gender_flag: 3
+  lang:
+  - tr
+Suna:
+  gender_flag: 1
+  lang:
+  - tr
+Sune:
+  gender_flag: 2
+  lang:
+  - da
+  - sv
+Suner:
+  gender_flag: 2
+  lang:
+  - tr
+Suni:
+  gender_flag: 2
+  lang:
+  - fo
+Sunil:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Sunimiro: {}
+Sunita:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Sunjo:
+  gender_flag: 1
+  is_short_for:
+  - Susano
+  lang:
+  - eo
+Sunnbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Sunnefa:
+  gender_flag: 1
+  lang:
+  - is
+Sunnfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Sunnfríða:
+  gender_flag: 1
+  lang:
+  - fo
+Sunnhild:
+  gender_flag: 1
+  lang:
+  - fo
+Sunniva:
+  gender_flag: 1
+  lang:
+  - fo
+  - 'no'
+Sunnleivur:
+  gender_flag: 2
+  lang:
+  - fo
+Sunnleyg:
+  gender_flag: 1
+  lang:
+  - fo
+Sunnrið:
+  gender_flag: 1
+  lang:
+  - fo
+Sunnvar:
+  gender_flag: 2
+  lang:
+  - fo
+Sunnvá:
+  gender_flag: 1
+  lang:
+  - fo
+Sunnvør:
+  gender_flag: 1
+  lang:
+  - fo
+Sunny:
+  gender_flag: 7
+  lang:
+  - en
+Sunná:
+  gender_flag: 1
+  lang:
+  - se
+Sunníva:
+  gender_flag: 1
+  lang:
+  - is
+Suoma:
+  gender_flag: 1
+  lang:
+  - fi
+Suometar:
+  gender_flag: 1
+  lang:
+  - fi
+Suparman:
+  gender_flag: 2
+  lang:
+  - id
+Supha:
+  gender_flag: 1
+  lang:
+  - sh
+Suprianto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Supriya:
+  gender_flag: 1
+  lang:
+  - en
+Supriyanto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Supriyo:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Suraj:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Suramya:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - sa
+Surayyo:
+  gender_flag: 1
+  lang:
+  - uz
+  origin:
+  - ar
+Suren: {}
+Suriana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Juliana
+  lang:
+  - kbb
+Surigna: {}
+Suroso:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Surya:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Suryakantam:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Suryanarayana:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Susan:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - en
+  origin:
+  - he
+Susana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Susan
+  - Susanna
+  lang:
+  - es
+  - pt
+Susann:
+  gender_flag: 1
+  lang:
+  - sv
+Susanna:
+  gender_flag: 1
+  is_a_variant_of:
+  - Susanne
+  is_equivalent_to:
+  - Susan
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - it
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - he
+Susannah:
+  gender_flag: 1
+  is_a_variant_of:
+  - Susanna
+  lang:
+  - en
+  origin:
+  - he
+Susanne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Susan
+  is_equivalent_to:
+  - Susan
+  lang:
+  - da
+  - de
+  - en
+  - 'no'
+  - sv
+  origin:
+  - de
+  - grc
+  - he
+Susano:
+  gender_flag: 1
+  is_equivalent_to:
+  - Susan
+  lang:
+  - eo
+  origin:
+  - he
+Susanto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Susheela:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Susi:
+  gender_flag: 1
+  is_short_for:
+  - Susanne
+  lang:
+  - de
+Susie:
+  gender_flag: 1
+  lang:
+  - en
+Susing:
+  gender_flag: 1
+  lang:
+  - ceb
+Susmita:
+  gender_flag: 1
+  lang:
+  - en
+Suso:
+  gender_flag: 2
+  is_short_for:
+  - Jesús
+  lang:
+  - es
+Sussan:
+  gender_flag: 1
+  lang:
+  - 'no'
+Sussi:
+  gender_flag: 1
+  lang:
+  - da
+Sussie:
+  gender_flag: 1
+  lang:
+  - da
+Suswantono:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Susy:
+  gender_flag: 1
+  lang:
+  - en
+Susánná:
+  gender_flag: 1
+  is_equivalent_to:
+  - Susan
+  lang:
+  - se
+Sutrisno:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Sutton:
+  gender_flag: 7
+  lang:
+  - en
+Suuanahilt:
+  gender_flag: 1
+  lang:
+  - goh
+Suulut:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Suusaat:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Suvi:
+  gender_flag: 1
+  lang:
+  - fi
+Suvi-Anne:
+  gender_flag: 1
+  lang:
+  - fi
+Suwako:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Suwantono:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Suyarto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Suyog:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Suzana:
+  gender_flag: 1
+  lang:
+  - lt
+Suzane:
+  gender_flag: 1
+  is_a_variant_of:
+  - Suzanne
+  lang:
+  - en
+  origin:
+  - he
+Suzanna:
+  gender_flag: 1
+  is_a_variant_of:
+  - Susanna
+  lang:
+  - en
+  origin:
+  - he
+Suzannah:
+  gender_flag: 1
+  is_a_variant_of:
+  - Susanna
+  lang:
+  - en
+  origin:
+  - he
+Suzanne:
+  gender_flag: 1
+  is_equivalent_to:
+  - Susan
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Suze:
+  gender_flag: 1
+  is_short_for:
+  - Susan
+  - Susanna
+  - Susanne
+  - Suzanne
+  lang:
+  - en
+Suzette:
+  gender_flag: 1
+  lang:
+  - nrf
+Suzi:
+  gender_flag: 1
+  lang:
+  - en
+Suzie:
+  gender_flag: 1
+  lang:
+  - en
+Suzonne:
+  gender_flag: 1
+  is_equivalent_to:
+  - Susan
+  - Suzanne
+  lang:
+  - nrf
+Suzoun:
+  gender_flag: 1
+  lang:
+  - nrf
+Suzuko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Suzy:
+  gender_flag: 1
+  lang:
+  - en
+Suélen:
+  gender_flag: 1
+  is_equivalent_to:
+  - Suellen
+  lang:
+  - pt
+Svafa:
+  gender_flag: 1
+  lang:
+  - is
+Svajūnas:
+  gender_flag: 2
+  lang:
+  - lt
+Svanbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Svandís:
+  gender_flag: 1
+  lang:
+  - is
+Svanfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Svanhild:
+  gender_flag: 1
+  lang:
+  - fo
+  - 'no'
+Svanhildur:
+  gender_flag: 1
+  lang:
+  - is
+Svanhvit:
+  gender_flag: 1
+  lang:
+  - 'no'
+Svanimerus: {}
+Svanleyg:
+  gender_flag: 1
+  lang:
+  - fo
+Svanmundur:
+  gender_flag: 2
+  lang:
+  - is
+Svanna:
+  gender_flag: 1
+  lang:
+  - fo
+Svannimerus: {}
+Svante:
+  gender_flag: 2
+  lang:
+  - sv
+Svantepolk:
+  gender_flag: 2
+  lang:
+  - sv
+Svanur:
+  gender_flag: 2
+  lang:
+  - is
+Svarthöfði:
+  gender_flag: 2
+  lang:
+  - is
+Svata:
+  gender_flag: 3
+  is_short_for:
+  - Svatava
+  - Svatopluk
+  - Svatoslav
+  - Svatoslava
+  lang:
+  - cs
+Svatava:
+  gender_flag: 1
+  lang:
+  - cs
+Svatopluk:
+  gender_flag: 2
+  lang:
+  - cs
+Svatoslav:
+  gender_flag: 2
+  lang:
+  - cs
+Svatoslava:
+  gender_flag: 1
+  lang:
+  - cs
+Svava:
+  gender_flag: 1
+  lang:
+  - is
+Svavar:
+  gender_flag: 2
+  lang:
+  - is
+Svea:
+  gender_flag: 1
+  lang:
+  - sv
+Svein:
+  gender_flag: 2
+  lang:
+  - nn
+Sveinbjartur:
+  gender_flag: 2
+  lang:
+  - is
+Sveinbjörg:
+  gender_flag: 1
+  lang:
+  - is
+Sveinbjörn:
+  gender_flag: 2
+  lang:
+  - is
+Sveinbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Sveindís:
+  gender_flag: 1
+  lang:
+  - is
+Sveingerður:
+  gender_flag: 1
+  lang:
+  - is
+Sveinn:
+  gender_flag: 2
+  lang:
+  - is
+  - non
+Sveinsína:
+  gender_flag: 1
+  lang:
+  - is
+Sveinung:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Sveinungur:
+  gender_flag: 2
+  lang:
+  - fo
+Sveinur:
+  gender_flag: 2
+  lang:
+  - fo
+Sven:
+  gender_flag: 2
+  lang:
+  - de
+  - et
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - sv
+Svend:
+  gender_flag: 2
+  lang:
+  - da
+  - 'no'
+Svenja:
+  gender_flag: 1
+  lang:
+  - de
+Svenn:
+  gender_flag: 2
+  is_a_variant_of:
+  - Svein
+  lang:
+  - 'no'
+Svenningur:
+  gender_flag: 2
+  lang:
+  - fo
+Svens:
+  gender_flag: 2
+  lang:
+  - lv
+Sverker:
+  gender_flag: 2
+  lang:
+  - sv
+Sverre:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Sverri:
+  gender_flag: 2
+  lang:
+  - fo
+Sverrir:
+  gender_flag: 2
+  lang:
+  - is
+  - non
+Sverrína:
+  gender_flag: 1
+  lang:
+  - is
+Sveta:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ru
+Svetislav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Svetko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Svetlana:
+  gender_flag: 1
+  lang:
+  - sk
+Svetomir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Svetoslav:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sla
+Svetozár:
+  gender_flag: 2
+  lang:
+  - sk
+Sveva:
+  gender_flag: 1
+  lang:
+  - it
+Svevlad:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Sveťo:
+  gender_flag: 2
+  is_short_for:
+  - Svetozár
+  - Svätopluk
+  lang:
+  - sk
+Svileni:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Sváva:
+  gender_flag: 1
+  lang:
+  - fo
+Svávar:
+  gender_flag: 2
+  lang:
+  - fo
+Sváťa:
+  gender_flag: 2
+  is_short_for:
+  - Svatopluk
+  - Svatoslav
+  lang:
+  - cs
+Svätopluk:
+  gender_flag: 2
+  lang:
+  - sk
+Svörfuður:
+  gender_flag: 2
+  lang:
+  - is
+Světlana:
+  gender_flag: 1
+  lang:
+  - cs
+Světlanka:
+  gender_flag: 1
+  is_short_for:
+  - Světlana
+  lang:
+  - cs
+Světluše:
+  gender_flag: 1
+  lang:
+  - cs
+Sweet:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Swegn:
+  gender_flag: 2
+  lang:
+  - ang
+Swen:
+  gender_flag: 2
+  lang:
+  - de
+  origin:
+  - sv
+Swenja:
+  gender_flag: 1
+  lang:
+  - de
+Sweta:
+  gender_flag: 1
+  lang:
+  - en
+Swithin:
+  gender_flag: 2
+  lang:
+  - en
+Swithun:
+  gender_flag: 2
+  lang:
+  - en
+Swiþhelm:
+  gender_flag: 2
+  lang:
+  - ang
+Swiþhun:
+  gender_flag: 2
+  lang:
+  - ang
+Swiþwulf:
+  gender_flag: 2
+  lang:
+  - ang
+Sy:
+  gender_flag: 2
+  lang:
+  - en
+Syahla:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - ar
+Syamyon: {}
+Syarhei: {}
+Syarhey: {}
+Sybil:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Sybilla:
+  gender_flag: 1
+  lang:
+  - en
+Sybille:
+  gender_flag: 1
+  lang:
+  - de
+Syd:
+  gender_flag: 7
+  lang:
+  - en
+Sydney:
+  gender_flag: 7
+  lang:
+  - en
+  - pt
+  origin:
+  - en
+Sydwell:
+  gender_flag: 2
+  lang:
+  - en
+Sye:
+  gender_flag: 2
+  lang:
+  - en
+Syeda:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ur
+Syftun:
+  gender_flag: 2
+  lang:
+  - fo
+Sygurd:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sigurd
+  lang:
+  - pl
+  origin:
+  - non
+Sylas:
+  gender_flag: 2
+  lang:
+  - en
+Sylva:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sylvia
+  lang:
+  - cs
+Sylvain:
+  gender_flag: 2
+  is_equivalent_to:
+  - Silvanus
+  lang:
+  - fr
+Sylvaine:
+  gender_flag: 1
+  lang:
+  - fr
+Sylvanas:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Sylvanus:
+  gender_flag: 2
+  is_a_variant_of:
+  - Silvanus
+  lang:
+  - en
+  - la
+  origin:
+  - la
+Sylvei:
+  gender_flag: 1
+  is_a_variant_of:
+  - Solveig
+  lang:
+  - 'no'
+Sylvester:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  origin:
+  - la
+Sylvesteri:
+  gender_flag: 2
+  lang:
+  - fi
+  origin:
+  - la
+Sylvestre:
+  gender_flag: 2
+  lang:
+  - fr
+Sylvette:
+  gender_flag: 1
+  is_short_for:
+  - Sylvie
+  lang:
+  - fr
+Sylvi:
+  gender_flag: 1
+  lang:
+  - fi
+  - 'no'
+Sylvia:
+  gender_flag: 1
+  is_a_variant_of:
+  - Silvia
+  - Sílvia
+  is_equivalent_to:
+  - Silvia
+  lang:
+  - da
+  - de
+  - en
+  - fi
+  - fo
+  - fr
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - la
+Sylviane:
+  gender_flag: 1
+  lang:
+  - fr
+Sylvie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sylvia
+  lang:
+  - cs
+  - en
+  - fr
+  origin:
+  - fr
+Sylvía:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sylvia
+  lang:
+  - is
+Sylwester:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sylvester
+  lang:
+  - pl
+Sylwia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Silvia
+  lang:
+  - pl
+Sylwiusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Silvius
+  lang:
+  - pl
+Symone:
+  gender_flag: 1
+  is_a_variant_of:
+  - Simone
+  lang:
+  - en
+  origin:
+  - fr
+Syncerastus:
+  gender_flag: 2
+  lang:
+  - la
+Synne:
+  gender_flag: 1
+  lang:
+  - 'no'
+Synnöve:
+  gender_flag: 1
+  lang:
+  - sv
+Synnøve:
+  gender_flag: 1
+  lang:
+  - 'no'
+Synthia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Syntyche:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Synésios:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - grc
+Synésius:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - grc
+Syra:
+  gender_flag: 1
+  lang:
+  - la
+Syrene:
+  gender_flag: 1
+  is_a_variant_of:
+  - Syverine
+  lang:
+  - 'no'
+Syriusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sirius
+  lang:
+  - pl
+Syver:
+  gender_flag: 2
+  is_a_variant_of:
+  - Sigurd
+  lang:
+  - 'no'
+Syverine:
+  gender_flag: 1
+  lang:
+  - 'no'
+Syzana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Susan
+  lang:
+  - sq
+  origin:
+  - he
+Szabi:
+  gender_flag: 2
+  is_short_for:
+  - Szabolcs
+  lang:
+  - hu
+Szabina:
+  gender_flag: 1
+  lang:
+  - hu
+Szabolcs:
+  gender_flag: 2
+  lang:
+  - hu
+Szarlota:
+  gender_flag: 1
+  is_equivalent_to:
+  - Charlotte
+  lang:
+  - pl
+  origin:
+  - fr
+Szczepan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - pl
+Szczęsny:
+  gender_flag: 2
+  lang:
+  - pl
+Szemere:
+  gender_flag: 2
+  lang:
+  - hu
+Szilveszter:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sylvester
+  lang:
+  - hu
+Szilvia:
+  gender_flag: 1
+  lang:
+  - hu
+Szilárd:
+  gender_flag: 2
+  lang:
+  - hu
+Sztefan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - csb
+Szymek:
+  gender_flag: 2
+  is_equivalent_to:
+  - Simon
+  is_short_for:
+  - Szymon
+  lang:
+  - pl
+  - wym
+Szymon:
+  gender_flag: 2
+  is_equivalent_to:
+  - Simon
+  lang:
+  - pl
+Szymuś:
+  gender_flag: 2
+  is_short_for:
+  - Szymon
+  lang:
+  - pl
+Szófia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sophia
+  lang:
+  - hu
+Sància:
+  gender_flag: 1
+  lang:
+  - oc
+Sáka:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Sákak:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Sálamon:
+  gender_flag: 2
+  lang:
+  - fo
+Sálomon:
+  gender_flag: 2
+  lang:
+  - fo
+Sámal:
+  gender_flag: 2
+  lang:
+  - fo
+Sámmol:
+  gender_flag: 2
+  is_equivalent_to:
+  - Samuel
+  lang:
+  - se
+Sámson:
+  gender_flag: 2
+  is_equivalent_to:
+  - Samson
+  lang:
+  - hu
+  origin:
+  - he
+Sámuel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Samuel
+  lang:
+  - fo
+  - hu
+Sámur:
+  gender_flag: 2
+  lang:
+  - fo
+Sándor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Alexander
+  lang:
+  - hu
+Sáng:
+  gender_flag: 7
+  lang:
+  - vi
+Sára:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sarah
+  lang:
+  - cs
+  - fo
+  - hu
+  - sk
+Sárá:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sarah
+  lang:
+  - se
+Sáráhkká:
+  gender_flag: 1
+  lang:
+  - se
+Sáva:
+  gender_flag: 2
+  lang:
+  - cs
+Sávlos:
+  gender_flag: 2
+  is_equivalent_to:
+  - Saul
+  lang:
+  - se
+Sâlat:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Sâlo:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Sâmo:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Sâmua:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Sâra:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Sãki:
+  gender_flag: 2
+  lang:
+  - wbk
+Säde:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Sämpsänä:
+  gender_flag: 2
+  lang:
+  - izh
+Säsil:
+  gender_flag: 1
+  lang:
+  - et
+Sæberht:
+  gender_flag: 2
+  lang:
+  - ang
+Sæbjartur:
+  gender_flag: 2
+  lang:
+  - is
+Sæbjörg:
+  gender_flag: 1
+  lang:
+  - is
+Sæbjörn:
+  gender_flag: 2
+  lang:
+  - is
+Sæbjört:
+  gender_flag: 1
+  lang:
+  - is
+Sæbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Sæbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Sædis:
+  gender_flag: 1
+  lang:
+  - fo
+Sædís:
+  gender_flag: 1
+  lang:
+  - is
+Sæfinnur:
+  gender_flag: 2
+  lang:
+  - is
+Sæfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Sæfús:
+  gender_flag: 2
+  lang:
+  - is
+Sæla:
+  gender_flag: 1
+  lang:
+  - is
+Sælaug:
+  gender_flag: 1
+  lang:
+  - is
+Sælaugur:
+  gender_flag: 2
+  lang:
+  - is
+Sæmund:
+  gender_flag: 2
+  lang:
+  - ang
+Sæmundur:
+  gender_flag: 2
+  lang:
+  - is
+Sæmundína:
+  gender_flag: 1
+  lang:
+  - is
+Sæný:
+  gender_flag: 1
+  lang:
+  - is
+Sær:
+  gender_flag: 2
+  lang:
+  - is
+Særic:
+  gender_flag: 2
+  lang:
+  - ang
+Særún:
+  gender_flag: 1
+  lang:
+  - is
+Sæsól:
+  gender_flag: 1
+  lang:
+  - is
+Sæunn:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Sævar:
+  gender_flag: 2
+  lang:
+  - is
+Sæward:
+  gender_flag: 2
+  lang:
+  - ang
+Sæwine:
+  gender_flag: 2
+  lang:
+  - ang
+Sæwulf:
+  gender_flag: 2
+  lang:
+  - ang
+Sæþór:
+  gender_flag: 2
+  lang:
+  - is
+Sèpp:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joe
+  is_short_for:
+  - Josef
+  lang:
+  - cim
+  origin:
+  - he
+Sève:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - br
+Séamaisín:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jim
+  - Jimmy
+  is_short_for:
+  - Séamas
+  lang:
+  - ga
+Séamas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  - James
+  lang:
+  - ga
+  origin:
+  - he
+Séarlas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Charles
+  lang:
+  - ga
+Séb:
+  gender_flag: 2
+  is_equivalent_to:
+  - Seb
+  is_short_for:
+  - Sébastien
+  lang:
+  - fr
+Sébastien:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sebastian
+  lang:
+  - fr
+  origin:
+  - grc
+  - la
+Sébastienne:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - fr
+  - grc
+  - la
+Sébire:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sibyl
+  lang:
+  - nrf
+Sébrina:
+  gender_flag: 1
+  lang:
+  - es
+  - fr
+Sédoniye:
+  gender_flag: 1
+  lang:
+  - wa
+Sédonîye:
+  gender_flag: 1
+  lang:
+  - wa
+Ségolène:
+  gender_flag: 1
+  lang:
+  - fr
+Séraphine:
+  gender_flag: 1
+  is_equivalent_to:
+  - Seraphina
+  lang:
+  - fr
+  origin:
+  - la
+Séraphène:
+  gender_flag: 1
+  lang:
+  - nrf
+Sérgio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sergius
+  lang:
+  - pt
+  origin:
+  - la
+Séverin:
+  gender_flag: 2
+  lang:
+  - fr
+Séverine:
+  gender_flag: 1
+  lang:
+  - fr
+Sêre:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Sëldër:
+  gender_flag: 2
+  lang:
+  - wbk
+Sìle:
+  gender_flag: 1
+  lang:
+  - gd
+Sìleas:
+  gender_flag: 1
+  lang:
+  - gd
+Sìm:
+  gender_flag: 2
+  is_equivalent_to:
+  - Simon
+  lang:
+  - gd
+Sìne:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jane
+  lang:
+  - gd
+  origin:
+  - he
+Sìneag:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jennie
+  - Jenny
+  is_short_for:
+  - Sìne
+  lang:
+  - gd
+Sídnei:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sydney
+  lang:
+  - pt
+  origin:
+  - en
+Síle:
+  gender_flag: 1
+  lang:
+  - ga
+Sílvia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Silvia
+  lang:
+  - pt
+Sílvio:
+  gender_flag: 2
+  lang:
+  - pt
+Símeon:
+  gender_flag: 2
+  lang:
+  - fo
+Símon:
+  gender_flag: 2
+  is_equivalent_to:
+  - Simon
+  lang:
+  - is
+Símonía:
+  gender_flag: 1
+  lang:
+  - is
+Símun:
+  gender_flag: 2
+  is_equivalent_to:
+  - Simon
+  lang:
+  - fo
+Sírus:
+  gender_flag: 2
+  lang:
+  - is
+Sívar:
+  gender_flag: 2
+  lang:
+  - fo
+Sîmût:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Sîna:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Sîva:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Sîvale:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Sócrates:
+  gender_flag: 2
+  is_equivalent_to:
+  - Socrates
+  lang:
+  - es
+  - pt
+  origin:
+  - grc
+Sól:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Sólbirta:
+  gender_flag: 1
+  lang:
+  - fo
+Sólbjartur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Sólbjörn:
+  gender_flag: 2
+  lang:
+  - is
+Sólbjört:
+  gender_flag: 1
+  lang:
+  - is
+Sólbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Sólbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Sólbjørt:
+  gender_flag: 1
+  lang:
+  - fo
+Sólborg:
+  gender_flag: 1
+  lang:
+  - fo
+Sólbrit:
+  gender_flag: 1
+  lang:
+  - fo
+Sólbrá:
+  gender_flag: 1
+  lang:
+  - fo
+Sólbrún:
+  gender_flag: 1
+  lang:
+  - fo
+Sóldís:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Sóley:
+  gender_flag: 1
+  lang:
+  - is
+Sóleyð:
+  gender_flag: 1
+  lang:
+  - fo
+Sólfinnur:
+  gender_flag: 2
+  lang:
+  - fo
+Sólfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Sólgerð:
+  gender_flag: 1
+  lang:
+  - fo
+Sólja:
+  gender_flag: 1
+  lang:
+  - fo
+Sólmundur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Sólon:
+  gender_flag: 2
+  lang:
+  - is
+  - pt
+  origin:
+  - grc
+Sólrið:
+  gender_flag: 1
+  lang:
+  - fo
+Sólrun:
+  gender_flag: 1
+  lang:
+  - fo
+Sólveig:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Sólver:
+  gender_flag: 2
+  lang:
+  - is
+Sólvá:
+  gender_flag: 1
+  lang:
+  - fo
+Sólvør:
+  gender_flag: 1
+  lang:
+  - fo
+Sónia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sonya
+  lang:
+  - pt
+  origin:
+  - ru
+Sônia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sonya
+  lang:
+  - pt
+  origin:
+  - ru
+Sölvi:
+  gender_flag: 2
+  lang:
+  - is
+Sören:
+  gender_flag: 2
+  lang:
+  - sv
+Sözer:
+  gender_flag: 2
+  lang:
+  - tr
+Söğüt:
+  gender_flag: 2
+  lang:
+  - tr
+Sølmundur:
+  gender_flag: 2
+  lang:
+  - fo
+Sølva:
+  gender_flag: 1
+  lang:
+  - fo
+Sølvar:
+  gender_flag: 2
+  lang:
+  - fo
+Sølvi:
+  gender_flag: 3
+  lang:
+  - fo
+  - nn
+  origin:
+  - non
+Sølvá:
+  gender_flag: 1
+  lang:
+  - fo
+Sølvør:
+  gender_flag: 1
+  lang:
+  - fo
+Søren:
+  gender_flag: 2
+  lang:
+  - da
+Sørin:
+  gender_flag: 2
+  lang:
+  - fo
+Sørine:
+  gender_flag: 1
+  lang:
+  - da
+Sørkvi:
+  gender_flag: 2
+  lang:
+  - fo
+Sørli:
+  gender_flag: 2
+  lang:
+  - fo
+Søs:
+  gender_flag: 1
+  lang:
+  - da
+Súna:
+  gender_flag: 1
+  lang:
+  - fo
+Súnbjørt:
+  gender_flag: 1
+  lang:
+  - fo
+Súnfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Súnfríða:
+  gender_flag: 1
+  lang:
+  - fo
+Súnhild:
+  gender_flag: 1
+  lang:
+  - fo
+Súni:
+  gender_flag: 2
+  lang:
+  - fo
+Súnmundur:
+  gender_flag: 2
+  lang:
+  - fo
+Súsanna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Susan
+  lang:
+  - fo
+Sûlut:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Sûsât:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Süleyman:
+  gender_flag: 2
+  lang:
+  - az
+  - tr
+  origin:
+  - ar
+Sümer:
+  gender_flag: 3
+  lang:
+  - tr
+Süreyya:
+  gender_flag: 7
+  lang:
+  - tr
+  origin:
+  - ar
+Sürəyya:
+  gender_flag: 1
+  lang:
+  - az
+  origin:
+  - ar
+Sýrus:
+  gender_flag: 2
+  lang:
+  - is
+Sĩ:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Sīmanis:
+  gender_flag: 2
+  lang:
+  - lv
+Sıla:
+  gender_flag: 3
+  lang:
+  - tr
+Sławek:
+  gender_flag: 2
+  is_short_for:
+  - Sławomir
+  lang:
+  - pl
+Sławoj:
+  gender_flag: 2
+  lang:
+  - pl
+Sławomir:
+  gender_flag: 2
+  lang:
+  - pl
+Sơn:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Sɔnanyɔ:
+  gender_flag: 7
+  lang:
+  - guw
+Səadət:
+  gender_flag: 1
+  lang:
+  - az
+  origin:
+  - ar
+Səbri:
+  gender_flag: 2
+  lang:
+  - az
+Səbriyyə:
+  gender_flag: 1
+  lang:
+  - az
+Sədaqət:
+  gender_flag: 1
+  lang:
+  - az
+Səfər:
+  gender_flag: 2
+  lang:
+  - az
+Səfərəli:
+  gender_flag: 2
+  lang:
+  - az
+Səid:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+Səidə:
+  gender_flag: 1
+  lang:
+  - az
+Səmayə:
+  gender_flag: 1
+  lang:
+  - az
+Səminə:
+  gender_flag: 1
+  lang:
+  - az
+  origin:
+  - ar
+Səməd:
+  gender_flag: 2
+  lang:
+  - az
+Sẹlọmẹ:
+  gender_flag: 7
+  lang:
+  - guw
+Sọnayọn:
+  gender_flag: 7
+  lang:
+  - guw
+Sửu:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+sbk-m-ḥꜣb:
+  gender_flag: 2
+  lang:
+  - egy
+sbk-ḥtp:
+  gender_flag: 3
+  lang:
+  - egy
+sceafa:
+  gender_flag: 2
+  lang:
+  - ang
+skꜣ:
+  gender_flag: 2
+  lang:
+  - egy
+sn-n-mwt:
+  gender_flag: 2
+  lang:
+  - egy
+snb-n.j:
+  gender_flag: 2
+  lang:
+  - egy
+snbj:
+  gender_flag: 2
+  lang:
+  - egy
+stẖ-nḫt:
+  gender_flag: 2
+  lang:
+  - egy
+stẖj:
+  gender_flag: 2
+  lang:
+  - egy
+sꜣdjꜥmj:
+  gender_flag: 2
+  lang:
+  - egy
+sꜣḥ-wj-rꜥ:
+  lang:
+  - egy
+Śvan:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - egl
+  origin:
+  - he
+Śvàṅ:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - egl
+  origin:
+  - he
+Şaban:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Şafak:
+  gender_flag: 3
+  lang:
+  - tr
+Şaguly:
+  gender_flag: 2
+  lang:
+  - tk
+Şahan:
+  gender_flag: 2
+  lang:
+  - tr
+Şahin:
+  gender_flag: 2
+  lang:
+  - tr
+Şahpur:
+  gender_flag: 2
+  lang:
+  - zza
+Şahqulu:
+  gender_flag: 2
+  lang:
+  - az
+Şair:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Şaja:
+  gender_flag: 2
+  lang:
+  - tk
+Şakir:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Şan:
+  gender_flag: 3
+  lang:
+  - tr
+Şansal:
+  gender_flag: 3
+  lang:
+  - tr
+Şebnem:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - fa
+Şehla:
+  gender_flag: 1
+  lang:
+  - kmr
+  origin:
+  - ar
+Şen:
+  gender_flag: 3
+  lang:
+  - tr
+Şenay:
+  gender_flag: 1
+  lang:
+  - tr
+Şenol:
+  gender_flag: 3
+  lang:
+  - tr
+Şerife:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Şermin:
+  gender_flag: 1
+  lang:
+  - tr
+Şevket:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - fa
+Şeyma:
+  gender_flag: 1
+  lang:
+  - tr
+Şimşek:
+  gender_flag: 2
+  lang:
+  - tr
+Şirin:
+  gender_flag: 1
+  lang:
+  - tr
+Şivan:
+  gender_flag: 2
+  lang:
+  - kmr
+Şöhret:
+  gender_flag: 1
+  lang:
+  - tr
+Şövqi:
+  gender_flag: 2
+  lang:
+  - az
+Şövqiyyə:
+  gender_flag: 1
+  lang:
+  - az
+Şükran:
+  gender_flag: 3
+  lang:
+  - tr
+  origin:
+  - ar
+Şükriyyə:
+  gender_flag: 1
+  lang:
+  - az
+Şükrü:
+  gender_flag: 2
+  lang:
+  - az
+  - tr
+Şükufə:
+  gender_flag: 1
+  lang:
+  - az
+Şəbnəm:
+  gender_flag: 1
+  lang:
+  - az
+  origin:
+  - fa
+Şəfiqə:
+  gender_flag: 1
+  lang:
+  - az
+  origin:
+  - ar
+Şəhla:
+  gender_flag: 1
+  lang:
+  - az
+  origin:
+  - ar
+Şəhriyar:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - fa
+Şəhruz:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - fa
+şirin:
+  gender_flag: 1
+  lang:
+  - tr
+Šarlota:
+  gender_flag: 1
+  is_equivalent_to:
+  - Charlotte
+  lang:
+  - cs
+Šarlote:
+  gender_flag: 1
+  lang:
+  - lv
+Šarūnas:
+  gender_flag: 2
+  lang:
+  - lt
+Šebestián:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sebastian
+  lang:
+  - cs
+Šimon:
+  gender_flag: 2
+  is_equivalent_to:
+  - Simon
+  lang:
+  - cs
+  origin:
+  - he
+Šimůnek:
+  gender_flag: 2
+  is_short_for:
+  - Šimon
+  lang:
+  - cs
+Špela:
+  gender_flag: 1
+  lang:
+  - sl
+Štef:
+  gender_flag: 2
+  lang:
+  - sh
+Štefan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - cs
+  - sk
+Štefánia:
+  gender_flag: 1
+  lang:
+  - sk
+Štěpa:
+  gender_flag: 1
+  is_short_for:
+  - Štěpánka
+  lang:
+  - cs
+Štěpán:
+  gender_flag: 2
+  lang:
+  - cs
+Štěpánka:
+  gender_flag: 1
+  is_equivalent_to:
+  - Stephanie
+  lang:
+  - cs
+Šárka:
+  gender_flag: 1
+  lang:
+  - cs
+Šëṅ:
+  gender_flag: 2
+  lang:
+  - wbk
+šftw:
+  gender_flag: 1
+  lang:
+  - egy
+šurānum:
+  gender_flag: 2
+  lang:
+  - akk
+šꜣbꜣkꜣ:
+  gender_flag: 2
+  lang:
+  - egy
+šꜣbꜣtꜣkꜣ:
+  gender_flag: 2
+  lang:
+  - egy
+šꜣšꜣnq:
+  gender_flag: 2
+  lang:
+  - egy
+Ștefan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Stephen
+  lang:
+  - ro
+  origin:
+  - grc
+Ștefana:
+  gender_flag: 1
+  lang:
+  - ro
+Ștefania:
+  gender_flag: 1
+  is_equivalent_to:
+  - Stephanie
+  lang:
+  - ro
+Ṣoyinka:
+  gender_flag: 2
+  lang:
+  - yo
+Ṣẹgilọla:
+  gender_flag: 1
+  lang:
+  - yo
+Ṣọlagbade:
+  gender_flag: 7
+  lang:
+  - yo

@@ -1,0 +1,6763 @@
+Qaaqqutsiaq:
+  gender_flag: 2
+  lang:
+  - kl
+Qali:
+  gender_flag: 2
+  lang:
+  - aa
+Qasim:
+  gender_flag: 2
+  lang:
+  - en
+Qasso:
+  gender_flag: 2
+  lang:
+  - aa
+Qasım:
+  gender_flag: 2
+  lang:
+  - az
+Qay:
+  gender_flag: 2
+  is_equivalent_to:
+  - Guy
+  lang:
+  - az
+Qittoora:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Qitura:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Qivioq:
+  gender_flag: 3
+  lang:
+  - kl
+Qorxmaz:
+  gender_flag: 2
+  lang:
+  - az
+Quan:
+  gender_flag: 2
+  lang:
+  - en
+Quang:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Quartilla:
+  gender_flag: 1
+  lang:
+  - la
+Quatavious:
+  gender_flag: 2
+  lang:
+  - en
+Queenie:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Quentin:
+  gender_flag: 7
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+Querubin:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - es
+Quica:
+  gender_flag: 1
+  is_short_for:
+  - Francisca
+  lang:
+  - es
+Quico:
+  gender_flag: 2
+  is_short_for:
+  - Federico
+  - Francisco
+  lang:
+  - es
+Quim:
+  gender_flag: 2
+  is_short_for:
+  - Joaquim
+  lang:
+  - ca
+  - pt
+Quinbert:
+  gender_flag: 2
+  lang:
+  - en
+Quincy:
+  gender_flag: 7
+  lang:
+  - en
+Quinn:
+  gender_flag: 7
+  lang:
+  - en
+Quinne:
+  gender_flag: 1
+  lang:
+  - en
+Quint:
+  gender_flag: 2
+  lang:
+  - en
+Quintell:
+  gender_flag: 2
+  lang:
+  - en
+Quintilian:
+  gender_flag: 2
+  lang:
+  - en
+  - oc
+Quintin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Quentin
+  lang:
+  - en
+  - oc
+  origin:
+  - la
+Quintino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Quentin
+  lang:
+  - it
+  - pt
+  origin:
+  - la
+Quintinus:
+  gender_flag: 2
+  lang:
+  - la
+Quinto:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - la
+Quinton:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Quinzio:
+  gender_flag: 2
+  lang:
+  - it
+Quipot:
+  gender_flag: 2
+  lang:
+  - ceb
+Quique:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hal
+  - Hank
+  - Harry
+  is_short_for:
+  - Enrique
+  lang:
+  - es
+Quirico:
+  gender_flag: 2
+  lang:
+  - it
+  origin:
+  - grc
+Quirina:
+  gender_flag: 1
+  lang:
+  - it
+Quirino:
+  gender_flag: 2
+  lang:
+  - it
+Quirze:
+  gender_flag: 2
+  lang:
+  - ca
+  origin:
+  - grc
+Quiselpoo:
+  gender_flag: 1
+  lang:
+  - aqp
+Quiteria:
+  gender_flag: 1
+  lang:
+  - es
+Quiterie:
+  gender_flag: 1
+  lang:
+  - fr
+Quitterie:
+  gender_flag: 1
+  lang:
+  - fr
+Quitèira:
+  gender_flag: 1
+  lang:
+  - oc
+Quitèria:
+  gender_flag: 1
+  lang:
+  - ca
+Quitéria:
+  gender_flag: 1
+  lang:
+  - pt
+Qulu:
+  gender_flag: 2
+  lang:
+  - az
+Qulutak:
+  gender_flag: 2
+  lang:
+  - kl
+Qulutana:
+  gender_flag: 2
+  lang:
+  - kl
+Qulutannguaq:
+  gender_flag: 2
+  lang:
+  - kl
+Qulutaq:
+  gender_flag: 2
+  lang:
+  - kl
+Qunaaq:
+  gender_flag: 2
+  lang:
+  - kl
+Qunerseeq:
+  gender_flag: 3
+  lang:
+  - kl
+Qup:
+  gender_flag: 2
+  is_equivalent_to:
+  - Coby
+  lang:
+  - sq
+Qupanuk:
+  gender_flag: 1
+  lang:
+  - kl
+Qupi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Coby
+  lang:
+  - sq
+Qurban:
+  gender_flag: 2
+  lang:
+  - az
+Quyên:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Quyền:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Quân:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Quý:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Quảng:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Quế:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Quốc:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Quỳnh:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Qëndrak:
+  gender_flag: 2
+  lang:
+  - sq
+Qüdrət:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+Qəmbər:
+  gender_flag: 2
+  lang:
+  - az
+Qəmər:
+  gender_flag: 1
+  lang:
+  - az
+  origin:
+  - ar
+Qərib:
+  gender_flag: 2
+  lang:
+  - az
+R'chard:
+  gender_flag: 2
+  is_equivalent_to:
+  - Richard
+  lang:
+  - nrf
+Raahel:
+  gender_flag: 1
+  lang:
+  - et
+Raakel:
+  gender_flag: 1
+  lang:
+  - fi
+  origin:
+  - he
+Raakeli:
+  gender_flag: 1
+  lang:
+  - fi
+Raakkeli:
+  gender_flag: 1
+  lang:
+  - fi
+Raaya:
+  gender_flag: 1
+  lang:
+  - en
+Rab:
+  gender_flag: 2
+  lang:
+  - en
+Rabbie:
+  gender_flag: 2
+  lang:
+  - en
+Rabert:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robert
+  lang:
+  - sco
+Rabia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Rabindra:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Rabindranath:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - bn
+Rach:
+  gender_flag: 1
+  is_short_for:
+  - Rachel
+  lang:
+  - en
+Rachael:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Rachana:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Rachel:
+  gender_flag: 1
+  lang:
+  - ceb
+  - de
+  - en
+  - fr
+  - la
+  origin:
+  - he
+Rachele:
+  gender_flag: 1
+  lang:
+  - it
+Rachelle:
+  gender_flag: 1
+  is_a_variant_of:
+  - Rachel
+  lang:
+  - en
+  - fr
+  origin:
+  - he
+Rachid:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Racibor:
+  gender_flag: 2
+  lang:
+  - pl
+Racquel:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Racquell:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Racław:
+  gender_flag: 2
+  lang:
+  - pl
+Radan:
+  gender_flag: 2
+  lang:
+  - cs
+Radana:
+  gender_flag: 1
+  lang:
+  - cs
+Radegonda:
+  gender_flag: 1
+  lang:
+  - oc
+Radegonde:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - gem
+Radek:
+  gender_flag: 2
+  is_short_for:
+  - Radosław
+  lang:
+  - cs
+  - pl
+Radeček:
+  gender_flag: 2
+  is_short_for:
+  - Radek
+  lang:
+  - cs
+Radha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Radhesh:
+  gender_flag: 2
+  lang:
+  - en
+Radhi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Radi:
+  gender_flag: 2
+  lang:
+  - tr
+Radim:
+  gender_flag: 2
+  lang:
+  - cs
+Radimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Radinko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Radivoj:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Radič:
+  gender_flag: 2
+  lang:
+  - sh
+Radka:
+  gender_flag: 1
+  lang:
+  - cs
+Radmila:
+  gender_flag: 1
+  lang:
+  - cs
+Radney:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Radolf:
+  gender_flag: 2
+  lang:
+  - osx
+Radomila:
+  gender_flag: 1
+  lang:
+  - cs
+Radomir:
+  gender_flag: 2
+  lang:
+  - sh
+Radomír:
+  gender_flag: 2
+  lang:
+  - cs
+Radosclavus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Radoslav
+  lang:
+  - la
+Radoslav:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Radoslavus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Radoslav
+  lang:
+  - la
+Radosław:
+  gender_flag: 2
+  lang:
+  - pl
+Radovan:
+  gender_flag: 2
+  lang:
+  - cs
+  - sh
+  - sk
+Radovoj:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Radoš:
+  gender_flag: 2
+  lang:
+  - sh
+Radu:
+  gender_flag: 2
+  lang:
+  - ro
+Radulf:
+  gender_flag: 2
+  lang:
+  - en
+Radunka:
+  gender_flag: 1
+  is_short_for:
+  - Radka
+  - Radmila
+  lang:
+  - cs
+Raduška:
+  gender_flag: 1
+  is_short_for:
+  - Radka
+  - Radmila
+  lang:
+  - cs
+Radvilė:
+  gender_flag: 1
+  lang:
+  - lt
+Radzim:
+  gender_flag: 2
+  lang:
+  - pl
+Radzisław:
+  gender_flag: 2
+  lang:
+  - pl
+Radzivon: {}
+Radúz:
+  gender_flag: 2
+  lang:
+  - sk
+Rae:
+  gender_flag: 7
+  is_short_for:
+  - Rachel
+  lang:
+  - en
+Raegan:
+  gender_flag: 1
+  lang:
+  - en
+Rael:
+  gender_flag: 2
+  lang:
+  - ceb
+Raelyn:
+  gender_flag: 1
+  lang:
+  - en
+Raelynn:
+  gender_flag: 1
+  lang:
+  - en
+Raewyn:
+  gender_flag: 1
+  lang:
+  - en
+Raf:
+  gender_flag: 2
+  is_short_for:
+  - Rafael
+  lang:
+  - en
+Rafa:
+  gender_flag: 3
+  is_equivalent_to:
+  - Rafe
+  is_short_for:
+  - Rafael
+  - Rafaela
+  - Rafaele
+  lang:
+  - es
+  - pt
+Rafael:
+  gender_flag: 2
+  is_equivalent_to:
+  - Raphael
+  lang:
+  - ca
+  - de
+  - en
+  - es
+  - fi
+  - fo
+  - pt
+  - sv
+  - tl
+  origin:
+  - es
+  - he
+Rafaela:
+  gender_flag: 1
+  is_a_variant_of:
+  - Raphaela
+  is_equivalent_to:
+  - Raphaela
+  lang:
+  - de
+  - es
+  - pt
+Rafaele:
+  gender_flag: 1
+  is_a_variant_of:
+  - Rafaela
+  lang:
+  - pt
+Rafayel:
+  gender_flag: 2
+  is_equivalent_to:
+  - Raphael
+  lang:
+  - wa
+Rafaèl:
+  gender_flag: 2
+  is_equivalent_to:
+  - Raphael
+  lang:
+  - oc
+Rafał:
+  gender_flag: 2
+  is_equivalent_to:
+  - Raphael
+  lang:
+  - pl
+  origin:
+  - grc
+  - la
+Rafe:
+  gender_flag: 2
+  is_short_for:
+  - Raphael
+  lang:
+  - en
+  origin:
+  - gem
+Raffaela:
+  gender_flag: 1
+  is_a_variant_of:
+  - Raphaela
+  lang:
+  - de
+  origin:
+  - it
+Raffaele:
+  gender_flag: 2
+  is_equivalent_to:
+  - Raphael
+  lang:
+  - it
+  origin:
+  - he
+Raffaella:
+  gender_flag: 1
+  lang:
+  - it
+Raffi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hy
+Rafi:
+  gender_flag: 1
+  is_short_for:
+  - Rafaela
+  lang:
+  - es
+Rafn:
+  gender_flag: 2
+  lang:
+  - is
+Ragge:
+  gender_flag: 2
+  is_short_for:
+  - Ragnar
+  lang:
+  - sv
+Raghava:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Raghda:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Raghnaid:
+  gender_flag: 1
+  is_a_variant_of:
+  - Raonaid
+  lang:
+  - gd
+Raghnall:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ronald
+  lang:
+  - gd
+  origin:
+  - non
+Raghu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Ragna:
+  gender_flag: 1
+  lang:
+  - da
+  - fo
+  - 'no'
+  - sv
+Ragnar:
+  gender_flag: 2
+  lang:
+  - et
+  - fo
+  - is
+  - nn
+  - sv
+  origin:
+  - non
+Ragnarr:
+  gender_flag: 2
+  lang:
+  - non
+Ragne:
+  gender_flag: 1
+  lang:
+  - et
+Ragnfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Ragnfríðr:
+  gender_flag: 1
+  lang:
+  - non
+Ragnheiður:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Ragnhild:
+  gender_flag: 1
+  lang:
+  - da
+  - fo
+  - 'no'
+  - sv
+  origin:
+  - non
+Ragnhildr:
+  gender_flag: 1
+  lang:
+  - non
+Ragnvald:
+  gender_flag: 2
+  lang:
+  - 'no'
+  - sv
+Ragnvalder:
+  gender_flag: 2
+  lang:
+  - gmq-osw
+Ragnvaldur:
+  gender_flag: 2
+  lang:
+  - fo
+Ragnvør:
+  gender_flag: 1
+  lang:
+  - fo
+Rahab:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Rahaba:
+  gender_flag: 1
+  lang:
+  - haw
+Rahardian:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Rahel:
+  gender_flag: 1
+  lang:
+  - de
+  - et
+  - tr
+Rahila:
+  gender_flag: 1
+  lang:
+  - ha
+Rahim:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Rahmah:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - ar
+Rahman:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - ar
+Rahmat:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - ar
+Rahmi:
+  gender_flag: 2
+  lang:
+  - tr
+Rahul:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Raib:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rob
+  is_short_for:
+  - Raibeart
+  lang:
+  - gd
+Raibeart:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robert
+  lang:
+  - gd
+  origin:
+  - gem
+Raiden:
+  gender_flag: 2
+  lang:
+  - en
+Raido:
+  gender_flag: 2
+  lang:
+  - et
+Raigo:
+  gender_flag: 2
+  lang:
+  - et
+Raihanul:
+  lang:
+  - en
+Raija:
+  gender_flag: 1
+  lang:
+  - fi
+Raikku:
+  gender_flag: 2
+  is_short_for:
+  - Rainer
+  lang:
+  - fi
+Raiko:
+  gender_flag: 2
+  lang:
+  - et
+Raila:
+  gender_flag: 3
+  lang:
+  - fi
+  - luo
+Raili:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Raimo:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Raimon:
+  gender_flag: 2
+  is_equivalent_to:
+  - Raymond
+  lang:
+  - ca
+Raimond:
+  gender_flag: 2
+  is_equivalent_to:
+  - Raymond
+  lang:
+  - et
+  - fr
+  - oc
+  - pro
+  origin:
+  - pro
+Raimonda:
+  gender_flag: 1
+  lang:
+  - oc
+Raimondas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Raymond
+  lang:
+  - lt
+Raimondo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Raymond
+  lang:
+  - it
+  origin:
+  - la
+Raimonds:
+  gender_flag: 2
+  lang:
+  - lv
+Raimund:
+  gender_flag: 2
+  is_equivalent_to:
+  - Raymond
+  lang:
+  - de
+Raimunda:
+  gender_flag: 1
+  lang:
+  - es
+  - pt
+Raimundas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Raymond
+  lang:
+  - lt
+Raimundo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Raymond
+  lang:
+  - es
+  - pt
+  origin:
+  - gem
+Rain:
+  gender_flag: 3
+  lang:
+  - en
+  - et
+Raina:
+  gender_flag: 1
+  lang:
+  - en
+Raine:
+  gender_flag: 2
+  lang:
+  - fi
+Rainer:
+  gender_flag: 2
+  lang:
+  - de
+  - et
+Raino:
+  gender_flag: 2
+  lang:
+  - fi
+Raisa:
+  gender_flag: 1
+  lang:
+  - fi
+  - lv
+Rait:
+  gender_flag: 2
+  lang:
+  - et
+Raita:
+  gender_flag: 1
+  lang:
+  - fi
+  - lv
+Raitis:
+  gender_flag: 2
+  lang:
+  - fi
+  - lv
+Raivis:
+  gender_flag: 2
+  lang:
+  - lv
+Raivo:
+  gender_flag: 2
+  lang:
+  - et
+  - lv
+Raj:
+  gender_flag: 2
+  is_short_for:
+  - Rajiv
+  lang:
+  - en
+Rajesh:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Raji:
+  gender_flag: 1
+  lang:
+  - rom
+Rajindra:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Rajiv:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Rajkumari:
+  gender_flag: 1
+  lang:
+  - en
+Rajmund:
+  gender_flag: 2
+  is_equivalent_to:
+  - Raymond
+  lang:
+  - pl
+Raju:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - te
+Rakel:
+  gender_flag: 1
+  lang:
+  - da
+  - is
+  - 'no'
+  - sv
+Rakul:
+  gender_flag: 1
+  lang:
+  - fo
+Raleigh:
+  gender_flag: 2
+  lang:
+  - en
+Ralf:
+  gender_flag: 2
+  lang:
+  - de
+  - et
+  - fi
+  - sv
+Ralfs:
+  gender_flag: 2
+  lang:
+  - lv
+Ralle:
+  gender_flag: 2
+  is_short_for:
+  - Ralf
+  lang:
+  - de
+Ralph:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ralf
+  lang:
+  - de
+  - en
+  origin:
+  - en
+  - gem
+Ralphie:
+  gender_flag: 2
+  is_short_for:
+  - Ralph
+  lang:
+  - en
+Raluca:
+  gender_flag: 1
+  lang:
+  - ro
+  origin:
+  - grc
+Rama:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Ramachandra:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Ramadan:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  origin:
+  - ar
+Raman: {}
+Ramazan:
+  gender_flag: 2
+  lang:
+  - tr
+Rambabu:
+  gender_flag: 2
+  lang:
+  - en
+Rambert:
+  gender_flag: 2
+  lang:
+  - de
+Ramberto:
+  gender_flag: 2
+  lang:
+  - it
+Rambha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Ramesh:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Rami:
+  gender_flag: 2
+  lang:
+  - fi
+Ramil:
+  gender_flag: 2
+  lang:
+  - ceb
+Ramin:
+  gender_flag: 2
+  lang:
+  - az
+  - de
+  - en
+Raminta:
+  gender_flag: 1
+  lang:
+  - lt
+Ramir:
+  gender_flag: 2
+  lang:
+  - ca
+Ramira:
+  gender_flag: 1
+  lang:
+  - es
+Ramiro:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+  - pt
+Ramiyem:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Ramn:
+  gender_flag: 2
+  lang:
+  - nn
+Ramon:
+  gender_flag: 2
+  is_equivalent_to:
+  - Raymond
+  lang:
+  - ca
+  - ceb
+  - tl
+  origin:
+  - es
+Ramona:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - es
+  - lv
+  - ro
+  origin:
+  - es
+Ramone:
+  gender_flag: 2
+  lang:
+  - en
+Ramram:
+  gender_flag: 2
+  lang:
+  - ceb
+Ramsay:
+  gender_flag: 2
+  lang:
+  - en
+Ramsey:
+  gender_flag: 2
+  lang:
+  - en
+Ramsés:
+  gender_flag: 2
+  lang:
+  - pt
+Ramunė:
+  gender_flag: 1
+  lang:
+  - lt
+Ramush:
+  gender_flag: 2
+  lang:
+  - sq
+Ramutė:
+  gender_flag: 1
+  lang:
+  - lt
+Ramzan:
+  gender_flag: 2
+  lang:
+  - en
+Ramón:
+  gender_flag: 2
+  is_equivalent_to:
+  - Raymond
+  lang:
+  - es
+Ramūnas:
+  gender_flag: 2
+  lang:
+  - lt
+Ran:
+  gender_flag: 3
+  lang:
+  - en
+  origin:
+  - ja
+Ranald:
+  gender_flag: 2
+  lang:
+  - en
+Ranbir:
+  gender_flag: 2
+  lang:
+  - ceb
+Randal:
+  gender_flag: 2
+  is_a_variant_of:
+  - Randall
+  lang:
+  - en
+  origin:
+  - gem
+Randall:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Randarsól:
+  gender_flag: 1
+  lang:
+  - fo
+Randfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Randi:
+  gender_flag: 1
+  lang:
+  - da
+  - fo
+  - 'no'
+Randine:
+  gender_flag: 1
+  lang:
+  - 'no'
+Randið:
+  gender_flag: 1
+  lang:
+  - fo
+Rando:
+  gender_flag: 2
+  lang:
+  - et
+Randolf:
+  gender_flag: 2
+  is_equivalent_to:
+  - Randolph
+  lang:
+  - 'no'
+Randolfo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Randolph
+  lang:
+  - it
+Randolph:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Randon:
+  gender_flag: 2
+  lang:
+  - en
+Randulf:
+  gender_flag: 2
+  is_equivalent_to:
+  - Randolph
+  lang:
+  - 'no'
+Randulfo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Randolph
+  lang:
+  - gl
+Randver:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Randy:
+  gender_flag: 3
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Ranganath:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Rangdi:
+  gender_flag: 1
+  is_a_variant_of:
+  - Randi
+  lang:
+  - 'no'
+Rangga:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Ranghild:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ragnhild
+  lang:
+  - 'no'
+Rangrid:
+  gender_flag: 1
+  is_a_variant_of:
+  - Randi
+  lang:
+  - 'no'
+Rani:
+  gender_flag: 3
+  lang:
+  - en
+  - fo
+  origin:
+  - sa
+Ranja:
+  gender_flag: 1
+  lang:
+  - fo
+Ranko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Rannfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Ranni:
+  gender_flag: 1
+  lang:
+  - 'no'
+Ranno:
+  gender_flag: 2
+  is_a_variant_of:
+  - Rando
+  lang:
+  - et
+Rannveig:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+  - 'no'
+  - non
+Rannvá:
+  gender_flag: 1
+  lang:
+  - fo
+Rannvør:
+  gender_flag: 1
+  lang:
+  - fo
+Ranny:
+  gender_flag: 1
+  lang:
+  - 'no'
+Ranoo:
+  gender_flag: 7
+  lang:
+  - en
+Ransu:
+  gender_flag: 2
+  is_short_for:
+  - Frans
+  lang:
+  - fi
+Ranulph:
+  gender_flag: 2
+  lang:
+  - en
+Ranveig:
+  gender_flag: 1
+  is_a_variant_of:
+  - Rannveig
+  lang:
+  - 'no'
+Raol:
+  gender_flag: 2
+  lang:
+  - fro
+Raonaid:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rachel
+  lang:
+  - gd
+  origin:
+  - non
+Raonailt:
+  gender_flag: 1
+  is_a_variant_of:
+  - Raonaid
+  lang:
+  - gd
+Raoul:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ralph
+  lang:
+  - de
+  - fr
+  - fro
+  origin:
+  - fr
+Raph:
+  gender_flag: 2
+  is_short_for:
+  - Raphael
+  lang:
+  - en
+Raphael:
+  gender_flag: 2
+  is_a_variant_of:
+  - Rafael
+  lang:
+  - de
+  - en
+  - la
+Raphaela:
+  gender_flag: 1
+  lang:
+  - de
+Raphaël:
+  gender_flag: 2
+  lang:
+  - fr
+Raphaëlle:
+  gender_flag: 1
+  lang:
+  - fr
+Rapolas:
+  gender_flag: 2
+  lang:
+  - lt
+Rappai:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ml
+Raquel:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rachel
+  lang:
+  - ceb
+  - en
+  - es
+  - pt
+  origin:
+  - es
+  - grc
+  - he
+Raquelle:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Raruurawaahakstiisaaru:
+  gender_flag: 2
+  lang:
+  - paw
+Rasa:
+  gender_flag: 1
+  lang:
+  - lt
+  - lv
+Rashad:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Rasheed:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Rashid:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Rashida:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Rashidi:
+  gender_flag: 2
+  lang:
+  - sw
+Rasim:
+  gender_flag: 2
+  lang:
+  - az
+  - tr
+Rasiphe:
+  gender_flag: 2
+  lang:
+  - nrf
+Rasma:
+  gender_flag: 1
+  lang:
+  - lv
+Rasmine:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Rasmus:
+  gender_flag: 2
+  lang:
+  - da
+  - et
+  - fi
+  - fo
+  - 'no'
+  - sv
+Rastimir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Rastislav:
+  gender_flag: 2
+  lang:
+  - sk
+Rastsislau: {}
+Rastus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Rastî:
+  gender_flag: 2
+  lang:
+  - kmr
+Rasťo:
+  gender_flag: 2
+  is_short_for:
+  - Rastislav
+  lang:
+  - sk
+Rati:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Ratimarus: {}
+Ratimir:
+  gender_flag: 2
+  lang:
+  - sh
+Ratna:
+  gender_flag: 7
+  lang:
+  - en
+  - id
+  origin:
+  - sa
+Rato:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Ratri:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - sa
+Ratu:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - ms
+Rauf:
+  gender_flag: 2
+  lang:
+  - az
+Rauha:
+  gender_flag: 1
+  lang:
+  - fi
+Raul:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ralph
+  lang:
+  - ceb
+  - en
+  - et
+  - pt
+  origin:
+  - es
+  - fr
+Rauli:
+  gender_flag: 2
+  lang:
+  - fi
+Rauna:
+  gender_flag: 1
+  lang:
+  - fi
+Rauni:
+  gender_flag: 3
+  is_a_variant_of:
+  - Rauno
+  lang:
+  - fi
+Rauno:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+  origin:
+  - fi
+Ravel:
+  gender_flag: 2
+  lang:
+  - en
+Raven:
+  gender_flag: 7
+  lang:
+  - en
+  - nrf
+  origin:
+  - en
+Ravi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Ravindra:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Ravnhild:
+  gender_flag: 1
+  lang:
+  - fo
+Ravnur:
+  gender_flag: 2
+  lang:
+  - fo
+Rawoul:
+  gender_flag: 2
+  lang:
+  - wa
+Ray:
+  gender_flag: 7
+  is_short_for:
+  - Rachel
+  - Raymond
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Raya:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - ms
+Rayan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Rayden:
+  gender_flag: 2
+  lang:
+  - en
+Raylan:
+  gender_flag: 2
+  lang:
+  - en
+Raymond:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  - 'no'
+  - sv
+  origin:
+  - gem
+Raymonde:
+  gender_flag: 1
+  lang:
+  - fr
+Raymonn:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ramón
+  - Raymond
+  lang:
+  - en
+  origin:
+  - gem
+Raymunda:
+  gender_flag: 1
+  lang:
+  - ceb
+Raymundo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Raimundo
+  lang:
+  - ceb
+  - es
+  - pt
+Rayna:
+  gender_flag: 1
+  lang:
+  - en
+Raynalyn:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - ceb
+Rayne:
+  gender_flag: 1
+  lang:
+  - en
+Rayshard:
+  gender_flag: 2
+  lang:
+  - en
+Raîne:
+  gender_flag: 1
+  lang:
+  - nrf
+Raúl:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ralph
+  lang:
+  - es
+Raül:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ralph
+  lang:
+  - ca
+Raĥelo:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rachel
+  lang:
+  - eo
+  origin:
+  - he
+Raşit:
+  gender_flag: 2
+  lang:
+  - tk
+  origin:
+  - ar
+Rea:
+  gender_flag: 1
+  lang:
+  - en
+Read:
+  gender_flag: 2
+  lang:
+  - en
+Reagan:
+  gender_flag: 7
+  lang:
+  - ceb
+  - en
+Reality:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Reaman:
+  gender_flag: 2
+  is_equivalent_to:
+  - Raymond
+  lang:
+  - gv
+  origin:
+  - gem
+Reanne:
+  gender_flag: 1
+  lang:
+  - en
+Reba:
+  gender_flag: 1
+  lang:
+  - en
+Rebeca:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rebecca
+  - Rebekah
+  lang:
+  - es
+  - pt
+Rebecca:
+  gender_flag: 1
+  is_a_variant_of:
+  - Rebekka
+  lang:
+  - da
+  - de
+  - en
+  - fr
+  - it
+  - la
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - en
+  - he
+Rebecka:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rebecca
+  lang:
+  - sv
+Rebeka:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rebecca
+  lang:
+  - cs
+  - et
+  - lt
+  - pl
+  - sl
+Rebekah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Rebekka:
+  gender_flag: 1
+  is_a_variant_of:
+  - Rebecca
+  is_equivalent_to:
+  - Rebecca
+  lang:
+  - da
+  - de
+  - fi
+  - fo
+  - 'no'
+  origin:
+  - he
+Rebumaphil:
+  gender_flag: 2
+  lang:
+  - ceb
+Recaredo:
+  gender_flag: 2
+  lang:
+  - pt
+Recep:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Rectina:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Recław:
+  gender_flag: 2
+  lang:
+  - pl
+Red:
+  gender_flag: 6
+  lang:
+  - en
+Reda:
+  gender_flag: 1
+  lang:
+  - lt
+Redden:
+  gender_flag: 2
+  lang:
+  - en
+Redflower:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Redmond:
+  gender_flag: 2
+  lang:
+  - en
+Redna:
+  gender_flag: 1
+  lang:
+  - 'no'
+Reece:
+  gender_flag: 7
+  lang:
+  - en
+Reed:
+  gender_flag: 7
+  lang:
+  - en
+Reedik:
+  gender_flag: 2
+  is_equivalent_to:
+  - Fred
+  - Frederick
+  lang:
+  - et
+Reeli:
+  gender_flag: 1
+  lang:
+  - et
+Reelika:
+  gender_flag: 1
+  lang:
+  - et
+Reena:
+  gender_flag: 1
+  lang:
+  - et
+Reene:
+  gender_flag: 1
+  lang:
+  - et
+Reenie:
+  gender_flag: 1
+  is_short_for:
+  - Doreen
+  - Irene
+  - Maureen
+  lang:
+  - en
+Rees:
+  gender_flag: 2
+  lang:
+  - en
+Reese:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - cy
+Reesi:
+  gender_flag: 1
+  lang:
+  - et
+Reet:
+  gender_flag: 1
+  is_equivalent_to:
+  - Greta
+  - Margaret
+  lang:
+  - de
+  - et
+Reeta:
+  gender_flag: 1
+  is_a_variant_of:
+  - Rita
+  lang:
+  - en
+  - fi
+Reetta:
+  gender_flag: 1
+  lang:
+  - fi
+Reg:
+  gender_flag: 2
+  is_short_for:
+  - Reginald
+  lang:
+  - en
+Regan:
+  gender_flag: 7
+  lang:
+  - en
+Reggie:
+  gender_flag: 3
+  is_short_for:
+  - Regina
+  - Reginald
+  lang:
+  - en
+Regiina:
+  gender_flag: 1
+  lang:
+  - et
+  origin:
+  - la
+Regimantas:
+  gender_flag: 2
+  lang:
+  - lt
+Regin:
+  gender_flag: 2
+  lang:
+  - fo
+Regina:
+  gender_flag: 1
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - et
+  - lt
+  - pt
+  - sv
+  origin:
+  - la
+Reginald:
+  gender_flag: 2
+  is_equivalent_to:
+  - Reynold
+  - Ronald
+  lang:
+  - ca
+  - en
+  origin:
+  - gem
+Reginaldo:
+  gender_flag: 2
+  lang:
+  - it
+Reginbaldur:
+  gender_flag: 2
+  lang:
+  - is
+Regine:
+  gender_flag: 1
+  is_equivalent_to:
+  - Regina
+  lang:
+  - ceb
+  - da
+Regitze:
+  gender_flag: 1
+  lang:
+  - da
+Regnault:
+  gender_flag: 2
+  is_equivalent_to:
+  - Reginald
+  lang:
+  - frm
+Regína:
+  gender_flag: 1
+  is_equivalent_to:
+  - Regina
+  lang:
+  - cs
+  - sk
+Regīna:
+  gender_flag: 1
+  lang:
+  - lv
+Rehema:
+  gender_flag: 1
+  lang:
+  - sw
+Reid:
+  gender_flag: 2
+  lang:
+  - en
+Reidar:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Reidun:
+  gender_flag: 1
+  lang:
+  - 'no'
+Reign:
+  gender_flag: 2
+  lang:
+  - en
+Reigo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - et
+Reija:
+  gender_flag: 1
+  lang:
+  - fi
+Reijo:
+  gender_flag: 2
+  lang:
+  - fi
+Reiko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Reili:
+  gender_flag: 1
+  lang:
+  - et
+Reilly:
+  gender_flag: 7
+  lang:
+  - en
+Reima:
+  gender_flag: 2
+  lang:
+  - fi
+Reimar:
+  gender_flag: 2
+  lang:
+  - fo
+Reimundo:
+  gender_flag: 2
+  is_a_variant_of:
+  - Raimundo
+  lang:
+  - pt
+  - roa-opt
+  origin:
+  - gem
+Rein:
+  gender_flag: 2
+  lang:
+  - et
+Reina:
+  gender_flag: 1
+  lang:
+  - es
+Reinald:
+  gender_flag: 2
+  lang:
+  - fro
+Reinaldo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Reynold
+  lang:
+  - es
+  - pt
+Reinaldur:
+  gender_flag: 2
+  lang:
+  - fo
+Reinar:
+  gender_flag: 2
+  lang:
+  - fo
+Reine:
+  gender_flag: 3
+  lang:
+  - fr
+  - sv
+Reiner:
+  gender_flag: 2
+  lang:
+  - de
+Reinhard:
+  gender_flag: 2
+  lang:
+  - de
+Reinhold:
+  gender_flag: 2
+  lang:
+  - de
+  - sv
+Reinholds:
+  gender_flag: 2
+  lang:
+  - lv
+Reinier:
+  gender_flag: 2
+  lang:
+  - nl
+Reinis:
+  gender_flag: 2
+  lang:
+  - lv
+Reino:
+  gender_flag: 2
+  lang:
+  - fi
+Reinut:
+  gender_flag: 2
+  lang:
+  - et
+Reio:
+  gender_flag: 2
+  lang:
+  - et
+Reiss:
+  gender_flag: 2
+  lang:
+  - en
+Reiðar:
+  gender_flag: 2
+  lang:
+  - fo
+Reiðgunn:
+  gender_flag: 1
+  lang:
+  - fo
+Reiðunn:
+  gender_flag: 1
+  lang:
+  - fo
+Rejean:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Rejeanne:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+Rejep:
+  gender_flag: 2
+  lang:
+  - tk
+Reko:
+  gender_flag: 2
+  lang:
+  - fi
+Remco:
+  gender_flag: 2
+  lang:
+  - nl
+Remedios:
+  gender_flag: 1
+  lang:
+  - es
+Remi:
+  gender_flag: 2
+  lang:
+  - fr
+  - 'no'
+Remigijus:
+  gender_flag: 2
+  lang:
+  - lt
+Remigio:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+  - tl
+  origin:
+  - es
+  - la
+Remigiusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Remi
+  lang:
+  - pl
+Remiigi:
+  gender_flag: 2
+  lang:
+  - gsw
+  origin:
+  - la
+Remington:
+  gender_flag: 2
+  lang:
+  - en
+Remis:
+  gender_flag: 2
+  lang:
+  - lt
+Remna:
+  gender_flag: 1
+  lang:
+  - nn
+Remo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Remus
+  lang:
+  - es
+  - it
+  - pt
+Remont:
+  gender_flag: 2
+  is_equivalent_to:
+  - Raymond
+  lang:
+  - osp
+Remrem:
+  gender_flag: 3
+  lang:
+  - ceb
+Remus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Remy:
+  gender_flag: 2
+  is_a_variant_of:
+  - Remi
+  lang:
+  - fr
+Remzi:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Rena:
+  gender_flag: 1
+  lang:
+  - et
+Renaat:
+  gender_flag: 2
+  lang:
+  - nl
+Renada:
+  gender_flag: 1
+  lang:
+  - oc
+Renaldas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ronald
+  lang:
+  - lt
+Renaldo:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - es
+Renan:
+  gender_flag: 2
+  lang:
+  - pt
+Renart:
+  gender_flag: 2
+  is_equivalent_to:
+  - Reynard
+  lang:
+  - fr
+Renartus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Reynard
+  lang:
+  - la
+  origin:
+  - gem-pro
+Renat:
+  gender_flag: 2
+  lang:
+  - oc
+Renata:
+  gender_flag: 1
+  is_equivalent_to:
+  - Renée
+  lang:
+  - cs
+  - en
+  - es
+  - fo
+  - it
+  - lt
+  - pl
+  - pt
+  origin:
+  - la
+Renatas:
+  gender_flag: 2
+  lang:
+  - lt
+Renate:
+  gender_flag: 1
+  is_equivalent_to:
+  - Renée
+  lang:
+  - de
+  - et
+  - nl
+  - 'no'
+Renato:
+  gender_flag: 2
+  is_equivalent_to:
+  - René
+  lang:
+  - es
+  - it
+  - pt
+  - tl
+  origin:
+  - es
+Renatus:
+  gender_flag: 2
+  lang:
+  - la
+Renaud:
+  gender_flag: 2
+  is_equivalent_to:
+  - Reynold
+  lang:
+  - fr
+Rene:
+  gender_flag: 7
+  lang:
+  - da
+  - en
+  - et
+  origin:
+  - fr
+Renee:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Renhild:
+  gender_flag: 1
+  lang:
+  - 'no'
+Reni:
+  gender_flag: 1
+  is_short_for:
+  - Renáta
+  lang:
+  - hu
+Renier:
+  gender_flag: 2
+  lang:
+  - af
+  origin:
+  - gem-pro
+Renjith:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Renkin:
+  gender_flag: 2
+  lang:
+  - wa
+Rennie:
+  gender_flag: 1
+  lang:
+  - en
+Renren:
+  gender_flag: 2
+  lang:
+  - ceb
+Renuka:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Renza:
+  gender_flag: 1
+  lang:
+  - it
+Renzo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Larry
+  is_short_for:
+  - Lorenzo
+  lang:
+  - es
+  - it
+Renáta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Renata
+  lang:
+  - cs
+  - hu
+  - sk
+Renátka:
+  gender_flag: 1
+  is_short_for:
+  - Renáta
+  lang:
+  - cs
+Renã:
+  gender_flag: 2
+  is_a_variant_of:
+  - Renan
+  lang:
+  - pt
+René:
+  gender_flag: 2
+  lang:
+  - cs
+  - da
+  - de
+  - es
+  - fr
+  - sk
+  origin:
+  - fr
+Renée:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+Renës:
+  gender_flag: 2
+  is_equivalent_to:
+  - Laurence
+  lang:
+  - sq
+  origin:
+  - la
+Renārs:
+  gender_flag: 2
+  lang:
+  - lv
+Renāte:
+  gender_flag: 1
+  lang:
+  - lv
+Renča:
+  gender_flag: 1
+  is_short_for:
+  - Renáta
+  lang:
+  - cs
+Renė:
+  gender_flag: 1
+  lang:
+  - lt
+Reod:
+  lang:
+  - goh
+Requiário:
+  gender_flag: 2
+  lang:
+  - pt
+Resi:
+  gender_flag: 1
+  is_short_for:
+  - Theresa
+  lang:
+  - de
+Respati:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Restituto:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - es
+Reta:
+  gender_flag: 1
+  lang:
+  - en
+Retno:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Retsel:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - ceb
+Reub:
+  gender_flag: 2
+  is_short_for:
+  - Reuben
+  lang:
+  - en
+Reuben:
+  gender_flag: 2
+  lang:
+  - en
+Reubs:
+  gender_flag: 2
+  is_short_for:
+  - Reuben
+  lang:
+  - en
+Reuel:
+  gender_flag: 2
+  lang:
+  - en
+Reuven:
+  gender_flag: 2
+  lang:
+  - en
+Revati:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Revna:
+  gender_flag: 1
+  lang:
+  - fo
+Revvy:
+  gender_flag: 1
+  lang:
+  - en
+Rewi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Louis
+  lang:
+  - mi
+Rex:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - la
+Rey:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+Reyansh:
+  gender_flag: 2
+  lang:
+  - en
+Reyhan:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Reyna:
+  gender_flag: 1
+  lang:
+  - es
+Reynaldo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Reynold
+  lang:
+  - es
+Reynard:
+  gender_flag: 2
+  lang:
+  - en
+Reynato:
+  gender_flag: 2
+  lang:
+  - tl
+  origin:
+  - es
+Reynir:
+  gender_flag: 2
+  lang:
+  - is
+Reynold:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Reza:
+  gender_flag: 2
+  lang:
+  - en
+  - id
+  origin:
+  - fa
+Rezaqoli: {}
+Rezső:
+  gender_flag: 2
+  lang:
+  - hu
+Reşat:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Rhabia:
+  gender_flag: 1
+  lang:
+  - oc
+  origin:
+  - ar
+Rhazès:
+  gender_flag: 2
+  lang:
+  - fr
+Rhea:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - grc
+Rhegan:
+  gender_flag: 1
+  lang:
+  - en
+Rhescuporis:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - txh
+Rhett:
+  gender_flag: 2
+  lang:
+  - en
+Rhian:
+  gender_flag: 7
+  lang:
+  - cy
+  - en
+  origin:
+  - cy
+  - wlm
+Rhianna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Rhiannon:
+  gender_flag: 1
+  lang:
+  - cy
+  - en
+  origin:
+  - cy
+  - wlm
+Rhianwen:
+  gender_flag: 1
+  lang:
+  - cy
+  - en
+  origin:
+  - cy
+  - wlm
+Rhijnvis:
+  gender_flag: 2
+  lang:
+  - nl
+Rhoda:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Rhodri:
+  gender_flag: 2
+  lang:
+  - cy
+Rhona:
+  gender_flag: 1
+  lang:
+  - en
+Rhonda:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cy
+Rhuan:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ruan
+  lang:
+  - pt
+Rhun:
+  gender_flag: 2
+  lang:
+  - cy
+Rhys:
+  gender_flag: 2
+  lang:
+  - cy
+  - en
+  origin:
+  - owl
+Ria:
+  gender_flag: 1
+  lang:
+  - fo
+Riaan:
+  gender_flag: 2
+  lang:
+  - en
+Riad:
+  gender_flag: 2
+  lang:
+  - fr
+  - pt
+  origin:
+  - ar
+Riagad:
+  gender_flag: 2
+  lang:
+  - br
+Rian:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ryan
+  lang:
+  - en
+Ric:
+  gender_flag: 2
+  lang:
+  - en
+Rica:
+  gender_flag: 1
+  lang:
+  - ceb
+Ricar:
+  gender_flag: 2
+  lang:
+  - ceb
+Ricard:
+  gender_flag: 2
+  is_equivalent_to:
+  - Richard
+  lang:
+  - ca
+Ricarda:
+  gender_flag: 1
+  lang:
+  - de
+  - es
+Ricardo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Richard
+  lang:
+  - en
+  - es
+  - pt
+  - tl
+  origin:
+  - es
+  - pt
+Ricarte:
+  gender_flag: 2
+  lang:
+  - ceb
+  - tl
+Ricberht:
+  gender_flag: 2
+  lang:
+  - ang
+Riccardo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Richard
+  lang:
+  - it
+Ricciardo:
+  gender_flag: 2
+  lang:
+  - it
+Ricciotti:
+  gender_flag: 2
+  lang:
+  - it
+Rich:
+  gender_flag: 2
+  is_short_for:
+  - Richard
+  lang:
+  - en
+Richanda:
+  gender_flag: 1
+  lang:
+  - en
+Richard:
+  gender_flag: 2
+  lang:
+  - ceb
+  - cs
+  - da
+  - de
+  - en
+  - es
+  - et
+  - fr
+  - 'no'
+  - oc
+  - sk
+  - sv
+  origin:
+  - en
+  - gem
+Richart:
+  gender_flag: 2
+  is_equivalent_to:
+  - Richard
+  lang:
+  - fro
+Richie:
+  gender_flag: 2
+  is_short_for:
+  - Richard
+  lang:
+  - en
+Richmal:
+  gender_flag: 1
+  lang:
+  - en
+Richmond:
+  gender_flag: 2
+  lang:
+  - en
+Richy:
+  gender_flag: 2
+  is_short_for:
+  - Richard
+  lang:
+  - en
+Richárd:
+  gender_flag: 2
+  is_equivalent_to:
+  - Richard
+  lang:
+  - hu
+Rick:
+  gender_flag: 2
+  is_short_for:
+  - Richard
+  lang:
+  - en
+Rickard:
+  gender_flag: 2
+  lang:
+  - sv
+Rickey:
+  gender_flag: 2
+  lang:
+  - en
+Ricki:
+  gender_flag: 7
+  is_short_for:
+  - Richard
+  lang:
+  - en
+  origin:
+  - gem
+Rickie:
+  gender_flag: 7
+  is_short_for:
+  - Richard
+  lang:
+  - en
+Ricky:
+  gender_flag: 2
+  is_short_for:
+  - Richard
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Rico:
+  gender_flag: 2
+  is_short_for:
+  - Ricardo
+  lang:
+  - en
+  - es
+  - it
+Ricosind:
+  gender_flag: 2
+  lang:
+  - ca
+  origin:
+  - got
+Ricosinde:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - got
+Ricoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Riddhi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - hi
+Ridge:
+  gender_flag: 2
+  lang:
+  - en
+Ridley:
+  gender_flag: 3
+  lang:
+  - en
+Rie:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  - nl
+  origin:
+  - da
+  - ja
+  - nl
+Rieg:
+  gender_flag: 2
+  lang:
+  - br
+Rigel:
+  gender_flag: 2
+  lang:
+  - ceb
+Rigmor:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+  - sv
+Rigoberto:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - gem-pro
+Rihanna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Rihard:
+  gender_flag: 2
+  is_a_variant_of:
+  - Richard
+  lang:
+  - et
+Rihards:
+  gender_flag: 2
+  lang:
+  - lv
+Rihari:
+  gender_flag: 2
+  is_equivalent_to:
+  - Richard
+  lang:
+  - mi
+Rihhilt:
+  gender_flag: 1
+  lang:
+  - goh
+Riho:
+  gender_flag: 2
+  lang:
+  - et
+Riika:
+  gender_flag: 1
+  lang:
+  - fi
+Riikka:
+  gender_flag: 1
+  lang:
+  - fi
+Riikki:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Riin:
+  gender_flag: 1
+  lang:
+  - et
+Riina:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Riinu:
+  gender_flag: 1
+  lang:
+  - et
+Riitta:
+  gender_flag: 1
+  lang:
+  - fi
+Riitta-Liisa:
+  gender_flag: 1
+  lang:
+  - fi
+Riivo:
+  gender_flag: 2
+  lang:
+  - et
+Rik:
+  gender_flag: 2
+  lang:
+  - en
+  - nl
+Rika:
+  gender_flag: 1
+  lang:
+  - en
+  - sq
+  origin:
+  - ja
+Rikako:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Rikan:
+  gender_flag: 1
+  lang:
+  - lnd
+Rikard:
+  gender_flag: 2
+  is_equivalent_to:
+  - Richard
+  lang:
+  - fo
+  - 'no'
+  - sv
+Rikeneu:
+  gender_flag: 2
+  lang:
+  - obt
+Rikka:
+  gender_flag: 1
+  lang:
+  - fo
+Rikke:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Rikki:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Rikoy:
+  gender_flag: 2
+  lang:
+  - ceb
+Riku:
+  gender_flag: 2
+  lang:
+  - fi
+Rikvidh:
+  gender_flag: 2
+  lang:
+  - gmq-osw
+Riley:
+  gender_flag: 7
+  lang:
+  - en
+Rilie:
+  gender_flag: 1
+  lang:
+  - en
+Rilla:
+  gender_flag: 1
+  is_short_for:
+  - Marilla
+  lang:
+  - en
+Rima:
+  gender_flag: 1
+  lang:
+  - lt
+Rimantas:
+  gender_flag: 2
+  lang:
+  - lt
+Rimantė:
+  gender_flag: 1
+  lang:
+  - lt
+Rimey:
+  gender_flag: 2
+  lang:
+  - wa
+Rimgaudas:
+  gender_flag: 2
+  lang:
+  - lt
+Rimvydas:
+  gender_flag: 2
+  lang:
+  - lt
+Rimåke:
+  gender_flag: 2
+  lang:
+  - wa
+Rina:
+  gender_flag: 1
+  lang:
+  - en
+  - id
+  - it
+  origin:
+  - grc
+  - jv
+Rinaldo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Reynold
+  lang:
+  - it
+  origin:
+  - gem-pro
+Rinalds:
+  gender_flag: 2
+  lang:
+  - lv
+Rinat:
+  gender_flag: 2
+  lang:
+  - az
+Rindu:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - ms
+Ringo:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Rinim:
+  gender_flag: 2
+  lang:
+  - sq
+Rinor:
+  gender_flag: 2
+  lang:
+  - sq
+Rinosh:
+  gender_flag: 2
+  lang:
+  - sq
+Rinus:
+  gender_flag: 2
+  lang:
+  - nl
+Rio:
+  gender_flag: 7
+  lang:
+  - en
+  - id
+  origin:
+  - jv
+Rioc:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - br
+Rion:
+  gender_flag: 2
+  lang:
+  - en
+Riowen:
+  gender_flag: 2
+  lang:
+  - br
+Rip:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - nl
+Riria:
+  gender_flag: 1
+  lang:
+  - mi
+Riripeti:
+  gender_flag: 1
+  lang:
+  - mi
+Risa:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Risako:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Rishabh:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hi
+Rishi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Riski:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - ar
+Risky:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - ar
+Riste:
+  gender_flag: 1
+  lang:
+  - et
+Risteard:
+  gender_flag: 2
+  is_equivalent_to:
+  - Richard
+  lang:
+  - ga
+  origin:
+  - gem
+Risten:
+  gender_flag: 1
+  is_equivalent_to:
+  - Christina
+  lang:
+  - se
+Risto:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Rita:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - et
+  - fo
+  - hu
+  - it
+  - lt
+  - lv
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - es
+  - it
+  - roa
+  - sa
+Ritchåd:
+  gender_flag: 2
+  is_equivalent_to:
+  - Richard
+  lang:
+  - wa
+Ritesh:
+  gender_flag: 2
+  lang:
+  - en
+Ritu:
+  gender_flag: 1
+  is_short_for:
+  - Riitta
+  - Ritva
+  lang:
+  - en
+  - fi
+Ritva:
+  gender_flag: 1
+  lang:
+  - fi
+  - fo
+Ritvars:
+  gender_flag: 2
+  lang:
+  - lv
+River:
+  gender_flag: 6
+  lang:
+  - en
+Rivka:
+  gender_flag: 1
+  lang:
+  - en
+  - nl
+  origin:
+  - he
+Riwal:
+  gender_flag: 2
+  lang:
+  - br
+Riwalig:
+  gender_flag: 2
+  is_short_for:
+  - Riwal
+  lang:
+  - br
+Riwan:
+  gender_flag: 2
+  lang:
+  - br
+Riya:
+  gender_flag: 1
+  lang:
+  - en
+Riyanto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Riyete:
+  gender_flag: 1
+  is_equivalent_to:
+  - Henrietta
+  lang:
+  - wa
+Rizalina:
+  gender_flag: 1
+  lang:
+  - tl
+Rizalino:
+  gender_flag: 2
+  lang:
+  - tl
+Rizgar:
+  gender_flag: 2
+  lang:
+  - kmr
+Rizka:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - ar
+Rizki:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - ar
+Rizky:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - ar
+Rián:
+  gender_flag: 2
+  lang:
+  - ga
+  origin:
+  - sga
+Riçard: {}
+Ričardas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Richard
+  lang:
+  - lt
+Ričards:
+  gender_flag: 2
+  lang:
+  - lv
+Rišo:
+  gender_flag: 2
+  is_short_for:
+  - Richard
+  lang:
+  - sk
+Rmey:
+  gender_flag: 2
+  lang:
+  - wa
+Rmåke:
+  gender_flag: 2
+  lang:
+  - wa
+Roa: {}
+Roald:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Roar:
+  gender_flag: 2
+  lang:
+  - 'no'
+Rob:
+  gender_flag: 2
+  is_short_for:
+  - Robert
+  lang:
+  - en
+  - gd
+  - nl
+Robaidh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robbie
+  is_short_for:
+  - Raibeart
+  lang:
+  - gd
+Robard:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robert
+  lang:
+  - gv
+  origin:
+  - gem
+Robbert:
+  gender_flag: 2
+  lang:
+  - nl
+Robbi:
+  gender_flag: 1
+  is_short_for:
+  - Roberta
+  lang:
+  - en
+Robbie:
+  gender_flag: 7
+  is_short_for:
+  - Robert
+  - Roberta
+  lang:
+  - en
+Robbin:
+  gender_flag: 7
+  lang:
+  - en
+Robbo:
+  gender_flag: 2
+  lang:
+  - en
+Robby:
+  gender_flag: 7
+  is_short_for:
+  - Robert
+  - Roberta
+  lang:
+  - en
+Rober:
+  gender_flag: 2
+  is_short_for:
+  - Roberto
+  lang:
+  - es
+Robert:
+  gender_flag: 2
+  lang:
+  - ca
+  - ceb
+  - cs
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - fo
+  - fr
+  - fro
+  - nl
+  - 'no'
+  - pl
+  - sv
+Roberta:
+  gender_flag: 1
+  lang:
+  - ca
+  - en
+  - es
+  - it
+  - la
+  - pt
+  - ro
+  origin:
+  - gem
+Robertas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robert
+  lang:
+  - lt
+Roberte:
+  gender_flag: 1
+  lang:
+  - fr
+Robertek:
+  gender_flag: 2
+  is_short_for:
+  - Robert
+  lang:
+  - cs
+Roberto:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robert
+  lang:
+  - eo
+  - es
+  - it
+  - pt
+  - tl
+Roberts:
+  gender_flag: 2
+  lang:
+  - lv
+Robertus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robert
+  lang:
+  - la
+Robi:
+  gender_flag: 2
+  is_short_for:
+  - Róbert
+  lang:
+  - et
+  - hu
+Robiet:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robert
+  lang:
+  - wa
+Robin:
+  gender_flag: 7
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - enm
+  - et
+  - fr
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - gem
+  - roa
+Robina:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+Robinson:
+  gender_flag: 2
+  lang:
+  - en
+Robson:
+  gender_flag: 2
+  lang:
+  - pt
+Robur:
+  gender_flag: 2
+  lang:
+  - en
+Robyn:
+  gender_flag: 7
+  is_a_variant_of:
+  - Robin
+  lang:
+  - en
+  origin:
+  - gem
+Robèrt:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robert
+  lang:
+  - nrf
+Roc:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rocco
+  lang:
+  - ca
+Rocco:
+  gender_flag: 2
+  lang:
+  - en
+  - it
+  origin:
+  - it
+Roch:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rocco
+  lang:
+  - fr
+Rochelle:
+  gender_flag: 1
+  lang:
+  - en
+Rock:
+  gender_flag: 2
+  lang:
+  - en
+Rocky:
+  gender_flag: 2
+  lang:
+  - en
+Rocío:
+  gender_flag: 1
+  lang:
+  - es
+Rod:
+  gender_flag: 2
+  lang:
+  - en
+Roda:
+  gender_flag: 1
+  lang:
+  - fo
+Rodaidh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roddy
+  is_short_for:
+  - Ruairidh
+  lang:
+  - gd
+Rodders:
+  gender_flag: 2
+  lang:
+  - en
+Roddie:
+  gender_flag: 7
+  is_short_for:
+  - Roderick
+  lang:
+  - en
+Roddy:
+  gender_flag: 2
+  is_short_for:
+  - Roderick
+  lang:
+  - en
+Rodel:
+  gender_flag: 2
+  lang:
+  - ceb
+Rodelio:
+  gender_flag: 2
+  lang:
+  - ceb
+Roderick:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Rodericus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roderick
+  lang:
+  - la
+  origin:
+  - gem-pro
+Rodge:
+  gender_flag: 2
+  lang:
+  - en
+Rodgeir:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roger
+  lang:
+  - nn
+  origin:
+  - non
+Rodger:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Rodica:
+  gender_flag: 1
+  lang:
+  - ro
+Rodjî:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roger
+  lang:
+  - wa
+Rodleivur:
+  gender_flag: 2
+  lang:
+  - fo
+Rodmar:
+  gender_flag: 2
+  lang:
+  - fo
+Rodmundur:
+  gender_flag: 2
+  lang:
+  - fo
+Rodney:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Rodny:
+  gender_flag: 1
+  lang:
+  - sv
+Rodole:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rudolf
+  lang:
+  - wa
+Rodolfa:
+  gender_flag: 1
+  lang:
+  - ca
+  - es
+  - gl
+Rodolfo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rudolph
+  lang:
+  - es
+  - it
+  - pt
+  - tl
+  origin:
+  - es
+  - gem
+  - gem-pro
+Rodolph:
+  gender_flag: 2
+  lang:
+  - en
+Rodolphe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rudolph
+  lang:
+  - fr
+Rodolpho: {}
+Rodri:
+  gender_flag: 2
+  is_short_for:
+  - Rodrigo
+  lang:
+  - es
+Rodrick:
+  gender_flag: 2
+  lang:
+  - en
+Rodrigo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roderick
+  lang:
+  - ceb
+  - es
+  - gl
+  - it
+  - pt
+  - tl
+  origin:
+  - es
+  - gem-pro
+  - got
+Rody:
+  gender_flag: 2
+  is_short_for:
+  - Rodelio
+  - Rodolfo
+  - Rodrigo
+  lang:
+  - ceb
+  - tl
+Roel:
+  gender_flag: 2
+  lang:
+  - ceb
+  - nl
+Roela:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - ceb
+Roeland:
+  gender_flag: 2
+  lang:
+  - nl
+Roelof:
+  gender_flag: 2
+  lang:
+  - nl
+Roena:
+  gender_flag: 1
+  lang:
+  - en
+Roffe:
+  gender_flag: 2
+  is_short_for:
+  - Rolf
+  lang:
+  - sv
+Rog:
+  gender_flag: 2
+  lang:
+  - en
+Rogaziano:
+  gender_flag: 2
+  lang:
+  - it
+Rogelio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roger
+  lang:
+  - es
+Rogelyn:
+  gender_flag: 1
+  lang:
+  - ceb
+Roger:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  - 'no'
+  - sv
+  origin:
+  - gem
+Rogerio:
+  gender_flag: 2
+  is_a_variant_of:
+  - Rogério
+  lang:
+  - pt
+Rogerius:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roger
+  lang:
+  - la
+Roggero:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ruggero
+  lang:
+  - it
+Rogier:
+  gender_flag: 2
+  lang:
+  - frm
+  - fro
+  - nl
+Rogério:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roger
+  lang:
+  - pt
+  origin:
+  - gem
+Rohan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Rohini:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Rohit:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Roi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roderick
+  lang:
+  - gl
+Roibeárd:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robert
+  lang:
+  - ga
+Roine:
+  gender_flag: 3
+  lang:
+  - fi
+Roisin:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Rojda:
+  gender_flag: 1
+  lang:
+  - kmr
+  - tr
+Rojelyn:
+  gender_flag: 1
+  lang:
+  - ceb
+Rojîn:
+  gender_flag: 1
+  lang:
+  - kmr
+Rok:
+  gender_flag: 2
+  lang:
+  - wa
+Rokas:
+  gender_flag: 2
+  lang:
+  - lt
+Roksana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Roxana
+  lang:
+  - pl
+Rolan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roland
+  lang:
+  - ceb
+  - gv
+Roland:
+  gender_flag: 2
+  lang:
+  - ca
+  - ceb
+  - cs
+  - de
+  - en
+  - et
+  - fr
+  - hu
+  - pl
+  - sk
+  - sv
+  origin:
+  - en
+  - gem
+Rolanda:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  origin:
+  - gem
+Rolandas:
+  gender_flag: 2
+  lang:
+  - lt
+Rolande:
+  gender_flag: 1
+  lang:
+  - fr
+Rolando:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roland
+  - Rowland
+  lang:
+  - ceb
+  - es
+  - it
+  - pt
+  - tl
+  origin:
+  - es
+  - gem
+  - gem-pro
+Rolands:
+  gender_flag: 2
+  lang:
+  - lv
+Rolant:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roland
+  lang:
+  - fro
+Roldan:
+  gender_flag: 2
+  lang:
+  - ceb
+Roletus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - frm
+Rolf:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  - 'no'
+  - sv
+Roli:
+  gender_flag: 2
+  is_short_for:
+  - Roland
+  lang:
+  - hu
+Roll:
+  gender_flag: 2
+  is_short_for:
+  - Roland
+  lang:
+  - en
+Rollant:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roland
+  lang:
+  - fro
+Rolli:
+  gender_flag: 2
+  is_short_for:
+  - Roland
+  lang:
+  - de
+Rollie:
+  gender_flag: 2
+  lang:
+  - en
+Rollo:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Rollon:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rollo
+  lang:
+  - nrf
+Rolly:
+  gender_flag: 2
+  is_short_for:
+  - Roland
+  - Rolando
+  lang:
+  - en
+  - tl
+Rolv:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Roly:
+  gender_flag: 2
+  is_short_for:
+  - Roland
+  lang:
+  - en
+Roma:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Romaan:
+  gender_flag: 2
+  lang:
+  - nl
+Romain:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+  - la
+Romaine:
+  gender_flag: 1
+  lang:
+  - fr
+Roman:
+  gender_flag: 2
+  lang:
+  - ceb
+  - cs
+  - de
+  - en
+  - et
+  - pl
+  - sk
+  origin:
+  - la
+Romana:
+  gender_flag: 1
+  lang:
+  - cs
+  - it
+  - sh
+  - sk
+  - tl
+Romanas:
+  gender_flag: 2
+  lang:
+  - lt
+Romane:
+  gender_flag: 1
+  lang:
+  - fr
+Romanka:
+  gender_flag: 1
+  is_short_for:
+  - Romana
+  lang:
+  - cs
+Romano:
+  gender_flag: 2
+  lang:
+  - ceb
+  - it
+  origin:
+  - la
+Romans:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - la
+Romanus:
+  gender_flag: 2
+  lang:
+  - la
+Romas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roman
+  lang:
+  - lt
+Romein:
+  gender_flag: 2
+  lang:
+  - nl
+Romek:
+  gender_flag: 2
+  is_short_for:
+  - Roman
+  lang:
+  - pl
+Romeo:
+  gender_flag: 2
+  lang:
+  - en
+  - it
+  origin:
+  - roa
+Romet:
+  gender_flag: 2
+  is_a_variant_of:
+  - Roomet
+  lang:
+  - et
+Romeu:
+  gender_flag: 2
+  is_equivalent_to:
+  - Romeo
+  lang:
+  - pt
+Romieg:
+  gender_flag: 2
+  lang:
+  - oc
+Romina:
+  gender_flag: 1
+  lang:
+  - en
+Romola:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  origin:
+  - it
+Romolo:
+  gender_flag: 2
+  lang:
+  - it
+Romuald:
+  gender_flag: 2
+  is_equivalent_to:
+  - Romualdo
+  lang:
+  - fr
+  - pl
+Romualda:
+  gender_flag: 1
+  lang:
+  - lt
+  - pl
+Romualdas:
+  gender_flag: 2
+  lang:
+  - lt
+Romualdo:
+  gender_flag: 2
+  lang:
+  - es
+  - it
+  - pt
+  - tl
+  origin:
+  - es
+Romualds:
+  gender_flag: 2
+  lang:
+  - lv
+Romulo:
+  gender_flag: 2
+  lang:
+  - ceb
+  - tl
+  origin:
+  - es
+Romy:
+  gender_flag: 1
+  lang:
+  - en
+Román:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roman
+  lang:
+  - es
+  - gl
+  origin:
+  - la
+Romão:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roman
+  lang:
+  - pt
+  origin:
+  - la
+Roméo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Romeo
+  lang:
+  - fr
+Romāns:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - la
+Romča:
+  gender_flag: 1
+  is_short_for:
+  - Romana
+  lang:
+  - cs
+Ron:
+  gender_flag: 2
+  is_short_for:
+  - Ronald
+  lang:
+  - en
+  - enm
+Rona:
+  gender_flag: 1
+  lang:
+  - en
+Ronald:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - 'no'
+  - sv
+  origin:
+  - en
+  - gem
+Ronaldinho:
+  gender_flag: 2
+  is_short_for:
+  - Ronaldo
+  lang:
+  - pt
+Ronaldo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ronald
+  lang:
+  - ceb
+  - es
+  - it
+  - pt
+  origin:
+  - en
+Ronalds:
+  gender_flag: 2
+  lang:
+  - lv
+Ronan:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - ga
+Ronda:
+  gender_flag: 1
+  lang:
+  - en
+Ronel:
+  gender_flag: 2
+  lang:
+  - ceb
+Ronette:
+  gender_flag: 1
+  lang:
+  - en
+Roni:
+  gender_flag: 2
+  lang:
+  - fi
+Ronia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ru
+  - sv
+Ronike:
+  gender_flag: 1
+  is_equivalent_to:
+  - Veronica
+  lang:
+  - wa
+Ronin:
+  gender_flag: 2
+  lang:
+  - en
+Ronja:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ronia
+  lang:
+  - de
+  - en
+  - fi
+  - fo
+  - 'no'
+  - sv
+  origin:
+  - ru
+  - sv
+Ronni:
+  gender_flag: 2
+  lang:
+  - da
+  - fo
+Ronnie:
+  gender_flag: 7
+  is_short_for:
+  - Ronald
+  - Veronica
+  lang:
+  - da
+  - en
+  - sv
+Ronny:
+  gender_flag: 2
+  is_short_for:
+  - Ronald
+  lang:
+  - en
+  - 'no'
+  - sv
+Ronron:
+  gender_flag: 2
+  lang:
+  - ceb
+Ronya:
+  gender_flag: 1
+  is_a_variant_of:
+  - Ronia
+  lang:
+  - en
+  origin:
+  - ru
+  - sv
+Ronî:
+  gender_flag: 2
+  lang:
+  - kmr
+Roomet:
+  gender_flag: 2
+  lang:
+  - et
+Roopa:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Roope:
+  gender_flag: 2
+  lang:
+  - fi
+Roopertti:
+  gender_flag: 2
+  lang:
+  - fi
+Roos:
+  gender_flag: 1
+  lang:
+  - nl
+Roosa:
+  gender_flag: 1
+  lang:
+  - fi
+Roosevelt:
+  gender_flag: 2
+  lang:
+  - en
+Roosi:
+  gender_flag: 1
+  lang:
+  - et
+Roparzh:
+  gender_flag: 2
+  lang:
+  - br
+Roque:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rocco
+  lang:
+  - pt
+Rory:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ga
+Ros:
+  gender_flag: 1
+  is_short_for:
+  - Rosalind
+  - Rosamund
+  lang:
+  - en
+  - sv
+Ros-Mari:
+  gender_flag: 1
+  is_a_variant_of:
+  - Rose-Marie
+  lang:
+  - sv
+Ros-Marie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Rose-Marie
+  lang:
+  - sv
+Rosa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rose
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - es
+  - fi
+  - it
+  - pt
+  - sv
+  - tl
+  origin:
+  - es
+  - la
+RosaLee:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Rosabel:
+  gender_flag: 1
+  lang:
+  - en
+Rosabella:
+  gender_flag: 1
+  lang:
+  - en
+Rosalee:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Rosaleen:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ga
+Rosalia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rosalie
+  lang:
+  - it
+Rosalie:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+Rosalina:
+  gender_flag: 1
+  lang:
+  - ceb
+  - es
+  - oc
+  - pt
+  - tl
+  origin:
+  - es
+Rosalind:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Rosalinda:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rosalind
+  lang:
+  - it
+Rosaline:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Rosalyn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Rosaline
+  lang:
+  - en
+  origin:
+  - la
+Rosalynn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Rosaline
+  lang:
+  - en
+  origin:
+  - la
+Rosalía:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rosalie
+  lang:
+  - es
+  origin:
+  - la
+Rosamond:
+  gender_flag: 1
+  is_a_variant_of:
+  - Rosamund
+  lang:
+  - en
+  origin:
+  - gem
+Rosamund:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Rosana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rosanne
+  - Roxanne
+  lang:
+  - pt
+Rosanna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Rosanne:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Rosario:
+  gender_flag: 3
+  lang:
+  - ceb
+  - es
+  - it
+  - tl
+  origin:
+  - es
+Rosaura:
+  gender_flag: 1
+  lang:
+  - ceb
+  - es
+  origin:
+  - es
+Rosauro:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+  - tl
+  origin:
+  - es
+Roscoe:
+  gender_flag: 2
+  lang:
+  - en
+Rose:
+  gender_flag: 1
+  is_a_variant_of:
+  - Rosa
+  lang:
+  - ceb
+  - de
+  - en
+  - fr
+  - tl
+  origin:
+  - en
+Rose Anne:
+  gender_flag: 1
+  lang:
+  - en
+Rose-Anne:
+  gender_flag: 1
+  lang:
+  - en
+Rose-Marie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rosemary
+  lang:
+  - fr
+  - sv
+RoseAnne:
+  gender_flag: 1
+  lang:
+  - en
+Roseanna:
+  gender_flag: 1
+  lang:
+  - en
+Roseanne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Rosanne
+  lang:
+  - en
+  origin:
+  - la
+Rosela:
+  gender_flag: 1
+  lang:
+  - ceb
+Roselani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Roselia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rosalie
+  lang:
+  - en
+Roseline:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rosaline
+  lang:
+  - fr
+Roselle:
+  gender_flag: 1
+  lang:
+  - en
+Roselyn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Rosaline
+  lang:
+  - en
+  origin:
+  - la
+Roselyne:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rosaline
+  lang:
+  - fr
+Rosemarie:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+Rosemary:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+  - la
+Rosendo:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+  - tl
+  origin:
+  - es
+Roser:
+  gender_flag: 3
+  lang:
+  - ca
+Rosetta:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  origin:
+  - it
+Rosey:
+  gender_flag: 3
+  is_a_variant_of:
+  - Rosie
+  is_short_for:
+  - Roosevelt
+  lang:
+  - en
+Rosi:
+  gender_flag: 1
+  is_short_for:
+  - Rosa
+  lang:
+  - es
+Rosie:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Rosina:
+  gender_flag: 1
+  lang:
+  - en
+  - it
+  origin:
+  - it
+Rosing:
+  gender_flag: 1
+  is_short_for:
+  - Rosa
+  lang:
+  - tl
+Rosita:
+  gender_flag: 1
+  is_short_for:
+  - Rosa
+  lang:
+  - ceb
+  - es
+  - nl
+  - tl
+  origin:
+  - es
+Roslyn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Rosmunda:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rosamund
+  lang:
+  - it
+Ross:
+  gender_flag: 2
+  lang:
+  - en
+Rossa:
+  gender_flag: 1
+  lang:
+  - it
+Rossana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Roxana
+  lang:
+  - it
+Rossele:
+  gender_flag: 1
+  lang:
+  - wa
+Rossella:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - it
+Rostislav:
+  gender_flag: 2
+  lang:
+  - cs
+Roswitha:
+  gender_flag: 1
+  lang:
+  - de
+Rosy:
+  gender_flag: 1
+  is_a_variant_of:
+  - Rosie
+  lang:
+  - en
+Rosťa:
+  gender_flag: 2
+  is_short_for:
+  - Rostislav
+  lang:
+  - cs
+Rota:
+  gender_flag: 1
+  lang:
+  - lv
+Rotimi:
+  gender_flag: 2
+  lang:
+  - yo
+Rou:
+  gender_flag: 2
+  lang:
+  - nrf
+Rousalie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rosalie
+  lang:
+  - nrf
+Rowan:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+  - ga
+Rowen:
+  gender_flag: 2
+  lang:
+  - en
+Rowena:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - gem
+  - osx
+Rowenna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Rowland:
+  gender_flag: 2
+  is_a_variant_of:
+  - Roland
+  lang:
+  - en
+  origin:
+  - gem
+Roxana:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - pt
+  origin:
+  - fa
+Roxane:
+  gender_flag: 1
+  is_equivalent_to:
+  - Roxana
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+  - grc
+  - peo
+Roxanna:
+  gender_flag: 1
+  is_a_variant_of:
+  - Roxana
+  lang:
+  - en
+  origin:
+  - fa
+Roxanne:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fa
+Roxeanne:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fa
+Roxie:
+  gender_flag: 1
+  lang:
+  - en
+Roxy:
+  gender_flag: 1
+  lang:
+  - en
+Roy:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  - 'no'
+  - sv
+  origin:
+  - en
+Royal:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - en
+Royce:
+  gender_flag: 7
+  lang:
+  - en
+Royston:
+  gender_flag: 2
+  lang:
+  - en
+Royða:
+  gender_flag: 1
+  lang:
+  - fo
+Rozalia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rosalie
+  lang:
+  - pl
+Rozalija:
+  gender_flag: 1
+  lang:
+  - sl
+Rozalind:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Roze:
+  gender_flag: 1
+  lang:
+  - fr
+Rozelle:
+  gender_flag: 1
+  lang:
+  - en
+Rozenn:
+  gender_flag: 1
+  lang:
+  - br
+Rozennig:
+  gender_flag: 1
+  is_short_for:
+  - Rozenn
+  lang:
+  - br
+Rozália:
+  gender_flag: 1
+  lang:
+  - sk
+Rozálie:
+  gender_flag: 1
+  lang:
+  - cs
+Roði:
+  gender_flag: 2
+  lang:
+  - fo
+Roĥo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rocco
+  lang:
+  - eo
+  origin:
+  - it
+Rościsław:
+  gender_flag: 2
+  lang:
+  - pl
+Rraman:
+  gender_flag: 2
+  lang:
+  - sq
+Rrapi:
+  gender_flag: 2
+  lang:
+  - sq
+Rrezag:
+  gender_flag: 2
+  lang:
+  - sq
+Rrezargjend:
+  gender_flag: 2
+  lang:
+  - sq
+Rrok:
+  gender_flag: 2
+  lang:
+  - sq
+Rron:
+  gender_flag: 2
+  lang:
+  - sq
+Ruadhán:
+  gender_flag: 2
+  lang:
+  - ga
+  origin:
+  - sga
+Ruaidrí:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rory
+  lang:
+  - sga
+Ruairi:
+  gender_flag: 2
+  lang:
+  - en
+Ruairidh:
+  gender_flag: 2
+  is_equivalent_to:
+  - Derick
+  - Roderick
+  - Rory
+  lang:
+  - gd
+  origin:
+  - sga
+Ruairí:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rory
+  lang:
+  - ga
+  origin:
+  - sga
+Ruan:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - es
+Ruaraidh:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ruairidh
+  is_equivalent_to:
+  - Rory
+  lang:
+  - gd
+Ruaree:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rory
+  lang:
+  - gv
+  origin:
+  - sga
+Rubbeen:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robin
+  lang:
+  - yol
+Rube:
+  gender_flag: 2
+  is_short_for:
+  - Reuben
+  lang:
+  - en
+Rubekur:
+  gender_flag: 2
+  lang:
+  - fo
+Ruben:
+  gender_flag: 2
+  is_a_variant_of:
+  - Reuben
+  lang:
+  - da
+  - de
+  - en
+  - fo
+  - fr
+  - it
+  - la
+  - nl
+  - 'no'
+  - sh
+  - sv
+  origin:
+  - he
+Rubenia:
+  gender_flag: 1
+  lang:
+  - es
+Rubens:
+  gender_flag: 2
+  is_equivalent_to:
+  - Reuben
+  lang:
+  - pt
+Ruberto:
+  gender_flag: 2
+  is_a_variant_of:
+  - Roberto
+  lang:
+  - it
+Rubilyn:
+  gender_flag: 1
+  lang:
+  - ceb
+Rubin:
+  gender_flag: 2
+  is_a_variant_of:
+  - Reuben
+  lang:
+  - en
+Rubinho:
+  gender_flag: 2
+  is_short_for:
+  - Rubens
+  lang:
+  - pt
+Ruby:
+  gender_flag: 7
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Rubèn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Reuben
+  lang:
+  - ca
+Rubén:
+  gender_flag: 2
+  is_equivalent_to:
+  - Reuben
+  lang:
+  - es
+Ruda:
+  gender_flag: 2
+  is_short_for:
+  - Rudolf
+  lang:
+  - cs
+Rudaba:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fa
+Ruddhi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mr
+Rudi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rudy
+  is_short_for:
+  - Rudolf
+  lang:
+  - af
+  - de
+  - en
+  origin:
+  - de
+Rudo:
+  gender_flag: 2
+  is_short_for:
+  - Rudolf
+  lang:
+  - sk
+Rudolf:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rudolph
+  lang:
+  - cs
+  - de
+  - en
+  - et
+  - hu
+  - is
+  - pl
+  - sk
+  - sv
+  origin:
+  - cs
+  - de
+Rudolfek:
+  gender_flag: 2
+  is_short_for:
+  - Rudolf
+  lang:
+  - cs
+Rudolfina:
+  gender_flag: 1
+  lang:
+  - pl
+Rudolph:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Rudy:
+  gender_flag: 2
+  lang:
+  - en
+Rudyard:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - en
+Rudīte:
+  gender_flag: 1
+  lang:
+  - lv
+Rufina:
+  gender_flag: 1
+  lang:
+  - ceb
+Rufino:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+Rufo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rufus
+  lang:
+  - it
+Rufus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Rufôfe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rudolf
+  lang:
+  - wa
+Ruggero:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roger
+  lang:
+  - it
+  origin:
+  - gem-pro
+Ruggiero:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ruggero
+  lang:
+  - it
+Rui:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rod
+  lang:
+  - en
+  - pt
+  origin:
+  - ja
+  - pt
+Ruidíaz:
+  gender_flag: 2
+  lang:
+  - en
+Ruiha:
+  gender_flag: 1
+  is_equivalent_to:
+  - Louisa
+  lang:
+  - mi
+Ruihi:
+  gender_flag: 3
+  is_equivalent_to:
+  - Louis
+  - Louise
+  - Lucy
+  lang:
+  - mi
+Rujiwati:
+  gender_flag: 1
+  lang:
+  - id
+  origin:
+  - jv
+Rukmini:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Ruma:
+  gender_flag: 1
+  lang:
+  - osx
+Rumaldo:
+  gender_flag: 2
+  lang:
+  - es
+Rumiko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Runa:
+  gender_flag: 1
+  lang:
+  - nn
+Runar:
+  gender_flag: 2
+  lang:
+  - nn
+Rune:
+  gender_flag: 2
+  lang:
+  - da
+  - nn
+  - 'no'
+  - sv
+  origin:
+  - non
+Runný:
+  gender_flag: 1
+  lang:
+  - is
+Runólfína:
+  gender_flag: 1
+  lang:
+  - is
+Ruodauui:
+  lang:
+  - goh
+Rupert:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robert
+  lang:
+  - de
+  - en
+  origin:
+  - gem
+Ruperto:
+  gender_flag: 2
+  lang:
+  - ceb
+Rupprecht:
+  gender_flag: 2
+  is_a_variant_of:
+  - Rupert
+  lang:
+  - de
+Ruprecht:
+  gender_flag: 2
+  is_a_variant_of:
+  - Rupert
+  lang:
+  - de
+Rupuni:
+  gender_flag: 1
+  lang:
+  - rom
+Rurika:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Rusbel:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - en
+Rushawn:
+  gender_flag: 2
+  lang:
+  - en
+Rushdie:
+  gender_flag: 2
+  lang:
+  - en
+Ruslan:
+  gender_flag: 2
+  lang:
+  - uz
+Ruslana:
+  gender_flag: 1
+  lang:
+  - en
+Ruslanas:
+  gender_flag: 2
+  lang:
+  - lt
+Russ:
+  gender_flag: 2
+  is_short_for:
+  - Russell
+  lang:
+  - en
+Russel:
+  gender_flag: 2
+  lang:
+  - en
+Russell:
+  gender_flag: 2
+  lang:
+  - en
+Rustico:
+  gender_flag: 2
+  lang:
+  - it
+Rustikus:
+  gender_flag: 2
+  lang:
+  - is
+Rusty:
+  gender_flag: 2
+  lang:
+  - en
+Rut:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ruth
+  lang:
+  - ca
+  - es
+  - fo
+  - is
+  - it
+  - 'no'
+  - sv
+  origin:
+  - he
+Ruta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ruth
+  lang:
+  - lv
+  - mi
+Rute:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ruth
+  lang:
+  - lv
+  - pt
+Ruth:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - et
+  - fr
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - he
+Rutherford:
+  gender_flag: 2
+  lang:
+  - en
+Ruthie:
+  gender_flag: 1
+  is_short_for:
+  - Ruth
+  lang:
+  - en
+Ruthlyn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Rutilio:
+  gender_flag: 2
+  lang:
+  - it
+Rutine:
+  gender_flag: 1
+  lang:
+  - 'no'
+Rutland:
+  gender_flag: 2
+  lang:
+  - en
+Rutt:
+  gender_flag: 1
+  lang:
+  - et
+  - fo
+Rutu:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ruth
+  lang:
+  - mi
+Ruuben:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Ruud:
+  gender_flag: 2
+  lang:
+  - nl
+Ruudi:
+  gender_flag: 2
+  lang:
+  - et
+Ruusu:
+  gender_flag: 1
+  lang:
+  - fi
+Ruut:
+  gender_flag: 3
+  lang:
+  - et
+  - fi
+Ruvon:
+  gender_flag: 2
+  lang:
+  - br
+Ruvona:
+  gender_flag: 1
+  lang:
+  - br
+Ruvonenn:
+  gender_flag: 1
+  lang:
+  - br
+Ruvonez:
+  gender_flag: 1
+  lang:
+  - br
+Ruvonig:
+  gender_flag: 2
+  is_short_for:
+  - Ruvon
+  lang:
+  - br
+Ruxandra:
+  gender_flag: 1
+  lang:
+  - ro
+Ruy:
+  gender_flag: 2
+  lang:
+  - es
+Ružena:
+  gender_flag: 1
+  lang:
+  - sk
+Ruƙayyatu:
+  gender_flag: 1
+  lang:
+  - ha
+Ryamugwiza:
+  gender_flag: 2
+  lang:
+  - rw
+Ryan:
+  gender_flag: 7
+  is_a_variant_of:
+  - Rhian
+  lang:
+  - ceb
+  - en
+  - pt
+  origin:
+  - ar
+  - en
+  - ga
+Ryann:
+  gender_flag: 1
+  lang:
+  - en
+Ryder:
+  gender_flag: 2
+  lang:
+  - en
+Rye:
+  gender_flag: 2
+  lang:
+  - en
+Rye-Rye:
+  gender_flag: 2
+  lang:
+  - en
+Ryhor: {}
+Ryker:
+  gender_flag: 2
+  lang:
+  - en
+Rylan:
+  gender_flag: 7
+  lang:
+  - en
+Ryland:
+  gender_flag: 2
+  lang:
+  - en
+Rylee:
+  gender_flag: 7
+  is_a_variant_of:
+  - Riley
+  lang:
+  - en
+Ryleigh:
+  gender_flag: 1
+  lang:
+  - en
+Rylen:
+  gender_flag: 2
+  lang:
+  - en
+Ryley:
+  gender_flag: 2
+  lang:
+  - en
+Rylie:
+  gender_flag: 7
+  lang:
+  - en
+Rysia:
+  gender_flag: 1
+  is_short_for:
+  - Ryszarda
+  lang:
+  - pl
+Ryszard:
+  gender_flag: 2
+  is_equivalent_to:
+  - Richard
+  lang:
+  - pl
+Ryszarda:
+  gender_flag: 1
+  lang:
+  - pl
+Rytas:
+  gender_flag: 2
+  lang:
+  - lt
+Rytis:
+  gender_flag: 2
+  lang:
+  - lt
+Ryś:
+  gender_flag: 2
+  is_short_for:
+  - Ryszard
+  lang:
+  - pl
+Rza:
+  gender_flag: 2
+  lang:
+  - az
+Rzaqulu:
+  gender_flag: 2
+  lang:
+  - az
+Ráchel:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rachel
+  lang:
+  - hu
+Rán:
+  gender_flag: 1
+  lang:
+  - is
+Rávdná:
+  gender_flag: 1
+  lang:
+  - se
+Ráðhildur:
+  gender_flag: 1
+  lang:
+  - is
+Ráðný:
+  gender_flag: 1
+  lang:
+  - is
+Ráďa:
+  gender_flag: 2
+  is_short_for:
+  - Radek
+  - Radim
+  lang:
+  - cs
+Râché:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rachel
+  lang:
+  - nrf
+Rådulf:
+  gender_flag: 2
+  lang:
+  - sv
+Rædnoþ:
+  gender_flag: 2
+  lang:
+  - ang
+Rædweald:
+  gender_flag: 2
+  lang:
+  - ang
+Rægenbeald:
+  gender_flag: 2
+  lang:
+  - ang
+Rægenhere:
+  gender_flag: 2
+  lang:
+  - ang
+Rèins:
+  gender_flag: 2
+  is_equivalent_to:
+  - Larry
+  is_short_for:
+  - Lurèins
+  lang:
+  - egl
+  origin:
+  - la
+Rèinsa:
+  gender_flag: 1
+  lang:
+  - egl
+Rébecca:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rebecca
+  lang:
+  - fr
+Régine:
+  gender_flag: 1
+  is_equivalent_to:
+  - Regina
+  lang:
+  - fr
+Régis:
+  gender_flag: 2
+  lang:
+  - fr
+Réiltín:
+  gender_flag: 1
+  lang:
+  - ga
+Réjean:
+  gender_flag: 2
+  lang:
+  - fr
+Réjeanne:
+  gender_flag: 1
+  lang:
+  - fr
+Réka:
+  gender_flag: 1
+  lang:
+  - hu
+Rémi:
+  gender_flag: 2
+  lang:
+  - fr
+Rémin:
+  gender_flag: 2
+  lang:
+  - nrf
+Rémy:
+  gender_flag: 2
+  is_a_variant_of:
+  - Remi
+  lang:
+  - fr
+Rénâée:
+  gender_flag: 1
+  lang:
+  - nrf
+Réné:
+  gender_flag: 2
+  lang:
+  - nrf
+Réquila:
+  gender_flag: 2
+  lang:
+  - pt
+Rênas:
+  gender_flag: 2
+  lang:
+  - kmr
+Rêzan:
+  gender_flag: 2
+  lang:
+  - kmr
+Ríkaldur:
+  gender_flag: 2
+  lang:
+  - fo
+Ríke:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Ríkharður:
+  gender_flag: 2
+  is_equivalent_to:
+  - Richard
+  lang:
+  - is
+Ríkin:
+  gender_flag: 2
+  lang:
+  - fo
+Ríkviðr:
+  gender_flag: 2
+  lang:
+  - non
+Rín:
+  gender_flag: 1
+  lang:
+  - is
+Ríta:
+  gender_flag: 1
+  lang:
+  - is
+Ríša:
+  gender_flag: 2
+  is_short_for:
+  - Richard
+  lang:
+  - cs
+Ró:
+  gender_flag: 1
+  lang:
+  - fo
+Róa:
+  gender_flag: 1
+  lang:
+  - fo
+Róaldur:
+  gender_flag: 2
+  lang:
+  - fo
+Róar:
+  gender_flag: 2
+  lang:
+  - fo
+Róbert:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robert
+  lang:
+  - hu
+  - is
+  - sk
+Rógvi:
+  gender_flag: 2
+  lang:
+  - fo
+Róhild:
+  gender_flag: 1
+  lang:
+  - fo
+Rói:
+  gender_flag: 2
+  lang:
+  - fo
+Róis:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rose
+  lang:
+  - ga
+Róisín:
+  gender_flag: 1
+  is_short_for:
+  - Róis
+  lang:
+  - ga
+Rókur:
+  gender_flag: 2
+  lang:
+  - fo
+Róland:
+  gender_flag: 2
+  lang:
+  - fo
+Rólant:
+  gender_flag: 2
+  lang:
+  - fo
+Rólvur:
+  gender_flag: 2
+  lang:
+  - fo
+Rómeó:
+  gender_flag: 2
+  is_equivalent_to:
+  - Romeo
+  lang:
+  - hu
+  - is
+Rómulo:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - la
+Rómundur:
+  gender_flag: 2
+  lang:
+  - fo
+Rónán:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ronan
+  lang:
+  - ga
+Rós:
+  gender_flag: 1
+  lang:
+  - is
+Rósa:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Rósey:
+  gender_flag: 1
+  lang:
+  - is
+Rósingur:
+  gender_flag: 2
+  lang:
+  - fo
+Rózsa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rose
+  lang:
+  - hu
+Róða:
+  gender_flag: 1
+  lang:
+  - fo
+Róðbjartur:
+  gender_flag: 2
+  lang:
+  - fo
+Róðolvur:
+  gender_flag: 2
+  lang:
+  - fo
+Róża:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rosa
+  lang:
+  - pl
+Rôza:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rosa
+  lang:
+  - wa
+Rôzaliye:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rosalie
+  lang:
+  - wa
+Rôze:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rose
+  lang:
+  - wa
+Rôzete:
+  gender_flag: 1
+  lang:
+  - wa
+Rögnvaldur:
+  gender_flag: 2
+  lang:
+  - is
+Rögnvaldína:
+  gender_flag: 1
+  lang:
+  - is
+Rökkvi:
+  gender_flag: 2
+  lang:
+  - is
+Röskva:
+  gender_flag: 1
+  lang:
+  - is
+Røgnvaldur:
+  gender_flag: 2
+  lang:
+  - fo
+Rønnaug:
+  gender_flag: 1
+  is_a_variant_of:
+  - Rannveig
+  lang:
+  - 'no'
+Røskva:
+  gender_flag: 1
+  lang:
+  - fo
+Rúadán:
+  gender_flag: 2
+  lang:
+  - sga
+Rúben:
+  gender_flag: 2
+  is_equivalent_to:
+  - Ruben
+  lang:
+  - pt
+  origin:
+  - he
+Rún:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Rúna:
+  gender_flag: 1
+  lang:
+  - fo
+Rúnar:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Rúni:
+  gender_flag: 2
+  lang:
+  - fo
+  - non
+Rúnolvur:
+  gender_flag: 2
+  lang:
+  - fo
+Rúrik:
+  gender_flag: 2
+  lang:
+  - is
+Rúrí:
+  gender_flag: 1
+  lang:
+  - is
+Rút:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ruth
+  lang:
+  - cs
+Rüdiger:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roger
+  lang:
+  - de
+Rünno:
+  gender_flag: 2
+  lang:
+  - et
+Rüstəm:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - fa
+Rüya:
+  gender_flag: 1
+  lang:
+  - tr
+Rüştü:
+  gender_flag: 2
+  lang:
+  - tr
+Rāhera:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rachel
+  lang:
+  - mi
+Rāniera:
+  gender_flag: 2
+  is_equivalent_to:
+  - Daniel
+  lang:
+  - mi
+Rāpata:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robert
+  lang:
+  - mi
+Rāwiri:
+  gender_flag: 2
+  is_equivalent_to:
+  - David
+  lang:
+  - mi
+Răducu:
+  gender_flag: 2
+  is_short_for:
+  - Radu
+  lang:
+  - ro
+Răduleț:
+  gender_flag: 2
+  is_short_for:
+  - Radu
+  lang:
+  - ro
+Răduț:
+  gender_flag: 2
+  is_short_for:
+  - Radu
+  lang:
+  - ro
+Rēnata:
+  gender_flag: 2
+  lang:
+  - mi
+Rĩke:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Rīpeka:
+  gender_flag: 1
+  is_equivalent_to:
+  - Rebecca
+  lang:
+  - mi
+Rıdvan:
+  gender_flag: 2
+  lang:
+  - tr
+Rıza:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Rōpata:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robert
+  lang:
+  - mi
+Rūdolfs:
+  gender_flag: 2
+  lang:
+  - lv
+Rūta:
+  gender_flag: 1
+  lang:
+  - lt
+  - lv
+Růža:
+  gender_flag: 1
+  is_short_for:
+  - Růžena
+  lang:
+  - cs
+Růžena:
+  gender_flag: 1
+  lang:
+  - cs
+Růženka:
+  gender_flag: 1
+  is_short_for:
+  - Růžena
+  lang:
+  - cs
+Rǫgnvaldr:
+  gender_flag: 2
+  lang:
+  - non
+Rəfiqə:
+  gender_flag: 1
+  lang:
+  - az
+Rəhilə:
+  gender_flag: 1
+  lang:
+  - az
+Rəhim:
+  gender_flag: 2
+  lang:
+  - az
+Rəmzi:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+Rəşid:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+qrwjwꜣpꜣdrꜣ:
+  gender_flag: 1
+  is_equivalent_to:
+  - Cleopatra
+  lang:
+  - egy
+  origin:
+  - grc
+reinaert:
+  gender_flag: 2
+  lang:
+  - dum
+ripun:
+  gender_flag: 2
+  lang:
+  - pwn
+rn.s-rs:
+  gender_flag: 1
+  lang:
+  - egy
+rwḏ-jmn:
+  gender_flag: 2
+  lang:
+  - egy
+rꜥ-ms:
+  gender_flag: 2
+  lang:
+  - egy
+rꜥ-ms-sw:
+  gender_flag: 2
+  lang:
+  - egy
+rꜥ-ḥtp:
+  gender_flag: 2
+  lang:
+  - egy
+Řehoř:
+  gender_flag: 2
+  is_equivalent_to:
+  - Gregory
+  lang:
+  - cs
+Řehořek:
+  gender_flag: 2
+  is_short_for:
+  - Řehoř
+  lang:
+  - cs

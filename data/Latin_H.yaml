@@ -1,0 +1,5573 @@
+H'Ê-Wa:
+  gender_flag: 1
+  lang:
+  - rad
+Haakon:
+  gender_flag: 2
+  lang:
+  - 'no'
+Haawa:
+  gender_flag: 1
+  lang:
+  - aa
+Habakkuk:
+  gender_flag: 2
+  lang:
+  - en
+Habakuk:
+  gender_flag: 2
+  is_equivalent_to:
+  - Habakkuk
+  lang:
+  - pl
+Habib:
+  gender_flag: 2
+  lang:
+  - en
+Hacomar:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - gnc
+Hacon:
+  gender_flag: 2
+  lang:
+  - ang
+Hadam:
+  gender_flag: 2
+  is_equivalent_to:
+  - Adam
+  lang:
+  - hsb
+Hadassah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Hadda:
+  gender_flag: 1
+  lang:
+  - is
+Hadewig:
+  gender_flag: 1
+  lang:
+  - nl
+Hadewijch:
+  gender_flag: 1
+  lang:
+  - dum
+  - nl
+Hadise:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Hadiye:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Hadizatu:
+  gender_flag: 1
+  lang:
+  - ha
+Hadlee:
+  gender_flag: 1
+  lang:
+  - en
+Hadleigh:
+  gender_flag: 1
+  lang:
+  - en
+Hadley:
+  gender_flag: 7
+  lang:
+  - en
+Hadrian:
+  gender_flag: 2
+  is_a_variant_of:
+  - Adrian
+  lang:
+  - en
+  origin:
+  - la
+Hadrianus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hadrian
+  lang:
+  - la
+Hadubrant:
+  gender_flag: 2
+  lang:
+  - goh
+Haecbertus:
+  gender_flag: 2
+  lang:
+  - la
+Hafdís:
+  gender_flag: 1
+  lang:
+  - is
+Hafidh:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Hafiz:
+  gender_flag: 2
+  lang:
+  - az
+Hafizu:
+  gender_flag: 2
+  lang:
+  - ha
+Hafliðína:
+  gender_flag: 1
+  lang:
+  - is
+Hafnar:
+  gender_flag: 2
+  lang:
+  - is
+Hafni:
+  gender_flag: 2
+  lang:
+  - is
+Hafrún:
+  gender_flag: 1
+  lang:
+  - is
+Hafsatu:
+  gender_flag: 1
+  lang:
+  - ha
+Hagar:
+  gender_flag: 1
+  lang:
+  - ee
+  - en
+  origin:
+  - he
+Hagbarður:
+  gender_flag: 2
+  lang:
+  - fo
+Hagen:
+  gender_flag: 2
+  lang:
+  - de
+Haide:
+  gender_flag: 1
+  lang:
+  - et
+Haiden:
+  gender_flag: 7
+  lang:
+  - en
+Haidée:
+  gender_flag: 1
+  lang:
+  - en
+Hailama:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Hailee:
+  gender_flag: 1
+  lang:
+  - en
+Hailey:
+  gender_flag: 7
+  lang:
+  - en
+Hailie:
+  gender_flag: 1
+  lang:
+  - en
+Haimona:
+  gender_flag: 2
+  lang:
+  - mi
+Hajna:
+  gender_flag: 1
+  lang:
+  - hu
+Hajnal:
+  gender_flag: 1
+  lang:
+  - hu
+Hajnalka:
+  gender_flag: 1
+  lang:
+  - hu
+Hajni:
+  gender_flag: 1
+  is_short_for:
+  - Hajnalka
+  lang:
+  - hu
+Hajrudin:
+  gender_flag: 2
+  lang:
+  - sh
+Hakan:
+  gender_flag: 2
+  lang:
+  - tr
+Haki:
+  gender_flag: 2
+  lang:
+  - mi
+Hakim:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Hakkı:
+  gender_flag: 2
+  lang:
+  - tr
+Hakob:
+  gender_flag: 2
+  lang:
+  - ilo
+  origin:
+  - es
+Hal:
+  gender_flag: 2
+  lang:
+  - en
+Halaki:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Halda:
+  gender_flag: 1
+  lang:
+  - fo
+Haldis:
+  gender_flag: 1
+  lang:
+  - 'no'
+Haldo:
+  gender_flag: 2
+  lang:
+  - et
+Haldun:
+  gender_flag: 2
+  lang:
+  - tr
+Haldur:
+  gender_flag: 2
+  lang:
+  - et
+Hale:
+  gender_flag: 3
+  lang:
+  - haw
+  - tr
+  origin:
+  - ar
+  - en
+Haley:
+  gender_flag: 7
+  lang:
+  - en
+Halgir:
+  gender_flag: 2
+  lang:
+  - fo
+Haliaka:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - en
+Halil:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Halilu:
+  gender_flag: 2
+  lang:
+  - ha
+Halima:
+  gender_flag: 1
+  lang:
+  - ha
+Halime:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Halina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Galina
+  lang:
+  - pl
+Halinka:
+  gender_flag: 1
+  is_short_for:
+  - Halina
+  lang:
+  - pl
+Halisca:
+  gender_flag: 2
+  lang:
+  - la
+Haljand:
+  gender_flag: 2
+  lang:
+  - et
+Halka:
+  gender_flag: 1
+  is_short_for:
+  - Halina
+  lang:
+  - pl
+Halla:
+  gender_flag: 1
+  lang:
+  - is
+Hallar:
+  gender_flag: 2
+  lang:
+  - et
+Hallbera:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Hallbergur:
+  gender_flag: 2
+  lang:
+  - fo
+Hallbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+  - nn
+  origin:
+  - non
+Hallbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Halldis:
+  gender_flag: 1
+  lang:
+  - fo
+Halldor:
+  gender_flag: 2
+  lang:
+  - nn
+Halldora:
+  gender_flag: 1
+  lang:
+  - nn
+Halldís:
+  gender_flag: 1
+  lang:
+  - is
+Halldór:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Halldóra:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Halldórr:
+  gender_flag: 2
+  lang:
+  - non
+Halle:
+  gender_flag: 1
+  lang:
+  - en
+Hallfreður:
+  gender_flag: 2
+  lang:
+  - is
+Hallfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Hallfríður:
+  gender_flag: 2
+  lang:
+  - fo
+Hallgeir:
+  gender_flag: 2
+  lang:
+  - fo
+  - nn
+  origin:
+  - non
+Hallgerð:
+  gender_flag: 1
+  lang:
+  - fo
+Hallgerður:
+  gender_flag: 1
+  lang:
+  - is
+Hallgrímur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Hallgrímína:
+  gender_flag: 1
+  lang:
+  - is
+Hallgunn:
+  gender_flag: 1
+  lang:
+  - fo
+Halli:
+  gender_flag: 2
+  lang:
+  - is
+Hallie:
+  gender_flag: 1
+  is_short_for:
+  - Harriet
+  lang:
+  - en
+Halliki:
+  gender_flag: 1
+  lang:
+  - et
+Hallkatla:
+  gender_flag: 1
+  lang:
+  - is
+Hallmar:
+  gender_flag: 2
+  lang:
+  - fo
+Hallmundur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Hallormur:
+  gender_flag: 2
+  lang:
+  - fo
+Hallrid:
+  gender_flag: 1
+  lang:
+  - nn
+  origin:
+  - non
+Hallstein:
+  gender_flag: 2
+  lang:
+  - fo
+Hallsteinn:
+  gender_flag: 2
+  lang:
+  - is
+Halltor:
+  gender_flag: 2
+  lang:
+  - nn
+Hallur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Hallvard:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Hallvarður:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Hallveig:
+  gender_flag: 1
+  lang:
+  - fo
+Hallvord:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Hallvør:
+  gender_flag: 1
+  lang:
+  - fo
+Hally:
+  gender_flag: 1
+  lang:
+  - en
+Hallþór:
+  gender_flag: 2
+  lang:
+  - is
+Halsey:
+  gender_flag: 2
+  lang:
+  - en
+Halvard:
+  gender_flag: 2
+  is_a_variant_of:
+  - Hallvard
+  lang:
+  - nn
+  origin:
+  - non
+Halvdan:
+  gender_flag: 2
+  lang:
+  - nn
+  origin:
+  - non
+Halvor:
+  gender_flag: 2
+  is_a_variant_of:
+  - Hallvord
+  lang:
+  - nn
+  origin:
+  - non
+Halykberdy:
+  gender_flag: 2
+  lang:
+  - tk
+Halyna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Hamad:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Hamako:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Hamdi:
+  gender_flag: 2
+  lang:
+  - tr
+Hamham:
+  gender_flag: 2
+  lang:
+  - ceb
+Hami:
+  gender_flag: 2
+  lang:
+  - tr
+Hamid:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Hamidu:
+  gender_flag: 2
+  lang:
+  - ha
+Hamiko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Hamilcar:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - xpu
+Hamilton:
+  gender_flag: 2
+  lang:
+  - en
+Hamish:
+  gender_flag: 2
+  lang:
+  - en
+Hamit:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Hamiyet:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Hamlet:
+  gender_flag: 2
+  lang:
+  - en
+Hamlin:
+  gender_flag: 2
+  lang:
+  - en
+Hammond:
+  gender_flag: 2
+  lang:
+  - en
+Hammy:
+  gender_flag: 2
+  is_short_for:
+  - Hamilton
+  lang:
+  - en
+Hampton:
+  gender_flag: 2
+  lang:
+  - en
+Hampus:
+  gender_flag: 2
+  lang:
+  - sv
+Hamza:
+  gender_flag: 2
+  lang:
+  - en
+  - tr
+  origin:
+  - ar
+Han:
+  gender_flag: 2
+  lang:
+  - tr
+Hana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Hannah
+  lang:
+  - cs
+  - haw
+  - sk
+  - sq
+Hanadi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Hanae:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Hanako:
+  gender_flag: 3
+  lang:
+  - dru
+  - en
+  - fr
+  - pyu
+  - tl
+  - trv
+  origin:
+  - ja
+Hanalei:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Hanalē:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Hanayo:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Handan:
+  gender_flag: 1
+  lang:
+  - tr
+Hande:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - fa
+Hando:
+  gender_flag: 2
+  lang:
+  - et
+Handoyono:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Handy:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - en
+Hanefi:
+  gender_flag: 2
+  lang:
+  - tr
+Hanga:
+  gender_flag: 1
+  lang:
+  - hu
+Hania:
+  gender_flag: 1
+  is_short_for:
+  - Hanna
+  lang:
+  - pl
+Hanif:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Haninka:
+  gender_flag: 1
+  is_short_for:
+  - Hana
+  lang:
+  - cs
+Hanička:
+  gender_flag: 1
+  is_short_for:
+  - Hana
+  lang:
+  - cs
+  - sk
+Hank:
+  gender_flag: 2
+  is_short_for:
+  - Henry
+  lang:
+  - en
+Hanka:
+  gender_flag: 1
+  is_short_for:
+  - Hana
+  lang:
+  - cs
+  - sk
+Hanna:
+  gender_flag: 1
+  is_a_variant_of:
+  - Hannah
+  is_equivalent_to:
+  - Hannah
+  is_short_for:
+  - Johanna
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - fo
+  - hu
+  - is
+  - nl
+  - 'no'
+  - pl
+  - pt
+  - sv
+  origin:
+  - grc
+  - he
+  - la
+Hanna-Leena:
+  gender_flag: 1
+  lang:
+  - fi
+Hanna-Mari:
+  gender_flag: 1
+  lang:
+  - fi
+  origin:
+  - he
+Hannah:
+  gender_flag: 1
+  is_a_variant_of:
+  - Hanna
+  lang:
+  - da
+  - de
+  - en
+  - 'no'
+  - pt
+  - sv
+  - tl
+  origin:
+  - en
+  - he
+Hanne:
+  gender_flag: 1
+  is_short_for:
+  - Johanne
+  lang:
+  - da
+  - de
+  - fi
+  - 'no'
+Hannele:
+  gender_flag: 1
+  lang:
+  - fi
+Hannelore:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - nl
+Hanners:
+  gender_flag: 1
+  is_short_for:
+  - Hannelore
+  lang:
+  - en
+Hannes:
+  gender_flag: 2
+  is_a_variant_of:
+  - Hannu
+  - Johannes
+  is_short_for:
+  - Johannes
+  lang:
+  - de
+  - et
+  - fi
+  - fo
+  - is
+  - sv
+Hannesína:
+  gender_flag: 1
+  lang:
+  - is
+Hannibal:
+  gender_flag: 2
+  lang:
+  - en
+  - is
+  - pt
+  origin:
+  - xpu
+Hannis:
+  gender_flag: 2
+  lang:
+  - fo
+Hanno:
+  gender_flag: 2
+  is_short_for:
+  - Johann
+  - Johannes
+  lang:
+  - de
+  - et
+  - la
+Hanns:
+  gender_flag: 2
+  is_a_variant_of:
+  - Hans
+  lang:
+  - de
+Hannu:
+  gender_flag: 2
+  is_a_variant_of:
+  - Hannes
+  - Johannes
+  is_equivalent_to:
+  - Johnny
+  lang:
+  - fi
+Hannus:
+  gender_flag: 2
+  lang:
+  - fo
+Hans:
+  gender_flag: 2
+  is_short_for:
+  - Johannes
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - fo
+  - is
+  - nl
+  - 'no'
+  - sv
+Hansa:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Hansgeorg:
+  gender_flag: 2
+  lang:
+  - de
+Hansi:
+  gender_flag: 2
+  is_short_for:
+  - Hans
+  lang:
+  - is
+Hansigne:
+  gender_flag: 1
+  lang:
+  - da
+Hansina:
+  gender_flag: 1
+  lang:
+  - fo
+Hansine:
+  gender_flag: 1
+  lang:
+  - da
+Hanss:
+  gender_flag: 2
+  lang:
+  - lv
+Hansína:
+  gender_flag: 1
+  lang:
+  - is
+Hanus:
+  gender_flag: 2
+  lang:
+  - fo
+Hanuš:
+  gender_flag: 2
+  lang:
+  - cs
+Hany:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Haoreima:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - mni
+Haostarpald:
+  gender_flag: 2
+  lang:
+  - goh
+Happy:
+  gender_flag: 2
+  lang:
+  - en
+Haqverdi:
+  gender_flag: 2
+  lang:
+  - az
+Haralambie:
+  gender_flag: 2
+  lang:
+  - ro
+Harald:
+  gender_flag: 2
+  is_equivalent_to:
+  - Harold
+  lang:
+  - da
+  - de
+  - et
+  - nb
+  - nn
+  - sv
+  origin:
+  - gmq
+  - non
+Haraldr:
+  gender_flag: 2
+  lang:
+  - non
+Haralds:
+  gender_flag: 2
+  lang:
+  - lv
+Haraldur:
+  gender_flag: 2
+  is_equivalent_to:
+  - Harold
+  lang:
+  - fo
+  - is
+Haraldína:
+  gender_flag: 1
+  lang:
+  - is
+Hardi:
+  gender_flag: 2
+  lang:
+  - et
+Hardie:
+  gender_flag: 2
+  lang:
+  - en
+Hardin:
+  gender_flag: 2
+  lang:
+  - en
+Hardred:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Hardy:
+  gender_flag: 2
+  lang:
+  - da
+  - en
+Hare:
+  gender_flag: 2
+  lang:
+  - mi
+Hargita:
+  gender_flag: 1
+  lang:
+  - hu
+Harhono:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Hari:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Harib:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Hariclea:
+  gender_flag: 1
+  is_equivalent_to:
+  - Chariclea
+  lang:
+  - ro
+Harijs:
+  gender_flag: 2
+  lang:
+  - lv
+Harikrishna:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Haris:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Harjo:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Harjono:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Harl:
+  gender_flag: 2
+  lang:
+  - en
+Harlan:
+  gender_flag: 2
+  lang:
+  - en
+Harlee:
+  gender_flag: 2
+  lang:
+  - en
+Harleigh:
+  gender_flag: 1
+  lang:
+  - en
+Harley:
+  gender_flag: 7
+  lang:
+  - en
+Harlow:
+  gender_flag: 7
+  lang:
+  - en
+Harm:
+  gender_flag: 2
+  lang:
+  - nl
+Harmoni:
+  gender_flag: 1
+  lang:
+  - en
+Harmony:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - la
+Harold:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Haron:
+  gender_flag: 2
+  lang:
+  - ms
+  origin:
+  - he
+Haroon:
+  gender_flag: 2
+  is_a_variant_of:
+  - Harun
+  is_equivalent_to:
+  - Aaron
+  lang:
+  - en
+  origin:
+  - ar
+Harpax:
+  gender_flag: 2
+  lang:
+  - la
+Harper:
+  gender_flag: 7
+  lang:
+  - en
+Harral:
+  gender_flag: 2
+  is_equivalent_to:
+  - Harold
+  lang:
+  - gv
+  origin:
+  - non
+Harri:
+  gender_flag: 2
+  lang:
+  - cy
+  - de
+  - et
+  - fi
+Harrie:
+  gender_flag: 2
+  is_equivalent_to:
+  - Harry
+  lang:
+  - en
+  - yol
+Harriet:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  - sv
+  origin:
+  - gem
+Harriette:
+  gender_flag: 1
+  is_a_variant_of:
+  - Harriet
+  lang:
+  - en
+  origin:
+  - gem
+Harris:
+  gender_flag: 2
+  lang:
+  - en
+Harrison:
+  gender_flag: 2
+  lang:
+  - en
+Harry:
+  gender_flag: 3
+  lang:
+  - da
+  - de
+  - en
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - en
+  - fr
+  - gem
+Harshit:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Hartmut:
+  gender_flag: 2
+  lang:
+  - de
+Haru:
+  gender_flag: 6
+  lang:
+  - en
+Haruhi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Haruko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - ja
+Harumi:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Harun:
+  gender_flag: 2
+  is_equivalent_to:
+  - Aaron
+  lang:
+  - en
+  - ms
+  - tr
+  origin:
+  - ar
+  - he
+Haruna:
+  gender_flag: 3
+  lang:
+  - en
+  - ha
+  origin:
+  - ja
+Haruo:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Harutyun:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hy
+Harv:
+  gender_flag: 2
+  is_short_for:
+  - Harvey
+  lang:
+  - en
+Harvey:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+  origin:
+  - cel
+  - en
+Haryanto:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Hasan:
+  gender_flag: 2
+  lang:
+  - en
+  - ha
+  - tr
+  - uz
+  origin:
+  - ar
+Hasana:
+  gender_flag: 1
+  lang:
+  - ha
+Hasdrubal:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - xpu
+Haskell:
+  gender_flag: 2
+  lang:
+  - en
+Hasret:
+  gender_flag: 3
+  lang:
+  - tr
+Hassan:
+  gender_flag: 2
+  lang:
+  - en
+  - nl
+  origin:
+  - ar
+Hasse:
+  gender_flag: 2
+  is_short_for:
+  - Hans
+  lang:
+  - sv
+Hassie:
+  gender_flag: 1
+  is_short_for:
+  - Harriet
+  - Hazel
+  lang:
+  - en
+Hasso:
+  gender_flag: 2
+  lang:
+  - et
+Hata:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Hatice:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Hatsuko:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Hatsumi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Hattie:
+  gender_flag: 1
+  is_short_for:
+  - Harriet
+  lang:
+  - en
+Hatto:
+  gender_flag: 2
+  lang:
+  - en
+Hatton:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hatto
+  lang:
+  - fr
+Hatty:
+  gender_flag: 1
+  is_short_for:
+  - Harriet
+  lang:
+  - en
+Haukur:
+  gender_flag: 2
+  lang:
+  - is
+Haumea:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Haunani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Hauryla: {}
+Hauwa:
+  gender_flag: 1
+  lang:
+  - ha
+Hauʻoli:
+  gender_flag: 3
+  lang:
+  - haw
+  origin:
+  - haw
+Havdis:
+  gender_flag: 1
+  lang:
+  - fo
+Havel:
+  gender_flag: 2
+  lang:
+  - cs
+Haven:
+  gender_flag: 6
+  lang:
+  - en
+Havgerð:
+  gender_flag: 1
+  lang:
+  - fo
+Havgrímur:
+  gender_flag: 2
+  lang:
+  - fo
+Havliði:
+  gender_flag: 2
+  lang:
+  - fo
+Havstein:
+  gender_flag: 2
+  lang:
+  - fo
+Havva:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Hawa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Eve
+  lang:
+  - kmr
+Hawštyn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Augustine
+  lang:
+  - hsb
+Hayal:
+  gender_flag: 1
+  lang:
+  - tr
+Hayat:
+  gender_flag: 1
+  lang:
+  - tr
+Hayato:
+  gender_flag: 2
+  lang:
+  - cs
+  - en
+  origin:
+  - ja
+Hayden:
+  gender_flag: 7
+  lang:
+  - en
+Haydée:
+  gender_flag: 1
+  lang:
+  - es
+  - fr
+Hayk: {}
+Hayle:
+  gender_flag: 1
+  lang:
+  - en
+Haylee:
+  gender_flag: 1
+  is_a_variant_of:
+  - Hayley
+  lang:
+  - en
+Hayleigh:
+  gender_flag: 1
+  is_a_variant_of:
+  - Hayley
+  lang:
+  - en
+Hayley:
+  gender_flag: 7
+  lang:
+  - en
+Hayran:
+  gender_flag: 3
+  lang:
+  - tr
+Hayri:
+  gender_flag: 2
+  lang:
+  - tr
+Hayrünnisa:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - ar
+Hays:
+  gender_flag: 2
+  lang:
+  - en
+Hayward:
+  gender_flag: 2
+  lang:
+  - en
+Hayır:
+  gender_flag: 2
+  lang:
+  - tr
+Haze:
+  gender_flag: 1
+  is_short_for:
+  - Hazel
+  lang:
+  - en
+Hazel:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Hazelton:
+  gender_flag: 2
+  lang:
+  - en
+Hazza:
+  gender_flag: 2
+  is_short_for:
+  - Harry
+  lang:
+  - en
+Hañagua:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - gnc
+Haƙurau:
+  gender_flag: 2
+  lang:
+  - ha
+Haʻaheo:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Heahberht:
+  gender_flag: 2
+  lang:
+  - ang
+Heahmund:
+  gender_flag: 2
+  lang:
+  - ang
+Heahræd:
+  gender_flag: 2
+  lang:
+  - ang
+Heahwulf:
+  gender_flag: 2
+  lang:
+  - ang
+Heaika:
+  gender_flag: 2
+  is_equivalent_to:
+  - Henry
+  lang:
+  - se
+Healani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Healfdene:
+  gender_flag: 2
+  lang:
+  - ang
+Heandarat:
+  gender_flag: 2
+  is_equivalent_to:
+  - Henry
+  lang:
+  - se
+Heanric:
+  gender_flag: 2
+  lang:
+  - ang
+Heardred:
+  gender_flag: 2
+  lang:
+  - ang
+Heart:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - en
+Heath:
+  gender_flag: 2
+  lang:
+  - en
+Heathcliff:
+  gender_flag: 2
+  lang:
+  - en
+Heather:
+  gender_flag: 1
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Heaven:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Heavenly:
+  gender_flag: 1
+  lang:
+  - en
+Hebe:
+  gender_flag: 1
+  lang:
+  - en
+  - pt
+  origin:
+  - grc
+Heber:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ga
+Hector:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - grc
+Hectour:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Heda:
+  gender_flag: 1
+  is_short_for:
+  - Hedviga
+  lang:
+  - et
+  - sk
+Hedda:
+  gender_flag: 1
+  lang:
+  - is
+  - 'no'
+Hedevig:
+  gender_flag: 1
+  is_a_variant_of:
+  - Hedvig
+  lang:
+  - da
+Hedi:
+  gender_flag: 1
+  lang:
+  - et
+Heduš:
+  gender_flag: 1
+  is_short_for:
+  - Hedvika
+  lang:
+  - cs
+Heduška:
+  gender_flag: 1
+  is_short_for:
+  - Hedvika
+  lang:
+  - cs
+Hedva:
+  gender_flag: 1
+  is_short_for:
+  - Hedvika
+  lang:
+  - cs
+Hedvig:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+  - sv
+Hedviga:
+  gender_flag: 1
+  lang:
+  - sk
+Hedvika:
+  gender_flag: 1
+  is_equivalent_to:
+  - Hedwig
+  lang:
+  - cs
+Hedvička:
+  gender_flag: 1
+  is_short_for:
+  - Hedvika
+  lang:
+  - cs
+Hedwig:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  origin:
+  - de
+  - gem-pro
+Hefin:
+  gender_flag: 2
+  lang:
+  - cy
+Hege:
+  gender_flag: 1
+  is_a_variant_of:
+  - Hæge
+  lang:
+  - nn
+  origin:
+  - non
+Hegio:
+  gender_flag: 2
+  lang:
+  - la
+Heide:
+  gender_flag: 1
+  is_short_for:
+  - Adelheid
+  lang:
+  - de
+Heidemarie:
+  gender_flag: 1
+  lang:
+  - de
+Heidi:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - fo
+  - 'no'
+  - sv
+  origin:
+  - en
+  - gem
+Heigo:
+  gender_flag: 2
+  lang:
+  - et
+Heike:
+  gender_flag: 3
+  is_equivalent_to:
+  - Henry
+  lang:
+  - de
+  - se
+  origin:
+  - fy
+  - nds
+Heiki:
+  gender_flag: 2
+  lang:
+  - et
+Heikki:
+  gender_flag: 2
+  lang:
+  - fi
+Heiko:
+  gender_flag: 2
+  is_a_variant_of:
+  - Heinrich
+  lang:
+  - de
+  - et
+  origin:
+  - de
+  - nds
+Heili:
+  gender_flag: 1
+  is_a_variant_of:
+  - Eili
+  lang:
+  - et
+Heimir:
+  gender_flag: 2
+  lang:
+  - fo
+Heimo:
+  gender_flag: 2
+  lang:
+  - fi
+Hein:
+  gender_flag: 2
+  lang:
+  - de
+  - nl
+Heindrikur:
+  gender_flag: 2
+  lang:
+  - fo
+Heine:
+  gender_flag: 2
+  lang:
+  - de
+Heiner:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hank
+  is_short_for:
+  - Heinrich
+  lang:
+  - de
+Heini:
+  gender_flag: 3
+  is_equivalent_to:
+  - Hank
+  is_short_for:
+  - Heinrich
+  lang:
+  - de
+  - fi
+  - fo
+Heinina:
+  gender_flag: 1
+  lang:
+  - fo
+Heino:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Heinrich:
+  gender_flag: 2
+  is_equivalent_to:
+  - Henry
+  lang:
+  - de
+Heinrikur:
+  gender_flag: 2
+  lang:
+  - fo
+Heinz:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+Heiti:
+  gender_flag: 2
+  lang:
+  - et
+Heitor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hector
+  lang:
+  - pt
+Heivi:
+  gender_flag: 1
+  lang:
+  - et
+Heiða:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Heiðar:
+  gender_flag: 2
+  lang:
+  - is
+Heiðarr:
+  gender_flag: 2
+  lang:
+  - is
+Heiðbjartur:
+  gender_flag: 2
+  lang:
+  - is
+Heiðbjörg:
+  gender_flag: 1
+  lang:
+  - is
+Heiðbjört:
+  gender_flag: 1
+  lang:
+  - is
+Heiðdis:
+  gender_flag: 1
+  lang:
+  - fo
+Heiðdís:
+  gender_flag: 1
+  lang:
+  - is
+Heiðmann:
+  gender_flag: 2
+  lang:
+  - is
+Heiðmundur:
+  gender_flag: 2
+  lang:
+  - is
+Heiðrekur:
+  gender_flag: 2
+  lang:
+  - is
+Heiðrikur:
+  gender_flag: 2
+  lang:
+  - fo
+Heiðrun:
+  gender_flag: 1
+  lang:
+  - fo
+Heiðrún:
+  gender_flag: 1
+  lang:
+  - fo
+Heiður:
+  gender_flag: 1
+  lang:
+  - is
+Heiðveig:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Heiðvík:
+  gender_flag: 1
+  lang:
+  - fo
+Heiðvør:
+  gender_flag: 1
+  lang:
+  - fo
+Hekekia:
+  gender_flag: 2
+  lang:
+  - haw
+Hekla:
+  gender_flag: 1
+  lang:
+  - is
+  - nn
+Hektor:
+  gender_flag: 2
+  lang:
+  - sv
+Hekuran:
+  gender_flag: 2
+  lang:
+  - sq
+Hela:
+  gender_flag: 1
+  is_short_for:
+  - Helena
+  lang:
+  - cs
+Helar:
+  gender_flag: 2
+  lang:
+  - et
+Helari:
+  gender_flag: 2
+  lang:
+  - et
+Helbe:
+  gender_flag: 1
+  lang:
+  - et
+Heldic:
+  gender_flag: 2
+  lang:
+  - xvn
+Heldin:
+  gender_flag: 1
+  lang:
+  - goh
+Hele:
+  gender_flag: 1
+  lang:
+  - et
+Heleen:
+  gender_flag: 1
+  lang:
+  - nl
+Heleena:
+  gender_flag: 1
+  is_a_variant_of:
+  - Helena
+  lang:
+  - fi
+Heleene:
+  gender_flag: 1
+  lang:
+  - et
+  origin:
+  - grc
+Helen:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  - et
+  - 'no'
+  - sv
+  - tl
+  origin:
+  - en
+  - grc
+Helena:
+  gender_flag: 1
+  is_equivalent_to:
+  - Helen
+  lang:
+  - ceb
+  - cs
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - fo
+  - haw
+  - is
+  - nl
+  - 'no'
+  - pl
+  - pt
+  - sk
+  - sv
+  origin:
+  - en
+  - grc
+  - la
+Helene:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - haw
+  - 'no'
+  - sv
+  origin:
+  - en
+  - grc
+Helenka:
+  gender_flag: 1
+  is_short_for:
+  - Helena
+  lang:
+  - cs
+  - pl
+Heleno:
+  gender_flag: 1
+  is_equivalent_to:
+  - Helen
+  lang:
+  - eo
+  origin:
+  - grc
+Heleri:
+  gender_flag: 1
+  lang:
+  - et
+Helga:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - et
+  - fo
+  - hu
+  - is
+  - nl
+  - nn
+  - 'no'
+  - non
+  - pl
+  - pt
+  - sk
+  - sv
+  origin:
+  - gem
+  - non
+Helge:
+  gender_flag: 3
+  is_a_variant_of:
+  - Helga
+  lang:
+  - da
+  - de
+  - 'no'
+  - sv
+Helgi:
+  gender_flag: 3
+  lang:
+  - et
+  - fo
+  - is
+  - non
+Heli:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Helibert:
+  gender_flag: 2
+  lang:
+  - de
+Helina:
+  gender_flag: 1
+  lang:
+  - et
+Helinä:
+  gender_flag: 1
+  lang:
+  - fi
+Helionordis:
+  gender_flag: 1
+  is_equivalent_to:
+  - Eleanor
+  lang:
+  - la
+Helis:
+  gender_flag: 1
+  lang:
+  - et
+Heljo:
+  gender_flag: 1
+  is_a_variant_of:
+  - Helga
+  lang:
+  - et
+Helju:
+  gender_flag: 1
+  is_a_variant_of:
+  - Helga
+  lang:
+  - et
+Heljä:
+  gender_flag: 1
+  lang:
+  - fi
+Helka:
+  gender_flag: 1
+  lang:
+  - fi
+Hella:
+  gender_flag: 1
+  is_a_variant_of:
+  - Helene
+  - Helga
+  lang:
+  - de
+  - nl
+  origin:
+  - de
+Hellar:
+  gender_flag: 2
+  lang:
+  - et
+Helle:
+  gender_flag: 1
+  lang:
+  - da
+  - et
+  - 'no'
+Hellevi:
+  gender_flag: 1
+  lang:
+  - fi
+Helli:
+  gender_flag: 1
+  lang:
+  - fi
+Hellin:
+  gender_flag: 1
+  lang:
+  - fi
+Hellä:
+  gender_flag: 1
+  lang:
+  - fi
+Helma:
+  gender_flag: 1
+  lang:
+  - fo
+Helmer:
+  gender_flag: 2
+  lang:
+  - da
+  - sv
+Helmi:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Helmiina:
+  gender_flag: 1
+  lang:
+  - fi
+Helmina:
+  gender_flag: 1
+  is_short_for:
+  - Wilhelmina
+  lang:
+  - de
+Helmine:
+  gender_flag: 1
+  is_short_for:
+  - Wilhelmine
+  lang:
+  - de
+Helmut:
+  gender_flag: 2
+  lang:
+  - de
+Helmuth:
+  gender_flag: 2
+  lang:
+  - de
+Helmuts:
+  gender_flag: 2
+  lang:
+  - lv
+Heloise:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+Helon:
+  gender_flag: 7
+  is_a_variant_of:
+  - Helen
+  lang:
+  - en
+  origin:
+  - el
+Heloísa:
+  gender_flag: 1
+  is_equivalent_to:
+  - Eloise
+  lang:
+  - pt
+  origin:
+  - fr
+Heluš:
+  gender_flag: 1
+  is_short_for:
+  - Helena
+  lang:
+  - cs
+Helve:
+  gender_flag: 1
+  lang:
+  - et
+Helvi:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Helvig:
+  gender_flag: 1
+  lang:
+  - da
+Hely:
+  gender_flag: 1
+  lang:
+  - fi
+Helén:
+  gender_flag: 1
+  lang:
+  - sv
+Heléne:
+  gender_flag: 1
+  lang:
+  - sv
+Helēna:
+  gender_flag: 1
+  lang:
+  - lv
+  origin:
+  - grc
+Hema:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Hemant:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Hemed:
+  gender_flag: 2
+  is_a_variant_of:
+  - Ehmed
+  lang:
+  - zza
+  origin:
+  - ar
+Hemingur:
+  gender_flag: 2
+  lang:
+  - fo
+Hemming:
+  gender_flag: 2
+  lang:
+  - da
+  - sv
+Hemmingur:
+  gender_flag: 2
+  lang:
+  - fo
+Hemminki:
+  gender_flag: 2
+  lang:
+  - fi
+Hemmo:
+  gender_flag: 2
+  lang:
+  - fi
+Henadz: {}
+Hence:
+  gender_flag: 2
+  lang:
+  - en
+Henderson:
+  gender_flag: 2
+  lang:
+  - en
+Hendrick:
+  gender_flag: 2
+  lang:
+  - nl
+Hendrik:
+  gender_flag: 2
+  is_equivalent_to:
+  - Henry
+  lang:
+  - de
+  - et
+  - nl
+  origin:
+  - gem
+Hendrikur:
+  gender_flag: 2
+  lang:
+  - fo
+Hendro:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Hendry:
+  gender_flag: 2
+  is_equivalent_to:
+  - Henry
+  lang:
+  - sco
+Henelē:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - en
+Heni:
+  gender_flag: 1
+  is_short_for:
+  - Henrietta
+  lang:
+  - hu
+Henk:
+  gender_flag: 2
+  lang:
+  - nl
+Henke:
+  gender_flag: 2
+  is_short_for:
+  - Henrik
+  lang:
+  - sv
+Henn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Henry
+  lang:
+  - et
+Henna:
+  gender_flag: 1
+  lang:
+  - fi
+Henni:
+  gender_flag: 1
+  lang:
+  - fi
+Hennie:
+  gender_flag: 2
+  lang:
+  - af
+Henning:
+  gender_flag: 2
+  lang:
+  - da
+  - 'no'
+  - sv
+Henningur:
+  gender_flag: 2
+  lang:
+  - fo
+Henny:
+  gender_flag: 3
+  is_short_for:
+  - Heinrich
+  - Henrietta
+  - Henriette
+  - Johanna
+  - Johannes
+  lang:
+  - da
+  - de
+  - en
+  - 'no'
+  - sv
+Henný:
+  gender_flag: 1
+  lang:
+  - fo
+Henri:
+  gender_flag: 2
+  is_a_variant_of:
+  - Hendrik
+  is_equivalent_to:
+  - Henry
+  lang:
+  - et
+  - fi
+  - fr
+  - fro
+  - nrf
+Henrich:
+  gender_flag: 2
+  lang:
+  - sk
+Henricus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Henry
+  lang:
+  - la
+Henrieta:
+  gender_flag: 1
+  lang:
+  - sk
+Henrietta:
+  gender_flag: 1
+  lang:
+  - en
+  - fo
+  - hu
+  - sv
+  origin:
+  - gem
+Henriette:
+  gender_flag: 1
+  is_equivalent_to:
+  - Harriet
+  - Henrietta
+  lang:
+  - da
+  - en
+  - et
+  - fr
+  - 'no'
+  - nrf
+  origin:
+  - fr
+Henrihs:
+  gender_flag: 2
+  lang:
+  - lv
+Henriikka:
+  gender_flag: 1
+  lang:
+  - fi
+Henrijs:
+  gender_flag: 2
+  lang:
+  - lv
+Henrik:
+  gender_flag: 2
+  is_equivalent_to:
+  - Henry
+  lang:
+  - da
+  - fi
+  - hu
+  - 'no'
+  - sl
+  - sv
+Henrika:
+  gender_flag: 1
+  lang:
+  - lt
+  - sv
+Henrikas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Henry
+  lang:
+  - lt
+Henrikka:
+  gender_flag: 1
+  lang:
+  - fo
+Henrikke:
+  gender_flag: 1
+  lang:
+  - da
+  - 'no'
+Henrikki:
+  gender_flag: 2
+  lang:
+  - fi
+Henriko:
+  gender_flag: 2
+  is_equivalent_to:
+  - Henry
+  lang:
+  - eo
+  origin:
+  - gem-pro
+Henriks:
+  gender_flag: 2
+  lang:
+  - lv
+Henrique:
+  gender_flag: 2
+  is_a_variant_of:
+  - Enrique
+  is_equivalent_to:
+  - Henry
+  lang:
+  - es
+  - pt
+Henriqueta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Henrietta
+  lang:
+  - pt
+Henry:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - fr
+  - frm
+  - 'no'
+  - sv
+  - tl
+  origin:
+  - en
+  - gem
+Henryk:
+  gender_flag: 2
+  is_equivalent_to:
+  - Henry
+  lang:
+  - pl
+Henryka:
+  gender_flag: 1
+  is_equivalent_to:
+  - Henrietta
+  lang:
+  - pl
+Hensar:
+  gender_flag: 2
+  lang:
+  - fo
+Hentie:
+  gender_flag: 1
+  is_short_for:
+  - Henriette
+  lang:
+  - af
+Heorhii: {}
+Heorhiy: {}
+Heorugar:
+  gender_flag: 2
+  lang:
+  - ang
+Hephzibah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Hera:
+  gender_flag: 1
+  is_equivalent_to:
+  - Sarah
+  lang:
+  - fo
+  - is
+  - mi
+Heraclitus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Heraclius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Herakles:
+  gender_flag: 2
+  lang:
+  - pl
+  origin:
+  - grc
+Heraut:
+  gender_flag: 2
+  is_equivalent_to:
+  - Harold
+  lang:
+  - fro
+Herb:
+  gender_flag: 2
+  is_short_for:
+  - Herbert
+  lang:
+  - en
+Herbert:
+  gender_flag: 2
+  lang:
+  - ceb
+  - cs
+  - de
+  - en
+  - fo
+  - fro
+  - sv
+  origin:
+  - en
+  - gem
+Herbertek:
+  gender_flag: 2
+  is_short_for:
+  - Herbert
+  lang:
+  - cs
+Herberts:
+  gender_flag: 2
+  lang:
+  - lv
+Herbie:
+  gender_flag: 2
+  is_short_for:
+  - Herbert
+  lang:
+  - en
+Herbjartur:
+  gender_flag: 2
+  lang:
+  - fo
+Herbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Herbjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Herborg:
+  gender_flag: 1
+  lang:
+  - fo
+Herbrandur:
+  gender_flag: 2
+  lang:
+  - fo
+Herc:
+  gender_flag: 2
+  is_short_for:
+  - Hercules
+  lang:
+  - en
+Hercules:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Herdis:
+  gender_flag: 1
+  lang:
+  - da
+  - fo
+Herdís:
+  gender_flag: 1
+  lang:
+  - is
+Herefriþ:
+  gender_flag: 2
+  lang:
+  - ang
+Heregyþ:
+  gender_flag: 1
+  lang:
+  - ang
+Heremod:
+  gender_flag: 2
+  lang:
+  - ang
+Hereward:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ang
+Hereweald:
+  gender_flag: 2
+  lang:
+  - ang
+Hereweard:
+  gender_flag: 2
+  lang:
+  - ang
+Herewini:
+  gender_flag: 2
+  lang:
+  - mi
+Herewulf:
+  gender_flag: 2
+  lang:
+  - ang
+Herfinnur:
+  gender_flag: 2
+  lang:
+  - fo
+Herfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Herfríður:
+  gender_flag: 2
+  lang:
+  - fo
+Hergeir:
+  gender_flag: 2
+  lang:
+  - fo
+Hergerð:
+  gender_flag: 1
+  lang:
+  - fo
+Hergjest:
+  gender_flag: 2
+  lang:
+  - nn
+Hergrímur:
+  gender_flag: 2
+  lang:
+  - fo
+Hergunn:
+  gender_flag: 1
+  lang:
+  - fo
+Heri:
+  gender_flag: 2
+  lang:
+  - fo
+Heribert:
+  gender_flag: 2
+  lang:
+  - de
+Heriberto:
+  gender_flag: 2
+  is_equivalent_to:
+  - Herbert
+  lang:
+  - es
+Herideo:
+  lang:
+  - goh
+Herigast:
+  gender_flag: 2
+  lang:
+  - goh
+Herisoa:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - mg
+Herjolvur:
+  gender_flag: 2
+  lang:
+  - fo
+Herjólfur:
+  gender_flag: 2
+  lang:
+  - is
+Herkko:
+  gender_flag: 2
+  lang:
+  - fi
+Herkules:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hercules
+  lang:
+  - pl
+  origin:
+  - ett
+  - grc
+  - la
+Herleivur:
+  gender_flag: 2
+  lang:
+  - fo
+Herleygur:
+  gender_flag: 2
+  lang:
+  - fo
+Herman:
+  gender_flag: 2
+  lang:
+  - da
+  - en
+  - fi
+  - nl
+  - 'no'
+  - sv
+  - wym
+  origin:
+  - gem
+Hermanis:
+  gender_flag: 2
+  lang:
+  - lv
+Hermann:
+  gender_flag: 2
+  is_equivalent_to:
+  - Herman
+  lang:
+  - de
+  - fo
+  - is
+Hermanni:
+  gender_flag: 2
+  lang:
+  - fi
+Hermano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Herman
+  lang:
+  - pt
+  origin:
+  - de
+Hermelinda:
+  gender_flag: 1
+  lang:
+  - es
+Hermes:
+  gender_flag: 2
+  lang:
+  - la
+  - pt
+  origin:
+  - grc
+Hermia:
+  gender_flag: 1
+  lang:
+  - en
+Hermie:
+  gender_flag: 7
+  lang:
+  - ceb
+Hermina:
+  gender_flag: 1
+  is_a_variant_of:
+  - Hermine
+  lang:
+  - de
+  origin:
+  - la
+Hermine:
+  gender_flag: 1
+  lang:
+  - de
+  - fr
+  origin:
+  - de
+Herminigilda:
+  gender_flag: 1
+  lang:
+  - ceb
+Herminigildo:
+  gender_flag: 2
+  lang:
+  - ceb
+Herminio:
+  gender_flag: 2
+  lang:
+  - tl
+  origin:
+  - es
+Hermione:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Hermogenes:
+  gender_flag: 2
+  lang:
+  - tl
+  origin:
+  - es
+Hermon:
+  gender_flag: 2
+  lang:
+  - en
+Hermundur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Hermína:
+  gender_flag: 1
+  lang:
+  - cs
+  - is
+  - sk
+Hermógenes:
+  gender_flag: 2
+  lang:
+  - es
+Hermóður:
+  gender_flag: 2
+  lang:
+  - fo
+Hernando:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+  - osp
+Hernane:
+  gender_flag: 2
+  lang:
+  - pt
+Hernani:
+  gender_flag: 2
+  lang:
+  - pt
+Herningur:
+  gender_flag: 2
+  lang:
+  - fo
+Hernán:
+  gender_flag: 2
+  lang:
+  - es
+Hernâni:
+  gender_flag: 2
+  lang:
+  - pt
+Hero:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Herolvur:
+  gender_flag: 2
+  lang:
+  - fo
+Herrið:
+  gender_flag: 1
+  lang:
+  - fo
+Hershel:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - yi
+Herstein:
+  gender_flag: 2
+  lang:
+  - fo
+Herta:
+  gender_flag: 1
+  is_a_variant_of:
+  - Hertha
+  is_equivalent_to:
+  - Hertha
+  lang:
+  - de
+  - et
+  - fo
+  - sv
+Hertha:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+Hertta:
+  gender_flag: 1
+  lang:
+  - fi
+Hervald:
+  gender_flag: 2
+  lang:
+  - nn
+Hervarður:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Herve:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - br
+Hervin:
+  gender_flag: 2
+  lang:
+  - is
+Hervé:
+  gender_flag: 2
+  is_equivalent_to:
+  - Harvey
+  lang:
+  - fr
+Hervör:
+  gender_flag: 1
+  lang:
+  - is
+Hervør:
+  gender_flag: 1
+  lang:
+  - fo
+Herward:
+  gender_flag: 2
+  lang:
+  - en
+Herwarth:
+  gender_flag: 2
+  lang:
+  - de
+Heráclito:
+  gender_flag: 2
+  lang:
+  - pt
+Herálvur:
+  gender_flag: 2
+  lang:
+  - fo
+Heródoto:
+  gender_flag: 2
+  lang:
+  - pt
+Herþrúður:
+  gender_flag: 1
+  lang:
+  - is
+Hessu:
+  gender_flag: 2
+  lang:
+  - fi
+Hester:
+  gender_flag: 1
+  lang:
+  - en
+  - la
+  - nl
+  origin:
+  - fa
+Hesther:
+  gender_flag: 1
+  lang:
+  - en
+Heston:
+  gender_flag: 2
+  lang:
+  - en
+Hesychius:
+  gender_flag: 2
+  lang:
+  - la
+Heta:
+  gender_flag: 1
+  lang:
+  - fi
+Hettie:
+  gender_flag: 1
+  lang:
+  - en
+Hetty:
+  gender_flag: 1
+  lang:
+  - en
+Heydər:
+  gender_flag: 2
+  lang:
+  - az
+Hezekiah:
+  gender_flag: 2
+  lang:
+  - en
+Heðin:
+  gender_flag: 2
+  lang:
+  - fo
+Heřman:
+  gender_flag: 2
+  is_equivalent_to:
+  - Herman
+  lang:
+  - cs
+Hi:
+  gender_flag: 2
+  lang:
+  - en
+Hiacynt:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hyacinth
+  lang:
+  - pl
+Hiatt:
+  gender_flag: 2
+  lang:
+  - en
+Hick:
+  gender_flag: 2
+  is_short_for:
+  - Richard
+  lang:
+  - en
+Hidayat:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - ar
+Hidayet:
+  gender_flag: 3
+  lang:
+  - tr
+Hidayət:
+  gender_flag: 2
+  lang:
+  - az
+Hidde:
+  gender_flag: 2
+  lang:
+  - nl
+Hideko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Hideliza:
+  gender_flag: 1
+  lang:
+  - ceb
+Hidemitsu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Hideo:
+  gender_flag: 2
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Hideyoshi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Hienadz: {}
+Hierasim: {}
+Hierocles:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Hieronim:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hieronymus
+  - Jerome
+  lang:
+  - pl
+Hieronymus:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - grc
+Higinio:
+  gender_flag: 2
+  lang:
+  - es
+Hiie:
+  gender_flag: 1
+  lang:
+  - et
+Hikari:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Hikaru:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - ja
+Hilaire:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - la
+Hilario:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hilary
+  lang:
+  - ceb
+  - es
+  - gl
+  - hil
+  - ilo
+  - tl
+  origin:
+  - es
+  - gl
+  - la
+Hilarius:
+  gender_flag: 2
+  lang:
+  - nl
+Hilarión:
+  gender_flag: 2
+  lang:
+  - es
+Hilary:
+  gender_flag: 7
+  lang:
+  - en
+  - pl
+  origin:
+  - la
+Hilaríus:
+  gender_flag: 2
+  lang:
+  - is
+  origin:
+  - la
+Hilbert:
+  gender_flag: 2
+  lang:
+  - en
+  - fo
+  origin:
+  - gem
+Hilda:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - es
+  - et
+  - fi
+  - fo
+  - is
+  - 'no'
+  - pt
+  - sk
+  - sv
+  - tl
+  origin:
+  - de
+  - en
+  - gem
+Hildar:
+  gender_flag: 2
+  lang:
+  - fo
+Hilde:
+  gender_flag: 1
+  is_a_variant_of:
+  - Hilda
+  lang:
+  - de
+  - 'no'
+Hildebrand:
+  gender_flag: 2
+  lang:
+  - de
+Hildebrando:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hildebrand
+  lang:
+  - pt
+Hildebrandt:
+  gender_flag: 2
+  lang:
+  - de
+Hildebrant:
+  gender_flag: 2
+  lang:
+  - de
+Hildegard:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - sv
+  origin:
+  - de
+  - gmw
+Hildegarda:
+  gender_flag: 1
+  is_equivalent_to:
+  - Hildegard
+  lang:
+  - es
+  - pl
+Hildegarde:
+  gender_flag: 1
+  is_a_variant_of:
+  - Hildegard
+  lang:
+  - en
+  origin:
+  - gem
+Hildegunn:
+  gender_flag: 1
+  lang:
+  - 'no'
+Hilderic:
+  gender_flag: 2
+  lang:
+  - en
+Hildibjartur:
+  gender_flag: 2
+  lang:
+  - fo
+Hildibjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Hildibjørn:
+  gender_flag: 2
+  lang:
+  - fo
+Hildibjørt:
+  gender_flag: 1
+  lang:
+  - fo
+Hildibrandur:
+  gender_flag: 2
+  lang:
+  - fo
+Hildigarð:
+  gender_flag: 1
+  lang:
+  - fo
+Hildigeir:
+  gender_flag: 2
+  lang:
+  - is
+Hildigerð:
+  gender_flag: 1
+  lang:
+  - fo
+Hildigunnur:
+  gender_flag: 1
+  lang:
+  - is
+Hildimer:
+  gender_flag: 2
+  lang:
+  - xvn
+Hildimundur:
+  gender_flag: 2
+  lang:
+  - is
+Hilding:
+  gender_flag: 2
+  lang:
+  - sv
+Hildirix:
+  gender_flag: 2
+  lang:
+  - xvn
+Hildiríður:
+  gender_flag: 1
+  lang:
+  - is
+Hildred:
+  gender_flag: 1
+  lang:
+  - en
+Hildur:
+  gender_flag: 1
+  is_a_variant_of:
+  - Hilda
+  lang:
+  - fo
+  - is
+  - 'no'
+  - sv
+Hilja:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+  origin:
+  - fi
+Hilkka:
+  gender_flag: 1
+  lang:
+  - fi
+Hilla:
+  gender_flag: 1
+  lang:
+  - fi
+Hillar:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hilary
+  lang:
+  - et
+Hillard:
+  gender_flag: 2
+  lang:
+  - en
+Hillary:
+  gender_flag: 7
+  is_a_variant_of:
+  - Hilary
+  lang:
+  - en
+  origin:
+  - la
+Hille:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Hillevi:
+  gender_flag: 1
+  lang:
+  - fi
+  - sv
+Hilma:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  - fi
+  - fo
+  - 'no'
+  - sv
+  origin:
+  - gem
+Hilmar:
+  gender_flag: 2
+  lang:
+  - fo
+Hilmi:
+  gender_flag: 2
+  lang:
+  - tr
+Hilmir:
+  gender_flag: 2
+  lang:
+  - is
+Hilo:
+  gender_flag: 2
+  lang:
+  - haw
+  origin:
+  - haw
+Hilppa:
+  gender_flag: 1
+  lang:
+  - fi
+Hiltibrant:
+  gender_flag: 2
+  lang:
+  - goh
+Hilticoma:
+  gender_flag: 1
+  lang:
+  - goh
+Himeko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Himiona:
+  gender_flag: 2
+  lang:
+  - mi
+Himri:
+  gender_flag: 2
+  lang:
+  - is
+Hina:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Hinako:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Hinano:
+  gender_flag: 1
+  lang:
+  - en
+Hinata:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Hindrek:
+  gender_flag: 2
+  is_equivalent_to:
+  - Henry
+  lang:
+  - et
+Hinerangi:
+  gender_flag: 1
+  lang:
+  - mi
+Hinnerk:
+  gender_flag: 2
+  lang:
+  - de
+Hinri:
+  gender_flag: 2
+  is_equivalent_to:
+  - Henry
+  lang:
+  - wa
+Hinrich:
+  gender_flag: 2
+  is_a_variant_of:
+  - Heinrich
+  is_equivalent_to:
+  - Henry
+  lang:
+  - de
+  origin:
+  - nds
+Hinz:
+  gender_flag: 2
+  is_short_for:
+  - Heinrich
+  lang:
+  - de
+Hiob:
+  gender_flag: 2
+  is_equivalent_to:
+  - Job
+  lang:
+  - pl
+Hip:
+  gender_flag: 1
+  is_short_for:
+  - Hippolyta
+  lang:
+  - en
+Hippocrates:
+  gender_flag: 2
+  lang:
+  - en
+  - la
+  origin:
+  - grc
+Hippolyta:
+  gender_flag: 1
+  lang:
+  - en
+Hippolyte:
+  gender_flag: 2
+  lang:
+  - fr
+  - nrf
+Hippolytus:
+  gender_flag: 2
+  lang:
+  - la
+Hipòlit:
+  gender_flag: 2
+  lang:
+  - ca
+Hipócrates:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hippocrates
+  lang:
+  - pt
+Hipólito:
+  gender_flag: 2
+  lang:
+  - es
+  - pt
+Hiram:
+  gender_flag: 2
+  lang:
+  - en
+Hircanus:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - grc
+Hirmadh:
+  gender_flag: 2
+  lang:
+  - sq
+Hirohisa:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Hiroko:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - tl
+  origin:
+  - ja
+Hiromitsu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Hiroshi:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Hirvo:
+  gender_flag: 2
+  lang:
+  - et
+Hirës:
+  gender_flag: 2
+  lang:
+  - sq
+Hirësia:
+  gender_flag: 1
+  lang:
+  - sq
+Hisako:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Hisamitsu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ja
+Hisashi:
+  gender_flag: 2
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Hiskia:
+  gender_flag: 2
+  lang:
+  - fi
+  - 'no'
+  - sv
+  origin:
+  - he
+Hitomi:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - ja
+Hièrru:
+  gender_flag: 1
+  lang:
+  - nrf
+Hiéron:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - grc
+  - la
+Hiʻiaka:
+  gender_flag: 7
+  lang:
+  - en
+  - haw
+  origin:
+  - haw
+Hiʻilani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Hiếu:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Hiền:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Hiển:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Hiệp:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Hiệu:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Hjalgrímur:
+  gender_flag: 2
+  lang:
+  - fo
+Hjallkár:
+  gender_flag: 2
+  lang:
+  - is
+Hjalma:
+  gender_flag: 1
+  lang:
+  - fo
+Hjalmar:
+  gender_flag: 2
+  lang:
+  - da
+  - fo
+  - sv
+Hjalte:
+  gender_flag: 2
+  lang:
+  - da
+Hjalti:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Hjaltína:
+  gender_flag: 1
+  lang:
+  - is
+Hjarnar:
+  gender_flag: 2
+  lang:
+  - fo
+Hjartvar:
+  gender_flag: 2
+  lang:
+  - fo
+Hjartvør:
+  gender_flag: 1
+  lang:
+  - fo
+Hjálmar:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Hjálmfríður:
+  gender_flag: 1
+  lang:
+  - is
+Hjálmrún:
+  gender_flag: 1
+  lang:
+  - is
+Hjálmtýr:
+  gender_flag: 2
+  lang:
+  - is
+Hjálmþór:
+  gender_flag: 2
+  lang:
+  - is
+Hjördis:
+  gender_flag: 1
+  lang:
+  - sv
+Hjördís:
+  gender_flag: 1
+  lang:
+  - is
+Hjörtur:
+  gender_flag: 2
+  lang:
+  - is
+Hjörtína:
+  gender_flag: 1
+  lang:
+  - is
+Hjörtþór:
+  gender_flag: 2
+  lang:
+  - is
+Hjörvarður:
+  gender_flag: 2
+  lang:
+  - is
+Hjørdis:
+  gender_flag: 1
+  lang:
+  - da
+  - fo
+  - 'no'
+Hjørgrímur:
+  gender_flag: 2
+  lang:
+  - fo
+Hjørleivur:
+  gender_flag: 2
+  lang:
+  - fo
+Hjørmundur:
+  gender_flag: 2
+  lang:
+  - fo
+Hjørtur:
+  gender_flag: 2
+  lang:
+  - fo
+Hjǫrdís:
+  gender_flag: 1
+  lang:
+  - non
+Hlaðgerður:
+  gender_flag: 1
+  lang:
+  - is
+Hleoperht:
+  gender_flag: 2
+  lang:
+  - goh
+Hloþhere:
+  gender_flag: 2
+  lang:
+  - ang
+Hloþwig:
+  gender_flag: 2
+  lang:
+  - ang
+Hlér:
+  gender_flag: 2
+  lang:
+  - is
+Hlín:
+  gender_flag: 1
+  lang:
+  - is
+Hlíðar:
+  gender_flag: 2
+  lang:
+  - is
+Hnat: {}
+Hoa:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Hoana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Joan
+  lang:
+  - mi
+Hoani:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - mi
+Hob:
+  gender_flag: 2
+  lang:
+  - en
+Hojamyrat:
+  gender_flag: 2
+  lang:
+  - tk
+Holda:
+  gender_flag: 1
+  lang:
+  - goh
+Holden:
+  gender_flag: 2
+  lang:
+  - en
+Holgar:
+  gender_flag: 2
+  lang:
+  - fo
+Holger:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - sv
+Hollee:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Holli:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Hollie:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Holly:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Hollye:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Holmes:
+  gender_flag: 2
+  lang:
+  - en
+Homer:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Homero:
+  gender_flag: 2
+  is_equivalent_to:
+  - Homer
+  lang:
+  - eo
+  - es
+  - pt
+  origin:
+  - grc
+  - la
+Homikniwa:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hop
+Hone:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - mi
+Honey:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - en
+Honeysuckle:
+  gender_flag: 1
+  lang:
+  - en
+Honor:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Honora:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Honorata:
+  gender_flag: 1
+  lang:
+  - pl
+Honoria:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Honorine:
+  gender_flag: 1
+  lang:
+  - fr
+Honorio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Honorius
+  lang:
+  - es
+Honorius:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Honoré:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - la
+Honour:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Honza:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jack
+  is_short_for:
+  - Jan
+  lang:
+  - cs
+Honzík:
+  gender_flag: 2
+  is_short_for:
+  - Honza
+  lang:
+  - cs
+Honzíček:
+  gender_flag: 2
+  is_short_for:
+  - Honza
+  lang:
+  - cs
+Hooman: {}
+Hope:
+  gender_flag: 7
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Horace:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Horacio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Horace
+  - Horatio
+  lang:
+  - eo
+  - es
+  origin:
+  - la
+Horacy:
+  gender_flag: 2
+  is_equivalent_to:
+  - Horace
+  lang:
+  - pl
+Horatio:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Horry:
+  gender_flag: 2
+  is_short_for:
+  - Horace
+  lang:
+  - en
+Horst:
+  gender_flag: 2
+  lang:
+  - de
+Hortense:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+Hortensia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Hortense
+  lang:
+  - en
+  - es
+  origin:
+  - es
+Hortensja:
+  gender_flag: 1
+  is_equivalent_to:
+  - Hortense
+  lang:
+  - pl
+Hortenzia:
+  gender_flag: 1
+  lang:
+  - sk
+Horymír:
+  gender_flag: 2
+  lang:
+  - cs
+Horácio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Horace
+  lang:
+  - pt
+  origin:
+  - la
+Hoseynqoli: {}
+Hoshiko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Hosmer:
+  gender_flag: 2
+  lang:
+  - en
+Hossein:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - fa
+Hosteen:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - nv
+Hotaru:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Hotoru:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Houbert:
+  gender_flag: 2
+  lang:
+  - wa
+Houbiet:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hubert
+  lang:
+  - wa
+Housse:
+  gender_flag: 1
+  lang:
+  - nrf
+Houston:
+  gender_flag: 2
+  lang:
+  - en
+Howard:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Howel:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Howell:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - cy
+Howie:
+  gender_flag: 2
+  is_short_for:
+  - Howard
+  lang:
+  - en
+Hoxhë:
+  gender_flag: 2
+  is_equivalent_to:
+  - Imam
+  lang:
+  - sq
+  origin:
+  - fa
+Hoyt:
+  gender_flag: 2
+  lang:
+  - en
+Hoà:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Hoài:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Hoàng:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Hrach:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hy
+Hrachya:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - hy
+Hrafn:
+  gender_flag: 2
+  lang:
+  - is
+Hrafnbjörg:
+  gender_flag: 1
+  lang:
+  - is
+Hrafndís:
+  gender_flag: 1
+  lang:
+  - is
+Hrafnhildur:
+  gender_flag: 1
+  lang:
+  - is
+Hrafnkell:
+  gender_flag: 2
+  lang:
+  - is
+Hrafntýr:
+  gender_flag: 2
+  lang:
+  - is
+Hreindís:
+  gender_flag: 1
+  lang:
+  - is
+Hreinn:
+  gender_flag: 2
+  lang:
+  - is
+Hreiðarr:
+  gender_flag: 2
+  lang:
+  - non
+Hreiðunn:
+  gender_flag: 1
+  lang:
+  - non
+Hrista:
+  gender_flag: 2
+  is_short_for:
+  - Χριστάκης
+  lang:
+  - rup
+Hristiyan:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - grc
+Hroadant:
+  gender_flag: 2
+  lang:
+  - goh
+Hrodpirin:
+  gender_flag: 1
+  lang:
+  - goh
+Hroþberht:
+  gender_flag: 2
+  lang:
+  - ang
+Hroþgar:
+  gender_flag: 2
+  lang:
+  - ang
+Hroþwulf:
+  gender_flag: 2
+  lang:
+  - ang
+Hrs:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Hrund:
+  gender_flag: 1
+  lang:
+  - is
+Hruodgaoz:
+  lang:
+  - goh
+Hrvatin:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Hrvatislav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Hrvatko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Hrvatoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Hrvoje:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Hrvoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Hryhorii: {}
+Hryhoriy: {}
+Hræþhun:
+  gender_flag: 2
+  lang:
+  - ang
+Hróbjartr:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robert
+  lang:
+  - non
+Hróbjartur:
+  gender_flag: 2
+  is_equivalent_to:
+  - Robert
+  lang:
+  - is
+Hrói:
+  gender_flag: 2
+  lang:
+  - is
+Hrólfdís:
+  gender_flag: 1
+  lang:
+  - is
+Hrólfr:
+  gender_flag: 2
+  lang:
+  - non
+Hrólfur:
+  gender_flag: 2
+  is_equivalent_to:
+  - Rudolph
+  lang:
+  - is
+Hróný:
+  gender_flag: 1
+  lang:
+  - is
+Hróðbjört:
+  gender_flag: 1
+  lang:
+  - is
+Hróðgeir:
+  gender_flag: 2
+  is_equivalent_to:
+  - Roger
+  lang:
+  - is
+Hróðný:
+  gender_flag: 1
+  lang:
+  - is
+  - non
+Huan:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - ext
+Hubert:
+  gender_flag: 2
+  lang:
+  - cs
+  - de
+  - en
+  - et
+  - fr
+  - fro
+  - nl
+  - pl
+  - sk
+  origin:
+  - de
+  - gem
+Huberta:
+  gender_flag: 1
+  lang:
+  - en
+  - nl
+  origin:
+  - gem
+Hubertek:
+  gender_flag: 2
+  is_short_for:
+  - Hubert
+  lang:
+  - cs
+Hubertus:
+  gender_flag: 2
+  lang:
+  - nl
+Hubrecht:
+  gender_flag: 2
+  lang:
+  - nl
+Hubèrt:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hubert
+  lang:
+  - nrf
+Huda:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Hudson:
+  gender_flag: 2
+  lang:
+  - en
+Huey:
+  gender_flag: 2
+  is_short_for:
+  - Hubert
+  - Hugh
+  lang:
+  - en
+Huffie:
+  gender_flag: 2
+  is_short_for:
+  - Humphrey
+  lang:
+  - en
+Hugh:
+  gender_flag: 2
+  lang:
+  - en
+  - sco
+  origin:
+  - gem
+Hughie:
+  gender_flag: 2
+  is_short_for:
+  - Hugh
+  lang:
+  - en
+Hughina:
+  gender_flag: 1
+  lang:
+  - en
+Hugi:
+  gender_flag: 2
+  lang:
+  - fo
+Hugin:
+  gender_flag: 2
+  lang:
+  - fo
+Huginn:
+  gender_flag: 2
+  lang:
+  - is
+Hugljúf:
+  gender_flag: 1
+  lang:
+  - is
+Hugo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hugh
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - es
+  - et
+  - fr
+  - la
+  - 'no'
+  - pl
+  - pt
+  - sk
+  - sv
+  origin:
+  - gem
+Hugon:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hugh
+  lang:
+  - fro
+  - pl
+Hugues:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hugh
+  lang:
+  - fr
+Huguette:
+  gender_flag: 1
+  lang:
+  - fr
+Huib:
+  gender_flag: 2
+  lang:
+  - nl
+Huko:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hugh
+  - Hugo
+  lang:
+  - et
+Hulda:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - fi
+  - fo
+  - is
+  - 'no'
+  - sv
+Huldah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Hulkko:
+  gender_flag: 2
+  lang:
+  - fi
+Humbert:
+  gender_flag: 2
+  lang:
+  - en
+  - fr
+  origin:
+  - gem
+Humberto:
+  gender_flag: 2
+  is_equivalent_to:
+  - Humbert
+  lang:
+  - es
+  - pt
+Humbertus:
+  gender_flag: 2
+  is_equivalent_to:
+  - Humbert
+  lang:
+  - la
+Humph:
+  gender_flag: 2
+  is_short_for:
+  - Humphrey
+  lang:
+  - en
+Humphrey:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Humphry:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Humza:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Hunbeorht:
+  gender_flag: 2
+  lang:
+  - ang
+Hunberht:
+  gender_flag: 2
+  lang:
+  - ang
+Hunor:
+  gender_flag: 2
+  lang:
+  - hu
+Hunræd:
+  gender_flag: 2
+  lang:
+  - ang
+Hunt:
+  gender_flag: 2
+  lang:
+  - en
+Hunter:
+  gender_flag: 2
+  lang:
+  - en
+Hunwine:
+  gender_flag: 2
+  lang:
+  - ang
+Huon:
+  gender_flag: 2
+  lang:
+  - en
+Husaina:
+  gender_flag: 1
+  lang:
+  - ha
+Husaini:
+  gender_flag: 2
+  lang:
+  - ha
+Husayn:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Husina:
+  gender_flag: 1
+  lang:
+  - goh
+Hussain:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Hussein:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Hutch:
+  gender_flag: 2
+  lang:
+  - en
+Huub:
+  gender_flag: 2
+  lang:
+  - nl
+Huugo:
+  gender_flag: 2
+  lang:
+  - fi
+Huw:
+  gender_flag: 2
+  lang:
+  - cy
+Huy:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Huyền:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - vi
+Huân:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Huşəng:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - fa
+Huệ:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Huỳnh:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Hy:
+  gender_flag: 2
+  lang:
+  - en
+Hyacinth:
+  gender_flag: 7
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - grc
+  - la
+Hyacinthe:
+  gender_flag: 2
+  lang:
+  - fr
+Hyacynthe:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hyacinth
+  lang:
+  - nrf
+Hyam:
+  gender_flag: 2
+  lang:
+  - en
+Hydeia:
+  gender_flag: 1
+  lang:
+  - en
+Hydyr:
+  gender_flag: 2
+  lang:
+  - tk
+Hygeberht:
+  gender_flag: 2
+  lang:
+  - ang
+Hyidhanë:
+  gender_flag: 2
+  lang:
+  - sq
+  origin:
+  - grc
+Hyidhor:
+  gender_flag: 2
+  lang:
+  - sq
+Hyinora:
+  gender_flag: 1
+  lang:
+  - sq
+Hyjdhor:
+  gender_flag: 2
+  lang:
+  - sq
+  origin:
+  - grc
+Hyjnora:
+  gender_flag: 1
+  lang:
+  - sq
+Hylke:
+  gender_flag: 3
+  lang:
+  - nl
+  origin:
+  - fy
+Hyllas:
+  gender_flag: 2
+  lang:
+  - sq
+Hyllos:
+  gender_flag: 2
+  lang:
+  - sq
+Hyman:
+  gender_flag: 2
+  lang:
+  - en
+Hymie:
+  gender_flag: 2
+  is_short_for:
+  - Hyman
+  lang:
+  - en
+Hynek:
+  gender_flag: 2
+  lang:
+  - cs
+Hypatia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+  - la
+Hyrcanus:
+  gender_flag: 2
+  lang:
+  - en
+Hyroeades:
+  gender_flag: 2
+  lang:
+  - la
+  origin:
+  - peo
+Hyrum:
+  gender_flag: 2
+  lang:
+  - en
+Hyseberht:
+  gender_flag: 2
+  lang:
+  - ang
+Hysenoþ:
+  gender_flag: 2
+  lang:
+  - ang
+Hywel:
+  gender_flag: 2
+  lang:
+  - cy
+Hà:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Hào:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Hábarður:
+  gender_flag: 2
+  lang:
+  - fo
+Hákon:
+  gender_flag: 2
+  lang:
+  - is
+  - non
+Hákun:
+  gender_flag: 2
+  lang:
+  - fo
+Hálvdan:
+  gender_flag: 2
+  lang:
+  - fo
+Hámundur:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Hánsa:
+  gender_flag: 2
+  lang:
+  - se
+Hárikur:
+  gender_flag: 2
+  lang:
+  - fo
+Hástein:
+  gender_flag: 2
+  lang:
+  - fo
+Hásteinn:
+  gender_flag: 2
+  lang:
+  - is
+Hávar:
+  gender_flag: 2
+  lang:
+  - fo
+Hávarður:
+  gender_flag: 2
+  lang:
+  - fo
+Hávarðína:
+  gender_flag: 1
+  lang:
+  - is
+Hân:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Hänschen:
+  gender_flag: 2
+  is_short_for:
+  - Hans
+  lang:
+  - de
+Hänsel:
+  gender_flag: 2
+  is_short_for:
+  - Hans
+  - Johannes
+  lang:
+  - de
+Håkan:
+  gender_flag: 2
+  lang:
+  - sv
+Håkon:
+  gender_flag: 2
+  lang:
+  - nb
+  - nn
+  origin:
+  - non
+Håvard:
+  gender_flag: 2
+  lang:
+  - 'no'
+Hæge:
+  gender_flag: 1
+  lang:
+  - nn
+Hébèrt:
+  gender_flag: 2
+  lang:
+  - nrf
+Héctor:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hector
+  lang:
+  - es
+  origin:
+  - grc
+Hélder:
+  gender_flag: 2
+  lang:
+  - pt
+Hélio:
+  gender_flag: 2
+  lang:
+  - pt
+Héloïse:
+  gender_flag: 1
+  is_a_variant_of:
+  - Éloïse
+  is_equivalent_to:
+  - Heloise
+  lang:
+  - fr
+Hélène:
+  gender_flag: 1
+  is_equivalent_to:
+  - Helen
+  lang:
+  - fr
+  - sv
+Héðinn:
+  gender_flag: 2
+  lang:
+  - is
+Hêlîn:
+  gender_flag: 1
+  lang:
+  - kmr
+Hólmar:
+  gender_flag: 2
+  lang:
+  - is
+Hólmbert:
+  gender_flag: 2
+  lang:
+  - is
+Hólmfríður:
+  gender_flag: 1
+  lang:
+  - is
+Hólmgeir:
+  gender_flag: 2
+  lang:
+  - is
+Hólmþór:
+  gender_flag: 2
+  lang:
+  - is
+Hóraldur:
+  gender_flag: 2
+  lang:
+  - fo
+Hóri:
+  gender_flag: 2
+  lang:
+  - fo
+Hórður:
+  gender_flag: 2
+  lang:
+  - fo
+Hödd:
+  gender_flag: 1
+  lang:
+  - is
+Hörn:
+  gender_flag: 1
+  lang:
+  - is
+Hörður:
+  gender_flag: 2
+  lang:
+  - is
+Höður:
+  gender_flag: 2
+  lang:
+  - is
+Høgnar:
+  gender_flag: 2
+  lang:
+  - fo
+Høgni:
+  gender_flag: 2
+  lang:
+  - fo
+Hørður:
+  gender_flag: 2
+  lang:
+  - fo
+Høskuldur:
+  gender_flag: 2
+  lang:
+  - fo
+Hùng:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Húmi:
+  gender_flag: 2
+  lang:
+  - is
+Húnbogi:
+  gender_flag: 2
+  lang:
+  - fo
+Húngerð:
+  gender_flag: 1
+  lang:
+  - fo
+Húngunn:
+  gender_flag: 1
+  lang:
+  - fo
+Húni:
+  gender_flag: 2
+  lang:
+  - fo
+Húnn:
+  gender_flag: 2
+  lang:
+  - is
+Hülya:
+  gender_flag: 1
+  lang:
+  - tr
+Hür:
+  gender_flag: 2
+  lang:
+  - tr
+Hürriyet:
+  gender_flag: 3
+  lang:
+  - tr
+Hüsam:
+  gender_flag: 2
+  lang:
+  - tr
+Hüseyin:
+  gender_flag: 2
+  lang:
+  - tr
+  origin:
+  - ar
+Hüseyn:
+  gender_flag: 2
+  lang:
+  - az
+  origin:
+  - ar
+Hüseynqulu:
+  gender_flag: 2
+  lang:
+  - az
+Hüseynəli:
+  gender_flag: 2
+  lang:
+  - az
+Hüsniyyə:
+  gender_flag: 1
+  lang:
+  - az
+Hüsnü:
+  gender_flag: 2
+  lang:
+  - az
+  - tr
+Hāmiora:
+  gender_flag: 2
+  is_equivalent_to:
+  - Samuel
+  lang:
+  - mi
+Hāmuera:
+  gender_flag: 2
+  is_equivalent_to:
+  - Samuel
+  lang:
+  - mi
+Hārata:
+  gender_flag: 1
+  is_equivalent_to:
+  - Charlotte
+  lang:
+  - mi
+Hāriata:
+  gender_flag: 1
+  is_equivalent_to:
+  - Harriet
+  lang:
+  - mi
+Hēmi:
+  gender_flag: 2
+  is_equivalent_to:
+  - James
+  lang:
+  - mi
+Hēnare:
+  gender_flag: 2
+  is_equivalent_to:
+  - Henry
+  lang:
+  - mi
+Hēni:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jane
+  lang:
+  - mi
+Hōhepa:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - mi
+Hōkūlani:
+  gender_flag: 1
+  lang:
+  - haw
+  origin:
+  - haw
+Hōne:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - mi
+Hōri:
+  gender_flag: 2
+  lang:
+  - mi
+Hūhana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Susan
+  lang:
+  - mi
+Hương:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Hường:
+  gender_flag: 1
+  lang:
+  - vi
+Hǫgni:
+  gender_flag: 2
+  lang:
+  - non
+Hǫrðr:
+  gender_flag: 2
+  lang:
+  - non
+Həbib:
+  gender_flag: 2
+  lang:
+  - az
+Həmid:
+  gender_flag: 2
+  lang:
+  - az
+Həmidə:
+  gender_flag: 1
+  lang:
+  - az
+Həsən:
+  gender_flag: 2
+  lang:
+  - az
+Həşim:
+  gender_flag: 2
+  lang:
+  - az
+Hạ:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Hạnh:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Hạo:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Hải:
+  gender_flag: 2
+  lang:
+  - vi
+  origin:
+  - zh
+Hậu:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Hằng:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+Hồng:
+  gender_flag: 7
+  lang:
+  - vi
+  origin:
+  - zh
+Hợi:
+  gender_flag: 1
+  lang:
+  - vi
+  origin:
+  - zh
+hanako:
+  gender_flag: 1
+  lang:
+  - pwn
+  origin:
+  - ja
+helgi:
+  gender_flag: 2
+  lang:
+  - fo
+hkr:
+  gender_flag: 2
+  lang:
+  - egy
+hurrem:
+  gender_flag: 1
+  lang:
+  - zza
+ḥnwt-tꜣwj:
+  gender_flag: 1
+  lang:
+  - egy
+ḥr-m-ḥꜣt:
+  gender_flag: 2
+  lang:
+  - egy
+ḥr-zꜣ-ꜣst:
+  gender_flag: 2
+  lang:
+  - egy
+ḥr-ḏd.f:
+  gender_flag: 2
+  lang:
+  - egy
+ḥtp:
+  gender_flag: 2
+  lang:
+  - egy
+ḥtp-ḥr.s:
+  gender_flag: 1
+  lang:
+  - egy
+ḥꜣt-špswt:
+  gender_flag: 1
+  lang:
+  - egy
+ḫw:
+  gender_flag: 2
+  lang:
+  - egy
+ḫw.n-jnpw:
+  gender_flag: 2
+  lang:
+  - egy
+ḫšꜣyꜣrwšꜣ:
+  gender_flag: 2
+  lang:
+  - egy
+ḫꜣbꜣbꜣšꜣ:
+  gender_flag: 2
+  lang:
+  - egy
+ḫꜣjw:
+  gender_flag: 2
+  lang:
+  - egy
+ḫꜥ-m-wꜣst:
+  gender_flag: 2
+  lang:
+  - egy
+ẖnmt-nfr-ḥḏt:
+  gender_flag: 1
+  lang:
+  - egy
+ẖnmw-ḥtp:
+  gender_flag: 2
+  lang:
+  - egy

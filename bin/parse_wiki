@@ -1,0 +1,5 @@
+#!/usr/bin/python3
+
+from wiktionary.parse import main
+
+main()

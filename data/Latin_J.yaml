@@ -1,0 +1,7378 @@
+Jaagup:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jaakob
+  - Jakob
+  lang:
+  - et
+Jaaja:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Jaak:
+  gender_flag: 2
+  lang:
+  - et
+Jaakkima:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joachim
+  lang:
+  - fi
+Jaakko:
+  gender_flag: 2
+  lang:
+  - fi
+  origin:
+  - he
+Jaakob:
+  gender_flag: 2
+  lang:
+  - et
+Jaakoppi:
+  gender_flag: 2
+  lang:
+  - fi
+Jaaku:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Jaames:
+  gender_flag: 2
+  is_equivalent_to:
+  - James
+  lang:
+  - yol
+Jaan:
+  gender_flag: 2
+  lang:
+  - et
+Jaana:
+  gender_flag: 1
+  lang:
+  - et
+  - fi
+Jaane:
+  gender_flag: 1
+  is_equivalent_to:
+  - Joan
+  lang:
+  - yol
+Jaanika:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jaana
+  lang:
+  - et
+Jaanus:
+  gender_flag: 2
+  lang:
+  - et
+Jaap:
+  gender_flag: 2
+  is_short_for:
+  - Jacob
+  lang:
+  - nl
+Jaappili:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Jabari:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sw
+Jabez:
+  gender_flag: 2
+  lang:
+  - en
+Jac:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jack
+  lang:
+  - cy
+Jacari:
+  gender_flag: 2
+  lang:
+  - en
+Jace:
+  gender_flag: 2
+  is_short_for:
+  - Jason
+  lang:
+  - en
+Jacek:
+  gender_flag: 2
+  lang:
+  - pl
+Jacenty:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hyacinth
+  lang:
+  - pl
+Jaci:
+  gender_flag: 3
+  lang:
+  - pt
+  origin:
+  - tpw
+Jaciara:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Jacinda:
+  gender_flag: 1
+  lang:
+  - en
+Jacinta:
+  gender_flag: 1
+  lang:
+  - ceb
+  - es
+Jacinth:
+  gender_flag: 1
+  lang:
+  - en
+Jacintha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Jacinthe:
+  gender_flag: 1
+  lang:
+  - en
+Jacinto:
+  gender_flag: 2
+  is_equivalent_to:
+  - Hyacinth
+  lang:
+  - ceb
+  - es
+  - pam
+  - pt
+  - tl
+  origin:
+  - es
+Jacira:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Jacirema:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Jack:
+  gender_flag: 2
+  lang:
+  - da
+  - en
+  - sv
+Jacke:
+  gender_flag: 2
+  is_short_for:
+  - Jacob
+  - Jakob
+  lang:
+  - sv
+Jackeen:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jockeen
+  lang:
+  - yol
+Jacki:
+  gender_flag: 1
+  lang:
+  - en
+Jackie:
+  gender_flag: 3
+  lang:
+  - en
+Jacklyn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+Jacko:
+  gender_flag: 2
+  lang:
+  - en
+Jackson:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Jacky:
+  gender_flag: 3
+  is_short_for:
+  - Jacqueline
+  lang:
+  - en
+  - es
+Jackye:
+  gender_flag: 1
+  lang:
+  - en
+Jaclyn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+Jacme:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jack
+  - James
+  lang:
+  - oc
+Jacob:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jakob
+  is_equivalent_to:
+  - James
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fr
+  - nl
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - en
+  - es
+  - he
+Jacoba:
+  gender_flag: 1
+  lang:
+  - nl
+Jacobine:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  - 'no'
+Jacobo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  - James
+  lang:
+  - es
+  - pt
+Jacobus:
+  gender_flag: 2
+  lang:
+  - la
+  - nl
+Jacoby:
+  gender_flag: 2
+  lang:
+  - en
+Jacopo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  - James
+  lang:
+  - it
+  origin:
+  - he
+Jacopone:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jacopo
+  lang:
+  - it
+Jacot:
+  gender_flag: 2
+  is_short_for:
+  - Jaques
+  lang:
+  - nrf
+Jacotte:
+  gender_flag: 1
+  lang:
+  - fr
+  - nrf
+  origin:
+  - nrf
+Jacque:
+  gender_flag: 1
+  is_short_for:
+  - Jacqueline
+  - Jacquelyn
+  lang:
+  - en
+Jacqueline:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - es
+  - fr
+  - nl
+  origin:
+  - fr
+Jacquelyn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+Jacques:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jack
+  lang:
+  - en
+  - fr
+  - nrf
+Jacqui:
+  gender_flag: 1
+  is_short_for:
+  - Jacqueline
+  lang:
+  - en
+Jacquie:
+  gender_flag: 1
+  lang:
+  - en
+Jacum:
+  gender_flag: 2
+  is_equivalent_to:
+  - James
+  lang:
+  - fur
+Jacuś:
+  gender_flag: 2
+  is_short_for:
+  - Jacek
+  - Jacenty
+  lang:
+  - pl
+Jacy:
+  gender_flag: 3
+  lang:
+  - pt
+  origin:
+  - tpw
+Jacòb:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - oc
+Jacó:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - pt
+Jad:
+  gender_flag: 2
+  lang:
+  - en
+Jada:
+  gender_flag: 7
+  lang:
+  - en
+Jade:
+  gender_flag: 3
+  lang:
+  - ceb
+  - en
+  - fi
+  - fr
+  origin:
+  - en
+Jaden:
+  gender_flag: 7
+  is_a_variant_of:
+  - Jayden
+  lang:
+  - en
+Jadiel:
+  gender_flag: 2
+  lang:
+  - en
+Jadon:
+  gender_flag: 2
+  lang:
+  - en
+Jadun:
+  gender_flag: 2
+  lang:
+  - en
+Jadviga:
+  gender_flag: 1
+  lang:
+  - lv
+Jadvyga:
+  gender_flag: 1
+  is_equivalent_to:
+  - Hedwig
+  lang:
+  - lt
+Jadwiga:
+  gender_flag: 1
+  is_equivalent_to:
+  - Hedwig
+  lang:
+  - pl
+Jadzia:
+  gender_flag: 1
+  is_short_for:
+  - Jadwiga
+  lang:
+  - pl
+Jae:
+  gender_flag: 7
+  lang:
+  - en
+Jaedon:
+  gender_flag: 2
+  lang:
+  - en
+Jael:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Jaelyn:
+  gender_flag: 1
+  lang:
+  - en
+Jaelynn:
+  gender_flag: 1
+  lang:
+  - en
+Jafet:
+  gender_flag: 2
+  is_equivalent_to:
+  - Japheth
+  lang:
+  - es
+  - fo
+Jagan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Jagannath:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Jagapati:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Jagger:
+  gender_flag: 2
+  lang:
+  - en
+Jagmeet:
+  gender_flag: 2
+  lang:
+  - en
+Jago:
+  gender_flag: 2
+  is_equivalent_to:
+  - James
+  lang:
+  - kw
+Jagoda:
+  gender_flag: 1
+  lang:
+  - pl
+Jagódka:
+  gender_flag: 1
+  is_short_for:
+  - Jagoda
+  lang:
+  - pl
+Jahan: {}
+Jahana:
+  gender_flag: 1
+  lang:
+  - en
+Jahshaun:
+  gender_flag: 2
+  lang:
+  - en
+Jai:
+  gender_flag: 7
+  lang:
+  - en
+Jaida:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jada
+  lang:
+  - en
+Jaiden:
+  gender_flag: 7
+  is_a_variant_of:
+  - Jayden
+  lang:
+  - en
+Jaidyn:
+  gender_flag: 7
+  is_a_variant_of:
+  - Jayden
+  lang:
+  - en
+Jaike:
+  gender_flag: 1
+  lang:
+  - nl
+Jaime:
+  gender_flag: 7
+  is_a_variant_of:
+  - Jamie
+  is_equivalent_to:
+  - James
+  lang:
+  - en
+  - es
+  - pt
+  origin:
+  - es
+Jair:
+  gender_flag: 2
+  is_equivalent_to:
+  - Yair
+  lang:
+  - en
+  - pt
+  origin:
+  - he
+Jairo:
+  gender_flag: 2
+  lang:
+  - es
+Jaja:
+  gender_flag: 1
+  lang:
+  - ceb
+Jak:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - en
+  - sq
+Jaka:
+  gender_flag: 2
+  lang:
+  - jv
+Jakab:
+  gender_flag: 2
+  is_equivalent_to:
+  - James
+  lang:
+  - hu
+Jake:
+  gender_flag: 2
+  lang:
+  - en
+Jaki:
+  gender_flag: 2
+  lang:
+  - is
+Jakku:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Jakob:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jacob
+  is_equivalent_to:
+  - Jacob
+  - James
+  lang:
+  - da
+  - de
+  - et
+  - is
+  - nl
+  - 'no'
+  - sv
+Jakoba:
+  gender_flag: 1
+  lang:
+  - fo
+Jakobina:
+  gender_flag: 1
+  lang:
+  - fo
+Jakobine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jacobine
+  lang:
+  - da
+Jakobína:
+  gender_flag: 1
+  lang:
+  - is
+Jakop:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - is
+Jakoubek:
+  gender_flag: 2
+  is_short_for:
+  - Jakub
+  lang:
+  - cs
+Jakov: {}
+Jakub:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  - Jake
+  - James
+  lang:
+  - cs
+  - pl
+  - sk
+  origin:
+  - grc
+  - he
+  - la
+Jakup:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - sq
+Jakupi:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - sq
+Jakë:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - sq
+Jalaja:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Jale:
+  gender_flag: 1
+  lang:
+  - tr
+  origin:
+  - fa
+Jalen:
+  gender_flag: 2
+  lang:
+  - en
+Jaliyah:
+  gender_flag: 1
+  lang:
+  - en
+Jallgrímur:
+  gender_flag: 2
+  lang:
+  - fo
+Jalmar:
+  gender_flag: 2
+  lang:
+  - fi
+Jalmari:
+  gender_flag: 2
+  lang:
+  - fi
+Jalo:
+  gender_flag: 2
+  lang:
+  - fi
+Jaloliddin:
+  gender_flag: 2
+  lang:
+  - uz
+Jamal:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Jamar:
+  gender_flag: 2
+  lang:
+  - en
+Jamari:
+  gender_flag: 2
+  lang:
+  - en
+Jamarion:
+  gender_flag: 2
+  lang:
+  - en
+Jameen:
+  gender_flag: 2
+  lang:
+  - yol
+James:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - en
+  - enm
+  - sv
+  origin:
+  - en
+  - fro
+  - he
+Jameshia:
+  gender_flag: 1
+  lang:
+  - en
+Jamesina:
+  gender_flag: 1
+  lang:
+  - en
+Jameson:
+  gender_flag: 2
+  lang:
+  - en
+Jami:
+  gender_flag: 2
+  lang:
+  - fi
+Jamie:
+  gender_flag: 7
+  is_short_for:
+  - James
+  lang:
+  - en
+  origin:
+  - he
+Jamila:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Jamir:
+  gender_flag: 2
+  lang:
+  - en
+Jamison:
+  gender_flag: 2
+  lang:
+  - en
+Jamshid:
+  gender_flag: 2
+  lang:
+  - uz
+Jamys:
+  gender_flag: 2
+  is_equivalent_to:
+  - James
+  lang:
+  - gv
+Jan:
+  gender_flag: 7
+  is_equivalent_to:
+  - John
+  lang:
+  - cs
+  - da
+  - de
+  - en
+  - fo
+  - li
+  - nl
+  - 'no'
+  - pl
+  - sv
+  - zlw-ocs
+  origin:
+  - fr
+  - he
+Jan-Erik:
+  gender_flag: 2
+  lang:
+  - 'no'
+  - sv
+Jana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jane
+  lang:
+  - cs
+  - de
+  - en
+  - et
+  - fo
+  - is
+  - lv
+  - sh
+  - sk
+  origin:
+  - cs
+  - he
+Janae:
+  gender_flag: 1
+  lang:
+  - en
+Janaki:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Janani:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Janar:
+  gender_flag: 2
+  lang:
+  - et
+Jancsi:
+  gender_flag: 2
+  is_short_for:
+  - János
+  lang:
+  - hu
+Jandira:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Jandro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Sandy
+  - Xander
+  is_short_for:
+  - Alejandro
+  lang:
+  - es
+Jane:
+  gender_flag: 1
+  is_a_variant_of:
+  - Janne
+  lang:
+  - ceb
+  - da
+  - en
+  - et
+  - 'no'
+  - sv
+  origin:
+  - fr
+Janeczek:
+  gender_flag: 2
+  is_short_for:
+  - Jan
+  lang:
+  - pl
+Janek:
+  gender_flag: 2
+  is_equivalent_to:
+  - Johnny
+  is_short_for:
+  - Jan
+  lang:
+  - cs
+  - et
+  - pl
+Janelle:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+  - he
+Janessa:
+  gender_flag: 1
+  lang:
+  - en
+Janet:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+  - he
+Janeth:
+  gender_flag: 1
+  is_equivalent_to:
+  - Janet
+  lang:
+  - es
+Janette:
+  gender_flag: 1
+  is_a_variant_of:
+  - Janet
+  lang:
+  - en
+  - fi
+  origin:
+  - he
+Janey:
+  gender_flag: 1
+  is_short_for:
+  - Jane
+  lang:
+  - en
+  origin:
+  - fr
+  - he
+Janez:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - sl
+Janfrid:
+  gender_flag: 1
+  lang:
+  - 'no'
+Janhild:
+  gender_flag: 1
+  lang:
+  - fo
+  - 'no'
+Jani:
+  gender_flag: 2
+  is_short_for:
+  - János
+  lang:
+  - fi
+  - hu
+Janice:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Janie:
+  gender_flag: 1
+  is_short_for:
+  - Jane
+  lang:
+  - en
+Janik:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jannik
+  lang:
+  - de
+Janika:
+  gender_flag: 1
+  lang:
+  - fi
+Janina:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jana
+  is_equivalent_to:
+  - Jane
+  - Janine
+  - Jeannine
+  is_short_for:
+  - Juana
+  lang:
+  - de
+  - es
+  - fi
+  - lt
+  - pl
+  origin:
+  - sla
+Janine:
+  gender_flag: 1
+  lang:
+  - de
+  - en
+  - fr
+  - nrf
+  origin:
+  - fr
+  - he
+Janinka:
+  gender_flag: 1
+  is_short_for:
+  - Jana
+  lang:
+  - cs
+Janis:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Janita:
+  gender_flag: 1
+  lang:
+  - fi
+  - fo
+Janiya:
+  gender_flag: 1
+  lang:
+  - en
+Janiyah:
+  gender_flag: 1
+  lang:
+  - en
+Janička:
+  gender_flag: 1
+  is_short_for:
+  - Jana
+  lang:
+  - cs
+Janjan:
+  gender_flag: 2
+  lang:
+  - ceb
+Janjo:
+  gender_flag: 1
+  lang:
+  - eo
+Janjoš:
+  gender_flag: 2
+  lang:
+  - sh
+Janjuš:
+  gender_flag: 2
+  lang:
+  - sh
+Janka:
+  gender_flag: 1
+  is_short_for:
+  - Janina
+  lang:
+  - pl
+Janko:
+  gender_flag: 2
+  is_short_for:
+  - Jan
+  - Jano
+  lang:
+  - en
+  - pl
+  - sh
+  - sk
+  origin:
+  - sla
+Jankó:
+  gender_flag: 2
+  is_short_for:
+  - János
+  lang:
+  - hu
+Jann:
+  gender_flag: 2
+  lang:
+  - fo
+Janna:
+  gender_flag: 1
+  lang:
+  - en
+  - fi
+  - fo
+  origin:
+  - he
+Janne:
+  gender_flag: 3
+  is_a_variant_of:
+  - Johanna
+  is_equivalent_to:
+  - John
+  is_short_for:
+  - Jan
+  - Johan
+  - Johanne
+  - Marianne
+  lang:
+  - da
+  - et
+  - fi
+  - li
+  - 'no'
+  - sv
+Jannek:
+  gender_flag: 2
+  lang:
+  - de
+Janneke:
+  gender_flag: 1
+  lang:
+  - nl
+Jannetje:
+  gender_flag: 1
+  lang:
+  - nl
+Janni:
+  gender_flag: 1
+  is_a_variant_of:
+  - Janne
+  lang:
+  - da
+Jannick:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jannik
+  lang:
+  - da
+  - de
+Jannicke:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jannike
+  lang:
+  - 'no'
+Jannie:
+  gender_flag: 3
+  is_a_variant_of:
+  - Janne
+  is_short_for:
+  - Johanna
+  lang:
+  - af
+  - da
+  - nl
+Jannik:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jan
+  lang:
+  - da
+  - de
+  origin:
+  - br
+  - cs
+  - fy
+  - nds
+  - sk
+Jannike:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jane
+  lang:
+  - 'no'
+  origin:
+  - nds
+Janno:
+  gender_flag: 2
+  lang:
+  - et
+Jano:
+  gender_flag: 2
+  is_short_for:
+  - Ján
+  lang:
+  - sk
+Janou:
+  gender_flag: 2
+  lang:
+  - oc
+Janoš:
+  gender_flag: 2
+  lang:
+  - sh
+Jans:
+  gender_flag: 2
+  lang:
+  - lv
+Jansý:
+  gender_flag: 1
+  lang:
+  - fo
+January:
+  gender_flag: 3
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Janus:
+  gender_flag: 2
+  lang:
+  - da
+  - fo
+Janusz:
+  gender_flag: 2
+  lang:
+  - pl
+Januário:
+  gender_flag: 2
+  lang:
+  - pt
+Januš:
+  gender_flag: 2
+  lang:
+  - sh
+Janyce:
+  gender_flag: 1
+  is_a_variant_of:
+  - Janice
+  lang:
+  - en
+Janó:
+  gender_flag: 2
+  is_short_for:
+  - János
+  lang:
+  - hu
+Janė:
+  gender_flag: 1
+  lang:
+  - lt
+Jaontek:
+  gender_flag: 2
+  is_equivalent_to:
+  - Anthony
+  lang:
+  - wym
+Jaouad:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jawad
+  lang:
+  - fr
+  origin:
+  - ar
+Japheth:
+  gender_flag: 2
+  lang:
+  - en
+Jaq:
+  gender_flag: 1
+  is_short_for:
+  - Jacqueline
+  lang:
+  - en
+Jaqueline:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jacqueline
+  lang:
+  - de
+  - en
+Jaques:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  - James
+  lang:
+  - nrf
+Jaquilla:
+  gender_flag: 1
+  lang:
+  - en
+Jaquinot:
+  gender_flag: 2
+  is_short_for:
+  - Jaques
+  lang:
+  - nrf
+Jara:
+  gender_flag: 2
+  lang:
+  - sh
+Jarand:
+  gender_flag: 2
+  lang:
+  - 'no'
+Jaras:
+  gender_flag: 2
+  lang:
+  - pl
+Jarda:
+  gender_flag: 3
+  is_short_for:
+  - Jarmila
+  - Jaromír
+  - Jaroslav
+  - Jaroslava
+  lang:
+  - cs
+Jared:
+  gender_flag: 2
+  lang:
+  - en
+Jarek:
+  gender_flag: 2
+  is_short_for:
+  - Jarosław
+  - Jára
+  lang:
+  - cs
+  - pl
+Jari:
+  gender_flag: 2
+  lang:
+  - fi
+Jari-Pekka:
+  gender_flag: 2
+  lang:
+  - fi
+Jarka:
+  gender_flag: 3
+  is_short_for:
+  - Jára
+  lang:
+  - cs
+Jarkko:
+  gender_flag: 2
+  lang:
+  - fi
+Jarl:
+  gender_flag: 2
+  lang:
+  - 'no'
+  - sv
+Jarle:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jarl
+  lang:
+  - 'no'
+Jarleivur:
+  gender_flag: 2
+  lang:
+  - fo
+Jarmil:
+  gender_flag: 2
+  lang:
+  - cs
+Jarmila:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Jarmo:
+  gender_flag: 2
+  lang:
+  - fi
+Jarmundur:
+  gender_flag: 2
+  lang:
+  - fo
+Jarno:
+  gender_flag: 2
+  lang:
+  - fi
+Jaro:
+  gender_flag: 2
+  is_short_for:
+  - Jarolím
+  - Jaromír
+  - Jaroslav
+  lang:
+  - sk
+Jaroljub:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Jarolím:
+  gender_flag: 2
+  lang:
+  - sk
+Jaromir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Jaromír:
+  gender_flag: 2
+  lang:
+  - cs
+  - sk
+Jaromíra:
+  gender_flag: 1
+  lang:
+  - cs
+Jaron:
+  gender_flag: 2
+  lang:
+  - en
+Jaroslav:
+  gender_flag: 2
+  is_equivalent_to:
+  - Yaroslav
+  lang:
+  - cs
+  - sk
+Jaroslava:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Jarosław:
+  gender_flag: 2
+  lang:
+  - pl
+Jarot:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Jarred:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jared
+  lang:
+  - en
+Jarrett:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Jarrick:
+  gender_flag: 2
+  lang:
+  - en
+Jarrod:
+  gender_flag: 2
+  lang:
+  - en
+Jarryd:
+  gender_flag: 2
+  lang:
+  - en
+Jarte:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Jarti:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Jarunka:
+  gender_flag: 1
+  is_short_for:
+  - Jarmila
+  - Jaroslava
+  lang:
+  - cs
+Jaruś:
+  gender_flag: 2
+  is_short_for:
+  - Jarosław
+  lang:
+  - pl
+Jaruš:
+  gender_flag: 1
+  is_short_for:
+  - Jarmila
+  - Jaroslava
+  lang:
+  - cs
+Jaruška:
+  gender_flag: 1
+  is_short_for:
+  - Jarmila
+  - Jaroslava
+  lang:
+  - cs
+Jarvis:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Jarþrúður:
+  gender_flag: 1
+  lang:
+  - is
+Jas:
+  gender_flag: 7
+  is_short_for:
+  - James
+  - Jasmine
+  lang:
+  - en
+Jase:
+  gender_flag: 2
+  is_short_for:
+  - Jason
+  lang:
+  - en
+Jasenko:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Jasiah:
+  gender_flag: 2
+  lang:
+  - en
+Jasiek:
+  gender_flag: 2
+  is_short_for:
+  - Jan
+  lang:
+  - pl
+Jaska:
+  gender_flag: 2
+  is_short_for:
+  - Jaakko
+  lang:
+  - fi
+Jasmiina:
+  gender_flag: 1
+  lang:
+  - fi
+Jasmijn:
+  gender_flag: 1
+  lang:
+  - nl
+Jasmim:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jasmine
+  lang:
+  - pt
+Jasmin:
+  gender_flag: 3
+  is_a_variant_of:
+  - Jasmim
+  is_equivalent_to:
+  - Jasmine
+  lang:
+  - da
+  - de
+  - en
+  - fi
+  - fr
+  - pt
+  origin:
+  - fa
+Jasmina:
+  gender_flag: 1
+  lang:
+  - en
+Jasmine:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  - sv
+  - tl
+  origin:
+  - en
+  - fa
+Jasmîn:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jasmine
+  lang:
+  - nrf
+Jasna:
+  gender_flag: 1
+  lang:
+  - sh
+  - sl
+Jaso:
+  gender_flag: 2
+  is_equivalent_to:
+  - Blaise
+  lang:
+  - nap
+Jason:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - fo
+  - fr
+  - pt
+  origin:
+  - en
+  - grc
+Jasper:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - et
+  - fi
+  origin:
+  - en
+  - peo
+Jaspur:
+  gender_flag: 2
+  lang:
+  - fo
+Jasque:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - fro
+Jass:
+  gender_flag: 2
+  lang:
+  - et
+Jastrið:
+  gender_flag: 1
+  lang:
+  - fo
+Jasu:
+  gender_flag: 2
+  lang:
+  - fi
+Jasur:
+  gender_flag: 2
+  lang:
+  - uz
+Jasão:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jason
+  lang:
+  - pt
+  origin:
+  - grc
+Jatau:
+  gender_flag: 2
+  lang:
+  - ha
+Jatmundur:
+  gender_flag: 2
+  lang:
+  - fo
+Jatta:
+  gender_flag: 1
+  lang:
+  - fi
+Jatuli:
+  gender_flag: 3
+  lang:
+  - fi
+Jatvarður:
+  gender_flag: 2
+  lang:
+  - fo
+Jauaan:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jaane
+  lang:
+  - yol
+Jauane:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jaane
+  lang:
+  - yol
+Jaufre:
+  gender_flag: 2
+  is_equivalent_to:
+  - Geoffrey
+  lang:
+  - pro
+Jaufré:
+  gender_flag: 2
+  is_equivalent_to:
+  - Geoffrey
+  lang:
+  - oc
+Jaume:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jack
+  - James
+  lang:
+  - ca
+  - oc
+  origin:
+  - he
+Jausèp:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - oc
+Jausèpa:
+  gender_flag: 1
+  lang:
+  - oc
+Jaut:
+  gender_flag: 2
+  lang:
+  - cim
+Javadd:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Javaughn:
+  gender_flag: 2
+  lang:
+  - en
+Javi:
+  gender_flag: 2
+  is_short_for:
+  - Javier
+  lang:
+  - es
+Javier:
+  gender_flag: 2
+  is_equivalent_to:
+  - Xavier
+  lang:
+  - ceb
+  - es
+  - tl
+  origin:
+  - es
+  - eu
+Javiera:
+  gender_flag: 1
+  lang:
+  - es
+Javion:
+  gender_flag: 2
+  lang:
+  - en
+Javlonbek:
+  gender_flag: 2
+  lang:
+  - uz
+Javon:
+  gender_flag: 2
+  lang:
+  - en
+Javonte:
+  gender_flag: 2
+  lang:
+  - en
+Jawad:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Jawan:
+  gender_flag: 2
+  lang:
+  - en
+Jawor:
+  gender_flag: 2
+  lang:
+  - pl
+Jaworski:
+  gender_flag: 2
+  lang:
+  - ceb
+Jax:
+  gender_flag: 2
+  lang:
+  - en
+Jaxen:
+  gender_flag: 2
+  lang:
+  - en
+Jaxon:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jackson
+  lang:
+  - en
+Jaxson:
+  gender_flag: 2
+  lang:
+  - en
+Jaxton:
+  gender_flag: 2
+  lang:
+  - en
+Jaxx:
+  gender_flag: 2
+  is_short_for:
+  - Jackson
+  lang:
+  - en
+Jay:
+  gender_flag: 3
+  is_short_for:
+  - James
+  - Jason
+  lang:
+  - ceb
+  - en
+  origin:
+  - hi
+Jaya:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Jayantha:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Jayasri:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Jayce:
+  gender_flag: 2
+  lang:
+  - en
+Jaycee:
+  gender_flag: 7
+  lang:
+  - en
+Jayceon:
+  gender_flag: 2
+  lang:
+  - en
+Jaycob:
+  gender_flag: 2
+  lang:
+  - en
+Jayda:
+  gender_flag: 1
+  lang:
+  - en
+Jayde:
+  gender_flag: 1
+  lang:
+  - en
+Jayden:
+  gender_flag: 7
+  lang:
+  - en
+Jaydon:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jadon
+  - Jayden
+  lang:
+  - en
+Jaye:
+  gender_flag: 6
+  lang:
+  - en
+Jayla:
+  gender_flag: 1
+  lang:
+  - en
+Jaylah:
+  gender_flag: 1
+  lang:
+  - en
+Jaylee:
+  gender_flag: 1
+  lang:
+  - en
+Jayleen:
+  gender_flag: 1
+  lang:
+  - en
+Jaylen:
+  gender_flag: 2
+  lang:
+  - en
+Jaylene:
+  gender_flag: 1
+  lang:
+  - en
+Jaylin:
+  gender_flag: 7
+  lang:
+  - en
+Jaylynn:
+  gender_flag: 1
+  lang:
+  - en
+Jayme:
+  gender_flag: 2
+  lang:
+  - ceb
+Jayna:
+  gender_flag: 1
+  lang:
+  - en
+Jayne:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - he
+Jayse:
+  gender_flag: 2
+  lang:
+  - en
+Jayson:
+  gender_flag: 2
+  lang:
+  - en
+Jayvion:
+  gender_flag: 2
+  lang:
+  - en
+Jaz:
+  gender_flag: 1
+  is_short_for:
+  - Jasmine
+  lang:
+  - en
+Jaziel:
+  gender_flag: 2
+  lang:
+  - en
+Jazlyn:
+  gender_flag: 1
+  lang:
+  - en
+Jazlynn:
+  gender_flag: 1
+  lang:
+  - en
+Jazmin:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jasmine
+  lang:
+  - en
+  origin:
+  - fa
+Jazmine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jasmine
+  lang:
+  - en
+  origin:
+  - fa
+Jazmín:
+  gender_flag: 1
+  lang:
+  - es
+Jazon:
+  gender_flag: 2
+  lang:
+  - sl
+Jazz:
+  gender_flag: 7
+  is_short_for:
+  - James
+  - Jasmine
+  lang:
+  - en
+Jaś:
+  gender_flag: 2
+  is_short_for:
+  - Jan
+  lang:
+  - pl
+Jaśmina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jasmine
+  lang:
+  - pl
+Jeadine:
+  gender_flag: 2
+  lang:
+  - en
+Jeams:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  - James
+  lang:
+  - sco
+Jean:
+  gender_flag: 7
+  is_equivalent_to:
+  - John
+  lang:
+  - ceb
+  - en
+  - fr
+  - li
+  - nrf
+  - pt
+  origin:
+  - en
+  - fr
+  - he
+Jean Pierre:
+  gender_flag: 2
+  lang:
+  - af
+  origin:
+  - fr
+Jean-André:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Antoine:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Baptiste:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Bernard:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Charles:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Christophe:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Claude:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-François:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Guy:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Henri:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Hugues:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Jacques:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Joël:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Louis:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Loup:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Luc:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Marc:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Marie:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Michel:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Noël:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Pascal:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Patrice:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Paul:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Philippe:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Pierre:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Yves:
+  gender_flag: 2
+  lang:
+  - fr
+Jean-Étienne:
+  gender_flag: 2
+  lang:
+  - fr
+Jeanett:
+  gender_flag: 1
+  lang:
+  - da
+Jeanetta:
+  gender_flag: 1
+  lang:
+  - en
+Jeanette:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - en
+  - 'no'
+  - sv
+  origin:
+  - en
+  - fr
+  - he
+Jeanie:
+  gender_flag: 1
+  is_short_for:
+  - Jean
+  lang:
+  - en
+  origin:
+  - fr
+  - he
+Jeanine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jeannine
+  is_short_for:
+  - Jeanne
+  lang:
+  - fr
+  - nl
+Jeanne:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jane
+  - Joan
+  lang:
+  - da
+  - en
+  - fr
+  - nrf
+  origin:
+  - fr
+  - he
+Jeanneton:
+  gender_flag: 1
+  is_short_for:
+  - Jeanne
+  lang:
+  - nrf
+Jeannetounette:
+  gender_flag: 1
+  lang:
+  - nrf
+Jeannette:
+  gender_flag: 1
+  is_equivalent_to:
+  - Janet
+  is_short_for:
+  - Jeanne
+  lang:
+  - da
+  - en
+  - fr
+  origin:
+  - fr
+  - he
+Jeannie:
+  gender_flag: 1
+  lang:
+  - en
+Jeannine:
+  gender_flag: 1
+  is_short_for:
+  - Jeanne
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+  - he
+Jeannot:
+  gender_flag: 2
+  is_equivalent_to:
+  - Johnny
+  is_short_for:
+  - Jean
+  lang:
+  - nrf
+Jeany:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+  - he
+Jeaun:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - nrf
+Jeb:
+  gender_flag: 2
+  is_short_for:
+  - Jebediah
+  lang:
+  - en
+Jebediah:
+  gender_flag: 2
+  lang:
+  - en
+Jed:
+  gender_flag: 2
+  is_short_for:
+  - Jedidiah
+  lang:
+  - en
+Jedediah:
+  gender_flag: 2
+  lang:
+  - en
+Jedidiah:
+  gender_flag: 2
+  lang:
+  - en
+Jedvard:
+  gender_flag: 2
+  lang:
+  - gmq-osw
+Jef:
+  gender_flag: 2
+  lang:
+  - fr
+  - nl
+  origin:
+  - nl
+Jeff:
+  gender_flag: 2
+  is_equivalent_to:
+  - Geoffrey
+  is_short_for:
+  - Jefferson
+  - Jeffery
+  - Jeffrey
+  lang:
+  - en
+  - gv
+Jefferey:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jeffrey
+  lang:
+  - en
+Jefferson:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+  - tl
+  origin:
+  - en
+Jeffery:
+  gender_flag: 2
+  is_a_variant_of:
+  - Geoffrey
+  lang:
+  - en
+  origin:
+  - gem
+Jeffi:
+  gender_flag: 1
+  lang:
+  - en
+Jeffie:
+  gender_flag: 3
+  lang:
+  - en
+Jeffrey:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Jeffry:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jeffrey
+  lang:
+  - en
+Jeffy:
+  gender_flag: 2
+  lang:
+  - en
+Jefima:
+  gender_flag: 2
+  lang:
+  - izh
+Jehan:
+  gender_flag: 2
+  lang:
+  - fr
+  - frm
+  - fro
+Jehanne:
+  gender_flag: 1
+  lang:
+  - fr
+Jehoshaphat:
+  gender_flag: 2
+  lang:
+  - en
+Jekaterina: {}
+Jekaterīna: {}
+Jekima:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joachim
+  lang:
+  - izh
+Jela:
+  gender_flag: 1
+  lang:
+  - sk
+Jelena:
+  gender_flag: 1
+  is_equivalent_to:
+  - Ellen
+  - Helen
+  lang:
+  - izh
+  - lt
+  - sl
+  origin:
+  - grc
+Jelizaveta: {}
+Jelle:
+  gender_flag: 2
+  lang:
+  - nl
+Jelly:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - en
+Jelmer:
+  gender_flag: 2
+  lang:
+  - nl
+Jem:
+  gender_flag: 3
+  is_short_for:
+  - James
+  - Jemima
+  - Jeremiah
+  - Jeremy
+  lang:
+  - en
+Jemima:
+  gender_flag: 1
+  lang:
+  - en
+  - fo
+  origin:
+  - he
+Jemina:
+  gender_flag: 1
+  lang:
+  - fi
+Jemma:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - it
+Jen:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+  - he
+  - kw
+Jena:
+  gender_flag: 1
+  is_a_variant_of:
+  - Gina
+  lang:
+  - en
+Jenafer:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - cy
+Jenalyn:
+  gender_flag: 1
+  lang:
+  - ceb
+Jenar:
+  gender_flag: 2
+  lang:
+  - id
+  origin:
+  - jv
+Jenci:
+  gender_flag: 2
+  is_short_for:
+  - Jenő
+  lang:
+  - hu
+Jenda:
+  gender_flag: 2
+  is_short_for:
+  - Jan
+  lang:
+  - cs
+Jenefer:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jennifer
+  lang:
+  - en
+  origin:
+  - cy
+Jenessa:
+  gender_flag: 1
+  lang:
+  - en
+Jenifer:
+  gender_flag: 1
+  lang:
+  - en
+  - pt
+  origin:
+  - kw
+Jenilyn:
+  gender_flag: 1
+  lang:
+  - en
+Jenine:
+  gender_flag: 1
+  lang:
+  - en
+Jenis:
+  gender_flag: 2
+  lang:
+  - fo
+Jenjen:
+  gender_flag: 1
+  lang:
+  - ceb
+Jenkin:
+  gender_flag: 2
+  lang:
+  - en
+Jenn:
+  gender_flag: 1
+  is_short_for:
+  - Jennifer
+  lang:
+  - en
+Jenna:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jenny
+  lang:
+  - en
+  - fi
+  origin:
+  - fr
+  - he
+  - kw
+Jennabeth:
+  gender_flag: 1
+  lang:
+  - en
+Jennalyn:
+  gender_flag: 1
+  lang:
+  - en
+Jennate:
+  gender_flag: 1
+  is_equivalent_to:
+  - Janet
+  lang:
+  - yol
+Jennhild:
+  gender_flag: 1
+  lang:
+  - fo
+Jenni:
+  gender_flag: 3
+  is_short_for:
+  - Jennifer
+  lang:
+  - en
+  - fi
+  - is
+Jennica:
+  gender_flag: 1
+  lang:
+  - en
+Jennie:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jenny
+  lang:
+  - en
+  - sv
+Jennifer:
+  gender_flag: 1
+  lang:
+  - ceb
+  - de
+  - en
+  - es
+  - fr
+  - sv
+  origin:
+  - cnx
+  - cy
+  - en
+  - kw
+Jennilyn:
+  gender_flag: 1
+  lang:
+  - en
+Jenny:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - en
+  - 'no'
+  - sv
+  origin:
+  - en
+  - fr
+  - he
+  - kw
+Jennîn:
+  gender_flag: 1
+  is_short_for:
+  - Jeanne
+  lang:
+  - nrf
+Jenný:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Jens:
+  gender_flag: 2
+  is_a_variant_of:
+  - Johannes
+  is_equivalent_to:
+  - John
+  lang:
+  - da
+  - de
+  - fo
+  - is
+  - nl
+  - 'no'
+  - sv
+  origin:
+  - da
+  - nds
+Jensa:
+  gender_flag: 1
+  lang:
+  - fo
+Jense:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Jensen:
+  gender_flag: 2
+  lang:
+  - en
+Jensi:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Jensia:
+  gender_flag: 1
+  lang:
+  - fo
+Jensigne:
+  gender_flag: 1
+  lang:
+  - da
+Jensina:
+  gender_flag: 1
+  lang:
+  - fo
+Jensine:
+  gender_flag: 1
+  lang:
+  - da
+Jenson:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jensen
+  lang:
+  - en
+Jensína:
+  gender_flag: 1
+  lang:
+  - is
+Jentine:
+  gender_flag: 1
+  lang:
+  - 'no'
+Jenő:
+  gender_flag: 2
+  lang:
+  - hu
+Jephthah:
+  gender_flag: 2
+  lang:
+  - en
+Jepoy:
+  gender_flag: 2
+  is_short_for:
+  - Jeffrey
+  lang:
+  - tl
+Jeppe:
+  gender_flag: 2
+  lang:
+  - da
+Jeppifana:
+  gender_flag: 2
+  lang:
+  - izh
+Jerald:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Jeralyn:
+  gender_flag: 1
+  lang:
+  - ceb
+Jere:
+  gender_flag: 2
+  lang:
+  - fi
+  origin:
+  - he
+Jeremiah:
+  gender_flag: 2
+  lang:
+  - en
+Jeremias:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jeremiah
+  lang:
+  - da
+  - de
+  - en
+  - fi
+  - la
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - he
+Jeremiasz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jeremy
+  lang:
+  - pl
+  origin:
+  - grc
+  - he
+  - la
+Jeremijas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jeremiah
+  - Jeremy
+  lang:
+  - lt
+Jeremy:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - he
+Jeremías:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jeremiah
+  - Jeremy
+  lang:
+  - es
+Jerguš:
+  gender_flag: 2
+  lang:
+  - sk
+Jeri:
+  gender_flag: 1
+  is_short_for:
+  - Geraldine
+  - Jerilyn
+  lang:
+  - en
+Jericho:
+  gender_flag: 2
+  lang:
+  - en
+Jerilyn:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - gem
+Jerimoth:
+  gender_flag: 2
+  lang:
+  - en
+Jerislav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Jerk:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - gmq-bot
+  - gsw
+  origin:
+  - grc
+Jerker:
+  gender_flag: 2
+  lang:
+  - sv
+Jermain:
+  gender_flag: 2
+  is_a_variant_of:
+  - Germain
+  lang:
+  - en
+Jermaine:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Jeroen:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jeremy
+  - Jerome
+  lang:
+  - nl
+Jerome:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Jeromos:
+  gender_flag: 2
+  lang:
+  - hu
+Jeroni:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jerome
+  lang:
+  - ca
+Jeroným:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jerome
+  lang:
+  - cs
+  origin:
+  - grc
+Jerri:
+  gender_flag: 1
+  lang:
+  - en
+Jerrie:
+  gender_flag: 1
+  is_short_for:
+  - Geraldine
+  - Geraldyn
+  lang:
+  - en
+Jerrold:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - gem
+Jerry:
+  gender_flag: 7
+  is_short_for:
+  - Gerald
+  - Geraldine
+  - Gerard
+  - Jeremiah
+  - Jeremy
+  - Jerilyn
+  - Jerome
+  - Jerrold
+  lang:
+  - ceb
+  - en
+  - sv
+  origin:
+  - en
+Jerson:
+  gender_flag: 2
+  lang:
+  - ceb
+  - es
+Jerus:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - ceb
+Jerusha:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Jervis:
+  gender_flag: 2
+  lang:
+  - en
+Jeryl:
+  gender_flag: 6
+  lang:
+  - en
+Jerzy:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - pl
+  origin:
+  - grc
+  - la
+  - zlw-ocs
+Jerónimo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jerome
+  lang:
+  - es
+  - pt
+  origin:
+  - grc
+Jerônimo:
+  gender_flag: 2
+  lang:
+  - pt
+Jes:
+  gender_flag: 2
+  lang:
+  - da
+Jesar:
+  gender_flag: 2
+  lang:
+  - fo
+Jesenia:
+  gender_flag: 1
+  lang:
+  - 'no'
+Jesper:
+  gender_flag: 2
+  lang:
+  - da
+  - 'no'
+  - sv
+Jess:
+  gender_flag: 7
+  is_short_for:
+  - Jessamy
+  - Jesse
+  - Jessica
+  lang:
+  - en
+Jessa:
+  gender_flag: 1
+  lang:
+  - en
+Jessah:
+  gender_flag: 1
+  lang:
+  - ceb
+Jessamine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jasmine
+  lang:
+  - en
+  origin:
+  - en
+Jessamy:
+  gender_flag: 1
+  lang:
+  - en
+Jessamyn:
+  gender_flag: 1
+  lang:
+  - en
+Jesse:
+  gender_flag: 7
+  is_a_variant_of:
+  - Jessie
+  lang:
+  - en
+  - fi
+Jessee:
+  gender_flag: 2
+  lang:
+  - en
+Jesselyn:
+  gender_flag: 1
+  lang:
+  - en
+Jessi:
+  gender_flag: 1
+  lang:
+  - en
+Jessica:
+  gender_flag: 1
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fr
+  - pl
+  - sv
+  origin:
+  - he
+Jessie:
+  gender_flag: 7
+  is_a_variant_of:
+  - Jesse
+  is_short_for:
+  - Jessica
+  lang:
+  - en
+  origin:
+  - fr
+  - he
+Jessika:
+  gender_flag: 1
+  lang:
+  - en
+  - fi
+  - sv
+  origin:
+  - he
+Jessé:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jesse
+  lang:
+  - pt
+  origin:
+  - he
+Jesus:
+  gender_flag: 3
+  lang:
+  - ceb
+  - en
+  - la
+  - pt
+  origin:
+  - arc
+  - es
+Jesusa:
+  gender_flag: 1
+  lang:
+  - ceb
+  - es
+  origin:
+  - arc
+Jesús:
+  gender_flag: 2
+  lang:
+  - es
+Jet:
+  gender_flag: 7
+  lang:
+  - en
+  - nl
+Jeta:
+  gender_flag: 1
+  lang:
+  - sq
+Jetbardh:
+  gender_flag: 2
+  lang:
+  - sq
+Jete:
+  gender_flag: 1
+  lang:
+  - et
+Jethro:
+  gender_flag: 2
+  lang:
+  - en
+Jetlir:
+  gender_flag: 2
+  lang:
+  - sq
+Jetmir:
+  gender_flag: 2
+  lang:
+  - sq
+Jeton:
+  gender_flag: 2
+  lang:
+  - sq
+Jetro:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jethro
+  lang:
+  - pt
+  origin:
+  - he
+Jett:
+  gender_flag: 2
+  lang:
+  - en
+Jetta:
+  gender_flag: 1
+  lang:
+  - fo
+Jette:
+  gender_flag: 1
+  lang:
+  - da
+Jeulie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Julia
+  - Julie
+  lang:
+  - nrf
+Jeustin:
+  gender_flag: 2
+  is_equivalent_to:
+  - Justin
+  lang:
+  - nrf
+Jeustène:
+  gender_flag: 1
+  is_equivalent_to:
+  - Justine
+  lang:
+  - nrf
+Jevdokija: {}
+Jevgeni: {}
+Jevgenija: {}
+Jevgenijs: {}
+Jevgeņija: {}
+Jevgeņijs:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - ru
+Jevgēnija: {}
+Jevgēnijs: {}
+Jewel:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Jewell:
+  gender_flag: 7
+  is_a_variant_of:
+  - Jewel
+  lang:
+  - en
+  origin:
+  - cel
+  - en
+Jez:
+  gender_flag: 2
+  is_short_for:
+  - Jeremy
+  lang:
+  - en
+Jezabel:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jezebel
+  lang:
+  - pt
+  origin:
+  - he
+Jezebel:
+  gender_flag: 1
+  lang:
+  - pt
+Jezila:
+  gender_flag: 1
+  lang:
+  - ht
+  origin:
+  - ht
+Jezula:
+  gender_flag: 1
+  lang:
+  - ht
+  origin:
+  - ht
+Jezus:
+  gender_flag: 2
+  lang:
+  - nl
+  origin:
+  - he
+Jezusek:
+  gender_flag: 2
+  is_short_for:
+  - Jezus
+  lang:
+  - pl
+Jezza:
+  gender_flag: 2
+  is_short_for:
+  - Jeremy
+  lang:
+  - en
+Jeļena:
+  gender_flag: 1
+  lang:
+  - lv
+Jeļizaveta: {}
+Jhovinson:
+  gender_flag: 2
+  lang:
+  - es
+Jibirilu:
+  gender_flag: 2
+  lang:
+  - ha
+Jibril:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Jiffy:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - en
+Jigna:
+  gender_flag: 1
+  lang:
+  - en
+Jignas:
+  gender_flag: 2
+  lang:
+  - en
+Jigyasa:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - hi
+Jiji:
+  gender_flag: 1
+  lang:
+  - ceb
+Jijo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Louis
+  - Luigi
+  lang:
+  - vec
+Jill:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Jillian:
+  gender_flag: 1
+  is_a_variant_of:
+  - Gillian
+  lang:
+  - en
+  origin:
+  - la
+Jilly:
+  gender_flag: 1
+  lang:
+  - en
+Jim:
+  gender_flag: 2
+  is_short_for:
+  - James
+  lang:
+  - da
+  - en
+  - 'no'
+  - sv
+Jimbo:
+  gender_flag: 2
+  is_short_for:
+  - James
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Jimboy:
+  gender_flag: 2
+  lang:
+  - ceb
+Jimce:
+  gender_flag: 2
+  is_equivalent_to:
+  - James
+  lang:
+  - nrf
+Jimena:
+  gender_flag: 1
+  lang:
+  - es
+  origin:
+  - eu
+  - osp
+Jimeno:
+  gender_flag: 2
+  lang:
+  - es
+Jimi:
+  gender_flag: 2
+  lang:
+  - en
+  - fi
+Jimmer:
+  gender_flag: 2
+  lang:
+  - en
+Jimmi:
+  gender_flag: 2
+  is_short_for:
+  - James
+  lang:
+  - da
+  - en
+Jimmie:
+  gender_flag: 2
+  is_short_for:
+  - James
+  lang:
+  - en
+Jimmy:
+  gender_flag: 2
+  is_short_for:
+  - James
+  - Jim
+  lang:
+  - ceb
+  - da
+  - en
+  - sv
+  origin:
+  - en
+Jimọ:
+  gender_flag: 2
+  lang:
+  - yo
+Jimọh:
+  gender_flag: 2
+  lang:
+  - yo
+Jinda:
+  gender_flag: 1
+  lang:
+  - 'no'
+Jindra:
+  gender_flag: 3
+  is_short_for:
+  - Jindřich
+  - Jindřiška
+  lang:
+  - cs
+Jindřich:
+  gender_flag: 2
+  is_equivalent_to:
+  - Henry
+  lang:
+  - cs
+Jindřiška:
+  gender_flag: 1
+  is_equivalent_to:
+  - Henrietta
+  lang:
+  - cs
+Jingjing:
+  gender_flag: 3
+  lang:
+  - ceb
+Jingle:
+  gender_flag: 1
+  lang:
+  - ceb
+  origin:
+  - en
+Jinjin:
+  gender_flag: 1
+  lang:
+  - ceb
+Jinn:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jane
+  lang:
+  - gv
+Jinnag:
+  gender_flag: 1
+  lang:
+  - gv
+Jinnee:
+  gender_flag: 1
+  lang:
+  - gv
+Jinny:
+  gender_flag: 1
+  is_short_for:
+  - Virginia
+  lang:
+  - en
+Jip:
+  gender_flag: 2
+  lang:
+  - nl
+Jipi:
+  gender_flag: 2
+  is_short_for:
+  - Jean-Pierre
+  lang:
+  - fr
+Jirka:
+  gender_flag: 3
+  is_short_for:
+  - Jiřina
+  lang:
+  - cs
+Jiro:
+  gender_flag: 2
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Jishnu:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Jitendra:
+  gender_flag: 2
+  lang:
+  - en
+Jitka:
+  gender_flag: 1
+  is_equivalent_to:
+  - Judith
+  lang:
+  - cs
+Jitsuko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Jitunka:
+  gender_flag: 1
+  is_short_for:
+  - Jitka
+  lang:
+  - cs
+Jituš:
+  gender_flag: 1
+  is_short_for:
+  - Jitka
+  lang:
+  - cs
+Jituška:
+  gender_flag: 1
+  is_short_for:
+  - Jitka
+  lang:
+  - cs
+Jiyan:
+  gender_flag: 2
+  lang:
+  - kmr
+Jiřina:
+  gender_flag: 1
+  lang:
+  - cs
+Jiřinka:
+  gender_flag: 1
+  is_short_for:
+  - Jiřina
+  lang:
+  - cs
+Jiřka:
+  gender_flag: 1
+  is_short_for:
+  - Jiřina
+  lang:
+  - cs
+Jiří:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - cs
+  - sk
+Jiřík:
+  gender_flag: 2
+  is_short_for:
+  - Jiří
+  lang:
+  - cs
+Jiříček:
+  gender_flag: 2
+  is_short_for:
+  - Jiří
+  lang:
+  - cs
+Jo:
+  gender_flag: 7
+  lang:
+  - en
+  - fr
+  - nl
+  - nn
+  - 'no'
+  origin:
+  - fr
+  - he
+Jo-Ann:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Jo-Anne:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+JoAnn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Joanne
+  lang:
+  - en
+  origin:
+  - he
+JoAnne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Joanne
+  lang:
+  - en
+  origin:
+  - he
+Joachim:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  - fr
+  - nl
+  - 'no'
+  - sv
+Joacim:
+  gender_flag: 2
+  is_a_variant_of:
+  - Joakim
+  lang:
+  - sv
+Joakim:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joachim
+  lang:
+  - da
+  - et
+  - 'no'
+  - sv
+Joakime:
+  gender_flag: 1
+  lang:
+  - 'no'
+Joan:
+  gender_flag: 3
+  is_a_variant_of:
+  - Jone
+  is_equivalent_to:
+  - John
+  lang:
+  - ca
+  - da
+  - en
+  - gv
+  - oc
+  - yol
+  origin:
+  - en
+  - fr
+  - he
+Joana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Joanna
+  lang:
+  - ca
+  - lt
+  - pt
+  origin:
+  - he
+Joane:
+  gender_flag: 3
+  is_a_variant_of:
+  - Jone
+  lang:
+  - en
+  - yol
+  origin:
+  - he
+Joanie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+  - he
+Joann:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Joanna:
+  gender_flag: 1
+  is_a_variant_of:
+  - Joana
+  is_equivalent_to:
+  - Jane
+  - Joan
+  lang:
+  - en
+  - pl
+  - pt
+  origin:
+  - he
+  - la
+Joanne:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+  - he
+Joanot:
+  gender_flag: 2
+  lang:
+  - ca
+Joany:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+  - he
+Joao:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - pt
+Joaquim:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joachim
+  lang:
+  - ca
+  - pt
+Joaquin:
+  gender_flag: 2
+  lang:
+  - en
+  - tl
+  origin:
+  - es
+Joaquina:
+  gender_flag: 1
+  lang:
+  - es
+  - pt
+Joaquín:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joachim
+  lang:
+  - es
+Joar:
+  gender_flag: 2
+  lang:
+  - 'no'
+Joasia:
+  gender_flag: 1
+  is_short_for:
+  - Joanna
+  lang:
+  - pl
+Job:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  - nl
+Jobelle:
+  gender_flag: 1
+  lang:
+  - ceb
+Jobena:
+  gender_flag: 1
+  lang:
+  - en
+Joby:
+  gender_flag: 2
+  is_short_for:
+  - Joseph
+  lang:
+  - en
+Jocasta:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Jocelyn:
+  gender_flag: 7
+  lang:
+  - ceb
+  - en
+  - es
+  - fr
+  origin:
+  - en
+  - gem
+Jocelyne:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jocelyn
+  lang:
+  - fr
+Jocelynn:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - gem
+Jochebed:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Jochem:
+  gender_flag: 2
+  lang:
+  - nl
+Jochen:
+  gender_flag: 2
+  lang:
+  - de
+Jochgoun:
+  gender_flag: 2
+  lang:
+  - fr
+  origin:
+  - az
+Jock:
+  gender_flag: 2
+  lang:
+  - en
+Jocke:
+  gender_flag: 2
+  is_short_for:
+  - Joachim
+  - Joacim
+  - Joakim
+  - Johan
+  - Jovan
+  lang:
+  - sv
+Jockeen:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jack
+  lang:
+  - yol
+Jodi:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+  - he
+Jodie:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - fr
+  - he
+Jody:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - fr
+  - he
+Joe:
+  gender_flag: 7
+  is_short_for:
+  - Joel
+  - Joseph
+  - Josiah
+  - Josias
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - fr
+  - he
+Joel:
+  gender_flag: 2
+  lang:
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - 'no'
+  - pl
+  - pt
+  - sv
+  origin:
+  - he
+Joelle:
+  gender_flag: 1
+  lang:
+  - en
+Joelyn:
+  gender_flag: 1
+  lang:
+  - en
+Joemar:
+  gender_flag: 2
+  lang:
+  - tl
+Joeseph:
+  gender_flag: 2
+  lang:
+  - en
+Joey:
+  gender_flag: 7
+  is_short_for:
+  - Joe
+  - Joseph
+  - Josephine
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Jogirdas:
+  gender_flag: 2
+  lang:
+  - lt
+Joh:
+  gender_flag: 2
+  lang:
+  - en
+Johan:
+  gender_flag: 3
+  is_equivalent_to:
+  - John
+  lang:
+  - af
+  - da
+  - en
+  - fo
+  - nl
+  - 'no'
+  - osp
+  - sv
+  origin:
+  - he
+Johana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Joan
+  lang:
+  - cs
+Johanas:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - se
+Johanino:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jane
+  - Janine
+  lang:
+  - eo
+Johanka:
+  gender_flag: 1
+  is_short_for:
+  - Johana
+  lang:
+  - cs
+Johann:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  is_short_for:
+  - Johannes
+  lang:
+  - de
+Johanna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jane
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - nl
+  - 'no'
+  - pt
+  - sv
+Johannah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Johanne:
+  gender_flag: 1
+  is_a_variant_of:
+  - Johanna
+  lang:
+  - da
+  - de
+  - en
+  - 'no'
+Johannes:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - af
+  - da
+  - de
+  - en
+  - enm
+  - et
+  - fi
+  - la
+  - nl
+  - 'no'
+  - sv
+Johano:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - eo
+  origin:
+  - he
+Johans:
+  gender_flag: 2
+  lang:
+  - lv
+John:
+  gender_flag: 2
+  lang:
+  - ceb
+  - da
+  - en
+  - enm
+  - fo
+  - 'no'
+  - sco
+  - sv
+  origin:
+  - en
+  - he
+Johnathan:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jonathan
+  lang:
+  - en
+Johnathon:
+  gender_flag: 2
+  lang:
+  - en
+Johnetta:
+  gender_flag: 1
+  lang:
+  - en
+Johnna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Johnnie:
+  gender_flag: 2
+  is_short_for:
+  - John
+  lang:
+  - en
+Johnno:
+  gender_flag: 2
+  lang:
+  - en
+Johnny:
+  gender_flag: 2
+  is_short_for:
+  - John
+  lang:
+  - da
+  - en
+  - 'no'
+  - sv
+Johnson:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - es
+  origin:
+  - en
+Johorka:
+  gender_flag: 2
+  is_equivalent_to:
+  - Yegor
+  lang:
+  - izh
+Johánná:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jane
+  lang:
+  - se
+Joice:
+  gender_flag: 1
+  is_equivalent_to:
+  - Joyce
+  lang:
+  - pt
+Joie:
+  gender_flag: 3
+  is_short_for:
+  - Joseph
+  - Josephine
+  lang:
+  - en
+Jojje:
+  gender_flag: 2
+  is_short_for:
+  - Georg
+  lang:
+  - sv
+Jojo:
+  gender_flag: 7
+  lang:
+  - ceb
+  - en
+Joke:
+  gender_flag: 1
+  lang:
+  - nl
+Joko:
+  gender_flag: 2
+  is_equivalent_to:
+  - Georgie
+  lang:
+  - id
+  - izh
+  - jv
+  origin:
+  - jv
+  - kaw
+Joktan:
+  gender_flag: 2
+  lang:
+  - en
+Jokum:
+  gender_flag: 2
+  lang:
+  - da
+Jokūbas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  - James
+  lang:
+  - lt
+Jola:
+  gender_flag: 1
+  is_short_for:
+  - Jolana
+  - Jolanta
+  lang:
+  - cs
+  - pl
+Jolana:
+  gender_flag: 1
+  lang:
+  - cs
+  - sk
+Jolanka:
+  gender_flag: 1
+  is_short_for:
+  - Jolana
+  lang:
+  - cs
+Jolanta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Yolanda
+  lang:
+  - et
+  - lt
+  - lv
+  - pl
+Jolene:
+  gender_flag: 1
+  lang:
+  - en
+Jolie:
+  gender_flag: 1
+  lang:
+  - en
+Jolina:
+  gender_flag: 1
+  lang:
+  - ceb
+Jolita:
+  gender_flag: 1
+  lang:
+  - lt
+Jolka:
+  gender_flag: 1
+  is_short_for:
+  - Jolanta
+  lang:
+  - pl
+Jolly:
+  gender_flag: 1
+  lang:
+  - en
+Jolyon:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Jolán:
+  gender_flag: 1
+  lang:
+  - hu
+Joma:
+  gender_flag: 2
+  is_short_for:
+  - Jose Maria
+  lang:
+  - tl
+Jomar:
+  gender_flag: 2
+  lang:
+  - tl
+Jomari:
+  gender_flag: 2
+  is_short_for:
+  - Jose Maria
+  lang:
+  - tl
+Jomo:
+  gender_flag: 2
+  lang:
+  - en
+Jon:
+  gender_flag: 2
+  is_a_variant_of:
+  - John
+  is_equivalent_to:
+  - John
+  is_short_for:
+  - Jonathan
+  lang:
+  - da
+  - en
+  - eu
+  - 'no'
+  - sv
+Jona:
+  gender_flag: 1
+  lang:
+  - de
+  - fo
+Jonael:
+  gender_flag: 2
+  lang:
+  - en
+Jonah:
+  gender_flag: 7
+  lang:
+  - ceb
+  - en
+  origin:
+  - he
+Jonald:
+  gender_flag: 2
+  lang:
+  - ceb
+  - tl
+Jonalisa:
+  gender_flag: 1
+  lang:
+  - ceb
+Jonalyn:
+  gender_flag: 1
+  lang:
+  - ceb
+Jonas:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  - Jonah
+  lang:
+  - da
+  - de
+  - en
+  - lt
+  - nl
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - biblical
+  - he
+Jonasz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jonah
+  lang:
+  - pl
+Jonatan:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jonathan
+  lang:
+  - da
+  - 'no'
+  - pl
+  - sv
+  origin:
+  - he
+Jonathan:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jonatan
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - fr
+  - 'no'
+  - pt
+  - sv
+  origin:
+  - en
+  - he
+Jonathon:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jonathan
+  lang:
+  - en
+Jonatán:
+  gender_flag: 2
+  lang:
+  - es
+Jonay:
+  gender_flag: 2
+  lang:
+  - es
+  origin:
+  - gnc
+Jone:
+  gender_flag: 3
+  is_equivalent_to:
+  - Joanna
+  - John
+  lang:
+  - en
+  - eu
+  - yol
+  origin:
+  - he
+Jonee:
+  gender_flag: 1
+  is_equivalent_to:
+  - Joan
+  - Judith
+  lang:
+  - gv
+Jonel:
+  gender_flag: 2
+  lang:
+  - ceb
+Joni:
+  gender_flag: 3
+  lang:
+  - en
+  - fi
+Jonn:
+  gender_flag: 2
+  lang:
+  - fo
+Jonna:
+  gender_flag: 1
+  lang:
+  - da
+  - en
+  - fi
+  - fo
+  - sv
+Jonne:
+  gender_flag: 2
+  lang:
+  - fi
+Jonnhild:
+  gender_flag: 1
+  lang:
+  - fo
+Jonnie:
+  gender_flag: 2
+  is_equivalent_to:
+  - Johnny
+  is_short_for:
+  - Johan
+  lang:
+  - af
+Jonny:
+  gender_flag: 2
+  lang:
+  - en
+  - 'no'
+  - sv
+Jonquil:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Jonte:
+  gender_flag: 2
+  is_short_for:
+  - Jonas
+  - Jonatan
+  - Jonathan
+  lang:
+  - sv
+Jonty:
+  gender_flag: 7
+  is_short_for:
+  - Jonathan
+  lang:
+  - en
+Jonáš:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jonas
+  lang:
+  - cs
+Jonášek:
+  gender_flag: 2
+  is_short_for:
+  - Jonáš
+  lang:
+  - cs
+Jonė:
+  gender_flag: 1
+  lang:
+  - lt
+Jool:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julius
+  lang:
+  - gv
+Jools:
+  gender_flag: 3
+  is_short_for:
+  - Julia
+  - Julian
+  lang:
+  - en
+Joona:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Joonas:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Joonatan:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Joop:
+  lang:
+  - nl
+Jooriina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Georgina
+  lang:
+  - kl
+  origin:
+  - da
+Joorsi:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Joorut:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Joosep:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - et
+Jooseppi:
+  gender_flag: 2
+  lang:
+  - fi
+Joost:
+  gender_flag: 2
+  lang:
+  - nl
+Jopie:
+  gender_flag: 3
+  lang:
+  - nl
+Jordan:
+  gender_flag: 7
+  lang:
+  - ceb
+  - en
+  - fr
+  - nn
+  - oc
+  origin:
+  - en
+  - he
+Jordanes:
+  gender_flag: 2
+  lang:
+  - en
+Jordanès:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jordanes
+  lang:
+  - fr
+Jordi:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - ca
+  - nl
+Jords:
+  gender_flag: 7
+  is_short_for:
+  - Jordan
+  lang:
+  - en
+Jordy:
+  gender_flag: 2
+  is_short_for:
+  - George
+  - Jordan
+  lang:
+  - en
+  - nl
+Jordyn:
+  gender_flag: 7
+  is_a_variant_of:
+  - Jordan
+  lang:
+  - en
+  origin:
+  - he
+Jordynn:
+  gender_flag: 1
+  lang:
+  - en
+Jordán:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jordan
+  lang:
+  - hu
+Jorge:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - ceb
+  - en
+  - es
+  - pt
+  origin:
+  - es
+  - grc
+  - pt
+Jorgelina:
+  gender_flag: 1
+  lang:
+  - es
+Jori:
+  gender_flag: 2
+  lang:
+  - fi
+Jorid:
+  gender_flag: 1
+  lang:
+  - 'no'
+Jorik:
+  gender_flag: 2
+  lang:
+  - nl
+  - sq
+Joris:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - nl
+Jorja:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - grc
+Jorma:
+  gender_flag: 2
+  lang:
+  - fi
+Jorre:
+  gender_flag: 2
+  lang:
+  - nl
+Jorrit:
+  gender_flag: 2
+  lang:
+  - en
+Jorun:
+  gender_flag: 1
+  lang:
+  - 'no'
+Jorunn:
+  gender_flag: 1
+  lang:
+  - 'no'
+Jory:
+  gender_flag: 2
+  lang:
+  - en
+Jos:
+  gender_flag: 2
+  is_short_for:
+  - Joseph
+  lang:
+  - en
+  - nl
+Joscha:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - de
+  origin:
+  - hu
+Joschka:
+  gender_flag: 2
+  lang:
+  - de
+  origin:
+  - hu
+Jose:
+  gender_flag: 3
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - es
+Jose Maria:
+  gender_flag: 2
+  lang:
+  - tl
+  origin:
+  - es
+Josee:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - gv
+Josef:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - cs
+  - da
+  - de
+  - 'no'
+  - sq
+  - sv
+  - tl
+  - yol
+  origin:
+  - es
+  - he
+Josefa:
+  gender_flag: 3
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - es
+  - fj
+  - mg
+  - sn
+Josefien:
+  gender_flag: 1
+  is_equivalent_to:
+  - Josephine
+  lang:
+  - nl
+Josefiina:
+  gender_flag: 1
+  lang:
+  - fi
+Josefin:
+  gender_flag: 1
+  is_equivalent_to:
+  - Josephine
+  lang:
+  - sv
+Josefina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Josephine
+  lang:
+  - es
+  - fo
+  - sv
+Josefine:
+  gender_flag: 1
+  is_a_variant_of:
+  - Josephine
+  lang:
+  - da
+  - de
+  - 'no'
+  - sv
+Josefino:
+  gender_flag: 2
+  lang:
+  - ceb
+Joselin:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jocelyn
+  lang:
+  - en
+  origin:
+  - gem
+Joselito:
+  gender_flag: 2
+  is_short_for:
+  - José
+  lang:
+  - es
+Josella:
+  gender_flag: 1
+  lang:
+  - en
+Joselyn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jocelyn
+  lang:
+  - en
+  origin:
+  - gem
+Josemari:
+  gender_flag: 2
+  is_short_for:
+  - Jose Maria
+  - José María
+  lang:
+  - es
+  - tl
+  origin:
+  - es
+Josep:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - ca
+Josep Maria:
+  gender_flag: 2
+  lang:
+  - ca
+Joseph:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - fr
+  - gv
+  origin:
+  - en
+  - he
+Josepha:
+  gender_flag: 1
+  is_equivalent_to:
+  - Josephine
+  lang:
+  - en
+  - nl
+Josephina:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Josephine:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - nl
+  origin:
+  - fr
+Josephus:
+  gender_flag: 2
+  lang:
+  - en
+Josette:
+  gender_flag: 1
+  is_short_for:
+  - Joséphine
+  lang:
+  - fr
+Josey:
+  gender_flag: 1
+  lang:
+  - en
+Josh:
+  gender_flag: 2
+  is_short_for:
+  - Joshua
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - he
+Joshua:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  - es
+  origin:
+  - en
+  - he
+Josiah:
+  gender_flag: 2
+  lang:
+  - en
+Josian:
+  gender_flag: 1
+  lang:
+  - nl
+Josiane:
+  gender_flag: 1
+  lang:
+  - fr
+Josias:
+  gender_flag: 2
+  is_equivalent_to:
+  - Josiah
+  lang:
+  - en
+  - pt
+Josie:
+  gender_flag: 1
+  is_short_for:
+  - Josephine
+  lang:
+  - en
+  - tl
+  origin:
+  - en
+Josien:
+  gender_flag: 1
+  lang:
+  - nl
+Josina:
+  gender_flag: 1
+  lang:
+  - nl
+Josip:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - sh
+Josipa:
+  gender_flag: 1
+  lang:
+  - sh
+Joslyn:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jocelyn
+  lang:
+  - en
+  origin:
+  - gem
+Joss:
+  gender_flag: 7
+  is_short_for:
+  - Jocelyn
+  - Joseph
+  lang:
+  - en
+Josselin:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jocelyn
+  lang:
+  - fr
+Josseline:
+  gender_flag: 1
+  is_a_variant_of:
+  - Jocelyne
+  lang:
+  - fr
+Jossi:
+  gender_flag: 1
+  lang:
+  - 'no'
+Jossie:
+  gender_flag: 1
+  lang:
+  - 'no'
+Jost:
+  gender_flag: 2
+  lang:
+  - de
+Jostein:
+  gender_flag: 2
+  lang:
+  - 'no'
+Josua:
+  gender_flag: 2
+  lang:
+  - de
+  - sv
+Josuè:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joshua
+  lang:
+  - ca
+  origin:
+  - he
+Josué:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joshua
+  lang:
+  - es
+  - fr
+  - nrf
+  - pt
+  origin:
+  - he
+Josva:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joshua
+  lang:
+  - fo
+Josy:
+  gender_flag: 1
+  is_short_for:
+  - Josephine
+  lang:
+  - en
+Josèp:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - oc
+José:
+  gender_flag: 2
+  is_a_variant_of:
+  - Jose
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - en
+  - es
+  - fr
+  - pt
+  origin:
+  - es
+  - grc
+  - he
+  - la
+José María:
+  gender_flag: 2
+  lang:
+  - es
+Josée:
+  gender_flag: 1
+  lang:
+  - fr
+Joséphine:
+  gender_flag: 1
+  lang:
+  - fr
+  origin:
+  - he
+Joséphène:
+  gender_flag: 1
+  is_equivalent_to:
+  - Josephine
+  lang:
+  - nrf
+Josífek:
+  gender_flag: 2
+  is_short_for:
+  - Josef
+  lang:
+  - cs
+Jouaie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Joy
+  lang:
+  - nrf
+Jouko:
+  gender_flag: 2
+  lang:
+  - fi
+Joumana:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ar
+Jouni:
+  gender_flag: 2
+  lang:
+  - fi
+Jourdaine:
+  gender_flag: 2
+  lang:
+  - en
+Journee:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Journey:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Jovan:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - sh
+Jovani:
+  gender_flag: 2
+  lang:
+  - en
+Jovanni:
+  gender_flag: 2
+  lang:
+  - en
+  - es
+  origin:
+  - es
+  - it
+Jovelyn:
+  gender_flag: 1
+  lang:
+  - ceb
+Jovencio:
+  gender_flag: 2
+  lang:
+  - tl
+  origin:
+  - es
+Jovina:
+  gender_flag: 1
+  lang:
+  - fo
+Jovita:
+  gender_flag: 1
+  lang:
+  - lt
+Jovito:
+  gender_flag: 2
+  lang:
+  - ceb
+  - tl
+  origin:
+  - es
+Jovnna:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - se
+  origin:
+  - 'no'
+  - sv
+Jovon:
+  gender_flag: 1
+  lang:
+  - en
+Jovsset:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - se
+Jowan:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - kw
+Jowita:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jovita
+  lang:
+  - pl
+Joworski:
+  gender_flag: 2
+  lang:
+  - ceb
+Joy:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - tl
+  origin:
+  - en
+Joyce:
+  gender_flag: 1
+  is_a_variant_of:
+  - Joice
+  lang:
+  - en
+  - pt
+  origin:
+  - cel
+Joz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - sq
+Jozef:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - nl
+  - sk
+  - sq
+Jozefinë:
+  gender_flag: 1
+  lang:
+  - sq
+  origin:
+  - fr
+Jozefo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - eo
+  origin:
+  - he
+Jozefína:
+  gender_flag: 1
+  lang:
+  - sk
+Joziah:
+  gender_flag: 2
+  lang:
+  - en
+Jozif:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - sq
+  origin:
+  - he
+Jozo:
+  gender_flag: 2
+  lang:
+  - sh
+Jozua:
+  gender_flag: 2
+  lang:
+  - lv
+Jozy:
+  gender_flag: 1
+  is_short_for:
+  - Josephine
+  lang:
+  - en
+Jozë:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - sq
+João:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - pt
+Joël:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joel
+  lang:
+  - fr
+  - nl
+  origin:
+  - br
+  - he
+Joëlle:
+  gender_flag: 1
+  lang:
+  - fr
+Joĉjo:
+  gender_flag: 2
+  is_short_for:
+  - Johano
+  lang:
+  - eo
+Joško:
+  gender_flag: 2
+  lang:
+  - sh
+Joža:
+  gender_flag: 3
+  is_short_for:
+  - Josef
+  - Josefa
+  lang:
+  - cs
+Jože:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - sl
+Jožef:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - sl
+Jožica:
+  gender_flag: 1
+  lang:
+  - sl
+Jožka:
+  gender_flag: 3
+  is_short_for:
+  - Joža
+  lang:
+  - cs
+Jožo:
+  gender_flag: 2
+  is_short_for:
+  - Jozef
+  lang:
+  - sk
+Jožánek:
+  gender_flag: 2
+  is_short_for:
+  - Joža
+  lang:
+  - cs
+Jo̧o̧n:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - mh
+Joṣua:
+  gender_flag: 2
+  lang:
+  - yo
+Juaanna:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Juaansi:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Juaat:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Juan:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  - Sean
+  lang:
+  - en
+  - es
+  - gv
+  - nci
+  - tl
+  origin:
+  - es
+  - gv
+Juana:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jane
+  - Jean
+  - Joan
+  - Joanna
+  - Joanne
+  lang:
+  - ceb
+  - en
+  - es
+  - tl
+  origin:
+  - es
+  - he
+Juanca:
+  gender_flag: 2
+  lang:
+  - es
+Juanfran:
+  gender_flag: 2
+  lang:
+  - es
+Juanita:
+  gender_flag: 1
+  is_equivalent_to:
+  - Janet
+  - Janey
+  - Jeanie
+  - Jenna
+  - Jenny
+  is_short_for:
+  - Juana
+  lang:
+  - en
+  - es
+  origin:
+  - es
+  - he
+Juanito:
+  gender_flag: 2
+  is_equivalent_to:
+  - Johnny
+  is_short_for:
+  - Juan
+  lang:
+  - es
+Juano:
+  gender_flag: 2
+  lang:
+  - es
+Jubran:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - ar
+Juca:
+  gender_flag: 2
+  is_short_for:
+  - José
+  lang:
+  - pt
+Judah:
+  gender_flag: 2
+  lang:
+  - en
+Judas:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+Judasz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Judas
+  lang:
+  - pl
+  origin:
+  - grc
+  - he
+  - la
+Judayah:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Judd:
+  gender_flag: 2
+  lang:
+  - en
+Jude:
+  gender_flag: 7
+  lang:
+  - en
+Judie:
+  gender_flag: 1
+  is_short_for:
+  - Judith
+  lang:
+  - en
+Judit:
+  gender_flag: 1
+  is_equivalent_to:
+  - Judith
+  lang:
+  - es
+  - fo
+  - hu
+  - 'no'
+  - sv
+Judita:
+  gender_flag: 1
+  is_equivalent_to:
+  - Judith
+  lang:
+  - cs
+  - sk
+Judite:
+  gender_flag: 1
+  is_equivalent_to:
+  - Judith
+  lang:
+  - pt
+Judith:
+  gender_flag: 1
+  is_a_variant_of:
+  - Judit
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fr
+  - 'no'
+  - sv
+  origin:
+  - en
+  - he
+Juditka:
+  gender_flag: 1
+  is_short_for:
+  - Judita
+  lang:
+  - cs
+Judson:
+  gender_flag: 2
+  lang:
+  - en
+Judy:
+  gender_flag: 7
+  is_short_for:
+  - Judith
+  lang:
+  - en
+Judyta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Judith
+  lang:
+  - pl
+Judyth:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - he
+Judæus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - grc
+Judīte:
+  gender_flag: 1
+  lang:
+  - lv
+Juelz:
+  gender_flag: 2
+  lang:
+  - en
+Jugg:
+  gender_flag: 1
+  lang:
+  - en
+Jugomir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Jugoslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Juha:
+  gender_flag: 2
+  lang:
+  - fi
+Juha-Matti:
+  gender_flag: 2
+  lang:
+  - fi
+Juha-Pekka:
+  gender_flag: 2
+  lang:
+  - fi
+Juhan:
+  gender_flag: 2
+  lang:
+  - et
+Juhana:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - fi
+Juhani:
+  gender_flag: 2
+  lang:
+  - fi
+Juho:
+  gender_flag: 2
+  lang:
+  - et
+  - fi
+Juhán:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - se
+Juião:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julian
+  lang:
+  - roa-opt
+Jukk:
+  gender_flag: 2
+  lang:
+  - et
+Jukka:
+  gender_flag: 2
+  lang:
+  - fi
+Jukka-Pekka:
+  gender_flag: 2
+  lang:
+  - fi
+Jukku:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Jul:
+  gender_flag: 3
+  lang:
+  - da
+  - en
+Jula:
+  gender_flag: 3
+  is_short_for:
+  - Julie
+  - Julius
+  lang:
+  - cs
+Jule:
+  gender_flag: 1
+  lang:
+  - de
+Julek:
+  gender_flag: 2
+  is_short_for:
+  - Jula
+  - Juliusz
+  lang:
+  - cs
+  - pl
+Julen:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julian
+  lang:
+  - eu
+Jules:
+  gender_flag: 7
+  is_equivalent_to:
+  - Julius
+  lang:
+  - en
+  - fr
+  - nrf
+  origin:
+  - fr
+Juletta:
+  gender_flag: 1
+  lang:
+  - en
+Juley:
+  gender_flag: 1
+  is_short_for:
+  - Julia
+  lang:
+  - en
+Juli:
+  gender_flag: 3
+  is_equivalent_to:
+  - Julius
+  lang:
+  - ca
+  - hu
+  origin:
+  - la
+Julia:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - en
+  - es
+  - fi
+  - fo
+  - fr
+  - nl
+  - 'no'
+  - pl
+  - sv
+  origin:
+  - la
+Juliaana:
+  gender_flag: 1
+  lang:
+  - fi
+Julian:
+  gender_flag: 7
+  is_a_variant_of:
+  - Gillian
+  lang:
+  - ceb
+  - da
+  - de
+  - en
+  - fo
+  - fr
+  - 'no'
+  - pl
+  - tl
+  origin:
+  - en
+  - es
+  - la
+Juliana:
+  gender_flag: 1
+  lang:
+  - en
+  - es
+  - fi
+  - nl
+  - pt
+  - ro
+  - sk
+  origin:
+  - la
+Juliane:
+  gender_flag: 1
+  lang:
+  - da
+  - de
+  - fr
+  origin:
+  - la
+Juliann:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Julianna:
+  gender_flag: 1
+  is_a_variant_of:
+  - Juliana
+  lang:
+  - en
+  - fo
+  origin:
+  - la
+Julianne:
+  gender_flag: 1
+  lang:
+  - en
+  - fr
+  origin:
+  - la
+Juliano:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julian
+  lang:
+  - pt
+Julianus:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Julie:
+  gender_flag: 1
+  is_equivalent_to:
+  - Julia
+  is_short_for:
+  - Julia
+  lang:
+  - ceb
+  - cs
+  - da
+  - en
+  - fr
+  - 'no'
+  origin:
+  - fr
+  - la
+Julie-Anne:
+  gender_flag: 1
+  lang:
+  - fr
+Julien:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julian
+  lang:
+  - en
+  - fr
+  origin:
+  - fr
+Julienne:
+  gender_flag: 1
+  lang:
+  - fr
+Juliet:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - la
+Julieta:
+  gender_flag: 1
+  is_equivalent_to:
+  - Juliet
+  lang:
+  - es
+  - pt
+Juliett:
+  gender_flag: 1
+  is_a_variant_of:
+  - Juliet
+  lang:
+  - en
+  origin:
+  - la
+Julietta:
+  gender_flag: 1
+  lang:
+  - en
+Juliette:
+  gender_flag: 1
+  is_short_for:
+  - Julie
+  lang:
+  - en
+  - fr
+  - nrf
+  origin:
+  - fr
+Julija:
+  gender_flag: 1
+  lang:
+  - lt
+Juling:
+  gender_flag: 1
+  lang:
+  - ceb
+Julinka:
+  gender_flag: 1
+  is_short_for:
+  - Julie
+  lang:
+  - cs
+Julio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julius
+  lang:
+  - es
+  origin:
+  - la
+Julious:
+  gender_flag: 2
+  lang:
+  - en
+Juliska:
+  gender_flag: 1
+  lang:
+  - hu
+Julissa:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - es
+Julita:
+  gender_flag: 1
+  is_equivalent_to:
+  - Juliet
+  lang:
+  - pl
+Julius:
+  gender_flag: 2
+  lang:
+  - ceb
+  - cs
+  - da
+  - de
+  - en
+  - et
+  - fi
+  - fo
+  - lt
+  - sv
+  origin:
+  - en
+  - la
+Juliusz:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julius
+  lang:
+  - pl
+Julià:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julian
+  lang:
+  - ca
+Julián:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julian
+  lang:
+  - es
+Juliána:
+  gender_flag: 1
+  lang:
+  - sk
+Julião:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julian
+  lang:
+  - pt
+Julka:
+  gender_flag: 1
+  is_short_for:
+  - Julia
+  - Julie
+  lang:
+  - cs
+  - pl
+Julkipli:
+  gender_flag: 2
+  lang:
+  - ceb
+Julle:
+  gender_flag: 2
+  is_short_for:
+  - Joel
+  - Julius
+  lang:
+  - sv
+Julo:
+  gender_flag: 2
+  is_short_for:
+  - Július
+  lang:
+  - sk
+Julot:
+  gender_flag: 2
+  is_short_for:
+  - Jules
+  lang:
+  - nrf
+July:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Jumadurdy:
+  gender_flag: 2
+  lang:
+  - tk
+Jummai:
+  gender_flag: 1
+  lang:
+  - ha
+Jun:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+  - ja
+Junard:
+  gender_flag: 2
+  lang:
+  - ceb
+  - tl
+Junas:
+  gender_flag: 2
+  lang:
+  - ceb
+June:
+  gender_flag: 3
+  lang:
+  - da
+  - en
+  - 'no'
+  - tl
+  origin:
+  - en
+Junel:
+  gender_flag: 2
+  lang:
+  - ceb
+Junelito:
+  gender_flag: 2
+  lang:
+  - ceb
+Juni:
+  gender_flag: 1
+  lang:
+  - 'no'
+Junichi:
+  gender_flag: 2
+  lang:
+  - en
+  - tl
+  origin:
+  - ja
+Junie:
+  gender_flag: 1
+  lang:
+  - en
+Juninho:
+  gender_flag: 2
+  lang:
+  - pt
+Junior:
+  gender_flag: 2
+  lang:
+  - ceb
+  - en
+  origin:
+  - en
+Junious:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - la
+Juniper:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - en
+Junjun:
+  gender_flag: 2
+  lang:
+  - ceb
+Junko:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - ja
+Junmar:
+  gender_flag: 2
+  lang:
+  - ceb
+  origin:
+  - ceb
+Juntinus:
+  gender_flag: 2
+  lang:
+  - la
+Juozapas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - lt
+Juozas:
+  gender_flag: 2
+  lang:
+  - lt
+Jupira:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Jupp:
+  gender_flag: 2
+  lang:
+  - de
+Jura:
+  gender_flag: 2
+  is_short_for:
+  - Jiří
+  lang:
+  - cs
+  - sh
+Juraciára:
+  gender_flag: 1
+  lang:
+  - pt
+Juraj:
+  gender_flag: 2
+  lang:
+  - sh
+  - sk
+Jurandir:
+  gender_flag: 2
+  lang:
+  - pt
+  origin:
+  - tpw
+Jurek:
+  gender_flag: 2
+  is_short_for:
+  - Jerzy
+  lang:
+  - de
+  - pl
+Jurema:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Jurga:
+  gender_flag: 1
+  lang:
+  - lt
+Jurgis:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - lt
+Jurgita:
+  gender_flag: 1
+  lang:
+  - lt
+Juri: {}
+Jurica:
+  gender_flag: 2
+  lang:
+  - sh
+Jurij:
+  gender_flag: 2
+  lang:
+  - sl
+Jurijs: {}
+Jurijus: {}
+Juris:
+  gender_flag: 2
+  lang:
+  - lv
+Jurislav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Jurita:
+  gender_flag: 1
+  lang:
+  - ceb
+Juro:
+  gender_flag: 2
+  is_short_for:
+  - Juraj
+  lang:
+  - sk
+Juroslav:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Jurre:
+  gender_flag: 2
+  lang:
+  - nl
+Juruś:
+  gender_flag: 2
+  is_short_for:
+  - Jerzy
+  lang:
+  - pl
+Jurģis:
+  gender_flag: 2
+  lang:
+  - lv
+  origin:
+  - la
+Juscelino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jocelyn
+  lang:
+  - pt
+Jusmir:
+  gender_flag: 2
+  lang:
+  - en
+  - sh
+  origin:
+  - sla
+Juss:
+  gender_flag: 2
+  lang:
+  - et
+Jussara:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Jussi:
+  gender_flag: 2
+  lang:
+  - fi
+Jussie:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - la
+Just:
+  gender_flag: 2
+  is_equivalent_to:
+  - Justus
+  lang:
+  - da
+  - fr
+Justa:
+  gender_flag: 1
+  is_short_for:
+  - Justína
+  - Justýna
+  lang:
+  - cs
+  - fo
+  - sk
+Justas:
+  gender_flag: 2
+  lang:
+  - lt
+Justi:
+  gender_flag: 2
+  lang:
+  - fo
+Justice:
+  gender_flag: 7
+  lang:
+  - en
+  origin:
+  - en
+Justiina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Justine
+  lang:
+  - fi
+Justin:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  - fr
+  - sh
+  origin:
+  - la
+Justina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Justine
+  lang:
+  - ca
+  - en
+  - lt
+  - pt
+  - sv
+Justinas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Justin
+  lang:
+  - lt
+Justine:
+  gender_flag: 1
+  lang:
+  - ceb
+  - en
+  - fr
+  origin:
+  - en
+  - fr
+  - la
+Justiniano:
+  gender_flag: 2
+  lang:
+  - es
+Justino:
+  gender_flag: 2
+  is_equivalent_to:
+  - Justin
+  lang:
+  - pt
+Justitia:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - la
+Justo:
+  gender_flag: 2
+  is_equivalent_to:
+  - Justus
+  lang:
+  - es
+  - pt
+Justus:
+  gender_flag: 2
+  lang:
+  - de
+  - en
+  - fi
+  origin:
+  - la
+Justyn:
+  gender_flag: 2
+  is_a_variant_of:
+  - Justin
+  is_equivalent_to:
+  - Justin
+  lang:
+  - en
+  - pl
+Justyna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Justine
+  lang:
+  - pl
+Justín:
+  gender_flag: 2
+  is_equivalent_to:
+  - Justin
+  lang:
+  - es
+  origin:
+  - la
+Justína:
+  gender_flag: 1
+  lang:
+  - sk
+Justýna:
+  gender_flag: 1
+  is_equivalent_to:
+  - Justine
+  lang:
+  - cs
+Justýnka:
+  gender_flag: 1
+  is_short_for:
+  - Justýna
+  lang:
+  - cs
+Justīne:
+  gender_flag: 1
+  lang:
+  - lv
+Jusuf:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - sq
+Juta:
+  gender_flag: 1
+  lang:
+  - et
+  - lv
+Jutta:
+  gender_flag: 1
+  lang:
+  - de
+  - fi
+  - fo
+Juul:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - da
+  - 'no'
+Juuli:
+  gender_flag: 1
+  is_a_variant_of:
+  - Julia
+  lang:
+  - et
+  - fi
+  origin:
+  - la
+Juulia:
+  gender_flag: 1
+  lang:
+  - fi
+  origin:
+  - la
+Juulika:
+  gender_flag: 1
+  is_a_variant_of:
+  - Julia
+  lang:
+  - et
+  origin:
+  - la
+Juulut:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Juuna:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Juuso:
+  gender_flag: 2
+  lang:
+  - fi
+Juvenal:
+  gender_flag: 2
+  lang:
+  - en
+  - pt
+  origin:
+  - la
+Juza:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - wym
+Juât:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Juãna:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Juãnse:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Juçara:
+  gender_flag: 1
+  lang:
+  - pt
+  origin:
+  - tpw
+Juří:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - zlw-ocs
+Jynrek:
+  gender_flag: 2
+  is_equivalent_to:
+  - Andrew
+  lang:
+  - wym
+Jyothis:
+  gender_flag: 2
+  lang:
+  - en
+  origin:
+  - sa
+Jyotis:
+  gender_flag: 1
+  lang:
+  - en
+Jyotsna:
+  gender_flag: 1
+  lang:
+  - en
+  origin:
+  - sa
+Jyri:
+  gender_flag: 2
+  is_equivalent_to:
+  - Yuri
+  lang:
+  - fi
+  - izh
+Jyrki:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - fi
+  - izh
+Jytte:
+  gender_flag: 1
+  lang:
+  - da
+Jáan:
+  gender_flag: 2
+  lang:
+  - nv
+Jáchym:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joachim
+  lang:
+  - cs
+  origin:
+  - he
+Jáhkot:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  - James
+  lang:
+  - se
+Jája:
+  gender_flag: 3
+  is_short_for:
+  - Jarmila
+  - Jaroslav
+  - Jaroslava
+  lang:
+  - cs
+Jáko:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Jákup:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  - James
+  lang:
+  - fo
+Ján:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - sk
+János:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - hu
+Jára:
+  gender_flag: 3
+  is_short_for:
+  - Jarmila
+  - Jaromír
+  - Jaroslav
+  - Jaroslava
+  lang:
+  - cs
+Játgeir:
+  gender_flag: 2
+  is_equivalent_to:
+  - Edgar
+  lang:
+  - is
+Játmundur:
+  gender_flag: 2
+  lang:
+  - fo
+Játvarðr:
+  gender_flag: 2
+  lang:
+  - non
+Játvarður:
+  gender_flag: 2
+  lang:
+  - is
+Jázmin:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jasmine
+  lang:
+  - hu
+Jâcob:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jacob
+  lang:
+  - nrf
+Jâja:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Jâko:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Jânotte:
+  gender_flag: 1
+  lang:
+  - nrf
+Jâosé:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - nrf
+Jâoséphin:
+  gender_flag: 2
+  is_short_for:
+  - Jâosé
+  lang:
+  - nrf
+Jão:
+  gender_flag: 2
+  is_short_for:
+  - João
+  lang:
+  - pt
+Jãpile:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Jååǥǥar:
+  gender_flag: 2
+  lang:
+  - sms
+Jénîn:
+  gender_flag: 1
+  is_short_for:
+  - Jeanne
+  lang:
+  - nrf
+Jérémie:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jeremiah
+  - Jeremy
+  lang:
+  - fr
+Jérémy:
+  gender_flag: 2
+  lang:
+  - fr
+Jérôme:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jerome
+  lang:
+  - fr
+Jéssica:
+  gender_flag: 1
+  is_equivalent_to:
+  - Jessica
+  lang:
+  - pt
+  origin:
+  - en
+Jéňa:
+  gender_flag: 2
+  is_short_for:
+  - Jan
+  lang:
+  - cs
+Jíra:
+  gender_flag: 2
+  is_short_for:
+  - Jiří
+  lang:
+  - cs
+Jířa:
+  gender_flag: 1
+  is_short_for:
+  - Jiřina
+  lang:
+  - cs
+Jíťa:
+  gender_flag: 1
+  is_short_for:
+  - Jitka
+  lang:
+  - cs
+Jînmîn:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jimmy
+  is_short_for:
+  - Jimce
+  lang:
+  - nrf
+Jó:
+  gender_flag: 2
+  lang:
+  - gmq-jmk
+Jóakim:
+  gender_flag: 2
+  lang:
+  - is
+Jóal:
+  gender_flag: 2
+  lang:
+  - fo
+Jóan:
+  gender_flag: 2
+  lang:
+  - fo
+Jóanes:
+  gender_flag: 2
+  lang:
+  - fo
+Jóanis:
+  gender_flag: 2
+  lang:
+  - fo
+Jóanna:
+  gender_flag: 1
+  lang:
+  - fo
+Jóannes:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - fo
+Jóannis:
+  gender_flag: 2
+  lang:
+  - fo
+Jóas:
+  gender_flag: 2
+  lang:
+  - fo
+Jódis:
+  gender_flag: 1
+  lang:
+  - fo
+Jódís:
+  gender_flag: 1
+  lang:
+  - is
+Jóel:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Jófríð:
+  gender_flag: 1
+  lang:
+  - fo
+Jófríður:
+  gender_flag: 2
+  lang:
+  - fo
+Jógvan:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - fo
+Jóhan:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - fo
+Jóhann:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - fo
+  - is
+Jóhanna:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+Jóhannes:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Jóhannesína:
+  gender_flag: 1
+  lang:
+  - is
+Jóhannis:
+  gender_flag: 2
+  lang:
+  - fo
+Jóhannus:
+  gender_flag: 2
+  lang:
+  - fo
+Jóhild:
+  gender_flag: 1
+  lang:
+  - fo
+Jói:
+  gender_flag: 2
+  lang:
+  - is
+Jón:
+  gender_flag: 2
+  is_equivalent_to:
+  - John
+  lang:
+  - fo
+  - is
+  - li
+Jóna:
+  gender_flag: 1
+  lang:
+  - fo
+Jónar:
+  gender_flag: 2
+  lang:
+  - fo
+Jónas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jonah
+  lang:
+  - fo
+  - is
+Jónasína:
+  gender_flag: 1
+  lang:
+  - is
+Jónatan:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Jónatas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jonathan
+  lang:
+  - pt
+Jónbjørg:
+  gender_flag: 1
+  lang:
+  - fo
+Jóndís:
+  gender_flag: 1
+  lang:
+  - is
+Jónfinnur:
+  gender_flag: 2
+  lang:
+  - fo
+Jónfríð:
+  gender_flag: 1
+  lang:
+  - fo
+Jóngerð:
+  gender_flag: 1
+  lang:
+  - fo
+Jónhard:
+  gender_flag: 2
+  lang:
+  - fo
+Jónheiður:
+  gender_flag: 1
+  lang:
+  - is
+Jónheðin:
+  gender_flag: 2
+  lang:
+  - fo
+Jónhild:
+  gender_flag: 1
+  lang:
+  - fo
+Jónhildur:
+  gender_flag: 1
+  lang:
+  - is
+Jóni:
+  gender_flag: 2
+  lang:
+  - fo
+Jónleivur:
+  gender_flag: 2
+  lang:
+  - fo
+Jónleyg:
+  gender_flag: 1
+  lang:
+  - fo
+Jónmundur:
+  gender_flag: 2
+  lang:
+  - is
+Jónrið:
+  gender_flag: 1
+  lang:
+  - fo
+Jónstein:
+  gender_flag: 2
+  lang:
+  - fo
+Jónsvein:
+  gender_flag: 2
+  lang:
+  - fo
+Jónveig:
+  gender_flag: 1
+  lang:
+  - fo
+Jónvá:
+  gender_flag: 1
+  lang:
+  - fo
+Jónvár:
+  gender_flag: 1
+  lang:
+  - fo
+Jónvør:
+  gender_flag: 1
+  lang:
+  - fo
+Jónás:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jonah
+  lang:
+  - hu
+Jónína:
+  gender_flag: 1
+  lang:
+  - is
+Jóný:
+  gender_flag: 1
+  lang:
+  - is
+Jórunn:
+  gender_flag: 1
+  lang:
+  - fo
+  - is
+  - non
+  origin:
+  - non
+Jósebína:
+  gender_flag: 1
+  lang:
+  - is
+Jósef:
+  gender_flag: 2
+  lang:
+  - fo
+  - is
+Jósefína:
+  gender_flag: 1
+  lang:
+  - is
+Jóska:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joe
+  is_short_for:
+  - József
+  lang:
+  - hu
+Jóstein:
+  gender_flag: 2
+  lang:
+  - fo
+Jósteinn:
+  gender_flag: 2
+  lang:
+  - is
+Jósup:
+  gender_flag: 2
+  lang:
+  - fo
+Jósvein:
+  gender_flag: 2
+  lang:
+  - fo
+Jóvør:
+  gender_flag: 1
+  lang:
+  - fo
+Józef:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - pl
+  origin:
+  - grc
+  - he
+  - la
+Józefina:
+  gender_flag: 1
+  is_equivalent_to:
+  - Josephine
+  lang:
+  - pl
+Józek:
+  gender_flag: 2
+  is_short_for:
+  - Józef
+  lang:
+  - pl
+Józsa:
+  gender_flag: 3
+  is_short_for:
+  - József
+  lang:
+  - hu
+József:
+  gender_flag: 2
+  is_equivalent_to:
+  - Joseph
+  lang:
+  - hu
+Józsi:
+  gender_flag: 2
+  is_short_for:
+  - József
+  lang:
+  - hu
+Jô:
+  gender_flag: 3
+  is_short_for:
+  - Joana
+  - José
+  - João
+  lang:
+  - pt
+Jônas:
+  gender_flag: 2
+  is_equivalent_to:
+  - Jonah
+  - Jonas
+  lang:
+  - nrf
+Jôrse:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Jôrut:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Jôrîna:
+  gender_flag: 1
+  lang:
+  - kl
+  origin:
+  - da
+Jöns:
+  gender_flag: 2
+  lang:
+  - sv
+Jöran:
+  gender_flag: 2
+  is_a_variant_of:
+  - Göran
+  lang:
+  - sv
+Jörg:
+  gender_flag: 2
+  is_a_variant_of:
+  - Georg
+  lang:
+  - de
+Jörgen:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - is
+  - sv
+  origin:
+  - da
+Jörn:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - de
+  origin:
+  - da
+Jörundur:
+  gender_flag: 2
+  lang:
+  - is
+Jörundína:
+  gender_flag: 1
+  lang:
+  - is
+Jøkil:
+  gender_flag: 2
+  lang:
+  - fo
+Jøkul:
+  gender_flag: 2
+  lang:
+  - fo
+Jørgen:
+  gender_flag: 2
+  lang:
+  - da
+  - 'no'
+Jørgine:
+  gender_flag: 1
+  lang:
+  - da
+Jørgun:
+  gender_flag: 2
+  lang:
+  - fo
+Jørmundur:
+  gender_flag: 2
+  lang:
+  - fo
+Jørn:
+  gender_flag: 2
+  lang:
+  - da
+  - 'no'
+Jørundur:
+  gender_flag: 2
+  lang:
+  - fo
+Júdit:
+  gender_flag: 1
+  lang:
+  - is
+Júko:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Júlia:
+  gender_flag: 1
+  is_equivalent_to:
+  - Julia
+  lang:
+  - ca
+  - fo
+  - hu
+  - pt
+  - sk
+  origin:
+  - la
+Júlian:
+  gender_flag: 2
+  lang:
+  - fo
+Júlio:
+  gender_flag: 2
+  is_equivalent_to:
+  - Julius
+  lang:
+  - pt
+  origin:
+  - la
+Július:
+  gender_flag: 2
+  lang:
+  - fo
+  - sk
+Júlía:
+  gender_flag: 1
+  is_equivalent_to:
+  - Julia
+  lang:
+  - is
+Júlíana:
+  gender_flag: 1
+  lang:
+  - is
+Júlína:
+  gender_flag: 1
+  lang:
+  - is
+Júlíus:
+  gender_flag: 2
+  lang:
+  - is
+Júrek:
+  gender_flag: 2
+  lang:
+  - is
+Júst:
+  gender_flag: 2
+  lang:
+  - fo
+Jústa:
+  gender_flag: 1
+  lang:
+  - fo
+Jústi:
+  gender_flag: 2
+  lang:
+  - fo
+Jústines:
+  gender_flag: 2
+  lang:
+  - fo
+Jústinis:
+  gender_flag: 2
+  lang:
+  - fo
+Jústinus:
+  gender_flag: 2
+  lang:
+  - fo
+Jútta:
+  gender_flag: 1
+  lang:
+  - fo
+Jûlut:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Jûna:
+  gender_flag: 2
+  lang:
+  - kl
+  origin:
+  - da
+Jürgen:
+  gender_flag: 2
+  lang:
+  - de
+  - et
+  origin:
+  - nds
+Jüri:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - et
+Jürjo:
+  gender_flag: 2
+  lang:
+  - et
+Jürnas:
+  gender_flag: 2
+  is_equivalent_to:
+  - George
+  lang:
+  - et
+Jānis:
+  gender_flag: 2
+  lang:
+  - lv
+Jāzeps:
+  gender_flag: 2
+  lang:
+  - lv
+Jēkabs:
+  gender_flag: 2
+  lang:
+  - lv
+Jędrzej:
+  gender_flag: 2
+  lang:
+  - pl
+Jūlija:
+  gender_flag: 1
+  lang:
+  - lv
+Jūlijs:
+  gender_flag: 2
+  lang:
+  - lv
+Jūratė:
+  gender_flag: 1
+  lang:
+  - lt
+Jẹbutu:
+  gender_flag: 7
+  lang:
+  - yo
+jacob:
+  gender_flag: 2
+  lang:
+  - dum
+jbšꜣ:
+  gender_flag: 2
+  lang:
+  - egy
+jdw:
+  gender_flag: 2
+  lang:
+  - egy
+jj-m-ḥtp:
+  gender_flag: 2
+  lang:
+  - egy
+jkꜣw:
+  lang:
+  - egy
+jkꜣw-ḥr:
+  lang:
+  - egy
+jmn-jr-dj-s:
+  gender_flag: 2
+  lang:
+  - egx-dem
+jmn-m-ḥꜣt:
+  lang:
+  - egy
+jmn-ms:
+  gender_flag: 2
+  lang:
+  - egy
+jmn-nḫt:
+  gender_flag: 2
+  lang:
+  - egy
+jmn-ḥtp:
+  gender_flag: 2
+  lang:
+  - egy
+jn-jt.f:
+  gender_flag: 2
+  lang:
+  - egy
+jnj:
+  lang:
+  - egy
+jntjrwywꜣšꜣ:
+  gender_flag: 2
+  lang:
+  - egy
+  origin:
+  - peo
+jrsjrnꜣt:
+  gender_flag: 1
+  lang:
+  - egy
+  origin:
+  - grc
+jrwrꜣ:
+  gender_flag: 2
+  lang:
+  - egy
+jsry:
+  gender_flag: 2
+  lang:
+  - egy
+jtwnj-rꜥꜣ-yh:
+  gender_flag: 2
+  lang:
+  - egy
+jw-snb:
+  gender_flag: 2
+  lang:
+  - egy
+jwwj:
+  gender_flag: 1
+  lang:
+  - egy
+jzj:
+  lang:
+  - egy
+jzzj:
+  lang:
+  - egy
+jꜥḥ-ms:
+  gender_flag: 3
+  lang:
+  - egy
+jꜥḥ-ḥtp:
+  gender_flag: 1
+  lang:
+  - egy

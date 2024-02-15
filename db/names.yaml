@@ -1,0 +1,22 @@
+tables:
+  names:
+  - id
+  - name
+  - gender_flag
+  languages:
+  - name_id
+  - language
+  origins:
+  - name_id
+  - language
+  relationships:
+  - name_id
+  - relationship
+  - name_id2
+
+types:
+  id: int
+  name_id: int
+  name_id2: int
+  gender_flag: int
+  relationship: Relationship
