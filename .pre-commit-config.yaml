@@ -16,7 +16,7 @@ repos:
   - id: double-quote-string-fixer
   - id: requirements-txt-fixer
   - id: check-xml
-  rev: v5.0.0
+  rev: v6.0.0
 - repo: https://github.com/codespell-project/codespell
   hooks:
   - id: codespell
@@ -27,7 +27,7 @@ repos:
       (?x)^(
       data/.*\.yaml
       )$
-  rev: v2.4.1
+  rev: v2.4.2
 - repo: https://github.com/hhatto/autopep8
   hooks:
   - id: autopep8
@@ -35,7 +35,7 @@ repos:
 - repo: https://github.com/PyCQA/flake8
   hooks:
   - id: flake8
-  rev: 7.2.0
+  rev: 7.3.0
 - repo: https://github.com/adrienverge/yamllint
   hooks:
   - id: yamllint
@@ -43,6 +43,6 @@ repos:
     - --format
     - parsable
     - --strict
-  rev: v1.37.0
+  rev: v1.38.0
 ci:
   autoupdate_schedule: quarterly
